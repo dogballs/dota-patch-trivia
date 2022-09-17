@@ -11,6 +11,7 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
 
   for (let i = 0; i < 5; i++) {
     if (tooClose(item, played)) {
+      console.log('retry');
       item = nonPlayed[Math.floor(Math.random() * nonPlayed.length)];
     } else {
       break;
@@ -21,12 +22,16 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
 }
 
 function tooClose(item: Item, played: Item[]) {
-  return false;
+  let distance = played.length <= 5 ? 0.5 : 0.2;
+  if (played.length > 10) distance = 0.1;
 
-  // let distance = played.length < 10 ? 0.3 : 0.1;
-  // if (played.length < 11) distance = 110 - 10 * played.length;
+  const hasCloseItems = played.some((p) => {
+    const playedVersionNumber = parseInt(p.version, 10);
+    const itemVersionNumber = parseInt(item.version, 10);
+    return Math.abs(playedVersionNumber - itemVersionNumber) < distance;
+  });
 
-  // return played.some((p) => Math.abs(item.year - p.year) < distance);
+  return hasCloseItems;
 }
 
 export function checkCorrect(
