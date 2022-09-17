@@ -29,9 +29,9 @@ export default function ItemCard(props: Props) {
     config: { mass: 5, tension: 750, friction: 100 },
   });
 
-  let bottomStr = 'changed in';
+  let bottomStr = 'changed in patch';
   if (item.category === 'new-hero' || item.category === 'new-item') {
-    bottomStr = 'added in';
+    bottomStr = 'added in patch';
   }
   if ('played' in item) {
     bottomStr = item.version;

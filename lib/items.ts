@@ -11,7 +11,6 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
 
   for (let i = 0; i < 5; i++) {
     if (tooClose(item, played)) {
-      console.log('retry');
       item = nonPlayed[Math.floor(Math.random() * nonPlayed.length)];
     } else {
       break;
