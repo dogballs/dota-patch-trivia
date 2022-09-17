@@ -91,7 +91,7 @@ export function flattenImageSrc(imageSrc: string) {
 
 export function createImageUrl(imageSrc: string) {
   const flatName = flattenImageSrc(imageSrc);
-  return `/fetched/${flatName}`;
+  return `fetched/${flatName}`;
 }
 
 export function preloadImage(

@@ -16,7 +16,7 @@ export default function Game() {
 
   React.useEffect(() => {
     const fetchGameData = async () => {
-      const res = await axios.get<Item[]>('/combined.json');
+      const res = await axios.get<Item[]>('combined.json');
       const responseItems = res.data;
       const filteredItems = responseItems.filter((item) => {
         return !badCards.includes(item.id);
