@@ -1,6 +1,6 @@
 # Dota 2 Trivia
 
-This is the source code for the web app at https://wikitrivia.tomjwatson.com.
+This is the source code for the web app at https://dogballs.github.io/dota-patch-trivia/.
 
 Inspired by https://github.com/tom-james-watson/wikitrivia
 
