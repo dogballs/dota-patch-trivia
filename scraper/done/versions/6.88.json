@@ -1,0 +1,666 @@
+[
+  {
+    "id": "6.88_hero_Abaddon",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Abaddon",
+    "descriptionHtml": "<ul><li><a>Mist Coil</a>cast point reduced from 0.452 to 0.35</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Abaddon_Large.png/80px-Abaddon_Large.png"
+  },
+  {
+    "id": "6.88_hero_Anti-Mage",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Anti-Mage",
+    "descriptionHtml": "<ul><li><a>Mana Void</a>ministun duration increased from 0.15 to 0.3</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/70/Anti-Mage_Large.png/80px-Anti-Mage_Large.png"
+  },
+  {
+    "id": "6.88_hero_Arc-Warden",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Arc Warden",
+    "descriptionHtml": "<ul><li><a>Flux</a>cooldown reduced from 20 to 18</li><li><a>Tempest Double</a>duration increased from 12/13/14 to 12/14/16</li><li>Tempest Double cooldown reduced from 50/40/30 to 40/35/30</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Arc_Warden_Large.png/80px-Arc_Warden_Large.png"
+  },
+  {
+    "id": "6.88_hero_Bane",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Bane",
+    "descriptionHtml": "<ul><li><a>Brain Sap</a>cooldown reduced from 14 to 14/13/12/11</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/72/Bane_Large.png/80px-Bane_Large.png"
+  },
+  {
+    "id": "6.88_hero_Beastmaster",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Beastmaster",
+    "descriptionHtml": "<ul><li><a>Primal Roar</a>damage reduced from 200/250/300 to 150/225/300</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/19/Beastmaster_Large.png/80px-Beastmaster_Large.png"
+  },
+  {
+    "id": "6.88_hero_Bloodseeker",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Bloodseeker",
+    "descriptionHtml": "<ul><li><a>Rupture</a>damage increased from 20/40/60% to 26/42/60%</li><li><a>Blood Rite</a>cooldown reduced from 30/25/20/15 to 25/21/17/13</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a6/Bloodseeker_Large.png/80px-Bloodseeker_Large.png"
+  },
+  {
+    "id": "6.88_hero_Bounty-Hunter",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Bounty Hunter",
+    "descriptionHtml": "<ul><li><a>Track</a>self gold reduced from 170/260/350 to 150/250/350</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/86/Bounty_Hunter_Large.png/80px-Bounty_Hunter_Large.png"
+  },
+  {
+    "id": "6.88_hero_Brewmaster",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Brewmaster",
+    "descriptionHtml": "<ul><li>Brewmaster&apos;s<a>Earth</a>attack range increased from 128 to 150</li><li>Brewmaster&apos;s<a>Fire</a>attack increased range from 128 to 150</li><li>Brewmaster&apos;s Fire armor increased from 0 to 0/3/6</li><li><a>Primal Split</a>duration increased from 15/17/19 to 16/18/20</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0b/Brewmaster_Large.png/80px-Brewmaster_Large.png"
+  },
+  {
+    "id": "6.88_hero_Centaur-Warrunner",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Centaur Warrunner",
+    "descriptionHtml": "<ul><li><a>Double Edge</a>cooldown reduced from 6 to 5</li><li>Centaur Strength gain increased from 3.8 to 4.0</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Centaur_Warrunner_Large.png/80px-Centaur_Warrunner_Large.png"
+  },
+  {
+    "id": "6.88_hero_Chaos-Knight",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Chaos Knight",
+    "descriptionHtml": "<ul><li><a>Phantasm</a>cooldown reduced from 140 to 130</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/46/Chaos_Knight_Large.png/80px-Chaos_Knight_Large.png"
+  },
+  {
+    "id": "6.88_hero_Clinkz",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Clinkz",
+    "descriptionHtml": "<ul><li><a>Attack range</a>increased from 630 to 640</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4d/Clinkz_Large.png/80px-Clinkz_Large.png"
+  },
+  {
+    "id": "6.88_hero_Clockwerk",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Clockwerk",
+    "descriptionHtml": "<ul><li><a>Rocket Flare</a>radius increased from 575 to 600</li><li><a>Power Cogs</a>cast point improved from 0.3 to 0.2</li><li>Power Cogs radius increased from 200 to 215</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b8/Clockwerk_Large.png/80px-Clockwerk_Large.png"
+  },
+  {
+    "id": "6.88_hero_Crystal-Maiden",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Crystal Maiden",
+    "descriptionHtml": "<ul><li><a>Crystal Nova</a>radius increased from 400 to 425</li><li><a>Frostbite</a>cast range increased from 500 to 525</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dc/Crystal_Maiden_Large.png/80px-Crystal_Maiden_Large.png"
+  },
+  {
+    "id": "6.88_hero_Death-Prophet",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Death Prophet",
+    "descriptionHtml": "<ul><li><a>Spirit Siphon</a>base health drain reduced from 25 to 16</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/80/Death_Prophet_Large.png/80px-Death_Prophet_Large.png"
+  },
+  {
+    "id": "6.88_hero_Disruptor",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Disruptor",
+    "descriptionHtml": "<ul><li><a>Static Storm</a>silence no longer lingers for 0.5 seconds after the duration is over</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b7/Disruptor_Large.png/80px-Disruptor_Large.png"
+  },
+  {
+    "id": "6.88_hero_Doom",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Doom",
+    "descriptionHtml": "<ul><li><a>Doom</a>cooldown increased from 140 to 145</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/19/Doom_Large.png/80px-Doom_Large.png"
+  },
+  {
+    "id": "6.88_hero_Drow-Ranger",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Drow Ranger",
+    "descriptionHtml": "<ul><li><a>Turn rate</a>improved from 0.6 to 0.7</li><li><a>Frost Arrows</a>slow increased from 15/30/45/60% to 16/32/48/64%</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7e/Drow_Ranger_Large.png/80px-Drow_Ranger_Large.png"
+  },
+  {
+    "id": "6.88_hero_Earthshaker",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Earthshaker",
+    "descriptionHtml": "<ul><li><a>Echo Slam</a>radius increased from 575 to 600</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/8f/Earthshaker_Large.png/80px-Earthshaker_Large.png"
+  },
+  {
+    "id": "6.88_hero_Enigma",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Enigma",
+    "descriptionHtml": "<ul><li><a>Black Hole</a>damage type from Magical to Pure and pierces Spell Immunity</li><li>Black Hole damage reduced from 55/110/165 to 50/100/150</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/43/Enigma_Large.png/80px-Enigma_Large.png"
+  },
+  {
+    "id": "6.88_hero_Earth-Spirit",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Earth Spirit",
+    "descriptionHtml": "<ul><li><a>Magnetize</a>cooldown increased from 80 to 100/90/80</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/2b/Earth_Spirit_Large.png/80px-Earth_Spirit_Large.png"
+  },
+  {
+    "id": "6.88_hero_Gyrocopter",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Gyrocopter",
+    "descriptionHtml": "<ul><li>Gyrocopter&apos;s Scepter<a>Side Gunner</a>attack interval improved from 1.4 to 1.2</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e1/Gyrocopter_Large.png/80px-Gyrocopter_Large.png"
+  },
+  {
+    "id": "6.88_hero_Invoker",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Invoker",
+    "descriptionHtml": "<ul><li><a>Forge Spirit</a>damage decreased from 29/38/47/56/65/74/83 to 22/32/42/52/62/72/82</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5b/Invoker_Large.png/80px-Invoker_Large.png"
+  },
+  {
+    "id": "6.88_hero_Jakiro",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Jakiro",
+    "descriptionHtml": "<ul><li><a>Ice Path</a>duration increased from 1/1.4/1.8/2.2 to 1/1.5/2/2.5</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4d/Jakiro_Large.png/80px-Jakiro_Large.png"
+  },
+  {
+    "id": "6.88_hero_Keeper-of-the-Light",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Keeper of the Light",
+    "descriptionHtml": "<ul><li><a>Chakra Magic</a>cooldown reduced from 19/18/17/16 to 17/16/15/14</li><li>Intelligence increased from 22 to 25</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/bc/Keeper_of_the_Light_Large.png/80px-Keeper_of_the_Light_Large.png"
+  },
+  {
+    "id": "6.88_hero_Kunkka",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Kunkka",
+    "descriptionHtml": "<ul><li><a>Torrent</a>slow duration increased from 1/2/3/4 to 1.75/2.5/3.25/4</li><li><a>Tidebringer</a>bonus damage increased from 25/40/55/70 to 25/45/65/85</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/3a/Kunkka_Large.png/80px-Kunkka_Large.png"
+  },
+  {
+    "id": "6.88_hero_Legion-Commander",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Legion Commander",
+    "descriptionHtml": "<ul><li><a>Overwhelming Odds</a>damage per hero increased from 20/35/50/65 to 20/40/60/80</li><li><a>Moment of Courage</a>cooldown reduced from 2.6/2/1.4/0.8 to 2.3/1.8/1.3/0.8</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0a/Legion_Commander_Large.png/80px-Legion_Commander_Large.png"
+  },
+  {
+    "id": "6.88_hero_Lich",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Lich",
+    "descriptionHtml": "<ul><li>Scepter now improves<a>Chain Frost</a>slow from 30 to 50%</li><li><a>Ice Armor</a>attack speed slow from 20 to 30 (matches movement slow)</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/35/Lich_Large.png/80px-Lich_Large.png"
+  },
+  {
+    "id": "6.88_hero_Lifestealer",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Lifestealer",
+    "descriptionHtml": "<ul><li><a>Base attack time</a>increased from 1.7 to 1.85</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/85/Lifestealer_Large.png/80px-Lifestealer_Large.png"
+  },
+  {
+    "id": "6.88_hero_Lina",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Lina",
+    "descriptionHtml": "<ul><li><a>Dragon Slave</a>cooldown reduced from 8.5 to 8</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/46/Lina_Large.png/80px-Lina_Large.png"
+  },
+  {
+    "id": "6.88_hero_Luna",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Luna",
+    "descriptionHtml": "<ul><li><a>Lucent Beam</a>stun duration increased from 0.6 to 0.8</li><li>Movement speed increased from 330 to 335</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e2/Luna_Large.png/80px-Luna_Large.png"
+  },
+  {
+    "id": "6.88_hero_Magnus",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Magnus",
+    "descriptionHtml": "<ul><li><a>Empower</a>cleave radius increased from 200 to 225</li><li>Strength gain increased from 2.75 to 2.9</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/67/Magnus_Large.png/80px-Magnus_Large.png"
+  },
+  {
+    "id": "6.88_hero_Medusa",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Medusa",
+    "descriptionHtml": "<ul><li>Intelligence gain increased from 1.85 to 2.1</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/38/Medusa_Large.png/80px-Medusa_Large.png"
+  },
+  {
+    "id": "6.88_hero_Meepo",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Meepo",
+    "descriptionHtml": "<ul><li><a>Geostrike</a>damage per second increased from 8/16/24/32 to 10/20/30/40</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/97/Meepo_Large.png/80px-Meepo_Large.png"
+  },
+  {
+    "id": "6.88_hero_Morphling",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Morphling",
+    "descriptionHtml": "<ul><li><a>Hybrid</a>cooldown reduced from 70 to 60</li><li>Agility gain increased from 3.4 to 3.7</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c7/Morphling_Large.png/80px-Morphling_Large.png"
+  },
+  {
+    "id": "6.88_hero_Naga-Siren",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Naga Siren",
+    "descriptionHtml": "<ul><li>Strength gain increased from 2.3 to 2.5</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Naga_Siren_Large.png/80px-Naga_Siren_Large.png"
+  },
+  {
+    "id": "6.88_hero_Necrophos",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Necrophos",
+    "descriptionHtml": "<ul><li><a>Heartstopper Aura</a>range reduced from 1200 to 900</li><li>Heartstopper HP drain increased from 0.6/0.9/1.2/1.5 to 0.6/1/1.4/1.8%</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0e/Necrophos_Large.png/80px-Necrophos_Large.png"
+  },
+  {
+    "id": "6.88_hero_Nyx-Assassin",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Nyx Assassin",
+    "descriptionHtml": "<ul><li>Movement speed increased from 300 to 305</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c4/Nyx_Assassin_Large.png/80px-Nyx_Assassin_Large.png"
+  },
+  {
+    "id": "6.88_hero_Ogre-Magi",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Ogre Magi",
+    "descriptionHtml": "<ul><li><a>Ignite</a>mana cost reduced from 95/105/115/125 to 90</li><li><a>Multicast</a>interval increased from 0.4 to 0.5</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Ogre_Magi_Large.png/80px-Ogre_Magi_Large.png"
+  },
+  {
+    "id": "6.88_hero_Omniknight",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Omniknight",
+    "descriptionHtml": "<ul><li>Strength increased from 20 + 2.65 to 22 + 2.8</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Omniknight_Large.png/80px-Omniknight_Large.png"
+  },
+  {
+    "id": "6.88_hero_Outworld-Devourer",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Outworld Devourer",
+    "descriptionHtml": "<ul><li><a>Essence Aura</a>mana bonus increased from 75/150/225/300 to 125/200/275/350</li><li><a>Arcane Orb</a>Intelligence steal duration increased from 50 to 60</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Outworld_Destroyer_Large.png/80px-Outworld_Destroyer_Large.png"
+  },
+  {
+    "id": "6.88_hero_Oracle",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Oracle",
+    "descriptionHtml": "<ul><li><a>Purifying Flames</a>cast range increased from 750 to 800</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fc/Oracle_Large.png/80px-Oracle_Large.png"
+  },
+  {
+    "id": "6.88_hero_Phantom-Assassin",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Phantom Assassin",
+    "descriptionHtml": "<ul><li><a>Phantom Strike</a>can now target Spell Immune heroes</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/2e/Phantom_Assassin_Large.png/80px-Phantom_Assassin_Large.png"
+  },
+  {
+    "id": "6.88_hero_Phoenix",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Phoenix",
+    "descriptionHtml": "<ul><li><a>Sun Ray</a>base damage reduced from 15/20/25/30 to 10/15/20/25</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Phoenix_Large.png/80px-Phoenix_Large.png"
+  },
+  {
+    "id": "6.88_hero_Pudge",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Pudge",
+    "descriptionHtml": "<ul><li><a>Rot</a>slow increased from 27% to 30%</li><li><a>Dismember</a>cooldown reduced from 30 to 30/25/20</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dd/Pudge_Large.png/80px-Pudge_Large.png"
+  },
+  {
+    "id": "6.88_hero_Pugna",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Pugna",
+    "descriptionHtml": "<ul><li>Intelligence growth increased from 4 to 4.5</li><li><a>Nether Blast</a>cooldown reduced from 5.5 to 5</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/24/Pugna_Large.png/80px-Pugna_Large.png"
+  },
+  {
+    "id": "6.88_hero_Razor",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Razor",
+    "descriptionHtml": "<ul><li><a>Eye of the Storm</a>damage per strike increased from 37/50/63 to 40/55/70</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Razor_Large.png/80px-Razor_Large.png"
+  },
+  {
+    "id": "6.88_hero_Riki",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Riki",
+    "descriptionHtml": "<ul><li><a>Smoke Screen</a>mana cost increased from 75/80/85/90 to 90</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a3/Riki_Large.png/80px-Riki_Large.png"
+  },
+  {
+    "id": "6.88_hero_Sand-King",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Sand King",
+    "descriptionHtml": "<ul><li><a>Epicenter</a>cooldown reduced from 140/120/100 to 120/110/100</li><li>Strength increased from 21 to 22</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e5/Sand_King_Large.png/80px-Sand_King_Large.png"
+  },
+  {
+    "id": "6.88_hero_Shadow-Demon",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Shadow Demon",
+    "descriptionHtml": "<ul><li><a>Disruption</a>illusion duration increased from 6/8/10/12 to 8/10/12/14</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/79/Shadow_Demon_Large.png/80px-Shadow_Demon_Large.png"
+  },
+  {
+    "id": "6.88_hero_Shadow-Fiend",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Shadow Fiend",
+    "descriptionHtml": "<ul><li>Movement speed increased from 305 to 310</li><li><a>Necromastery</a>Max Souls increased from 15/22/29/36 to 18/24/30/36</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Shadow_Fiend_Large.png/80px-Shadow_Fiend_Large.png"
+  },
+  {
+    "id": "6.88_hero_Shadow-Shaman",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Shadow Shaman",
+    "descriptionHtml": "<ul><li><a>Mass Serpent Wards</a>splash radius increased from 75% to 100%</li><li>Mass Serpent Wards attack damage increased from 40-45/55-60/70-75 to 40-45/60-65/80-85</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/d8/Shadow_Shaman_Large.png/80px-Shadow_Shaman_Large.png"
+  },
+  {
+    "id": "6.88_hero_Silencer",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Silencer",
+    "descriptionHtml": "<ul><li>Agility increased from 16 to 22</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/98/Silencer_Large.png/80px-Silencer_Large.png"
+  },
+  {
+    "id": "6.88_hero_Skywrath-Mage",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Skywrath Mage",
+    "descriptionHtml": "<ul><li><a>Concussive Shot</a>impact AoE increased from 200 to 250</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Skywrath_Mage_Large.png/80px-Skywrath_Mage_Large.png"
+  },
+  {
+    "id": "6.88_hero_Slardar",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Slardar",
+    "descriptionHtml": "<ul><li>Movement speed reduced from 295 to 290</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/41/Slardar_Large.png/80px-Slardar_Large.png"
+  },
+  {
+    "id": "6.88_hero_Slark",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Slark",
+    "descriptionHtml": "<ul><li><a>Pounce</a>damage reduced from 50/100/150/200 to 40/80/120/160</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Slark_Large.png/80px-Slark_Large.png"
+  },
+  {
+    "id": "6.88_hero_Sniper",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Sniper",
+    "descriptionHtml": "<ul><li><a>Shrapnel</a>damage increased from 15/30/45/60 to 15/35/55/75</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a2/Sniper_Large.png/80px-Sniper_Large.png"
+  },
+  {
+    "id": "6.88_hero_Spirit-Breaker",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Spirit Breaker",
+    "descriptionHtml": "<ul><li><a>Greater Bash</a>increased damage from 22/28/34/40% to 22/30/38/46%</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f6/Spirit_Breaker_Large.png/80px-Spirit_Breaker_Large.png"
+  },
+  {
+    "id": "6.88_hero_Storm-Spirit",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Storm Spirit",
+    "descriptionHtml": "<ul><li><a>Overload</a>damage increased from 30/50/70/90 to 40/60/80/100</li><li>Overload AoE increased from 275 to 300</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0c/Storm_Spirit_Large.png/80px-Storm_Spirit_Large.png"
+  },
+  {
+    "id": "6.88_hero_Templar-Assassin",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Templar Assassin",
+    "descriptionHtml": "<ul><li><a>Psi Blades</a>Spill Width increased from 68 to 75</li><li><a>Psionic Trap</a>max movement slow increased from 50% to 60%</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/50/Templar_Assassin_Large.png/80px-Templar_Assassin_Large.png"
+  },
+  {
+    "id": "6.88_hero_Terrorblade",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Terrorblade",
+    "descriptionHtml": "<ul><li><a>Conjure Image</a>mana cost reduced from 80 to 70</li><li>Conjure Image duration increased from 32 to 34</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b5/Terrorblade_Large.png/80px-Terrorblade_Large.png"
+  },
+  {
+    "id": "6.88_hero_Tiny",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Tiny",
+    "descriptionHtml": "<ul><li><a>Toss</a>cooldown reduced from 9 to 8</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Tiny_Large.png/80px-Tiny_Large.png"
+  },
+  {
+    "id": "6.88_hero_Treant-Protector",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Treant Protector",
+    "descriptionHtml": "<ul><li><a>Base damage</a>increased by 6</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7a/Treant_Protector_Large.png/80px-Treant_Protector_Large.png"
+  },
+  {
+    "id": "6.88_hero_Troll-Warlord",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Troll Warlord",
+    "descriptionHtml": "<ul><li><a>Berserker&apos;s Rage</a>no longer provides 100 Health Bonus</li><li>Strength increased from 17 to 20</li><li>Berserker&apos;s Rage armor bonus increased from 3 to 6</li><li>Berserker&apos;s Rage base attack time improved from 1.55 to 1.5</li><li><a>Ranged Whirling Axes</a>travel distance increased from 945 to 1000</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Troll_Warlord_Large.png/80px-Troll_Warlord_Large.png"
+  },
+  {
+    "id": "6.88_hero_Undying",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Undying",
+    "descriptionHtml": "<ul><li>Intelligence gain increased from 2.5 to 2.8</li><li><a>Decay</a>cast range increased from 625 to 650</li><li>Decay duration increased from 40 to 45</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6b/Undying_Large.png/80px-Undying_Large.png"
+  },
+  {
+    "id": "6.88_hero_Ursa",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Ursa",
+    "descriptionHtml": "<ul><li><a>Fury Swipes</a>debuff duration increased from 15 to 20</li><li><a>Base HP Regen</a>increased from 0.25 to 0.75</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/27/Ursa_Large.png/80px-Ursa_Large.png"
+  },
+  {
+    "id": "6.88_hero_Venomancer",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Venomancer",
+    "descriptionHtml": "<ul><li>Intelligence increased from 15 + 1.75 to 17 + 1.8</li><li><a>Plague Wards</a>damage increased from 10/19/29/38 to 13/22/31/40</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/39/Venomancer_Large.png/80px-Venomancer_Large.png"
+  },
+  {
+    "id": "6.88_hero_Viper",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Viper",
+    "descriptionHtml": "<ul><li><a>Viper Strike</a>Scepter cooldown reduced from 12 to 10</li><li>Strength gain increased from 1.9 to 2.1</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Viper_Large.png/80px-Viper_Large.png"
+  },
+  {
+    "id": "6.88_hero_Visage",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Visage",
+    "descriptionHtml": "<ul><li><a>Gravekeeper&apos;s Cloak</a>armor bonus per layer increased from 1/2/3/5 to 1.5/3/4.5/6</li><li>Gravekeeper&apos;s Cloak magic resistance bonus per layer increased from 3/6/12/16% to 5/10/15/20%</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f8/Visage_Large.png/80px-Visage_Large.png"
+  },
+  {
+    "id": "6.88_hero_Winter-Wyvern",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Winter Wyvern",
+    "descriptionHtml": "<ul><li><a>Winter&apos;s Curse</a>cooldown reduced from 90 to 80</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c7/Winter_Wyvern_Large.png/80px-Winter_Wyvern_Large.png"
+  },
+  {
+    "id": "6.88_hero_Warlock",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Warlock",
+    "descriptionHtml": "<ul><li><a>Golem</a>HP increased from 900/1200/1500 to 900/1350/1800</li><li><a>Fatal Bonds</a>no longer gets reduced by<a>Damage Block</a></li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b9/Warlock_Large.png/80px-Warlock_Large.png"
+  },
+  {
+    "id": "6.88_hero_Weaver",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Weaver",
+    "descriptionHtml": "<ul><li><a>Base damage</a>increased by 2</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/59/Weaver_Large.png/80px-Weaver_Large.png"
+  },
+  {
+    "id": "6.88_hero_Windranger",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Windranger",
+    "descriptionHtml": "<ul><li><a>Windrun</a>cooldown reduced from 15 to 14</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Windranger_Large.png/80px-Windranger_Large.png"
+  },
+  {
+    "id": "6.88_hero_Io",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Io",
+    "descriptionHtml": "<ul><li><a>Tether</a>movement speed bonus reduced from 14/15/16/17 to 13/14/15/16%</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/ad/Io_Large.png/80px-Io_Large.png"
+  },
+  {
+    "id": "6.88_hero_Wraith-King",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Wraith King",
+    "descriptionHtml": "<ul><li><a>Wraithfire Blast</a>damage over time increased from 15/30/40/50 to 20/35/50/65</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6e/Wraith_King_Large.png/80px-Wraith_King_Large.png"
+  },
+  {
+    "id": "6.88_hero_Zeus",
+    "version": "6.88",
+    "category": "hero",
+    "label": "Zeus",
+    "descriptionHtml": "<ul><li><a>Arc Lightning</a>cooldown reduced from 1.75 to 1.6</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/91/Zeus_Large.png/80px-Zeus_Large.png"
+  },
+  {
+    "id": "6.88_item_Armlet-of-Mordiggian",
+    "version": "6.88",
+    "category": "item",
+    "label": "Armlet of Mordiggian",
+    "descriptionHtml": "<ul><li>Recipe cost increased from 500 to 550</li></ul>",
+    "imageSrc": "/commons/images/a/a2/Armlet_of_Mordiggian.png"
+  },
+  {
+    "id": "6.88_item_Bloodthorn",
+    "version": "6.88",
+    "category": "item",
+    "label": "Bloodthorn",
+    "descriptionHtml": "<ul><li><a>Critical Strike</a>multiplier increased from 1.35 to 1.45</li></ul>",
+    "imageSrc": "/commons/images/3/38/Bloodthorn.png"
+  },
+  {
+    "id": "6.88_item_Butterfly",
+    "version": "6.88",
+    "category": "item",
+    "label": "Butterfly",
+    "descriptionHtml": "<ul><li>Agility increased from 30 to 35</li></ul>",
+    "imageSrc": "/commons/images/1/10/Butterfly.png"
+  },
+  {
+    "id": "6.88_item_Crimson-Guard",
+    "version": "6.88",
+    "category": "item",
+    "label": "Crimson Guard",
+    "descriptionHtml": "<ul><li>Cooldown reduced from 50 to 46</li></ul>",
+    "imageSrc": "/commons/images/1/17/Crimson_Guard.png"
+  },
+  {
+    "id": "6.88_item_Dragon-Lance",
+    "version": "6.88",
+    "category": "item",
+    "label": "Dragon Lance",
+    "descriptionHtml": "<ul><li>Strength and Agility reduced from 15 to 14</li><li><a>Attack Range</a>bonus increased from 130 to 140</li></ul>",
+    "imageSrc": "/commons/images/1/18/Dragon_Lance.png"
+  },
+  {
+    "id": "6.88_item_Hurricane-Pike",
+    "version": "6.88",
+    "category": "item",
+    "label": "Hurricane Pike",
+    "descriptionHtml": "<ul><li><a>Attack Range</a>bonus increased from 130 to 140</li><li>Active now grants 100 Attack Speed for the 4 attacks it provides on the target</li></ul>",
+    "imageSrc": "/commons/images/7/78/Hurricane_Pike.png"
+  },
+  {
+    "id": "6.88_item_Rod-of-Atos",
+    "version": "6.88",
+    "category": "item",
+    "label": "Rod of Atos",
+    "descriptionHtml": "<ul><li>Cooldown reduced from 12 to 10</li></ul>",
+    "imageSrc": "/commons/images/5/55/Rod_of_Atos.png"
+  },
+  {
+    "id": "6.88_item_Smoke-of-Deceit",
+    "version": "6.88",
+    "category": "item",
+    "label": "Smoke of Deceit",
+    "descriptionHtml": "<ul><li>Now has a 1 second cooldown on use (to prevent accidental usage)</li></ul>",
+    "imageSrc": "/commons/images/b/b4/Smoke_of_Deceit.png"
+  }
+]

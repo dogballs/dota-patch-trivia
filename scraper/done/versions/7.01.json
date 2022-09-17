@@ -1,0 +1,241 @@
+[
+  {
+    "id": "7.01_general_General-updates",
+    "version": "7.01",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>XP Requirement to go from level 6 to 12 increased by 140 (615/630/645/660/675/775 to 640/660/680/700/720/740)</li><li>XP Requirement to go from level 12 to 20 increased by 140 (1175/1200/1225/1250/1275/1375/1400/1425 to 1200/1225/1250/1275/1300/1325/1400/1490)</li><li>XP Requirement to go from level 24 to 25 reduced by 280 (same overall XP required to reach level 25)</li></ul>"
+  },
+  {
+    "id": "7.01_hero_Broodmother",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Broodmother",
+    "descriptionHtml": "<ul><li><a>Incapacitating Bite</a>slow increased from 10/20/30/40 to 14/24/34/44%</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0c/Broodmother_Large.png/80px-Broodmother_Large.png"
+  },
+  {
+    "id": "7.01_hero_Centaur-Warrunner",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Centaur Warrunner",
+    "descriptionHtml": "<ul><li>Agility gain reduced from 2 to 1.6</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Centaur_Warrunner_Large.png/80px-Centaur_Warrunner_Large.png"
+  },
+  {
+    "id": "7.01_hero_Chaos-Knight",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Chaos Knight",
+    "descriptionHtml": "<ul><li><a>Reality Rift</a>armor debuff rescaled from -3/4/5/6 to -1/3/5/7</li><li>Fixed<a>Chaos Strike</a>lifesteal ignoring armor reductions</li><li>Chaos Strike lifesteal increased from 50% to 65%</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/46/Chaos_Knight_Large.png/80px-Chaos_Knight_Large.png"
+  },
+  {
+    "id": "7.01_hero_Death-Prophet",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Death Prophet",
+    "descriptionHtml": "<ul><li>Level 10 Talent increased from +6 Strength to 7</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/80/Death_Prophet_Large.png/80px-Death_Prophet_Large.png"
+  },
+  {
+    "id": "7.01_hero_Doom",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Doom",
+    "descriptionHtml": "<ul><li>Level 20 Talent increased from +50 Damage to +65</li><li>Level 20 Talent increased from +20 Health Regen to +25</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/19/Doom_Large.png/80px-Doom_Large.png"
+  },
+  {
+    "id": "7.01_hero_Enchantress",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Enchantress",
+    "descriptionHtml": "<ul><li>Base intelligence increased by 3</li><li>Level 10 Talent increased from +15 Movement Speed to +20</li><li>Level 20 Talent increased from -25s Respawn Time to -30s</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/57/Enchantress_Large.png/80px-Enchantress_Large.png"
+  },
+  {
+    "id": "7.01_hero_Invoker",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Invoker",
+    "descriptionHtml": "<ul><li>Level 15 Talent increased from 20% XP to 25% XP</li><li><a>Quas</a>HP regen rescaled from 1.5/3/4.5/6/.. to 1/3/5/7/..</li><li>Strength gain increased from 1.7 to 1.9</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5b/Invoker_Large.png/80px-Invoker_Large.png"
+  },
+  {
+    "id": "7.01_hero_Lina",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Lina",
+    "descriptionHtml": "<ul><li>Level 15 Talent increased from +100 Cast Range to +125</li><li>Level 15 Talent increased from -25s Respawn to -30s</li><li>Level 20 Talent increased from +5% Spell Amp to 6%</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/46/Lina_Large.png/80px-Lina_Large.png"
+  },
+  {
+    "id": "7.01_hero_Luna",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Luna",
+    "descriptionHtml": "<ul><li>Base armor reduced by 1</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e2/Luna_Large.png/80px-Luna_Large.png"
+  },
+  {
+    "id": "7.01_hero_Lycan",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Lycan",
+    "descriptionHtml": "<ul><li><a>Howl</a>cooldown increased from 50/45/40/35 to 55/50/45/40</li><li>Howl mana cost increased from 15/20/25/30 to 30</li><li>Level 10 Talent reduced from +20 Damage to +15 Damage</li><li>Agility gain reduced from 1.9 to 1.5</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Lycan_Large.png/80px-Lycan_Large.png"
+  },
+  {
+    "id": "7.01_hero_Meepo",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Meepo",
+    "descriptionHtml": "<ul><li>Meepo Clones are now allowed to pickup<a>runes</a></li></ul>",
+    "imageSrc": "/commons/images/thumb/9/97/Meepo_Large.png/80px-Meepo_Large.png"
+  },
+  {
+    "id": "7.01_hero_Monkey-King",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Monkey King",
+    "descriptionHtml": "<ul><li>Fixed<a>Jingu Mastery</a>ignoring armor for its lifesteal calculation</li><li>Jingu Mastery counter duration reduced from 15 to 10 seconds</li><li><a>Boundless Strike</a>critical strike rescaled from 200% to 140/160/180/200%</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4e/Monkey_King_Large.png/80px-Monkey_King_Large.png"
+  },
+  {
+    "id": "7.01_hero_Nature's-Prophet",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Nature's Prophet",
+    "descriptionHtml": "<ul><li>Level 15 Talent increased from +10 Intelligence to +15</li><li>Level 15 Talent increased from +15 Movement Speed to +20</li><li>Level 25 Talent increased from -35s Respawn Time to -40</li><li>Level 25 Talent changed from +6 Treants to 2× Treants HP/Damage</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/16/Natures_Prophet_Large.png/80px-Natures_Prophet_Large.png"
+  },
+  {
+    "id": "7.01_hero_Necrophos",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Necrophos",
+    "descriptionHtml": "<ul><li>Added Necrophos to Captains Mode</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0e/Necrophos_Large.png/80px-Necrophos_Large.png"
+  },
+  {
+    "id": "7.01_hero_Ogre-Magi",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Ogre Magi",
+    "descriptionHtml": "<ul><li>Movement speed reduced from 295 to 290</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Ogre_Magi_Large.png/80px-Ogre_Magi_Large.png"
+  },
+  {
+    "id": "7.01_hero_Omniknight",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Omniknight",
+    "descriptionHtml": "<ul><li><a>Purification</a>mana cost rescaled from 70/90/110/130 to 85/100/115/130</li><li><a>Guardian Angel</a>cooldown increased from 150 to 160</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Omniknight_Large.png/80px-Omniknight_Large.png"
+  },
+  {
+    "id": "7.01_hero_Phantom-Assassin",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Phantom Assassin",
+    "descriptionHtml": "<ul><li><a>Stifling Dagger</a>base damage reduced from 70 to 65</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/2e/Phantom_Assassin_Large.png/80px-Phantom_Assassin_Large.png"
+  },
+  {
+    "id": "7.01_hero_Puck",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Puck",
+    "descriptionHtml": "<ul><li><a>Dream Coil</a>cooldown reduced from 75 to 70/65/60</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/3a/Puck_Large.png/80px-Puck_Large.png"
+  },
+  {
+    "id": "7.01_hero_Riki",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Riki",
+    "descriptionHtml": "<ul><li><a>Smoke Screen</a>slow from 13/17/21/25% to 10/15/20/25%</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a3/Riki_Large.png/80px-Riki_Large.png"
+  },
+  {
+    "id": "7.01_hero_Slark",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Slark",
+    "descriptionHtml": "<ul><li>Strength reduced from 21 + 1.8 to 20 + 1.6</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Slark_Large.png/80px-Slark_Large.png"
+  },
+  {
+    "id": "7.01_hero_Sven",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Sven",
+    "descriptionHtml": "<ul><li>Level 15 Talent increased from +6 all stats to +8</li><li>Level 15 Talent increased from +15 MS to +20</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f2/Sven_Large.png/80px-Sven_Large.png"
+  },
+  {
+    "id": "7.01_hero_Treant-Protector",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Treant Protector",
+    "descriptionHtml": "<ul><li><a>Nature&apos;s Guise</a>bash rescaled from 1/1.4/1.8/2.2 to 0.7/1.2/1.7/2.2</li><li>Level 25 Talent changed from +20% 2s Bash to -50s Respawn Time</li><li>Movement speed reduced from 300 to 295</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7a/Treant_Protector_Large.png/80px-Treant_Protector_Large.png"
+  },
+  {
+    "id": "7.01_hero_Tusk",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Tusk",
+    "descriptionHtml": "<ul><li>Turn rate improved from 0.5 to 0.7</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Tusk_Large.png/80px-Tusk_Large.png"
+  },
+  {
+    "id": "7.01_hero_Underlord",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Underlord",
+    "descriptionHtml": "<ul><li><a>Pit of Malice</a>interval increased from 3.5 to 3.6 seconds</li><li>Pit of Malice cooldown increased from 30/26/22/18 to 32/28/24/20</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/9e/Underlord_Large.png/80px-Underlord_Large.png"
+  },
+  {
+    "id": "7.01_hero_Visage",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Visage",
+    "descriptionHtml": "<ul><li><a>Familiars</a>HP reduced from 500/750/1000 to 300/500/700</li><li>Base damage reduced by 3</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f8/Visage_Large.png/80px-Visage_Large.png"
+  },
+  {
+    "id": "7.01_hero_Weaver",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Weaver",
+    "descriptionHtml": "<ul><li><a>Geminate Attack</a>cooldown from 6/5/4/3 to 7/6/5/3</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/59/Weaver_Large.png/80px-Weaver_Large.png"
+  },
+  {
+    "id": "7.01_hero_Windranger",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Windranger",
+    "descriptionHtml": "<ul><li>Level 15 Talent increased from +13 Intelligence to +16 Intelligence</li><li>Level 15 Talent increased from +150 Health to +200 Health</li><li><a>Windrun</a>cooldown from 14 to 13</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Windranger_Large.png/80px-Windranger_Large.png"
+  },
+  {
+    "id": "7.01_hero_Witch-Doctor",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Witch Doctor",
+    "descriptionHtml": "<ul><li>Level 25 Talent increased from +150 Death Ward Attack Range to +175</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b0/Witch_Doctor_Large.png/80px-Witch_Doctor_Large.png"
+  },
+  {
+    "id": "7.01_hero_Zeus",
+    "version": "7.01",
+    "category": "hero",
+    "label": "Zeus",
+    "descriptionHtml": "<ul><li>Level 20 Talent increased from -35s Respawn Time to -40</li><li>Level 20 Talent increased from +30 Movement Speed to +35</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/91/Zeus_Large.png/80px-Zeus_Large.png"
+  }
+]

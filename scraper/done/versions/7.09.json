@@ -1,0 +1,25 @@
+[
+  {
+    "id": "7.09_general_General-updates",
+    "version": "7.09",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Starting gold</a>reduced from 625 to 600</li></ul>"
+  },
+  {
+    "id": "7.09_item_Animal-Courier",
+    "version": "7.09",
+    "category": "item",
+    "label": "Animal Courier",
+    "descriptionHtml": "<ul><li><a>Courier</a>cost reduced from 200 to 50</li></ul>",
+    "imageSrc": "/commons/images/c/cd/Animal_Courier.png"
+  },
+  {
+    "id": "7.09_item_Tango",
+    "version": "7.09",
+    "category": "item",
+    "label": "Tango",
+    "descriptionHtml": "<ul><li><a>Tangoes</a>now come with 3 charges and cost 90 gold</li></ul>",
+    "imageSrc": "/commons/images/9/91/Tango.png"
+  }
+]

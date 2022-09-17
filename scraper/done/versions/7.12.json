@@ -1,0 +1,505 @@
+[
+  {
+    "id": "7.12_general_General-updates",
+    "version": "7.12",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Enabled<a>Pangolier</a>in<a>Captains Mode</a></li></ul>"
+  },
+  {
+    "id": "7.12_item_Clarity",
+    "version": "7.12",
+    "category": "item",
+    "label": "Clarity",
+    "descriptionHtml": "<ul><li>Mana Regeneration reduced from 3.2 to 3</li></ul>",
+    "imageSrc": "/commons/images/d/d7/Clarity.png"
+  },
+  {
+    "id": "7.12_item_Heart-of-Tarrasque",
+    "version": "7.12",
+    "category": "item",
+    "label": "Heart of Tarrasque",
+    "descriptionHtml": "<ul><li>Strength increased from 40 to 45</li></ul>",
+    "imageSrc": "/commons/images/a/a6/Heart_of_Tarrasque.png"
+  },
+  {
+    "id": "7.12_item_Moon-Shard",
+    "version": "7.12",
+    "category": "item",
+    "label": "Moon Shard",
+    "descriptionHtml": "<ul><li>Attack Speed increased from 120 to 130</li></ul>",
+    "imageSrc": "/commons/images/9/90/Moon_Shard.png"
+  },
+  {
+    "id": "7.12_item_Nullifier",
+    "version": "7.12",
+    "category": "item",
+    "label": "Nullifier",
+    "descriptionHtml": "<ul><li>Projectile speed decreased from 1200 to 900</li></ul>",
+    "imageSrc": "/commons/images/4/41/Nullifier.png"
+  },
+  {
+    "id": "7.12_item_Refresher-Orb",
+    "version": "7.12",
+    "category": "item",
+    "label": "Refresher Orb",
+    "descriptionHtml": "<ul><li>Mana regeneration increased from 3 to 5</li></ul>",
+    "imageSrc": "/commons/images/a/a2/Refresher_Orb.png"
+  },
+  {
+    "id": "7.12_item_Satanic",
+    "version": "7.12",
+    "category": "item",
+    "label": "Satanic",
+    "descriptionHtml": "<ul><li>Duration increased from 4.5 to 5 seconds</li></ul>",
+    "imageSrc": "/commons/images/0/0e/Satanic.png"
+  },
+  {
+    "id": "7.12_item_Silver-Edge",
+    "version": "7.12",
+    "category": "item",
+    "label": "Silver Edge",
+    "descriptionHtml": "<ul><li>Break duration decreased from 5 to 4 seconds</li><li>Cooldown reduced from 24 to 22</li></ul>",
+    "imageSrc": "/commons/images/4/4a/Silver_Edge.png"
+  },
+  {
+    "id": "7.12_item_Skull-Basher",
+    "version": "7.12",
+    "category": "item",
+    "label": "Skull Basher",
+    "descriptionHtml": "<ul><li>Bash duration increased from 1.4 to 1.5</li></ul>",
+    "imageSrc": "/commons/images/0/06/Skull_Basher.png"
+  },
+  {
+    "id": "7.12_item_Abyssal-Blade",
+    "version": "7.12",
+    "category": "item",
+    "label": "Abyssal Blade",
+    "descriptionHtml": "<ul><li>Bash duration increased from 1.4 to 1.5</li></ul>",
+    "imageSrc": "/commons/images/7/70/Abyssal_Blade.png"
+  },
+  {
+    "id": "7.12_item_Spirit-Vessel",
+    "version": "7.12",
+    "category": "item",
+    "label": "Spirit Vessel",
+    "descriptionHtml": "<ul><li>Enemy current health based damage changed from 3% Direct HP modification to 4.5% Magical Damage</li></ul>",
+    "imageSrc": "/commons/images/9/92/Spirit_Vessel.png"
+  },
+  {
+    "id": "7.12_hero_Anti-Mage",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Anti-Mage",
+    "descriptionHtml": "<ul><li><a>Mana Void</a>damage increased from 0.6/0.85/1.1 to 0.8/0.95/1.1</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/70/Anti-Mage_Large.png/80px-Anti-Mage_Large.png"
+  },
+  {
+    "id": "7.12_hero_Arc-Warden",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Arc Warden",
+    "descriptionHtml": "<ul><li><a>Flux</a>cooldown reduced from 18 to 16</li><li><a>Magnetic Field</a>AoE increased from 275 to 300</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Arc_Warden_Large.png/80px-Arc_Warden_Large.png"
+  },
+  {
+    "id": "7.12_hero_Axe",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Axe",
+    "descriptionHtml": "<ul><li><a>Battle Hunger</a>duration increased from 10 to 12</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a1/Axe_Large.png/80px-Axe_Large.png"
+  },
+  {
+    "id": "7.12_hero_Bounty-Hunter",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Bounty Hunter",
+    "descriptionHtml": "<ul><li><a>Shuriken Toss</a>mana cost increased from 120/130/140/150 to 150</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/86/Bounty_Hunter_Large.png/80px-Bounty_Hunter_Large.png"
+  },
+  {
+    "id": "7.12_hero_Bloodseeker",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Bloodseeker",
+    "descriptionHtml": "<ul><li><a>Thirst</a>linger bonus duration increased from 2 to 4</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a6/Bloodseeker_Large.png/80px-Bloodseeker_Large.png"
+  },
+  {
+    "id": "7.12_hero_Chen",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Chen",
+    "descriptionHtml": "<ul><li><a>Holy Persuasion</a>can no longer target non-player allied creeps</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7d/Chen_Large.png/80px-Chen_Large.png"
+  },
+  {
+    "id": "7.12_hero_Clinkz",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Clinkz",
+    "descriptionHtml": "<ul><li><a>Strafe</a>duration increased from 3 to 3.5 seconds</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4d/Clinkz_Large.png/80px-Clinkz_Large.png"
+  },
+  {
+    "id": "7.12_hero_Crystal-Maiden",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Crystal Maiden",
+    "descriptionHtml": "<ul><li>Base damage increased by 3</li><li><a>Arcane Aura</a>self mana regen increased from 1/2/3/4 to 1.3/2.2/3.1/4</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dc/Crystal_Maiden_Large.png/80px-Crystal_Maiden_Large.png"
+  },
+  {
+    "id": "7.12_hero_Dark-Seer",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Dark Seer",
+    "descriptionHtml": "<ul><li><a>Vacuum</a>AoE increased from 250/350/450/550 to 400/450/500/550</li><li>Vacuum cooldown rescaled from 32 to 60/50/40/30</li><li>Vacuum cast range rescaled from 500 to 450/500/550/600</li><li>Vacuum Pull duration rescaled from 0.5 to 0.3/0.4/0.5/0.6</li><li>Vacuum damage rescaled from 40/80/120/160 to 25/50/100/200</li><li><a>Wall of Replica</a>incoming illusion damage reduced from 400% to 300%</li><li>Wall of Replica width increased from 1000 to 1300</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6f/Dark_Seer_Large.png/80px-Dark_Seer_Large.png"
+  },
+  {
+    "id": "7.12_hero_Dark-Willow",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Dark Willow",
+    "descriptionHtml": "<ul><li><a>Terrorize</a>cast time increased from 0.8 to 1</li><li><a>Bedlam</a>cooldown increased from 40/30/20 to 40/35/30</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5e/Dark_Willow_Large.png/80px-Dark_Willow_Large.png"
+  },
+  {
+    "id": "7.12_hero_Dazzle",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Dazzle",
+    "descriptionHtml": "<ul><li><a>Poison Touch</a>damage increased from 10/20/30/40 to 10/24/38/52</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e3/Dazzle_Large.png/80px-Dazzle_Large.png"
+  },
+  {
+    "id": "7.12_hero_Death-Prophet",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Death Prophet",
+    "descriptionHtml": "<ul><li><a>Spirit Siphon</a>charge restore time increased from 45 to 60/55/50/45</li><li><a>Silence</a>mana cost increased from 80 to 80/90/100/110</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/80/Death_Prophet_Large.png/80px-Death_Prophet_Large.png"
+  },
+  {
+    "id": "7.12_hero_Disruptor",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Disruptor",
+    "descriptionHtml": "<ul><li><a>Static Storm</a>no longer lingers on your hero for 0.5 seconds after walking away from the AoE (it already ends immediately once the spell is over)</li><li><a>Kinetic Field</a>cooldown increased from 13/12/11/10 to 19/16/13/10</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b7/Disruptor_Large.png/80px-Disruptor_Large.png"
+  },
+  {
+    "id": "7.12_hero_Drow-Ranger",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Drow Ranger",
+    "descriptionHtml": "<ul><li><a>Precision Aura</a>attack damage bonus increased from 10/18/26/34% to 10/20/30/40%</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7e/Drow_Ranger_Large.png/80px-Drow_Ranger_Large.png"
+  },
+  {
+    "id": "7.12_hero_Elder-Titan",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Elder Titan",
+    "descriptionHtml": "<ul><li><a>Echo Stomp</a>Initial Stun duration reduced from 0.8 to 0.2</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/bc/Elder_Titan_Large.png/80px-Elder_Titan_Large.png"
+  },
+  {
+    "id": "7.12_hero_Ember-Spirit",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Ember Spirit",
+    "descriptionHtml": "<ul><li>Base armor increased by 1</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/98/Ember_Spirit_Large.png/80px-Ember_Spirit_Large.png"
+  },
+  {
+    "id": "7.12_hero_Enchantress",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Enchantress",
+    "descriptionHtml": "<ul><li><a>Untouchable</a>slow rescaled from 40/70/100/130 to 20/60/100/140</li><li><a>Enchant</a>cooldown rescaled from 30/24/18/12 to 55/40/25/10</li><li>Enchant slow increased from 2.25/3.5/4.75/6 to 3/4/5/6</li><li>Enchant dominate duration rescaled from 80 to 50/60/70/80</li><li><a>Impetus</a>mana cost rescaled from 55/60/65 to 40/55/70</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/57/Enchantress_Large.png/80px-Enchantress_Large.png"
+  },
+  {
+    "id": "7.12_hero_Gyrocopter",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Gyrocopter",
+    "descriptionHtml": "<ul><li><a>Flak Cannon</a>cooldown increased from 30 to 40</li><li><a>Homing Missile</a>hits to destroy reduced from 3/3/4/4 to 3</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e1/Gyrocopter_Large.png/80px-Gyrocopter_Large.png"
+  },
+  {
+    "id": "7.12_hero_Io",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Io",
+    "descriptionHtml": "<ul><li><a>Tether</a>now sets your movement speed to match the tethered target&apos;s speed</li><li>Tether no longer has a duration</li><li>Tether movement speed rescaled from 10/12/14/16% to 7/10/13/16%</li><li>Tether regen sharing rescaled from 1.5× to 1.2/1.3/1.4/1.5×</li><li><a>Relocate</a>cooldown increased from 120/100/80 to 130/110/90</li><li>Base damage reduced by 4</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/ad/Io_Large.png/80px-Io_Large.png"
+  },
+  {
+    "id": "7.12_hero_Leshrac",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Leshrac",
+    "descriptionHtml": "<ul><li>Base movement speed increased from 325 to 330</li><li><a>Lightning Storm</a>damage rescaled from 50/100/150/200 to 80/120/160/200</li><li>Lightning Storm slow duration rescaled from 0.7/0.8/0.9/1 to 0.4/0.6/0.8/1</li><li>Lightning Storm cast point reduced from 0.45 to 0.4</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f6/Leshrac_Large.png/80px-Leshrac_Large.png"
+  },
+  {
+    "id": "7.12_hero_Lich",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Lich",
+    "descriptionHtml": "<ul><li><a>Sacrifice</a>mana conversion increased from 30/50/70/90 to 55/70/85/100</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/35/Lich_Large.png/80px-Lich_Large.png"
+  },
+  {
+    "id": "7.12_hero_Lifestealer",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Lifestealer",
+    "descriptionHtml": "<ul><li><a>Open Wounds</a>mana cost increased from 140/130/120/110 to 140</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/85/Lifestealer_Large.png/80px-Lifestealer_Large.png"
+  },
+  {
+    "id": "7.12_hero_Lion",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Lion",
+    "descriptionHtml": "<ul><li><a>Earth Spike</a>mana cost rescaled from 100/120/140/160 to 70/100/130/160</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/8d/Lion_Large.png/80px-Lion_Large.png"
+  },
+  {
+    "id": "7.12_hero_Magnus",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Magnus",
+    "descriptionHtml": "<ul><li><a>Skewer</a>AoE increased from 125 to 135</li><li><a>Reverse Polarity</a>stun duration increased from 2.25/3/3.75 to 2.75/3.25/3.75</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/67/Magnus_Large.png/80px-Magnus_Large.png"
+  },
+  {
+    "id": "7.12_hero_Mirana",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Mirana",
+    "descriptionHtml": "<ul><li>Base attack damage range from 39-50 to 43-48</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/1f/Mirana_Large.png/80px-Mirana_Large.png"
+  },
+  {
+    "id": "7.12_hero_Monkey-King",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Monkey King",
+    "descriptionHtml": "<ul><li><a>Wukong&apos;s Command</a>soldier attack rate improved from 1.4 to 1.3</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4e/Monkey_King_Large.png/80px-Monkey_King_Large.png"
+  },
+  {
+    "id": "7.12_hero_Necrophos",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Necrophos",
+    "descriptionHtml": "<ul><li><a>Heartstopper Aura</a>increased from 0.5/1/1.5/2% to 0.5/1.1/1.7/2.3%</li><li><a>Death Pulse</a>mana cost rescaled from 125/145/165/185 to 100/130/160/190</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0e/Necrophos_Large.png/80px-Necrophos_Large.png"
+  },
+  {
+    "id": "7.12_hero_Ogre-Magi",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Ogre Magi",
+    "descriptionHtml": "<ul><li><a>Multicast</a>no longer increases<a>Fireblast</a>mana cost</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Ogre_Magi_Large.png/80px-Ogre_Magi_Large.png"
+  },
+  {
+    "id": "7.12_hero_Omniknight",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Omniknight",
+    "descriptionHtml": "<ul><li><a>Repel</a>mana cost increased from 50 to 85</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Omniknight_Large.png/80px-Omniknight_Large.png"
+  },
+  {
+    "id": "7.12_hero_Phantom-Assassin",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Phantom Assassin",
+    "descriptionHtml": "<ul><li><a>Stifling Dagger</a>can be targeted on Spell Immune (the slow won&apos;t have any effect, but the physical damage will go through)</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/2e/Phantom_Assassin_Large.png/80px-Phantom_Assassin_Large.png"
+  },
+  {
+    "id": "7.12_hero_Phoenix",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Phoenix",
+    "descriptionHtml": "<ul><li><a>Supernova</a>radius increased from 1000 to 1300</li><li>Supernova now turns night into day for the duration (has highest priority)</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Phoenix_Large.png/80px-Phoenix_Large.png"
+  },
+  {
+    "id": "7.12_hero_Razor",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Razor",
+    "descriptionHtml": "<ul><li><a>Static Link</a>cast range reduced from 600 to 550 (break range still 800)</li><li><a>Unstable Current</a>damage reduced from 100/130/160/190 to 60/100/140/180</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Razor_Large.png/80px-Razor_Large.png"
+  },
+  {
+    "id": "7.12_hero_Riki",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Riki",
+    "descriptionHtml": "<ul><li><a>Tricks of the Trade</a>reworked: Instead of hitting every hero in the AoE once per second, it hits a random hero once per 0.5/0.45/0.4 seconds</li><li>Tricks of the Trade will hit creeps if there are no heroes available</li><li>Tricks of the Trade duration increased from 3/4/5 to 4/5/6</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a3/Riki_Large.png/80px-Riki_Large.png"
+  },
+  {
+    "id": "7.12_hero_Rubick",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Rubick",
+    "descriptionHtml": "<ul><li><a>Telekinesis</a>cooldown increased from 22 to 28/26/24/22</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/57/Rubick_Large.png/80px-Rubick_Large.png"
+  },
+  {
+    "id": "7.12_hero_Sand-King",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Sand King",
+    "descriptionHtml": "<ul><li><a>Burrowstrike</a>stun duration rescaled from 2.17 to 1.9/2/2.1/2.2</li><li>Base movement speed reduced from 295 to 290</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e5/Sand_King_Large.png/80px-Sand_King_Large.png"
+  },
+  {
+    "id": "7.12_hero_Shadow-Demon",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Shadow Demon",
+    "descriptionHtml": "<ul><li><a>Demonic Purge</a>slow now always scales linearly with time from 100% to 20%</li><li>Demonic Purge cooldown increased from 40 to 60 (affects charge replenish)</li><li>Demonic Purge duration increased from 5 to 7 seconds</li><li>Demonic Purge no longer roots non-hero units for 3 seconds</li><li>Demonic Purge now continuously dispels the target</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/79/Shadow_Demon_Large.png/80px-Shadow_Demon_Large.png"
+  },
+  {
+    "id": "7.12_hero_Slark",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Slark",
+    "descriptionHtml": "<ul><li>Base HP regen increased from 1.5 to 2.75</li><li>Turn rate improved from 0.5 to 0.6</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Slark_Large.png/80px-Slark_Large.png"
+  },
+  {
+    "id": "7.12_hero_Slardar",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Slardar",
+    "descriptionHtml": "<ul><li><a>Guardian Sprint</a>no longer has a 15% damage amplification</li><li>Guardian Sprint duration reduced from 12 to 10</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/41/Slardar_Large.png/80px-Slardar_Large.png"
+  },
+  {
+    "id": "7.12_hero_Sniper",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Sniper",
+    "descriptionHtml": "<ul><li><a>Assassinate</a>mana cost reduced from 175/275/375 to 175/225/275</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a2/Sniper_Large.png/80px-Sniper_Large.png"
+  },
+  {
+    "id": "7.12_hero_Spectre",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Spectre",
+    "descriptionHtml": "<ul><li><a>Spectral Dagger</a>damage increased from 50/100/150/200 to 90/140/190/240</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0a/Spectre_Large.png/80px-Spectre_Large.png"
+  },
+  {
+    "id": "7.12_hero_Spirit-Breaker",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Spirit Breaker",
+    "descriptionHtml": "<ul><li><a>Empowering Haste</a>active no longer reduces your movement speed afterwards</li><li>Empowering Haste cooldown increased from 12 to 20</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f6/Spirit_Breaker_Large.png/80px-Spirit_Breaker_Large.png"
+  },
+  {
+    "id": "7.12_hero_Templar-Assassin",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Templar Assassin",
+    "descriptionHtml": "<ul><li>Movement speed increased from 300 to 310</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/50/Templar_Assassin_Large.png/80px-Templar_Assassin_Large.png"
+  },
+  {
+    "id": "7.12_hero_Timbersaw",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Timbersaw",
+    "descriptionHtml": "<ul><li><a>Chakram</a>mana cost per second reduced from 20/25/30 to 16/23/30</li><li>Chakram initial mana cost reduced from 100/150/200 to 80/140/200</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Timbersaw_Large.png/80px-Timbersaw_Large.png"
+  },
+  {
+    "id": "7.12_hero_Tiny",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Tiny",
+    "descriptionHtml": "<ul><li>Base Health Regen reduced from 2.5 to 1.5</li><li><a>Avalanche</a>cooldown increased from 17 to 20/19/18/17</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Tiny_Large.png/80px-Tiny_Large.png"
+  },
+  {
+    "id": "7.12_hero_Treant-Protector",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Treant Protector",
+    "descriptionHtml": "<ul><li>Base intelligence increased by 3</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7a/Treant_Protector_Large.png/80px-Treant_Protector_Large.png"
+  },
+  {
+    "id": "7.12_hero_Troll-Warlord",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Troll Warlord",
+    "descriptionHtml": "<ul><li><a>Berserker&apos;s Rage</a>base attack time improved from 1.5 to 1.45</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Troll_Warlord_Large.png/80px-Troll_Warlord_Large.png"
+  },
+  {
+    "id": "7.12_hero_Tusk",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Tusk",
+    "descriptionHtml": "<ul><li><a>Ice Shards</a>cooldown increased from 19/16/13/10 to 21/18/15/12</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Tusk_Large.png/80px-Tusk_Large.png"
+  },
+  {
+    "id": "7.12_hero_Undying",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Undying",
+    "descriptionHtml": "<ul><li>Undying<a>Zombie</a>critical health attack speed boost increased from 50 to 75</li><li><a>Flesh Golem</a>hero kill heal increased from 10% to 15/20/25%</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6b/Undying_Large.png/80px-Undying_Large.png"
+  },
+  {
+    "id": "7.12_hero_Warlock",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Warlock",
+    "descriptionHtml": "<ul><li><a>Golem&apos;s</a>attack damage increased from 75/100/125 to 75/125/175</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b9/Warlock_Large.png/80px-Warlock_Large.png"
+  },
+  {
+    "id": "7.12_hero_Windranger",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Windranger",
+    "descriptionHtml": "<ul><li>Fixed some clunkiness with how Windranger attacks the target during<a>Focus Fire</a></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Windranger_Large.png/80px-Windranger_Large.png"
+  },
+  {
+    "id": "7.12_hero_Winter-Wyvern",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Winter Wyvern",
+    "descriptionHtml": "<ul><li><a>Arctic Burn</a>attack range changed from 275/375/475/575 to 350/425/500/575</li><li>Base intelligence increased by 1</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c7/Winter_Wyvern_Large.png/80px-Winter_Wyvern_Large.png"
+  },
+  {
+    "id": "7.12_hero_Zeus",
+    "version": "7.12",
+    "category": "hero",
+    "label": "Zeus",
+    "descriptionHtml": "<ul><li>Attack range increased from 350 to 380</li><li>Base damage increased by 5</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/91/Zeus_Large.png/80px-Zeus_Large.png"
+  }
+]

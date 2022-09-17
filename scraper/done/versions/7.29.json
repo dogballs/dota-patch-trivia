@@ -1,0 +1,1824 @@
+[
+  {
+    "id": "7.29_general_General-updates",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Terrain updated with various changes</li></ul>"
+  },
+  {
+    "id": "7.29_item_Tango",
+    "version": "7.29",
+    "category": "item",
+    "label": "Tango",
+    "descriptionHtml": "<ul><li>Shared tangos now expire after 40 seconds. Tango pooling has been removed from the Strategy Phase UI.</li></ul>",
+    "imageSrc": "/commons/images/9/91/Tango.png"
+  },
+  {
+    "id": "7.29_item_Necronomicon",
+    "version": "7.29",
+    "category": "item",
+    "label": "Necronomicon",
+    "descriptionHtml": "<ul><li>Removed Item</li></ul>",
+    "imageSrc": "/commons/images/5/51/Necronomicon_1.png"
+  },
+  {
+    "id": "7.29_item_Satanic",
+    "version": "7.29",
+    "category": "item",
+    "label": "Satanic",
+    "descriptionHtml": "<ul><li>Cooldown reduced from 35 to 25</li><li>Unholy Rage can no longer be dispelled</li><li>Unholy Rage now applies a basic dispel on cast</li></ul>",
+    "imageSrc": "/commons/images/0/0e/Satanic.png"
+  },
+  {
+    "id": "7.29_item_Battle-Fury",
+    "version": "7.29",
+    "category": "item",
+    "label": "Battle Fury",
+    "descriptionHtml": "<ul><li>Mana regen reduced from 3.25 to 2.75</li><li>Creep cleave damage reduced from 50% to 40%</li></ul>",
+    "imageSrc": "/commons/images/a/a5/Battle_Fury.png"
+  },
+  {
+    "id": "7.29_item_Meteor-Hammer",
+    "version": "7.29",
+    "category": "item",
+    "label": "Meteor Hammer",
+    "descriptionHtml": "<ul><li>Stun duration reduced from 1.75 to 1.5</li><li>Building damage per second increased from 50 to 60</li></ul>",
+    "imageSrc": "/commons/images/a/a4/Meteor_Hammer.png"
+  },
+  {
+    "id": "7.29_item_Abyssal-Blade",
+    "version": "7.29",
+    "category": "item",
+    "label": "Abyssal Blade",
+    "descriptionHtml": "<ul><li>No longer has a blink effect. Now a melee ability.</li><li>Recipe cost reduced from 1750 to 1550 (total cost is 300 cheaper with Vitality Booster cost reduction change)</li></ul>",
+    "imageSrc": "/commons/images/7/70/Abyssal_Blade.png"
+  },
+  {
+    "id": "7.29_item_Tranquil-Boots",
+    "version": "7.29",
+    "category": "item",
+    "label": "Tranquil Boots",
+    "descriptionHtml": "<ul><li>Movement speed reduced from 70 to 65</li></ul>",
+    "imageSrc": "/commons/images/2/22/Tranquil_Boots.png"
+  },
+  {
+    "id": "7.29_item_Eul's-Scepter-of-Divinity",
+    "version": "7.29",
+    "category": "item",
+    "label": "Eul's Scepter of Divinity",
+    "descriptionHtml": "<ul><li>Cast range reduced from 575 to 550</li></ul>",
+    "imageSrc": "/commons/images/2/2e/Euls_Scepter_of_Divinity.png"
+  },
+  {
+    "id": "7.29_item_Wind-Waker",
+    "version": "7.29",
+    "category": "item",
+    "label": "Wind Waker",
+    "descriptionHtml": "<ul><li>Cast range reduced from 575 to 550</li><li>Cooldown reduced from 23 to 18</li></ul>",
+    "imageSrc": "/commons/images/0/06/Wind_Waker.png"
+  },
+  {
+    "id": "7.29_item_Boots-of-Travel",
+    "version": "7.29",
+    "category": "item",
+    "label": "Boots of Travel",
+    "descriptionHtml": "<ul><li>Movement speed reduced from 110 to 100</li></ul>",
+    "imageSrc": "/commons/images/d/d8/Boots_of_Travel.png"
+  },
+  {
+    "id": "7.29_item_Boots-of-Travel-2",
+    "version": "7.29",
+    "category": "item",
+    "label": "Boots of Travel 2",
+    "descriptionHtml": "<ul><li>Movement speed reduced from 130 to 120</li></ul>",
+    "imageSrc": "/commons/images/7/78/Boots_of_Travel2.png"
+  },
+  {
+    "id": "7.29_item_Swift-Blink",
+    "version": "7.29",
+    "category": "item",
+    "label": "Swift Blink",
+    "descriptionHtml": "<ul><li>No longer ignores movement speed limit</li></ul>",
+    "imageSrc": "/commons/images/0/0e/Swift_Blink.png"
+  },
+  {
+    "id": "7.29_item_Aether-Lens",
+    "version": "7.29",
+    "category": "item",
+    "label": "Aether Lens",
+    "descriptionHtml": "<ul><li>Cast range bonus reduced from 250 to 225</li></ul>",
+    "imageSrc": "/commons/images/e/ee/Aether_Lens.png"
+  },
+  {
+    "id": "7.29_item_Octarine-Core",
+    "version": "7.29",
+    "category": "item",
+    "label": "Octarine Core",
+    "descriptionHtml": "<ul><li>Cast range bonus reduced from 250 to 225</li></ul>",
+    "imageSrc": "/commons/images/2/2e/Octarine_Core.png"
+  },
+  {
+    "id": "7.29_item_Sentry-Ward",
+    "version": "7.29",
+    "category": "item",
+    "label": "Sentry Ward",
+    "descriptionHtml": "<ul><li>Cost reduced from 75 to 50</li><li>True Sight radius reduced from 1000 to 900</li></ul>",
+    "imageSrc": "/commons/images/5/53/Sentry_Ward.png"
+  },
+  {
+    "id": "7.29_item_Manta-Style",
+    "version": "7.29",
+    "category": "item",
+    "label": "Manta Style",
+    "descriptionHtml": "<ul><li>Melee illusions incoming damage reduced from 350% to 300%</li><li>Ranged illusions incoming damage reduced from 400% to 300% (same as melee)</li><li>Cooldown for ranged heroes reduced from 45 to 30 (same as melee)</li></ul>",
+    "imageSrc": "/commons/images/b/b3/Manta_Style.png"
+  },
+  {
+    "id": "7.29_item_Helm-of-Iron-Will",
+    "version": "7.29",
+    "category": "item",
+    "label": "Helm of Iron Will",
+    "descriptionHtml": "<ul><li>Armor increased from 5 to 6</li></ul>",
+    "imageSrc": "/commons/images/3/30/Helm_of_Iron_Will.png"
+  },
+  {
+    "id": "7.29_item_Armlet-of-Mordiggian",
+    "version": "7.29",
+    "category": "item",
+    "label": "Armlet of Mordiggian",
+    "descriptionHtml": "<ul><li>Armor increased from 5 to 6</li><li>Active health drain reduced from 50 to 40</li></ul>",
+    "imageSrc": "/commons/images/a/a2/Armlet_of_Mordiggian.png"
+  },
+  {
+    "id": "7.29_item_Energy-Booster",
+    "version": "7.29",
+    "category": "item",
+    "label": "Energy Booster",
+    "descriptionHtml": "<ul><li>Cost reduced from 900 to 800</li></ul>",
+    "imageSrc": "/commons/images/a/ad/Energy_Booster.png"
+  },
+  {
+    "id": "7.29_item_Vitality-Booster",
+    "version": "7.29",
+    "category": "item",
+    "label": "Vitality Booster",
+    "descriptionHtml": "<ul><li>Cost reduced from 1100 to 1000</li></ul>",
+    "imageSrc": "/commons/images/6/65/Vitality_Booster.png"
+  },
+  {
+    "id": "7.29_item_Heart-of-Tarrasque",
+    "version": "7.29",
+    "category": "item",
+    "label": "Heart of Tarrasque",
+    "descriptionHtml": "<ul><li>Recipe cost increased from 900 to 1300</li></ul>",
+    "imageSrc": "/commons/images/a/a6/Heart_of_Tarrasque.png"
+  },
+  {
+    "id": "7.29_item_Aether-Lens",
+    "version": "7.29",
+    "category": "item",
+    "label": "Aether Lens",
+    "descriptionHtml": "<ul><li>Recipe cost increased from 550 to 650</li></ul>",
+    "imageSrc": "/commons/images/e/ee/Aether_Lens.png"
+  },
+  {
+    "id": "7.29_item_Aeon-Disk",
+    "version": "7.29",
+    "category": "item",
+    "label": "Aeon Disk",
+    "descriptionHtml": "<ul><li>Recipe cost increased from 1100 to 1200</li></ul>",
+    "imageSrc": "/commons/images/0/0a/Aeon_Disk.png"
+  },
+  {
+    "id": "7.29_item_Black-King-Bar",
+    "version": "7.29",
+    "category": "item",
+    "label": "Black King Bar",
+    "descriptionHtml": "<ul><li>Cooldown increased from 70 to 75</li><li>Duration rescaled from 10/9/8/7/6/5 to 9/8/7/6</li></ul>",
+    "imageSrc": "/commons/images/8/85/Black_King_Bar.png"
+  },
+  {
+    "id": "7.29_item_Clarity",
+    "version": "7.29",
+    "category": "item",
+    "label": "Clarity",
+    "descriptionHtml": "<ul><li>Duration reduced from 30 to 25 (180 mana to 150)</li></ul>",
+    "imageSrc": "/commons/images/d/d7/Clarity.png"
+  },
+  {
+    "id": "7.29_item_Bottle",
+    "version": "7.29",
+    "category": "item",
+    "label": "Bottle",
+    "descriptionHtml": "<ul><li>Cost increased from 625 to 675</li><li>Mana regen reduced from 75 to 65</li><li>HP regen reduced from 125 to 115</li></ul>",
+    "imageSrc": "/commons/images/5/5d/Bottle.png"
+  },
+  {
+    "id": "7.29_item_Headdress",
+    "version": "7.29",
+    "category": "item",
+    "label": "Headdress",
+    "descriptionHtml": "<ul><li>Now provides +0.5 HP regen to the holder</li></ul>",
+    "imageSrc": "/commons/images/e/ea/Headdress.png"
+  },
+  {
+    "id": "7.29_item_Ring-of-Basilius",
+    "version": "7.29",
+    "category": "item",
+    "label": "Ring of Basilius",
+    "descriptionHtml": "<ul><li>Mana regen aura reduced from 1.4 to 1</li><li>Now provides +0.6 mana regen to the holder</li></ul>",
+    "imageSrc": "/commons/images/a/a4/Ring_of_Basilius.png"
+  },
+  {
+    "id": "7.29_item_Buckler",
+    "version": "7.29",
+    "category": "item",
+    "label": "Buckler",
+    "descriptionHtml": "<ul><li>Now provides +1 armor to the holder</li><li>Recipe cost increased from 200 to 250 (matches the other early aura items)</li></ul>",
+    "imageSrc": "/commons/images/7/74/Buckler.png"
+  },
+  {
+    "id": "7.29_item_Pipe-of-Insight",
+    "version": "7.29",
+    "category": "item",
+    "label": "Pipe of Insight",
+    "descriptionHtml": "<ul><li>HP Regen aura increased from 2 to 2.5</li></ul>",
+    "imageSrc": "/commons/images/1/1e/Pipe_of_Insight.png"
+  },
+  {
+    "id": "7.29_item_Mekansm",
+    "version": "7.29",
+    "category": "item",
+    "label": "Mekansm",
+    "descriptionHtml": "<ul><li>HP Regen aura increased from 2 to 2.5</li><li>Reduced Mekansm Restore mana cost from 200 to 100</li></ul>",
+    "imageSrc": "/commons/images/b/b8/Mekansm.png"
+  },
+  {
+    "id": "7.29_item_Veil-of-Discord",
+    "version": "7.29",
+    "category": "item",
+    "label": "Veil of Discord",
+    "descriptionHtml": "<ul><li>Mana regen aura increased from 1.5 to 1.75</li></ul>",
+    "imageSrc": "/commons/images/f/f0/Veil_of_Discord.png"
+  },
+  {
+    "id": "7.29_item_Vladmir's-Offering",
+    "version": "7.29",
+    "category": "item",
+    "label": "Vladmir's Offering",
+    "descriptionHtml": "<ul><li>Mana regen aura increased from 1.5 to 1.75</li><li>Recipe cost reduced from 600 to 500 (total cost reduced from 2750 to 2700)</li></ul>",
+    "imageSrc": "/commons/images/f/f5/Vladmirs_Offering.png"
+  },
+  {
+    "id": "7.29_item_Force-Staff",
+    "version": "7.29",
+    "category": "item",
+    "label": "Force Staff",
+    "descriptionHtml": "<ul><li>Ring of Regeneration replaced with Fluffy Hat (+150 Health instead of regen)</li><li>Recipe reduced from 1000 to 950 (overall cost increased from 2175 to 2200)</li></ul>",
+    "imageSrc": "/commons/images/9/9f/Force_Staff.png"
+  },
+  {
+    "id": "7.29_item_Hurricane-Pike",
+    "version": "7.29",
+    "category": "item",
+    "label": "Hurricane Pike",
+    "descriptionHtml": "<ul><li>Now has +200 Health instead of +2.5 HP Regen</li><li>Intelligence increased from 13 to 15</li></ul>",
+    "imageSrc": "/commons/images/7/78/Hurricane_Pike.png"
+  },
+  {
+    "id": "7.29_item_Diffusal-Blade",
+    "version": "7.29",
+    "category": "item",
+    "label": "Diffusal Blade",
+    "descriptionHtml": "<ul><li>Manabreak damage per mana burned increased from 80% to 100%</li><li>Manabreak on melee illusions reduced from 16 to 12</li><li>Agility increased from 20 to 24</li><li>Intelligence increased from 10 to 12</li></ul>",
+    "imageSrc": "/commons/images/a/a4/Diffusal_Blade.png"
+  },
+  {
+    "id": "7.29_item_Solar-Crest",
+    "version": "7.29",
+    "category": "item",
+    "label": "Solar Crest",
+    "descriptionHtml": "<ul><li>Recipe changed to Medallion, Crown, Wind Lace and a 900 gold recipe (1150 cheaper)</li><li>Armor reduced from +8 to +6</li><li>All Stats reduced from +10 to +5</li><li>Shine active armor reduced from 8 to 6</li><li>Shine attack speed addition/removal reduced from 80 to 65</li></ul>",
+    "imageSrc": "/commons/images/5/59/Solar_Crest.png"
+  },
+  {
+    "id": "7.29_item_Vanguard",
+    "version": "7.29",
+    "category": "item",
+    "label": "Vanguard",
+    "descriptionHtml": "<ul><li>Block chance increased from 50% to 60%</li></ul>",
+    "imageSrc": "/commons/images/f/fd/Vanguard.png"
+  },
+  {
+    "id": "7.29_item_Abyssal-Blade",
+    "version": "7.29",
+    "category": "item",
+    "label": "Abyssal Blade",
+    "descriptionHtml": "<ul><li>Block chance increased from 50% to 60%</li></ul>",
+    "imageSrc": "/commons/images/7/70/Abyssal_Blade.png"
+  },
+  {
+    "id": "7.29_item_Crimson-Guard",
+    "version": "7.29",
+    "category": "item",
+    "label": "Crimson Guard",
+    "descriptionHtml": "<ul><li>Block chance increased from 50% to 60%</li></ul>",
+    "imageSrc": "/commons/images/1/17/Crimson_Guard.png"
+  },
+  {
+    "id": "7.29_item_Slippers-of-Agility",
+    "version": "7.29",
+    "category": "item",
+    "label": "Slippers of Agility",
+    "descriptionHtml": "<ul><li>Cost reduced from 145 to 140</li></ul>",
+    "imageSrc": "/commons/images/c/c6/Slippers_of_Agility.png"
+  },
+  {
+    "id": "7.29_item_Gauntlets-of-Strength",
+    "version": "7.29",
+    "category": "item",
+    "label": "Gauntlets of Strength",
+    "descriptionHtml": "<ul><li>Cost reduced from 145 to 140</li></ul>",
+    "imageSrc": "/commons/images/5/56/Gauntlets_of_Strength.png"
+  },
+  {
+    "id": "7.29_item_Mantle-of-Intelligence",
+    "version": "7.29",
+    "category": "item",
+    "label": "Mantle of Intelligence",
+    "descriptionHtml": "<ul><li>Cost reduced from 145 to 140</li></ul>",
+    "imageSrc": "/commons/images/7/74/Mantle_of_Intelligence.png"
+  },
+  {
+    "id": "7.29_item_Bracer",
+    "version": "7.29",
+    "category": "item",
+    "label": "Bracer",
+    "descriptionHtml": "<ul><li>HP regen increased from 0.75 to 1</li></ul>",
+    "imageSrc": "/commons/images/7/7c/Bracer.png"
+  },
+  {
+    "id": "7.29_item_Sange-and-Yasha",
+    "version": "7.29",
+    "category": "item",
+    "label": "Sange and Yasha",
+    "descriptionHtml": "<ul><li>Attack speed reduced from 16 to 12</li></ul>",
+    "imageSrc": "/commons/images/1/1c/Sange_and_Yasha.png"
+  },
+  {
+    "id": "7.29_item_Yasha-and-Kaya",
+    "version": "7.29",
+    "category": "item",
+    "label": "Yasha and Kaya",
+    "descriptionHtml": "<ul><li>Attack speed reduced from 16 to 12</li></ul>",
+    "imageSrc": "/commons/images/0/00/Yasha_and_Kaya.png"
+  },
+  {
+    "id": "7.29_item_Kaya",
+    "version": "7.29",
+    "category": "item",
+    "label": "Kaya",
+    "descriptionHtml": "<ul><li>Mana regen amp increased from +24% to +50%</li></ul>",
+    "imageSrc": "/commons/images/9/97/Kaya.png"
+  },
+  {
+    "id": "7.29_item_Kaya-and-Sange",
+    "version": "7.29",
+    "category": "item",
+    "label": "Kaya and Sange",
+    "descriptionHtml": "<ul><li>Mana regen amp increased from +30% to +50%</li></ul>",
+    "imageSrc": "/commons/images/0/0e/Kaya_and_Sange.png"
+  },
+  {
+    "id": "7.29_item_Yasha-and-Kaya",
+    "version": "7.29",
+    "category": "item",
+    "label": "Yasha and Kaya",
+    "descriptionHtml": "<ul><li>Mana regen amp increased from +30% to +50%</li></ul>",
+    "imageSrc": "/commons/images/0/00/Yasha_and_Kaya.png"
+  },
+  {
+    "id": "7.29_item_Dragon-Lance",
+    "version": "7.29",
+    "category": "item",
+    "label": "Dragon Lance",
+    "descriptionHtml": "<ul><li>Agility increased from 14 to 16</li></ul>",
+    "imageSrc": "/commons/images/1/18/Dragon_Lance.png"
+  },
+  {
+    "id": "7.29_item_Mekansm",
+    "version": "7.29",
+    "category": "item",
+    "label": "Mekansm",
+    "descriptionHtml": "<ul><li>Mana cost reduced from 200 to 100</li></ul>",
+    "imageSrc": "/commons/images/b/b8/Mekansm.png"
+  },
+  {
+    "id": "7.29_item_Mage-Slayer",
+    "version": "7.29",
+    "category": "item",
+    "label": "Mage Slayer",
+    "descriptionHtml": "<ul><li>Recipe cost reduced from 600 to 400</li></ul>",
+    "imageSrc": "/commons/images/6/6a/Mage_Slayer.png"
+  },
+  {
+    "id": "7.29_item_Blade-Mail",
+    "version": "7.29",
+    "category": "item",
+    "label": "Blade Mail",
+    "descriptionHtml": "<ul><li>Recipe cost reduced from 675 to 575</li></ul>",
+    "imageSrc": "/commons/images/4/47/Blade_Mail.png"
+  },
+  {
+    "id": "7.29_item_Echo-Sabre",
+    "version": "7.29",
+    "category": "item",
+    "label": "Echo Sabre",
+    "descriptionHtml": "<ul><li>Strength increased from 12 to 15</li></ul>",
+    "imageSrc": "/commons/images/2/26/Echo_Sabre.png"
+  },
+  {
+    "id": "7.29_item_Helm-of-the-Dominator",
+    "version": "7.29",
+    "category": "item",
+    "label": "Helm of the Dominator",
+    "descriptionHtml": "<ul><li>Bounty reduced from 200 to 100</li><li>Creep movement speed reduced from 425 to 380 (affects the upgrade as well)</li></ul>",
+    "imageSrc": "/commons/images/6/61/Helm_of_the_Dominator.png"
+  },
+  {
+    "id": "7.29_item_Helm-of-the-Overlord",
+    "version": "7.29",
+    "category": "item",
+    "label": "Helm of the Overlord",
+    "descriptionHtml": "<ul><li>Renamed from Helm of the Dominator 2 to Helm of the Overlord and added to the shop UI as an independent item</li><li>Can now dominate up to two units (150 bounty)</li></ul>",
+    "imageSrc": "/commons/images/5/5f/Helm_of_the_Overlord.png"
+  },
+  {
+    "id": "7.29_item_Shadow-Blade",
+    "version": "7.29",
+    "category": "item",
+    "label": "Shadow Blade",
+    "descriptionHtml": "<ul><li>Cooldown reduced from 28 to 25</li></ul>",
+    "imageSrc": "/commons/images/4/4a/Shadow_Blade.png"
+  },
+  {
+    "id": "7.29_item_Silver-Edge",
+    "version": "7.29",
+    "category": "item",
+    "label": "Silver Edge",
+    "descriptionHtml": "<ul><li>Mana regen increased from 3 to 4</li><li>Intelligence bonus increased from 10 to 15</li></ul>",
+    "imageSrc": "/commons/images/4/4a/Silver_Edge.png"
+  },
+  {
+    "id": "7.29_item_Divine-Rapier",
+    "version": "7.29",
+    "category": "item",
+    "label": "Divine Rapier",
+    "descriptionHtml": "<ul><li>No longer provides True Strike</li><li>Damage increased from 300 to 350</li></ul>",
+    "imageSrc": "/commons/images/1/1d/Divine_Rapier.png"
+  },
+  {
+    "id": "7.29_item_Monkey-King-Bar",
+    "version": "7.29",
+    "category": "item",
+    "label": "Monkey King Bar",
+    "descriptionHtml": "<ul><li>Proc chance increased from 75% to 80%</li></ul>",
+    "imageSrc": "/commons/images/0/0a/Monkey_King_Bar.png"
+  },
+  {
+    "id": "7.29_item_Mjollnir",
+    "version": "7.29",
+    "category": "item",
+    "label": "Mjollnir",
+    "descriptionHtml": "<ul><li>Chain Lightning damage increased from 170 to 180</li><li>Static Charge damage increased from 200 to 225</li></ul>",
+    "imageSrc": "/commons/images/b/b7/Mjollnir.png"
+  },
+  {
+    "id": "7.29_item_Soul-Ring",
+    "version": "7.29",
+    "category": "item",
+    "label": "Soul Ring",
+    "descriptionHtml": "<ul><li>Recipe cost reduced from 275 to 225</li></ul>",
+    "imageSrc": "/commons/images/d/d4/Soul_Ring.png"
+  },
+  {
+    "id": "7.29_item_Quelling-Blade",
+    "version": "7.29",
+    "category": "item",
+    "label": "Quelling Blade",
+    "descriptionHtml": "<ul><li>Bonus damage reduced from 13 to 12</li></ul>",
+    "imageSrc": "/commons/images/4/43/Quelling_Blade.png"
+  },
+  {
+    "id": "7.29_item_Witch-Blade",
+    "version": "7.29",
+    "category": "item",
+    "label": "Witch Blade",
+    "descriptionHtml": "<ul><li>Poison attack now has True Strike</li></ul>",
+    "imageSrc": "/commons/images/f/f9/Witch_Blade.png"
+  },
+  {
+    "id": "7.29_item_Shiva's-Guard",
+    "version": "7.29",
+    "category": "item",
+    "label": "Shiva's Guard",
+    "descriptionHtml": "<ul><li>Cooldown reduced from 30 to 27</li></ul>",
+    "imageSrc": "/commons/images/8/89/Shivas_Guard.png"
+  },
+  {
+    "id": "7.29_item_Urn-of-Shadows",
+    "version": "7.29",
+    "category": "item",
+    "label": "Urn of Shadows",
+    "descriptionHtml": "<ul><li>Mana regen reduced from 1.5 to 1.4</li></ul>",
+    "imageSrc": "/commons/images/7/78/Urn_of_Shadows.png"
+  },
+  {
+    "id": "7.29_item_Scythe-of-Vyse",
+    "version": "7.29",
+    "category": "item",
+    "label": "Scythe of Vyse",
+    "descriptionHtml": "<ul><li>Cooldown reduced from 22 to 20</li></ul>",
+    "imageSrc": "/commons/images/b/b3/Scythe_of_Vyse.png"
+  },
+  {
+    "id": "7.29_item_Talisman-of-Evasion",
+    "version": "7.29",
+    "category": "item",
+    "label": "Talisman of Evasion",
+    "descriptionHtml": "<ul><li>Cost reduced from 1400 to 1300</li></ul>",
+    "imageSrc": "/commons/images/1/10/Talisman_of_Evasion.png"
+  },
+  {
+    "id": "7.29_item_Veil-of-Discord",
+    "version": "7.29",
+    "category": "item",
+    "label": "Veil of Discord",
+    "descriptionHtml": "<ul><li>Cast range increased from 1000 to 1200</li><li>Cooldown reduced from 25 to 22</li></ul>",
+    "imageSrc": "/commons/images/f/f0/Veil_of_Discord.png"
+  },
+  {
+    "id": "7.29_item_Holy-Locket",
+    "version": "7.29",
+    "category": "item",
+    "label": "Holy Locket",
+    "descriptionHtml": "<ul><li>Passive charge regeneration time reduced from 15 to 10 seconds</li></ul>",
+    "imageSrc": "/commons/images/e/ec/Holy_Locket.png"
+  },
+  {
+    "id": "7.29_item_Infused-Raindrops",
+    "version": "7.29",
+    "category": "item",
+    "label": "Infused Raindrops",
+    "descriptionHtml": "<ul><li>Minimum damage threshold increased from 50 to 75</li></ul>",
+    "imageSrc": "/commons/images/1/10/Infused_Raindrop.png"
+  },
+  {
+    "id": "7.29_item_Dagon",
+    "version": "7.29",
+    "category": "item",
+    "label": "Dagon",
+    "descriptionHtml": "<ul><li>Cast range increased from 600/650/700/750/800 to 700/750/800/850/900</li><li>Recipe cost reduced from 1300 to 1250</li></ul>",
+    "imageSrc": "/commons/images/c/c3/Dagon.png"
+  },
+  {
+    "id": "7.29_item_Rod-of-Atos",
+    "version": "7.29",
+    "category": "item",
+    "label": "Rod of Atos",
+    "descriptionHtml": "<ul><li>Projectile speed increased from 1500 to 1750</li></ul>",
+    "imageSrc": "/commons/images/5/55/Rod_of_Atos.png"
+  },
+  {
+    "id": "7.29_item_Gleipnir",
+    "version": "7.29",
+    "category": "item",
+    "label": "Gleipnir",
+    "descriptionHtml": "<ul><li>Projectile speed increased from 1500 to 1750</li></ul>",
+    "imageSrc": "/commons/images/6/6e/Gleipnir.png"
+  },
+  {
+    "id": "7.29_item_Bloodthorn",
+    "version": "7.29",
+    "category": "item",
+    "label": "Bloodthorn",
+    "descriptionHtml": "<ul><li>Recipe cost reduced from 1000 to 800</li></ul>",
+    "imageSrc": "/commons/images/3/38/Bloodthorn.png"
+  },
+  {
+    "id": "7.29_item_Enchanted-Mango",
+    "version": "7.29",
+    "category": "item",
+    "label": "Enchanted Mango",
+    "descriptionHtml": "<ul><li>Can now be sold</li></ul>",
+    "imageSrc": "/commons/images/2/23/Enchanted_Mango.png"
+  },
+  {
+    "id": "7.29_item_Smoke-of-Deceit",
+    "version": "7.29",
+    "category": "item",
+    "label": "Smoke of Deceit",
+    "descriptionHtml": "<ul><li>Now dispelled by the fountain</li></ul>",
+    "imageSrc": "/commons/images/b/b4/Smoke_of_Deceit.png"
+  },
+  {
+    "id": "7.29_neutral-item_Royal-Jelly",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Royal Jelly",
+    "descriptionHtml": "<ul><li>Removed Item</li></ul>",
+    "imageSrc": "/commons/images/9/9f/Royal_Jelly.png"
+  },
+  {
+    "id": "7.29_neutral-item_Broom-Handle",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Broom Handle",
+    "descriptionHtml": "<ul><li>Damage increased from +12 to +14</li></ul>",
+    "imageSrc": "/commons/images/8/87/Broom_Handle.png"
+  },
+  {
+    "id": "7.29_neutral-item_Ocean-Heart",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Ocean Heart",
+    "descriptionHtml": "<ul><li>River HP/MP regen increased from 8/4 to 10/5</li></ul>",
+    "imageSrc": "/commons/images/8/86/Ocean_Heart.png"
+  },
+  {
+    "id": "7.29_neutral-item_Chipped-Vest",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Chipped Vest",
+    "descriptionHtml": "<ul><li>Health regen increased from 3.5 to 5</li><li>Return damage increased from 28/17 to 30/20</li></ul>",
+    "imageSrc": "/commons/images/4/41/Chipped_Vest.png"
+  },
+  {
+    "id": "7.29_neutral-item_Trusty-Shovel",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Trusty Shovel",
+    "descriptionHtml": "<ul><li>Now drops an Enchanted Mango instead of a TP Scroll</li></ul>",
+    "imageSrc": "/commons/images/9/99/Trusty_Shovel.png"
+  },
+  {
+    "id": "7.29_neutral-item_Imp-Claw",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Imp Claw",
+    "descriptionHtml": "<ul><li>Damage increased from +24 to +26</li></ul>",
+    "imageSrc": "/commons/images/f/fb/Imp_Claw.png"
+  },
+  {
+    "id": "7.29_neutral-item_Philosopher's-Stone",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Philosopher's Stone",
+    "descriptionHtml": "<ul><li>GPM increased from +70 to +80</li></ul>",
+    "imageSrc": "/commons/images/b/b9/Philosopher%27s_Stone.png"
+  },
+  {
+    "id": "7.29_neutral-item_Pupil's-Gift",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Pupil's Gift",
+    "descriptionHtml": "<ul><li>Secondary Attributes increased from +13 to +14</li></ul>",
+    "imageSrc": "/commons/images/a/a3/Pupil%27s_Gift.png"
+  },
+  {
+    "id": "7.29_neutral-item_Grove-Bow",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Grove Bow",
+    "descriptionHtml": "<ul><li>Magic resistance reduction increased from 12% to 15%</li></ul>",
+    "imageSrc": "/commons/images/5/5b/Grove_Bow.png"
+  },
+  {
+    "id": "7.29_neutral-item_Bullwhip",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Bullwhip",
+    "descriptionHtml": "<ul><li>Movement Speed change reduced from 20% to 18%</li><li>Cooldown reduced from 12 to 11</li><li>Mana regen reduced from 3 to 2.5</li></ul>",
+    "imageSrc": "/commons/images/4/44/Bullwhip.png"
+  },
+  {
+    "id": "7.29_neutral-item_Quicksilver-Amulet",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Quicksilver Amulet",
+    "descriptionHtml": "<ul><li>Passive movement speed reduced from 5% to 4%</li><li>Active movement speed reduced from 5% to 4%</li><li>Active attack speed increased from 15 to 20</li><li>Projectile and Attack Animation increased from 30% to 40%</li></ul>",
+    "imageSrc": "/commons/images/9/9f/Quicksilver_Amulet.png"
+  },
+  {
+    "id": "7.29_neutral-item_Mind-Breaker",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Mind Breaker",
+    "descriptionHtml": "<ul><li>Silence duration increased from 1.5 to 1.75</li><li>Cooldown reduced from 15 to 12</li></ul>",
+    "imageSrc": "/commons/images/c/c1/Mind_Breaker.png"
+  },
+  {
+    "id": "7.29_neutral-item_Psychic-Headband",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Psychic Headband",
+    "descriptionHtml": "<ul><li>Intelligence bonus increased from +12% to +16%</li></ul>",
+    "imageSrc": "/commons/images/7/78/Psychic_Headband.png"
+  },
+  {
+    "id": "7.29_neutral-item_Elven-Tunic",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Elven Tunic",
+    "descriptionHtml": "<ul><li>Movement speed reduced from 8% to 7%</li></ul>",
+    "imageSrc": "/commons/images/8/88/Elven_Tunic.png"
+  },
+  {
+    "id": "7.29_neutral-item_Spider-Legs",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Spider Legs",
+    "descriptionHtml": "<ul><li>Active movement speed reduced from +24% to +22%</li></ul>",
+    "imageSrc": "/commons/images/f/f3/Spider_Legs.png"
+  },
+  {
+    "id": "7.29_neutral-item_Paladin-Sword",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Paladin Sword",
+    "descriptionHtml": "<ul><li>Now provides +8% Spell Lifesteal</li></ul>",
+    "imageSrc": "/commons/images/c/cd/Paladin_Sword.png"
+  },
+  {
+    "id": "7.29_neutral-item_Telescope",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Telescope",
+    "descriptionHtml": "<ul><li>Attack and Cast Range reduced from 135 to 125</li></ul>",
+    "imageSrc": "/commons/images/6/6c/Telescope.png"
+  },
+  {
+    "id": "7.29_neutral-item_Illusionist's-Cape",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Illusionist's Cape",
+    "descriptionHtml": "<ul><li>Illusion bonus damage reduced from 8% to 6%</li></ul>",
+    "imageSrc": "/commons/images/7/74/Illusionist%27s_Cape.png"
+  },
+  {
+    "id": "7.29_neutral-item_Spell-Prism",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Spell Prism",
+    "descriptionHtml": "<ul><li>All stats reduced from +12 to +6</li></ul>",
+    "imageSrc": "/commons/images/8/8e/Spell_Prism.png"
+  },
+  {
+    "id": "7.29_neutral-item_Flicker",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Flicker",
+    "descriptionHtml": "<ul><li>Movement speed reduced from 40 to 35</li><li>Now always goes in a random forward direction with a random distance between 200 and 600</li></ul>",
+    "imageSrc": "/commons/images/1/1e/Flicker.png"
+  },
+  {
+    "id": "7.29_neutral-item_The-Leveller",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "The Leveller",
+    "descriptionHtml": "<ul><li>Now grants +5 Armor</li><li>Attack speed reduced from 60 to 50</li></ul>",
+    "imageSrc": "/commons/images/1/1f/The_Leveller.png"
+  },
+  {
+    "id": "7.29_neutral-item_Ninja-Gear",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Ninja Gear",
+    "descriptionHtml": "<ul><li>Movement speed reduced from +30 to +25</li><li>Agility increased from 20 to 24</li></ul>",
+    "imageSrc": "/commons/images/9/90/Ninja_Gear.png"
+  },
+  {
+    "id": "7.29_neutral-item_Trickster-Cloak",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Trickster Cloak",
+    "descriptionHtml": "<ul><li>No longer interrupts channeling abilities</li><li>Active can now be dispelled</li><li>Invisibility now provides phased movement</li><li>Now has a 0.2 second fade time</li></ul>",
+    "imageSrc": "/commons/images/d/da/Trickster_Cloak.png"
+  },
+  {
+    "id": "7.29_neutral-item_Penta-Edged-Sword",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Penta-Edged Sword",
+    "descriptionHtml": "<ul><li>Melee attack range increased from +80 to +100</li><li>Maim chance increased from 20% to 25%</li></ul>",
+    "imageSrc": "/commons/images/0/0b/Penta-Edged_Sword.png"
+  },
+  {
+    "id": "7.29_neutral-item_Ex-Machina",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Ex Machina",
+    "descriptionHtml": "<ul><li>Cooldown reduced from 30 to 25</li></ul>",
+    "imageSrc": "/commons/images/d/d9/Ex_Machina.png"
+  },
+  {
+    "id": "7.29_neutral-item_Force-Boots",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Force Boots",
+    "descriptionHtml": "<ul><li>Now also provides +30 HP Regen</li></ul>",
+    "imageSrc": "/commons/images/e/e9/Force_Boots.png"
+  },
+  {
+    "id": "7.29_neutral-item_Seer-Stone",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Seer Stone",
+    "descriptionHtml": "<ul><li>Reveal cooldown reduced from 70 to 60</li><li>Reveal now grants True Sight at the destination</li><li>Reveal duration increased from 5 to 6</li></ul>",
+    "imageSrc": "/commons/images/1/17/Seer_Stone.png"
+  },
+  {
+    "id": "7.29_neutral-item_Book-of-the-Dead",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Book of the Dead",
+    "descriptionHtml": "<ul><li>Cooldown reduced from 90 to 80</li><li>Units damage increased from +50% to +75%</li></ul>",
+    "imageSrc": "/commons/images/5/5a/Book_of_the_Dead.png"
+  },
+  {
+    "id": "7.29_neutral-item_Book-of-Shadows",
+    "version": "7.29",
+    "category": "neutral-item",
+    "label": "Book of Shadows",
+    "descriptionHtml": "<ul><li>Cooldown reduced from 15 to 8</li></ul>",
+    "imageSrc": "/commons/images/1/18/Book_of_Shadows.png"
+  },
+  {
+    "id": "7.29_hero_Abaddon",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Abaddon",
+    "descriptionHtml": "<ul><li><img></img>Base health regen increased from 0.5 to 1</li><li><img></img>Shard upgrade now also reduces Mist Coil and Aphotic Shield cooldowns by 1 second.</li><li><img></img>Mist Coil backswing reduced from 0.67 to 0.4</li><li><img></img>Mist Coil heal/damage rescaled from 120/165/210/255 to 110/160/210/260</li><li><img></img>Mist Coil self damage is now 50% of the values instead of fixed numbers</li><li><img></img>Aphotic Shield backswing reduced from 0.5 to 0.33</li><li><img></img>Aphotic Shield mana cost increased from 100/105/110/115 to 100/110/120/130</li><li><img></img>Borrowed Time scepter duration increased from 6/7/8 to 7/8/9</li><li><img></img>Level 15 Talent increased from +50 Mist Coil Heal/Damage to +55</li><li><img></img>Level 20 Talent increased from +8 Armor to +9</li><li><img></img>Level 25 Talent increased from 425 AoE Mist Coil to 500</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Abaddon_Large.png/80px-Abaddon_Large.png"
+  },
+  {
+    "id": "7.29_hero_Alchemist",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Alchemist",
+    "descriptionHtml": "<ul><li><img></img>Greevil&apos;s Greed gold bonus cap reduced from 18/21/24/27 to 15/18/21/24</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/11/Alchemist_Large.png/80px-Alchemist_Large.png"
+  },
+  {
+    "id": "7.29_hero_Ancient-Apparition",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Ancient Apparition",
+    "descriptionHtml": "<ul><li><img></img>Ice Vortex mana cost reduced from 40/55/70/85 to 40/50/60/70</li><li><img></img>Ice Vortex Cooldown increased from 4 to 7/6/5/4</li><li><img></img>Chilling Touch scepter now reduces mana cost by 50%</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5d/Ancient_Apparition_Large.png/80px-Ancient_Apparition_Large.png"
+  },
+  {
+    "id": "7.29_hero_Anti-Mage",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Anti-Mage",
+    "descriptionHtml": "<ul><li><img></img>Reworked Shard upgrade. Now causes Blink to have +300 range and reduces cooldown by 2.</li><li><img></img>Mana Void mana cost rescaled from 125/200/275 to 100/200/300</li><li><img></img>Blink Fragment scepter illusion incoming damage reduced from 250% to 200%</li><li><img></img>Blink Fragment Scepter illusion outgoing damage increased from 50% to 75%</li><li><img></img>Level 15 Talent changed from +300 Blink Cast Range to +0.6% Max Mana Burn</li><li><img></img>Level 20 Talent changed from -2s Blink Cooldown to +1s Mana Void Stun</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/70/Anti-Mage_Large.png/80px-Anti-Mage_Large.png"
+  },
+  {
+    "id": "7.29_hero_Arc-Warden",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Arc Warden",
+    "descriptionHtml": "<ul><li><img></img>Magnetic Field shard magic resistance increased from 20% to 40%</li><li><img></img>Magnetic Field shard now also slows enemies by 20%</li><li><img></img>Level 10 Talent reduced from +200 Flux Cast Range to +175</li><li><img></img>Level 10 Talent increased from +200 Health to +225</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Arc_Warden_Large.png/80px-Arc_Warden_Large.png"
+  },
+  {
+    "id": "7.29_hero_Axe",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Axe",
+    "descriptionHtml": "<ul><li><img></img>Attack point reduced from 0.5 to 0.4</li><li><img></img>Scepter upgrade cooldown reduction increased from 2 to 3</li><li><img></img>Shard now also increases proc chance by 10%</li><li><img></img>Level 10 Talent reduced from +1.75 Mana Regen to +1.5</li><li><img></img>Level 10 Talent changed from +25 Attack Speed to +9 Strength</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a1/Axe_Large.png/80px-Axe_Large.png"
+  },
+  {
+    "id": "7.29_hero_Bane",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Bane",
+    "descriptionHtml": "<ul><li><img></img>Reworked Shard upgrade. Causes Brain Sap to become a 550 target AoE spell. Secondary units heal for 25%.</li><li><img></img>Reworked Scepter upgrade. Reduces Fiend&apos;s Grip cooldown by 45 seconds and causes Fiend&apos;s Grip to create two uncontrollable illusions that channel Fiend&apos;s Grip on the target. Illusions take 700% damage.</li><li><img></img>Brain Sap backswing reduced from 0.84 to 0.5</li><li><img></img>Enfeeble attack damage reduction increased from 25/35/45/55 to 45/50/55/60%</li><li><img></img>Enfeeble health restoration reduction increased from 25/35/45/55 to 45/50/55/60%</li><li><img></img>Enfeeble cooldown rescaled from 20/16/12/8 to 28/21/14/7</li><li><img></img>Enfeeble cast range reduced from 1100 to 800/900/1000/1100</li><li><img></img>Enfeeble duration increased from 8 to 8/9/10/11</li><li><img></img>Level 15 Talent changed from +12% Spell Amplification to -3s Brain Sap cooldown</li><li><img></img>Level 15 Talent changed from +100 Cast Range to +5% Fiend&apos;s Grip Max Mana Drain</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/72/Bane_Large.png/80px-Bane_Large.png"
+  },
+  {
+    "id": "7.29_hero_Batrider",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Batrider",
+    "descriptionHtml": "<ul><li><img></img>Reworked Shard. Now causes Flamebreak to have two charges and apply a Sticky Napalm charge on impact.</li><li><img></img>Flamebreak backswing reduced from 0.63 to 0.4</li><li><img></img>Flamebreak range reduced from 1500 to 1300</li><li><img></img>Flamebreak debuff no longer stacks with multiple instances, but instead adds to the duration</li><li><img></img>Flaming Lasso backswing reduced from 0.63 to 0.4</li><li><img></img>Flaming Lasso damage per second increased from 20/40/60 to 35/55/75</li><li><img></img>Level 10 Talent increased from +4 Armor to +6</li><li><img></img>Level 20 Talent changed from 2 Flamebreak Charges to +20% Magic Resistance</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c1/Batrider_Large.png/80px-Batrider_Large.png"
+  },
+  {
+    "id": "7.29_hero_Beastmaster",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Beastmaster",
+    "descriptionHtml": "<ul><li><img></img>Base armor increased by 1</li><li><img></img>Divebomb Shard no longer grants free hawk control</li><li><img></img>Divebomb Shard now has 1200 cast range</li><li><img></img>Divebomb Shard stun duration increased from 1 to 2 seconds</li><li><img></img>Divebomb Shard damage increased from 175 to 250</li><li><img></img>Divebomb Shard can now target couriers</li><li><img></img>Hawk shard also lowers the cooldown by 15 seconds</li><li><img></img>Wild Axes scepter now also increases damage by +40</li><li><img></img>Wild Axes Mana cost reduced from 80 to 65</li><li><img></img>Primal Roar movement speed duration increased from 3 to 3/3.5/4</li><li><img></img>Level 10 Talent increased from +25 Damage to +30</li><li><img></img>Level 15 Talent changed from +6 Armor to +300 Health Beastmaster Controlled</li><li><img></img>Level 20 Talent changed from +50 Wild Axes Damage to -35s Primal Roar Cooldown</li><li><img></img>Level 25 Talent increased from +20 Inner Beast Attack Speed to +30</li><li><img></img>Level 25 Talent changed from +350 Health Beastmaster Controlled to +4% Wild Axes Damage Amp Per Stack</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/19/Beastmaster_Large.png/80px-Beastmaster_Large.png"
+  },
+  {
+    "id": "7.29_hero_Bloodseeker",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Bloodseeker",
+    "descriptionHtml": "<ul><li><img></img>Bloodrage backswing reduced from 0.63 to 0.4</li><li><img></img>Rupture now deals 10% of the target’s current health as damage on cast</li><li><img></img>Rupture damage reduced from 36/48/60% to 33/44/55%</li><li><img></img>Level 10 Talent increased from +6 Armor to +7</li><li><img></img>Level 15 Talent increased from +75 Blood Rite Damage to +85</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a6/Bloodseeker_Large.png/80px-Bloodseeker_Large.png"
+  },
+  {
+    "id": "7.29_hero_Bounty-Hunter",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Bounty Hunter",
+    "descriptionHtml": "<ul><li><img></img>Reworked Shard. Shadow Walk now grants you 40% reduced incoming damage while invisible. Attacking out of invisibility stuns the target for 1 second. Lowers cooldown by 5 seconds.</li><li><img></img>Shadow Walk slow no longer pierces Spell Immunity</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/86/Bounty_Hunter_Large.png/80px-Bounty_Hunter_Large.png"
+  },
+  {
+    "id": "7.29_hero_Brewmaster",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Brewmaster",
+    "descriptionHtml": "<ul><li><img></img>Base movement speed increased from 305 to 310</li><li><img></img>Drunken Brawler passive evasion increased from 6/12/18/24% to 10/15/20/25%</li><li><img></img>Primal Split split time reduced from 0.65 to 0.55</li><li><img></img>Primal Split storm health increased from 1000/1400/1800 to 1000/1500/2000</li><li><img></img>Primal Split fire health increased from 1300 to 1300/1450/1600</li><li><img></img>Primal Split earth health increased from 1400/2200/3000 to 1400/2300/3200</li><li><img></img>Primal Split void health increased from 1200/1400/1600 to 1200/1500/1800</li><li><img></img>Primal Split shard cooldown for Astral Pulse reduced from 20 to 12</li><li><img></img>Primal Split shard void Astral Pulse cast point reduced from 0.25 to 0.15</li><li><img></img>Level 10 Talent changed from +1s Thunder Clap Slow to +200 Thunder Clap AoE</li><li><img></img>Level 10 Talent increased from +12 Damage to +15</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0b/Brewmaster_Large.png/80px-Brewmaster_Large.png"
+  },
+  {
+    "id": "7.29_hero_Bristleback",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Bristleback",
+    "descriptionHtml": "<ul><li><img></img>Base mana regen increased from 0 to 0.25</li><li><img></img>Quill Spray base damage increased from 20/40/60/80 to 25/45/65/85</li><li><img></img>Quill Spray stack damage reduced from 30/32/34/36 to 28/30/32/34</li><li><img></img>Viscous Nasal Goo armor loss per stack increased from 1.4/1.9/2.4/2.9 to 1.5/2/2.5/3</li><li><img></img>Viscous Nasal Goo scepter removes cast time</li><li><img></img>Level 10 Talent increased from +15 Movement Speed to +20</li><li><img></img>Level 10 Talent reduced from +2.5 Mana Regen to +2</li><li><img></img>Level 15 Talent increased from +15 Attack Speed to +20</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f9/Bristleback_Large.png/80px-Bristleback_Large.png"
+  },
+  {
+    "id": "7.29_hero_Broodmother",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Broodmother",
+    "descriptionHtml": "<ul><li><img></img>Agility increased by 4</li><li><img></img>Incapacitating Bite has been removed.</li><li><img></img>Spawn Spiderling debuff duration increased from 5 to 20</li><li><img></img>Spawn Spiderling debuff stacks (multiple instances of spiders will come out)</li><li><img></img>Reworked Shard. Now causes Silken Bola to be a 550 AoE spell and increases the miss rate to 80%</li><li><img></img>Spin Web count/charges increased from 2/4/6/8 to 3/5/7/9</li><li><img></img>Spin Web movement speed reduced from 25/35/45/55 to 18/30/42/54%</li><li><img></img>Spin Web replenish time improved from 45 to 40</li><li><img></img>Insatiable Hunger is now a basic ability.</li><li><img></img>Insatiable Hunger manacost reduced from 100 to 50/60/70/80</li><li><img></img>Insatiable Hunger damage reduced from 60/100/140 to 35/40/45/50</li><li><img></img>Insatiable Hunger lifesteal rescaled from 60/100/140 to 70/80/90/100%</li><li><img></img>Insatiable Hunger cooldown reduced from 45 to 40/35/30/25</li><li><img></img>Insatiable Hunger duration reduced from 14 to 8/10/12/14</li><li><img></img>Spawn Spiderlings is now an ultimate ability</li><li><img></img>Spawn Spiderlings cooldown rescaled from 11/10/9/8 to 9/8/7</li><li><img></img>Spawn Spiderlings damage increased from 70/140/210/280 to 300/370/440</li><li><img></img>Spawn Spiderlings spawn count rescaled from 1/2/3/4 to 3/4/5</li><li><img></img>Spawn Spiderlings cast range increased from 700 to 900</li><li><img></img>Silken Bola is now a basic ability and no longer roots</li><li><img></img>Silken Bola slows enemies by 25/35/45/55% for 6 seconds</li><li><img></img>Silken Bola now causes the enemy to miss 40% of attacks</li><li><img></img>Silken Bola deals 100/120/140/160 impact damage</li><li><img></img>Silken Bola causes attacks on the target to deal +5/6/7/8 magical damage per hit</li><li><img></img>Silken Bola costs 70/75/80/85 mana and has 24/20/16/12 cooldown</li><li><img></img>Silken Bola cast range is 750</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0c/Broodmother_Large.png/80px-Broodmother_Large.png"
+  },
+  {
+    "id": "7.29_hero_Centaur-Warrunner",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Centaur Warrunner",
+    "descriptionHtml": "<ul><li><img></img>Hoof Stomp AoE increased from 315 to 330</li><li><img></img>Double Edge cast point reduced from 0.4 to 0.3</li><li><img></img>Double Edge shard slow increased from 15% to 25%</li><li><img></img>Double Edge shard buff duration increased from 12 to 15 seconds</li><li><img></img>Retaliate strength damage return increased from 20/25/30/35% to 20/26/32/38%</li><li><img></img>Stampede cooldown reduced from 110/100/90 to 90</li><li><img></img>Stampede damage reduced from 200/250/300% to 150/225/300%</li><li><img></img>Stampede scepter now also increases duration by 1 second</li><li><img></img>Level 10 Talent increased from +15 Movement Speed to +20</li><li><img></img>Level 10 Talent increased from +5 Health Regen to +6</li><li><img></img>Level 15 Talent changed from +1s Stampede Duration to +6 Armor</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Centaur_Warrunner_Large.png/80px-Centaur_Warrunner_Large.png"
+  },
+  {
+    "id": "7.29_hero_Chaos-Knight",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Chaos Knight",
+    "descriptionHtml": "<ul><li><img></img>Chaos Bolt backswing reduced from 0.73 to 0.4</li><li><img></img>Chaos Bolt shard illusion now always lasts 6 seconds, rather than the duration of the stun.</li><li><img></img>Level 15 Talent changed from +14% Cooldown Reduction to +35% Cleave</li><li><img></img>Level 20 Talent changed from +8s Phantasm Duration to +0.5s Min/Max Chaos Bolt Duration</li><li><img></img>Level 25 Talent changed from +1s Min/Max Chaos Bolt Duration to +10s Phantasm Duration</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/46/Chaos_Knight_Large.png/80px-Chaos_Knight_Large.png"
+  },
+  {
+    "id": "7.29_hero_Chen",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Chen",
+    "descriptionHtml": "<ul><li><img></img>Base mana regen increased from 0 to 0.5</li><li><img></img>Hand of God heal increased from 250/425/600 to 275/450/625</li><li><img></img>Divine Favor shard mana cost reduced from 200 to 100</li><li><img></img>Divine Favor shard cast range increased from 500 to 600</li><li><img></img>Divine Favor shard cooldown reduced from 35 to 25</li><li><img></img>Level 10 Talent changed from +175 Cast Range to Penitence Deals 250 Damage</li><li><img></img>Level 20 Talent increased from +800 Holy Persuasion Minimum Health to +1200</li><li><img></img>Level 20 Talent increased from -24s Hand of God cooldown to -40s</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7d/Chen_Large.png/80px-Chen_Large.png"
+  },
+  {
+    "id": "7.29_hero_Clinkz",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Clinkz",
+    "descriptionHtml": "<ul><li><img></img>Strength changed from 14 + 2.2 to 16 + 2.0</li><li><img></img>Strafe mana cost increased from 40/50/60/70 to 70</li><li><img></img>Skeleton Walk shard skeleton duration reduced from 60 to 45 seconds</li><li><img></img>Burning Army scepter spawn interval reduced from 0.7 to 0.5</li><li><img></img>Burning Army scepter cooldown reduced from 90 to 80</li><li><img></img>Level 15 Talent increased from +25 Searing Arrows Damage to +30</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4d/Clinkz_Large.png/80px-Clinkz_Large.png"
+  },
+  {
+    "id": "7.29_hero_Clockwerk",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Clockwerk",
+    "descriptionHtml": "<ul><li><img></img>Jetpack shard movement speed bonus reduced from 22% to 20%</li><li><img></img>Jetpack shard cooldown reduced from 20 to 16</li><li><img></img>Level 10 Talent increased from +4 Armor to +5</li><li><img></img>Level 10 Talent increased from +15 Movement Speed to +20</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b8/Clockwerk_Large.png/80px-Clockwerk_Large.png"
+  },
+  {
+    "id": "7.29_hero_Crystal-Maiden",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Crystal Maiden",
+    "descriptionHtml": "<ul><li><img></img>Reworked Shard. Now allows you to move, cast, and attack during Freezing Field. Your movement speed is reduced by 75% during this and the Freezing Field follows your movement. Interruptions and Silences will still interrupt the spell.</li><li><img></img>Level 10 Talent changed from +75 Cast Range to +125 Crystal Nova AoE</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dc/Crystal_Maiden_Large.png/80px-Crystal_Maiden_Large.png"
+  },
+  {
+    "id": "7.29_hero_Dark-Seer",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Dark Seer",
+    "descriptionHtml": "<ul><li><img></img>Ion Shell damage interval increased from 0.1 to 0.15</li><li><img></img>Ion Shell damage increased from 24/46/68/90 to 30/50/70/90</li><li><img></img>Ion Shell mana cost increased from 100/110/120/130 to 110/120/130/140</li><li><img></img>Ion Shell scepter max health reduced from 350 to 300</li><li><img></img>Vacuum backswing reduced from 0.7 to 0.4</li><li><img></img>Normal Punch shard max distance required reduced from 1500 to 900</li><li><img></img>Normal Punch shard illusion outgoing damage increased from 40% to 80%</li><li><img></img>Normal Punch shard illusion incoming damage reduced from 300% to 200%</li><li><img></img>Level 10 Talent changed from +60 Vacuum AoE to +6 Armor</li><li><img></img>Level 15 Talent changed from +6 Armor to +100 Vacuum AoE</li><li><img></img>Level 20 Talent changed from +1s Wall of Replica slow to -30s Wall of Replica cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6f/Dark_Seer_Large.png/80px-Dark_Seer_Large.png"
+  },
+  {
+    "id": "7.29_hero_Dark-Willow",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Dark Willow",
+    "descriptionHtml": "<ul><li><img></img>Base health regen increased from 0 to 0.5</li><li><img></img>Shadow Realm cooldown reduced from 32/26/20/14 to 26/22/18/14</li><li><img></img>Bramble Maze damage rescaled from 125/150/175/200 to 120/160/200/240</li><li><img></img>Bramble Maze cast range reduced from 1100/1200/1300/1400 to 1000/1100/1200/1300</li><li><img></img>Terrorize cast range reduced from 1300 to 1200</li><li><img></img>Cursed Crown shard also reduces delay by 1 second</li><li><img></img>Level 15 Talent changed from +125 Cast Range to +160 Cursed Crown AoE</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5e/Dark_Willow_Large.png/80px-Dark_Willow_Large.png"
+  },
+  {
+    "id": "7.29_hero_Dazzle",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Dazzle",
+    "descriptionHtml": "<ul><li><img></img>Turn rate improved from 0.6 to 0.7</li><li><img></img>Reworked Shard upgrade. Now causes Poison Touch to hex affected targets for 1.25 seconds.</li><li><img></img>Poison Touch now does its first instance of damage immediately on impact</li><li><img></img>Shadow Wave scepter heal increased from +60 to +100</li><li><img></img>Shadow Wave scepter damage increased from +80 to +100</li><li><img></img>Shallow Grave cast time improved from 0.4 to 0.3</li><li><img></img>Shallow Grave cooldown reduced from 42/34/26/18 to 36/30/24/18</li><li><img></img>Level 15 increased from +35 Attack Speed to +60</li><li><img></img>Level 15 Talent changed from +150 Cast Range to 250 Heal On Shallow Grave End</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e3/Dazzle_Large.png/80px-Dazzle_Large.png"
+  },
+  {
+    "id": "7.29_hero_Death-Prophet",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Death Prophet",
+    "descriptionHtml": "<ul><li><img></img>Attack point reduced from 0.56 to 0.5</li><li><img></img>Base damage reduced from 51-63 to 47-57</li><li><img></img>Movement speed reduced from 335 to 320</li><li><img></img>Reworked Shard. Increases Spirit Siphon charges by 1 and causes enemies to be feared for 2 seconds if they are siphoned for 4 seconds consecutively.</li><li><img></img>Crypt Swarm backswing reduced from 0.87 to 0.5</li><li><img></img>Level 15 Talent changed from +150 Cast Range to +6% Movement Speed</li><li><img></img>Level 20 Talent increased from -3s Crypt Swarm Cooldown to -3.5</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/80/Death_Prophet_Large.png/80px-Death_Prophet_Large.png"
+  },
+  {
+    "id": "7.29_hero_Disruptor",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Disruptor",
+    "descriptionHtml": "<ul><li><img></img>Thunder Strike shard radius increased from 500 to 650</li><li><img></img>Thunder Strike shard now always increases the radius, rather than only on allies</li><li><img></img>Thunder Strike shard allied bonus duration increased from 1 to 1.25 seconds</li><li><img></img>Glimpse cooldown reduced from 60/46/32/18 to 48/38/28/18</li><li><img></img>Level 15 Talent changed from +1.5s Static Storm Duration to +2s</li><li><img></img>Level 15 Talent changed from +125 Cast Range to +275 Glimpse Arrival Damage</li><li><img></img>Level 20 Talent changed from Kinetic Field Grants True Sight to +2s Kinetic Field Duration</li><li><img></img>Level 25 Talent increased from -8s Glimpse Cooldown to -11</li><li><img></img>Level 25 Talent changed from +3s Kinetic Field Duration to +275 Static Storm AoE</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b7/Disruptor_Large.png/80px-Disruptor_Large.png"
+  },
+  {
+    "id": "7.29_hero_Doom",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Doom",
+    "descriptionHtml": "<ul><li><img></img>Base armor increased from 0 to 3</li><li><img></img>Base damage increased from 54-70 to 58-68</li><li><img></img>Base attack time improved from 2.0 to 1.9</li><li><img></img>Devour no longer provides health regen</li><li><img></img>Devour backswing reduced from 0.93 to 0.5</li><li><img></img>Devour gold bonus increased from 50/100/150/200 to 60/120/180/240</li><li><img></img>Scorched Earth backswing reduced from 0.83 to 0.5</li><li><img></img>Doom backswing reduced from 0.73 to 0.4</li><li><img></img>Doom scepter no longer reduces cooldown</li><li><img></img>Doom scepter now also increases Doom duration by 6 seconds</li><li><img></img>Level 10 Talent changed from +3s Doom Duration to +12% Magic Resistance</li><li><img></img>Level 10 Talent changed from +10% Scorched Earth Movement Speed to +20 Scorched Earth Damage</li><li><img></img>Level 15 Talent changed from +30 Scorched Earth Damage to -10s Scorched Earth Cooldown</li><li><img></img>Level 15 Talent changed from +120 Devour Bonus Gold to Devour Can Target Ancients</li><li><img></img>Level 20 Talent changed from Devour Can Target Ancients to +15% Scorched Earth Movement Speed</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/19/Doom_Large.png/80px-Doom_Large.png"
+  },
+  {
+    "id": "7.29_hero_Dragon-Knight",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Dragon Knight",
+    "descriptionHtml": "<ul><li><img></img>Fireball shard can now be used in melee form. Has 600 cast range when used that way (compared to 1400 in dragon form)</li><li><img></img>Dragon Tail mana cost reduced from 100 to 70/80/90/100</li><li><img></img>Dragon Tail Cooldown increased from 12/11/10/9 to 16/14/12/10</li><li><img></img>Dragon Tail damage increased from 50/75/100/125 to 70/100/130/160</li><li><img></img>Level 10 Talent increased from -24% Breathe Fire Damage Reduction to -30%</li><li><img></img>Level 10 Talent changed from +2 Mana Regen to +15 Damage</li><li><img></img>Level 15 Talent changed from +25 Damage to +0.5s Dragon Tail Stun Duration</li><li><img></img>Level 20 Talent changed from +15% Cooldown Reduction to +150 Elder Dragon Form Attack Range</li><li><img></img>Level 25 Talent changed from 1.8x Dragon Blood to +12 Dragon Blood Armor and Regeneration</li><li><img></img>Level 25 Talent changed from +1.6s Dragon Tail to +375 AoE Dragon Tail During Dragon Form</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/da/Dragon_Knight_Large.png/80px-Dragon_Knight_Large.png"
+  },
+  {
+    "id": "7.29_hero_Drow-Ranger",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Drow Ranger",
+    "descriptionHtml": "<ul><li><img></img>Attack point reduced from 0.55 to 0.5</li><li><img></img>Frost Arrows shard burst slow increased from 25% to 40%</li><li><img></img>Frost Arrows shard now affects creeps</li><li><img></img>Gust mana cost reduced from 90 to 70</li><li><img></img>Level 15 Talent increased from -6s Multishot Cooldown to -8s</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7e/Drow_Ranger_Large.png/80px-Drow_Ranger_Large.png"
+  },
+  {
+    "id": "7.29_hero_Earth-Spirit",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Earth Spirit",
+    "descriptionHtml": "<ul><li><img></img>Boulder Smash stone slow reduced from 60% to 50%</li><li><img></img>Geomagnetic Grip remnant pull speed reduced from 1000 to 900 (same as Boulder Smash)</li><li><img></img>Stone Remnant vision radius reduced from 400 to 375</li><li><img></img>Enchant Remnant scepter damage increased from 300 to 450</li><li><img></img>Enchant Remnant scepter radius increased from 300 to 450</li><li><img></img>Rolling Boulder distance reduced from 800 to 750</li><li><img></img>Rolling Boulder stone distance reduced from 1600 to 1500</li><li><img></img>Rolling Boulder damage increased from 70/80/90/100 to 70/90/110/130</li><li><img></img>Level 10 Talent increased from +50 Damage to +60</li><li><img></img>Level 15 Talent increased from +6 Armor to +8</li><li><img></img>Level 20 Talent increased from +16% Spell Amplification to +18%</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/2b/Earth_Spirit_Large.png/80px-Earth_Spirit_Large.png"
+  },
+  {
+    "id": "7.29_hero_Earthshaker",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Earthshaker",
+    "descriptionHtml": "<ul><li><img></img>Enchant Totem no longer has True Strike</li><li><img></img>Enchant Totem no longer gets consumed if the attack misses</li><li><img></img>Enchant Totem scepter leap range reduced from 1100 to 950</li><li><img></img>Enchant Totem scepter now also provides +40% Cleave with Enchant Totem buff</li><li><img></img>Level 15 Talent increased from +6 Armor to +7</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/8f/Earthshaker_Large.png/80px-Earthshaker_Large.png"
+  },
+  {
+    "id": "7.29_hero_Elder-Titan",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Elder Titan",
+    "descriptionHtml": "<ul><li><img></img>Earth Splitter cooldown increased from 100 to 120/110/100</li><li><img></img>Earth Splitter Delay from 3.14 to 2.8</li><li><img></img>Echo Stomp mana cost increased from 85/90/95/100 to 100</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/bc/Elder_Titan_Large.png/80px-Elder_Titan_Large.png"
+  },
+  {
+    "id": "7.29_hero_Ember-Spirit",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Ember Spirit",
+    "descriptionHtml": "<ul><li><img></img>Searing Chains backswing reduced from 0.87 to 0.5</li><li><img></img>Flame Guard backswing reduced from 1.07 to 0.6</li><li><img></img>Flame Guard duration increased from 8/12/16/20 to 11/14/17/20</li><li><img></img>Fire Remnant shard now provides you with a charge when killing enemy heroes, rather than spawning a Fire Remnant (except in the case where you die)</li><li><img></img>Fire Remnant cast range reduced from 1500 to 1400</li><li><img></img>Fire Remnant scepter cast range reduced from 4500 to 3500</li><li><img></img>Level 15 Talent increased from +0.8s Searing Chains to +1s</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/98/Ember_Spirit_Large.png/80px-Ember_Spirit_Large.png"
+  },
+  {
+    "id": "7.29_hero_Enchantress",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Enchantress",
+    "descriptionHtml": "<ul><li><img></img>Untouchable attack speed slow increased from 100/140/180 to 120/160/200</li><li><img></img>Nature&apos;s Attendants wisp count rescaled from 4/6/8/10 to 8</li><li><img></img>Nature&apos;s Attendants heal per wisp rescaled from 7/9/11/13 to 4/8/12/16</li><li><img></img>Nature&apos;s Attendants duration increased from 11 to 12</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/57/Enchantress_Large.png/80px-Enchantress_Large.png"
+  },
+  {
+    "id": "7.29_hero_Enigma",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Enigma",
+    "descriptionHtml": "<ul><li><img></img>Demonic Conversion cooldown increased from 35 to 50/45/40/35</li><li><img></img>Level 15 Talent increased from +150 Midnight Pulse Radius to +200</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/43/Enigma_Large.png/80px-Enigma_Large.png"
+  },
+  {
+    "id": "7.29_hero_Faceless-Void",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Faceless Void",
+    "descriptionHtml": "<ul><li><img></img>Base armor increased by 1</li><li><img></img>Time Dilation backswing reduced from 0.77 to 0.4</li><li><img></img>Time Dilation now does 10/11/12/13 DPS per cooldown</li><li><img></img>Time Dilation cooldown reduced from 40/34/28/22 to 28/24/20/16</li><li><img></img>Time Dilation duration reduced from 8/10/12/14 to 8/9/10/11</li><li><img></img>Time Dilation cooldown slow reduced from 75% to 60%</li><li><img></img>Time Dilation manacost rescaled from 75 to 60/70/80/90</li><li><img></img>Time Lock damage increased from 10/15/20/25 to 15/20/25/30</li><li><img></img>Chronosphere backswing reduced from 0.7 to 0.35</li><li><img></img>Chronosphere radius increased from 450 to 500</li><li><img></img>Chronosphere cast range reduced from 600 to 500</li><li><img></img>Time Walk cast range reduced from 675 to 650</li><li><img></img>Time Walk shard cast range increased from +200 to +400</li><li><img></img>Time Walk shard return ability is now on its own hotkey</li><li><img></img>Level 10 Talent increased from +8 Strength to +9</li><li><img></img>Level 10 Talent changed from +12 Damage to +7 Agility</li><li><img></img>Level 15 Talent changed from +250 Time Walk Cast Range to +300 Health</li><li><img></img>Level 20 Talent increased from -1.75s Time Walk to -2s</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Faceless_Void_Large.png/80px-Faceless_Void_Large.png"
+  },
+  {
+    "id": "7.29_hero_Grimstroke",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Grimstroke",
+    "descriptionHtml": "<ul><li><img></img>Reworked Shard upgrade. Causes Ink Swell to deal 50% more damage and heal the target for 50% of the damage Ink Swell deals. Upon expiration, the target will receive a strong dispel.</li><li><img></img>Phantom&apos;s Embrace damage per second increased from 6/14/22/30 to 10/20/30/40</li><li><img></img>Soulbind latch radius increased from 550 to 600</li><li><img></img>Level 10 Talent increased from -4s Ink Swell Cooldown to -6</li><li><img></img>Level 10 Talent changed from +100 Cast Range to +50 Phantom&apos;s Embrace DPS</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Grimstroke_Large.png/80px-Grimstroke_Large.png"
+  },
+  {
+    "id": "7.29_hero_Gyrocopter",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Gyrocopter",
+    "descriptionHtml": "<ul><li><img></img>Flak Cannon attack count increased from 2/3/4/5 to 3/4/5/6</li><li><img></img>Flak Cannon cooldown increased from 18 to 24/22/20/18</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e1/Gyrocopter_Large.png/80px-Gyrocopter_Large.png"
+  },
+  {
+    "id": "7.29_hero_Hoodwink",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Hoodwink",
+    "descriptionHtml": "<ul><li><img></img>Added Aghanim&apos;s Scepter. Grants new active ability - Hunter&apos;s Boomerang. Tosses a boomerang in an arc at the target enemy. Upon contact, it returns to Hoodwink. The boomerang will deal 350 damage as it passes through or hits enemies, and apply a Hunter&apos;s Mark that causes affected enemies to be slowed by 20% and take 25% more spell damage and have 25% reduced status resistance for 7 seconds. Cooldown: 18. Manacost: 125</li><li><img></img>Added Aghanim&apos;s Shard. Grants new active ability - Decoy. Hoodwink sends a decoy illusion with Scurry to the target location. When the illusion is attacked or hit by a targeted ability, it is destroyed and plants a tree in its place that applies a lesser Bushwhack to enemy heroes around it. The Illusion lasts 12 seconds. Cooldown: 60. Manacost: 50</li><li><img></img>Acorn Shot bonus damage reworked from 100% + 20/40/60/80 to 65% + 50/75/100/125</li><li><img></img>Acorn Shot Initial projectile now uses the attacker&apos;s projectile speed (halved for bounces)</li><li><img></img>Acorn Shot planted tree is no longer considered special for Tango usage</li><li><img></img>Acorn Shot may now be placed on auto-cast to always use ground targeting</li><li><img></img>Bushwhack radius decreased from 275 to 250</li><li><img></img>Bushwhack damage decreased from 90/180/270/360 to 75/150/225/300</li><li><img></img>Bushwhack stun duration increased from 1.3/1.6/1.9/2.2 to 1.4/1.7/2.0/2.3</li><li><img></img>Fixed units dying during Bushwhack sometimes destroying trees and freeing other units from Bushwhack</li><li><img></img>Scurry active speed reduced from 25/30/35/40% to 20/25/30/35%</li><li><img></img>Scurry charge replenish time reduced from 30/25/20/15 to 30/24/18/12</li><li><img></img>Sharpshooter max damage reduced from 600/1000/1400 to 550/900/1250</li><li><img></img>Sharpshooter now has a minimum power level of 20%, and scales normally from there</li><li><img></img>Sharpshooter mana cost rescaled from 150 to 125/175/225</li><li><img></img>Sharpshooter movement slow reduced from 50% to 30/40/50%</li><li><img></img>Sharpshooter max debuff duration reduced from 6 to 5</li><li><img></img>Sharpshooter no longer grants vision along the sight</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/d0/Hoodwink_Large.png/80px-Hoodwink_Large.png"
+  },
+  {
+    "id": "7.29_hero_Huskar",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Huskar",
+    "descriptionHtml": "<ul><li><img></img>Strength gain increased from 3.2 to 3.4</li><li><img></img>Inner Fire knockback duration increased from 0.6 to 1</li><li><img></img>Inner Fire shard upgrade can now be cast while disabled (does not remove the disable)</li><li><img></img>Burning Spear cost reduce from 4% of current health to 3%</li><li><img></img>Level 25 Talent changed from +200 Attack Range to +25% Spell Lifesteal</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f1/Huskar_Large.png/80px-Huskar_Large.png"
+  },
+  {
+    "id": "7.29_hero_Invoker",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Invoker",
+    "descriptionHtml": "<ul><li><img></img>Reworked Shard upgrade. Causes two extra Chaos Meteors to land alongside the primary cast at slight angles. Reduces cooldown by 15 seconds.</li><li><img></img>Quas regen reduced from 1/3/5/7/9/11/13 to 1/2/3/4/5/6/7</li><li><img></img>Quas now provides +2 Strength per level (Invoker does not have attribute levels)</li><li><img></img>Exort damage reduced from 2/6/10/14/18/22/26 to 2/4/6/8/10/12/14</li><li><img></img>Exort now provides +2 Intelligence per level</li><li><img></img>Wex now provides +2 Agility per level</li><li><img></img>Level 15 Talent increased from +40 DPS Ice Wall to +60</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5b/Invoker_Large.png/80px-Invoker_Large.png"
+  },
+  {
+    "id": "7.29_hero_Io",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Io",
+    "descriptionHtml": "<ul><li><img></img>Level 25 Attack Talent now only attacks if Io is capable of attacking (not when stunned/disarmed/etc)</li><li><img></img>Tether cast range reduced from 1800 to 1600</li><li><img></img>Tether no longer unlocks max movement speed</li><li><img></img>Tether shard now stuns upon connecting with the Tether, rather than on Tether Break. Does not affect the same unit more than once every 7 seconds.</li><li><img></img>Spirits max distance reduced from 700 to 650</li><li><img></img>Spirits collision damage reduced from 10/20/30/40 to 10/15/20/25</li><li><img></img>Level 10 Talent reduced from +35 Damage to +30</li><li><img></img>Level 10 Talent increased from +4 Health Regen to +5</li><li><img></img>Level 15 Talent reduced from +325 Spirits Max Range to +300</li><li><img></img>Level 15 Talent increased from +10% Spell Lifesteal to +15%</li><li><img></img>Level 20 Talent increased from -25s Relocate Cooldown -30s</li><li><img></img>Level 25 Talent increased from +700 Health to +900</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/ad/Io_Large.png/80px-Io_Large.png"
+  },
+  {
+    "id": "7.29_hero_Jakiro",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Jakiro",
+    "descriptionHtml": "<ul><li><img></img>Agility increased from 10 to 15</li><li><img></img>Dual Breath delay between waves reduced from 0.3 to 0.2</li><li><img></img>Liquid Frost shard now also stuns targets initially for 0.4 seconds</li><li><img></img>Liquid Frost shard slow reduced from 30% to 20%</li><li><img></img>Macropyre scepter no longer increases damage from 100/140/180 to 125/175/225</li><li><img></img>Macropyre sscepter now causes it to become Pure damage and pierce Spell Immunity</li><li><img></img>Level 15 Talent changed from -1.5s Ice Path Cooldown to -50 Liquid Fire Attack Speed</li><li><img></img>Level 15 Talent changed from +25 Dual Breath Damage to +325 Health</li><li><img></img>Level 20 Talent changed from -50 Liquid Fire Attack Speed to +0.5s Ice Path Duration</li><li><img></img>Level 20 Talent changed from +325 Dual Breath Range to +30 Macropyre Damage</li><li><img></img>Level 25 Talent changed from Macropyre Pure and Pierces Immunity to 2x Dual Breath Damage and Range</li><li><img></img>Level 25 Talent changed from +1s Ice Path duration to -2.5s Ice Path Cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4d/Jakiro_Large.png/80px-Jakiro_Large.png"
+  },
+  {
+    "id": "7.29_hero_Juggernaut",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Juggernaut",
+    "descriptionHtml": "<ul><li><img></img>Omnislash now provides Spell Immunity</li><li><img></img>Omnislash attack rate multiplier reduced from 1.6 to 1.5</li><li><img></img>Swiftslash mana cost increased from 100 to 125</li><li><img></img>Swiftslash cast range reduced from 600 to 550</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c8/Juggernaut_Large.png/80px-Juggernaut_Large.png"
+  },
+  {
+    "id": "7.29_hero_Keeper-of-the-Light",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Keeper of the Light",
+    "descriptionHtml": "<ul><li><img></img>Base strength increased from 16 to 18</li><li><img></img>Reworked Shard upgrade. Now grants you Recall during Spirit Form</li><li><img></img>Spirit Form no longer grants Recall</li><li><img></img>Spirit Form now causes Illuminate to heal for 30/40/50% of its damage</li><li><img></img>Level 15 Talent changed from +200 Cast Range to 2 Solar Bind Charges</li><li><img></img>Level 15 Talent changed from -8s Blinding Light Cooldown to -4s Chakra Magic Cooldown</li><li><img></img>Level 20 Talent changed from -4s Chakra Magic Cooldown to Chakra Magic Dispels</li><li><img></img>Level 25 Talent increased from +160 Illuminate Damage to +180</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/bc/Keeper_of_the_Light_Large.png/80px-Keeper_of_the_Light_Large.png"
+  },
+  {
+    "id": "7.29_hero_Kunkka",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Kunkka",
+    "descriptionHtml": "<ul><li><img></img>Base HP regen increased from 0.25 to 0.75</li><li><img></img>Agility gain increased from 1.3 to 1.6</li><li><img></img>Torrent cast range reduced from 1500 to 1300</li><li><img></img>Tidal Wave shard now causes affected units to be unable to attack for the pull duration</li><li><img></img>Tidal Wave shard now starts 900 units behind you instead of 600</li><li><img></img>Tidal Wave shard cooldown reduced from 14 to 12</li><li><img></img>Tidal Wave shard damage increased from 225 to 250</li><li><img></img>Level 10 Talent changed from +150 Cast Range to +0.4s Torrent Knock Up/Stun Duration</li><li><img></img>Level 15 Talent changed from +8 Health Regen to +14 Strength</li><li><img></img>Level 20 Talent changed from +20 Strength to +70% Tidebringer Cleave</li><li><img></img>Level 25 Talent changed from +140% Tidebringer Cleave to -2s Tidebringer Cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/3a/Kunkka_Large.png/80px-Kunkka_Large.png"
+  },
+  {
+    "id": "7.29_hero_Legion-Commander",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Legion Commander",
+    "descriptionHtml": "<ul><li><img></img>Reworked Shard. Causes Press The Attack to apply Spell Immunity for 1.75 seconds. Reduces cooldown by 3 seconds.</li><li><img></img>Overwhelming Odds radius increased from 330 to 330/340/350/360</li><li><img></img>Duel scepter no longer grants spell immunity</li><li><img></img>Duel scepter damage immunity from non-duel participants changed from 100% to 50%</li><li><img></img>Duel scepter reduces cooldown by 20 seconds</li><li><img></img>Level 15 Talent changed from -9s Overwhelming Odds Cooldown to +75 Overwhelming Odds Damage Per Hero</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0a/Legion_Commander_Large.png/80px-Legion_Commander_Large.png"
+  },
+  {
+    "id": "7.29_hero_Leshrac",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Leshrac",
+    "descriptionHtml": "<ul><li><img></img>Lightning Storm cast point reduced from 0.4 to 0.3</li><li><img></img>Pulse Nova radius increased from 475 to 525</li><li><img></img>Split Earth shard pulse count increased from 2 to 3</li><li><img></img>Level 15 Talent changed from +12 Strength to +100 Lightning Storm Damage</li><li><img></img>Level 20 Talent changed from +1s Lightning Storm Slow to +20 Strength</li><li><img></img>Level 25 Talent changed from +175 Lightning Storm Damage to +30% Magic Resistance</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f6/Leshrac_Large.png/80px-Leshrac_Large.png"
+  },
+  {
+    "id": "7.29_hero_Lich",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Lich",
+    "descriptionHtml": "<ul><li><img></img>Frost Blast mana cost reduced from 115/140/165/190 to 115/135/155/175</li><li><img></img>Frost Blast primary target damage reduced from 50/100/150/200 to 40/80/120/160</li><li><img></img>Frost Blast area damage increased from 75/100/125/150 to 80/120/160/200</li><li><img></img>Chain Frost mana cost increased from 200/325/500 to 200/350/500</li><li><img></img>Ice Spire shard health increased from 600 to 800</li><li><img></img>Ice Spire shard radius increased from 600 to 750</li><li><img></img>Ice Spire shard slow increased from 20% to 30%</li><li><img></img>Level 10 Talent changed from +90 Frost Blast AoE Damage to +125 Frost Blast Radius and Damage</li><li><img></img>Level 10 Talent changed from +100 Cast Range to +10% Frost Shield Damage Reduction</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/35/Lich_Large.png/80px-Lich_Large.png"
+  },
+  {
+    "id": "7.29_hero_Lifestealer",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Lifestealer",
+    "descriptionHtml": "<ul><li><img></img>Base damage reduced by 3</li><li><img></img>Feast now does 0.6/0.8/1/1.2% of target max health as damage</li><li><img></img>Open Wounds shard now also causes all hero attacks on the target to deal 2% of the target&apos;s max health as damage</li><li><img></img>Open Wounds shard cooldown reduced from 25 to 15</li><li><img></img>Infest scepter hero duration increased from 4 to 5</li><li><img></img>Infest scepter cooldown reduced from 25 to 20</li><li><img></img>Level 10 Talent changed from +200 Health to +20 Movement Speed</li><li><img></img>Level 15 Talent changed from +20 Movement Speed to +325 Health</li><li><img></img>Level 20 Talent increased from +8% Ghoul Frenzy Slow to +10%</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/85/Lifestealer_Large.png/80px-Lifestealer_Large.png"
+  },
+  {
+    "id": "7.29_hero_Lina",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Lina",
+    "descriptionHtml": "<ul><li><img></img>Light Strike Array damage increased from 80/120/160/200 to 80/130/180/230</li><li><img></img>Laguna Blade shard now removes the delay before damage is dealt</li><li><img></img>Laguna Blade shard cast range bonus increased from +150 to +250</li><li><img></img>Level 10 Talent changed from +75 Cast Range to -2s Dragon Slave Cooldown</li><li><img></img>Level 25 Talent changed from -5s Dragon Slave Cooldown to -25s Laguna Blade Cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/46/Lina_Large.png/80px-Lina_Large.png"
+  },
+  {
+    "id": "7.29_hero_Lion",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Lion",
+    "descriptionHtml": "<ul><li><img></img>Reworked Shard upgrade. Causes Mana Drain to affect up to three enemies. You become Spell Immune while channeling.</li><li><img></img>Mana Drain cooldown rescaled from 16/12/8/4 to 15/12/9/6</li><li><img></img>Mana Drain break distance reduced from 1200 to 1100</li><li><img></img>Level 10 Talent changed from +15% Mana Drain Slow to +15 Movement Speed</li><li><img></img>Level 15 Talent changed from +125 Cast Range to +70 Max Health per Finger of Death Kill</li><li><img></img>Level 20 Talent changed from +2 Mana Drain Multi Target to Mana Drain Restores Allies</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/8d/Lion_Large.png/80px-Lion_Large.png"
+  },
+  {
+    "id": "7.29_hero_Lone-Druid",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Lone Druid",
+    "descriptionHtml": "<ul><li><img></img>Ranged base attack time improved from 1.7 to 1.6</li><li><img></img>Savage Roar shard now also applies a basic dispel on you and the Spirit Bear</li><li><img></img>Savage Roar shard now also causes the roar to happen on both locations regardless of the casting state on the other side</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e2/Lone_Druid_Large.png/80px-Lone_Druid_Large.png"
+  },
+  {
+    "id": "7.29_hero_Luna",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Luna",
+    "descriptionHtml": "<ul><li><img></img>Eclipse cast point reduced from 0.6 to 0.5</li><li><img></img>Lucent Beam shard no longer increases stun duration</li><li><img></img>Lucent Beam shard no longer provides you with movement speed</li><li><img></img>Lucent Beam shard now releases an attack at up to two random targets within 500 radius from the target location. These attacks bounce like glaives normally do. Lowers mana cost by 50.</li><li><img></img>Level 10 Talent changed from +350 Cast Range to +0.4s Lucent Beam Stun</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e2/Luna_Large.png/80px-Luna_Large.png"
+  },
+  {
+    "id": "7.29_hero_Lycan",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Lycan",
+    "descriptionHtml": "<ul><li><img></img>Agility gain increased from 1 to 1.4</li><li><img></img>Attack backswing reduced from 0.55 to 0.25</li><li><img></img>Summon Wolves mana cost reduced from 145 to 125/130/135/140</li><li><img></img>Feral Impulse bonus damage increased from 12/22/32/42% to 12/24/36/48%</li><li><img></img>Shapeshift transformation time reduced from 1.25 to 1.1</li><li><img></img>Shapeshift movement speed reduced from 650 to 550</li><li><img></img>Shapeshift duration increased from 22 to 28</li><li><img></img>Shapeshift now increases Lycan&apos;s health by 150/250/350</li><li><img></img>Wolf Bite now grants Shapeshift to the target only, rather than the target and units it controls</li><li><img></img>Wolf Bite can now target creep-hero units like Spirit Bear and Golem</li><li><img></img>Level 15 Talent changed from +75 Shapeshift Movement Speed to +175 Summon Wolves Health</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Lycan_Large.png/80px-Lycan_Large.png"
+  },
+  {
+    "id": "7.29_hero_Magnus",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Magnus",
+    "descriptionHtml": "<ul><li><img></img>Empower damage increased from 11/18/25/32% to 12/20/28/36%</li><li><img></img>Shockwave mana cost reduced from 90/100/110/120 to 80/90/100/110</li><li><img></img>Skewer damage increased from 70/140/210/280 to 70/150/230/310</li><li><img></img>Skewer speed reduced from 950 to 900</li><li><img></img>Reverse Polarity mana cost reduced from 200/250/300 to 150/225/300</li><li><img></img>Horn Toss shard landing stun duration increased from 0.25 to 0.75</li><li><img></img>Level 10 Talent increased from +0.3s Shockwave Slow Duration to +0.5s</li><li><img></img>Level 15 Talent increased from -5s Skewer Cooldown to -7s</li><li><img></img>Level 15 Talent increased from +10 Strength to +12</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/67/Magnus_Large.png/80px-Magnus_Large.png"
+  },
+  {
+    "id": "7.29_hero_Mars",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Mars",
+    "descriptionHtml": "<ul><li><img></img>Intelligence gain increased from 1.6 to 2.2</li><li><img></img>Agility gain reduced from 1.9 to 1.7</li><li><img></img>God&apos;s Rebuke damage vs heroes reduced from 35 to 20/25/30/35</li><li><img></img>Bulwark scepter attack slow increased from 20% to 30%</li><li><img></img>Arena of Blood damage reduced from 100/175/250 to 100/160/220</li><li><img></img>Level 10 Talent increased from +15 Movement Speed to +20</li><li><img></img>Level 15 Talent increased from +6 Armor to +8</li><li><img></img>Level 25 Talent increased from +120 HP Regen Arena of Blood to +180</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4e/Mars_Large.png/80px-Mars_Large.png"
+  },
+  {
+    "id": "7.29_hero_Medusa",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Medusa",
+    "descriptionHtml": "<ul><li><img></img>Base HP regen increased from 0 to 0.25</li><li><img></img>Intelligence gain reduced from 4 to 3.6</li><li><img></img>Mana Shield now passively provides +100/150/200/250 mana</li><li><img></img>Mystic Snake scepter stone duration rescaled from 1 + 0.3 per bounce to 1.5 + 0.2</li><li><img></img>Level 15 Talent increased from +32% Mystic Snake mana gain to +35%</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/38/Medusa_Large.png/80px-Medusa_Large.png"
+  },
+  {
+    "id": "7.29_hero_Meepo",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Meepo",
+    "descriptionHtml": "<ul><li><img></img>Collision size reduced from 24 to 8</li><li><img></img>Reworked Shard. Now allows you to Poof to allies within a max range of 2000 when directly targeting them.</li><li><img></img>Poof radius increased from 375 to 400</li><li><img></img>Poof damage reduced from 70/90/110/130 to 60/80/100/120</li><li><img></img>Dig scepter duration increased from 3.5 to 4</li><li><img></img>Dig scepter health restored increased from 25% to 40%</li><li><img></img>Level 10 Talent increase from +15 Damage to +20 Base Damage</li><li><img></img>Level 15 Talent changed from +35 Poof Damage to +50</li><li><img></img>Level 25 Talent increased from +325 Health to +375</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/97/Meepo_Large.png/80px-Meepo_Large.png"
+  },
+  {
+    "id": "7.29_hero_Mirana",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Mirana",
+    "descriptionHtml": "<ul><li><img></img>Increased turn rate from 0.5 to 0.6</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/1f/Mirana_Large.png/80px-Mirana_Large.png"
+  },
+  {
+    "id": "7.29_hero_Monkey-King",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Monkey King",
+    "descriptionHtml": "<ul><li><img></img>Base health regen reduced from 1.5 to 1</li><li><img></img>Wukong’s Command soldiers fixed to no longer ignore their attack cooldown when they miss</li><li><img></img>Tree Dance ground-to-tree range reduced from 1000 to 900</li><li><img></img>Boundless Strike cast range reduced from 1200 to 1100</li><li><img></img>Wukong&apos;s Command scepter soldiers no longer attack Roshan</li><li><img></img>Wukong&apos;s Command scepter soldiers now die when Monkey King dies</li><li><img></img>Level 15 Talent reduced from +475 Tree Dance Cast Range to +450</li><li><img></img>Level 20 Talent changed from +350 Primal Spring Damage to -7s Boundless Strike Cooldown</li><li><img></img>Level 25 Talent changed from +200 Armor Wukong&apos;s Command to 0 Cooldown Primal Spring</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4e/Monkey_King_Large.png/80px-Monkey_King_Large.png"
+  },
+  {
+    "id": "7.29_hero_Morphling",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Morphling",
+    "descriptionHtml": "<ul><li><img></img>Intelligence increased from 15 + 1.5 to 19 + 1.8</li><li><img></img>Attribute Shift now has 10 mana cost per second to shift attributes</li><li><img></img>Attribute Shift interval rescaled from 1/4/10/25 to 3/6/12/24</li><li><img></img>Adaptive Strike mana cost reduced from 80 to 50/60/70/80</li><li><img></img>Adaptive Strike shard no longer removes the 3 second shard cooldown</li><li><img></img>Adaptive Strike shard increases stun duration by 1 second</li><li><img></img>Waveform mana cost reduced from 150/155/160/165 to 140</li><li><img></img>Level 10 Talent changed from +10 Agility to +15% Magic Resistance</li><li><img></img>Level 10 Talent reduced from +275 Waveform Range to +250</li><li><img></img>Level 15 Talent changed from +30 Attack Speed to +15 Agility</li><li><img></img>Level 20 Talent changed from +12% Cooldown Reduction to +20 Strength</li><li><img></img>Level 25 Talent changed from +30 Strength to Attribute Shift While Stunned</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c7/Morphling_Large.png/80px-Morphling_Large.png"
+  },
+  {
+    "id": "7.29_hero_Naga-Siren",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Naga Siren",
+    "descriptionHtml": "<ul><li><img></img>Ensnare cooldown increased from 14 to 23/20/17/14</li><li><img></img>Ensnare duration increased from 2/3/4/5 to 2.75/3.5/4.25/5</li><li><img></img>Ensnare cast range reduced from 650 to 575/600/625/650</li><li><img></img>Ensnare scepter cooldown reduction increased from -5 to -6</li><li><img></img>Rip Tide shard no longer has an active.</li><li><img></img>Rip Tide shard armor reduction increased from -2 to -4</li><li><img></img>Rip Tide shard now also adds 20% slow when it procs</li><li><img></img>Level 25 Talent changed from +25% Evasion to -10s Mirror Image Cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Naga_Siren_Large.png/80px-Naga_Siren_Large.png"
+  },
+  {
+    "id": "7.29_hero_Nature's-Prophet",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Nature's Prophet",
+    "descriptionHtml": "<ul><li><img></img>Nature&apos;s Call attack damage rescaled from 22/26/30/34 to 18/24/30/36</li><li><img></img>Teleportation cooldown increased from 50/40/30/20 to 65/50/35/20</li><li><img></img>Wrath of Nature base damage increased from 110/140/170 to 115/150/185</li><li><img></img>Wrath of Nature increment per bounce reduced from 11% to 10%</li><li><img></img>Wrath of Nature scepter root duration increased from 1.6/3.4 to 2.0/3.8</li><li><img></img>Level 10 Talent increased from +25 Wraith of Nature Base Damage to +30</li><li><img></img>Level 25 Talent increased from 2x Treant HP/Damage to 2.5x</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/16/Natures_Prophet_Large.png/80px-Natures_Prophet_Large.png"
+  },
+  {
+    "id": "7.29_hero_Necrophos",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Necrophos",
+    "descriptionHtml": "<ul><li><img></img>Attack animation time reduced from 0.4 to 0.3</li><li><img></img>Attack projectile speed increased from 900 to 1200</li><li><img></img>Death Seeker shard has been reworked. No longer does 50% more damage/heal. Instead it applies decrepify on the target enemy or ally for 2.5 seconds. Against enemies it reduces magic resistance by 25%. Mana cost: 100. Cooldown: 14.</li><li><img></img>Ghost Shroud slow increased from 6/12/18/24% to 12/16/20/24%</li><li><img></img>Heartstopper Aura regen increased from 3.5/4.5/5.5/6.5 to 4/5/6/7</li><li><img></img>Heartstopper Aura regen duration increased from 7 to 8</li><li><img></img>Reaper&apos;s Scythe cast point reduced from 0.55 to 0.45</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0e/Necrophos_Large.png/80px-Necrophos_Large.png"
+  },
+  {
+    "id": "7.29_hero_Night-Stalker",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Night Stalker",
+    "descriptionHtml": "<ul><li><img></img>Hunter in the Night shard is no longer restricted from player units (cannot affect special units like Golems or Spirit Bears)</li><li><img></img>Hunter in the Night shard can now be cast during the day on non-ancient units</li><li><img></img>Hunter in the Night shard healing increased from 25% to 35%</li><li><img></img>Level 10 Talent increased from +4 Armor to +6</li><li><img></img>Level 20 Talent changed from +30 Movement Speed to -4s Crippling Fear Cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c4/Night_Stalker_Large.png/80px-Night_Stalker_Large.png"
+  },
+  {
+    "id": "7.29_hero_Nyx-Assassin",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Nyx Assassin",
+    "descriptionHtml": "<ul><li><img></img>Vendetta now provides +50% attack animation speed</li><li><img></img>Burrow scepter damage reduction increased from 40% to 50%</li><li><img></img>Level 20 Talent reduced from +140 Impale Damage to +130</li><li><img></img>Level 20 Talent changed from +75% Spiked Carapace Damage to -3.5s Spiked Carapace Cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c4/Nyx_Assassin_Large.png/80px-Nyx_Assassin_Large.png"
+  },
+  {
+    "id": "7.29_hero_Ogre-Magi",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Ogre Magi",
+    "descriptionHtml": "<ul><li><img></img>Fire Shield shard incoming damage reduction increased from 70% to 85%</li><li><img></img>Fire Shield shard mana cost reduced from 75 to 50</li><li><img></img>Ignite cast point reduced from 0.45 to 0.35</li><li><img></img>Bloodlust mana cost reduced from 65 to 50/55/60/65</li><li><img></img>Level 10 Talent changed from +75 Cast Range to -1s Fireblast Cooldown</li><li><img></img>Level 20 Talent reduced from +40 Bloodlust Attack Speed to +30</li><li><img></img>Level 20 Talent reduced from +30 Strength to +25</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Ogre_Magi_Large.png/80px-Ogre_Magi_Large.png"
+  },
+  {
+    "id": "7.29_hero_Omniknight",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Omniknight",
+    "descriptionHtml": "<ul><li><img></img>Base strength increased by 2</li><li><img></img>Base movement speed increased from 310 to 315</li><li><img></img>Heavenly Grace strength bonus increased from 7/14/21/28 to 8/16/24/32</li><li><img></img>Hammer of Purity damage rescaled from 50 + 150% to 60 + 115%</li><li><img></img>Hammer of Purity cooldown reduced from 6 to 4</li><li><img></img>Hammer of Purity mana cost reduced from 30 to 20</li><li><img></img>Level 10 Talent increased from +40 Base Damage to +50</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Omniknight_Large.png/80px-Omniknight_Large.png"
+  },
+  {
+    "id": "7.29_hero_Oracle",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Oracle",
+    "descriptionHtml": "<ul><li><img></img>Intelligence gain reduced from 4.0 to 3.8</li><li><img></img>Fortune&apos;s End damage rescaled from 120/150/180/210 to 100/160/220/280</li><li><img></img>False Promise shard fade delay reduced from 0.3 to 0.15</li><li><img></img>False Promise cooldown rescaled from 115/80/45 to 120/90/60</li><li><img></img>Level 15 Talent changed from +125 Cast Range to +15 Armor False Promise</li><li><img></img>Level 15 Talent increased from -1s Purifying Flames Cooldown to -1.25s</li><li><img></img>Level 20 Talent changed from -50% Purifying Flames Allied Damage to +30% Purifying Flames Enemy Damage</li><li><img></img>Level 25 Talent changed from -1.5s Fortune&apos;s End Max Channel Time to Instant Fortune&apos;s End</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fc/Oracle_Large.png/80px-Oracle_Large.png"
+  },
+  {
+    "id": "7.29_hero_Outworld-Destroyer",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Outworld Destroyer",
+    "descriptionHtml": "<ul><li><img></img>Essence Flux shard now has a 0.75 second cast time instead of a 1.5 second channel</li><li><img></img>Essence Flux shard now transfers 100% of the health/mana instead of 75%</li><li><img></img>Astral Imprisonment cast point increased from 0.25 to 0.3</li><li><img></img>Astral Imprisonment scepter no longer increases cast range by 150</li><li><img></img>Astral Imprisonment scepter now also increases damage by 140</li><li><img></img>Astral Imprisonment scepter now also causes it to do damage in a 400 AoE</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Outworld_Destroyer_Large.png/80px-Outworld_Destroyer_Large.png"
+  },
+  {
+    "id": "7.29_hero_Pangolier",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Pangolier",
+    "descriptionHtml": "<ul><li><img></img>Swashbuckle cast range reduced from 900 to 850</li><li><img></img>Rolling Thunder speed reduced from 600 to 550</li><li><img></img>Rolling Thunder duration increased from 8 to 10</li><li><img></img>Rolling Thunder damage reduced from 200/275/350 to 180/260/340</li><li><img></img>Shield Crash mana cost reduced from 80/90/110/110 to 60/70/80/90</li><li><img></img>Shield Crash damage reduction increased from 9/12/15/18% to 12/14/16/18%</li><li><img></img>Level 10 Talent reduced from +2 Mana Regen to +1.5</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a3/Pangolier_Large.png/80px-Pangolier_Large.png"
+  },
+  {
+    "id": "7.29_hero_Phantom-Assassin",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Phantom Assassin",
+    "descriptionHtml": "<ul><li><img></img>Stifling Dagger range rescaled from 525/750/975/1200 to 550/750/950/1150</li><li><img></img>Fan of Knives shard damage increased from 12% to 16%</li><li><img></img>Fan of Knives shard mana cost reduced from 125 to 50</li><li><img></img>Fan of Knives shard impact time now matches the projectile visuals</li><li><img></img>Level 10 Talent increased from -1s Stifling Dagger Cooldown to -1.5s</li><li><img></img>Level 15 Talent reduced from +300 Phantom Strike Cast Range to +250</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/2e/Phantom_Assassin_Large.png/80px-Phantom_Assassin_Large.png"
+  },
+  {
+    "id": "7.29_hero_Phantom-Lancer",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Phantom Lancer",
+    "descriptionHtml": "<ul><li><img></img>Base damage range rescaled from 52-66 to 54-64</li><li><img></img>Doppelganger cast range reduced from 600 to 575</li><li><img></img>Phantom Rush range reduced from 600/700/800/900 to 600/675/750/825</li><li><img></img>Spirit Lance shard damage increased from +30% to +50%</li><li><img></img>Level 15 Talent increased from -2s Spirit Lance Cooldown to -3</li><li><img></img>Level 20 Talent reduced from +350 Phantom Rush Range to +300</li><li><img></img>Level 20 Talent increased from +4% Juxtapose Damage to +5%</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/1e/Phantom_Lancer_Large.png/80px-Phantom_Lancer_Large.png"
+  },
+  {
+    "id": "7.29_hero_Phoenix",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Phoenix",
+    "descriptionHtml": "<ul><li><img></img>Shard has been reworked. Now causes Sun Ray to slow enemies by 12% and to be castable during Supernova</li><li><img></img>Sun Ray max health damage reduced from 1.5/3.25/5/6.75 to 1/2.75/4.5/6.25</li><li><img></img>Sun Ray cast range reduced from 1300 to 1200</li><li><img></img>Supernova radius reduced from 1300 to 1200</li><li><img></img>Level 20 Talent reduced from +1100 Icarus Dive Cast Range to +1000</li><li><img></img>Level 20 Talent changed from Sun Ray During Supernova to +0.5s Supernova Stun Duration</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Phoenix_Large.png/80px-Phoenix_Large.png"
+  },
+  {
+    "id": "7.29_hero_Puck",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Puck",
+    "descriptionHtml": "<ul><li><img></img>Phase Shift cooldown increased from 6 to 7.5/7/6.5/6</li><li><img></img>Waning Rift cooldown increased from 16/15/14/13 to 19/17/15/13</li><li><img></img>Level 10 Talent changed from +150 Cast Range to +0.75s Waning Rift Silence Duration</li><li><img></img>Level 20 Talent changed from +50% Illusory Orb Distance/Speed to -4s Illusory Orb Cooldown</li><li><img></img>Level 25 Talent reduced from +275 Waning Rift AoE and Range to +250</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/3a/Puck_Large.png/80px-Puck_Large.png"
+  },
+  {
+    "id": "7.29_hero_Pudge",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Pudge",
+    "descriptionHtml": "<ul><li><img></img>Base armor increased by 1</li><li><img></img>Attack range increased from 150 to 175</li><li><img></img>Meat Hook cooldown reduced from 21/18/15/12 to 18/16/14/12</li><li><img></img>Dismember shard cast range on allies increased from 160 to 400</li><li><img></img>Rot scepter radius increased from 450 to 475</li><li><img></img>Rot scepter damage increased from +80 to +100</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dd/Pudge_Large.png/80px-Pudge_Large.png"
+  },
+  {
+    "id": "7.29_hero_Pugna",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Pugna",
+    "descriptionHtml": "<ul><li><img></img>Base damage increased from 43-51 to 45-52</li><li><img></img>Nether Blast delay reduced from 0.9 to 0.8</li><li><img></img>Life Drain shard interval reduced from 1.75 to 1.5</li><li><img></img>Level 25 Talent increased from 1.5 Netherward Damage Per Mana to 1.75</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/24/Pugna_Large.png/80px-Pugna_Large.png"
+  },
+  {
+    "id": "7.29_hero_Queen-of-Pain",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Queen of Pain",
+    "descriptionHtml": "<ul><li><img></img>Base attack damage changed from 45-53 to 46-52</li><li><img></img>Blink cooldown reduced from 15/12/9/6 to 12/10/8/6</li><li><img></img>Blink distance reduced from 1300 to 1075/1150/1225/1300</li><li><img></img>Blink shard silence duration increased from 1.5 to 1.75</li><li><img></img>Sonic Wave scepter bonus increased from 390/500/610 to 420/560/680</li><li><img></img>Level 20 Talent increased from +25% Spell Lifesteal to +30%</li><li><img></img>Level 25 Talent changed from +200 Sonic Wave Damage to -2s Blink Cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/62/Queen_of_Pain_Large.png/80px-Queen_of_Pain_Large.png"
+  },
+  {
+    "id": "7.29_hero_Razor",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Razor",
+    "descriptionHtml": "<ul><li><img></img>Static Link buff duration reduced from 18 to 15/16/17/18</li><li><img></img>Storm Surge shard damage increased from 120 to 150</li><li><img></img>Level 10 Talent increased from +8 Agility to +9</li><li><img></img>Level 15 Talent increased from +12 Strength to +14</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Razor_Large.png/80px-Razor_Large.png"
+  },
+  {
+    "id": "7.29_hero_Riki",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Riki",
+    "descriptionHtml": "<ul><li><img></img>Blink Strike now provides +50% attack animation increase for the attack</li><li><img></img>Tricks of the Trade attack damage reduced from 70/80/90/100% to 50%</li><li><img></img>Tricks of the Trade now increases your agility by 55/70/85/100%</li><li><img></img>Sleeping Dart shard duration increased from 3 to 4</li><li><img></img>Sleeping Dart shard sleep no longer makes the target invulnerable to damage. They now wake up after taking 200 damage.</li><li><img></img>Level 10 Talent changed from +6 Health Regen to +8 Strength</li><li><img></img>Level 15 Talent changed from +20 Damage to 8% Cloak and Dagger Movement Speed While Invisible</li><li><img></img>Level 20 Talent changed from +475 Blink Strike Cast Range to -4s Blink Strike Replenish Time</li><li><img></img>Level 25 Talent increased from +125 Smoke Screen AoE to +175</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a3/Riki_Large.png/80px-Riki_Large.png"
+  },
+  {
+    "id": "7.29_hero_Rubick",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Rubick",
+    "descriptionHtml": "<ul><li><img></img>Telekinesis shard throw range increased from 60% to 85%</li><li><img></img>Telekinesis cooldown reduced from 34/30/26/22 to 28/26/24/22</li><li><img></img>Level 10 Talent changed from +150 Health to +175 Telekinesis Landing Damage</li><li><img></img>Level 15 Talent changed from +100 Cast Range to +0.6s Telekinesis Lift Duration</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/57/Rubick_Large.png/80px-Rubick_Large.png"
+  },
+  {
+    "id": "7.29_hero_Sand-King",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Sand King",
+    "descriptionHtml": "<ul><li><img></img>Burrowstrike scepter cast range reduced from 1400 to 1300</li><li><img></img>Epicenter shard no longer triggers if there are no enemies nearby</li><li><img></img>Epicenter shard radius increased from 400 to 475</li><li><img></img>Level 10 Talent increased from +175 Health to +200</li><li><img></img>Level 15 Talent increased from +15% Caustic Finale Slow to +20%</li><li><img></img>Level 20 Talent increased from +20 Health Regen to +25</li><li><img></img>Level 25 Talent increased from +4 Epicenter Pulses to +5</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e5/Sand_King_Large.png/80px-Sand_King_Large.png"
+  },
+  {
+    "id": "7.29_hero_Shadow-Demon",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Shadow Demon",
+    "descriptionHtml": "<ul><li><img></img>Intelligence increased from 21 + 3.3 to 22 + 3.6</li><li><img></img>Level 10 Talent changed from +15 Intelligence to +15% Shadow Poison Damage</li><li><img></img>Level 10 Talent changed from +75 Cast Range to +10 Strength</li><li><img></img>Level 15 Talent changed from +20% Shadow Poison Damage to +200 Demonic Purge Damage</li><li><img></img>Level 15 Talent increased from +20 Movement Speed to +25</li><li><img></img>Level 20 Talent increased from -5s Soul Catcher Cooldown to -6s</li><li><img></img>Level 25 Talent changed from +400 Demonic Purge Damage to -30s Demonic Purge Cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/79/Shadow_Demon_Large.png/80px-Shadow_Demon_Large.png"
+  },
+  {
+    "id": "7.29_hero_Shadow-Fiend",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Shadow Fiend",
+    "descriptionHtml": "<ul><li><img></img>Base attack time reduced from 1.7 to 1.6</li><li><img></img>Base armor increased by 1</li><li><img></img>Shard has been reworked. Now causes Presence of the Dark Lord to reduce magic resistance by 14%</li><li><img></img>Necromastery soul lost on death reduced from 50% to 40%</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Shadow_Fiend_Large.png/80px-Shadow_Fiend_Large.png"
+  },
+  {
+    "id": "7.29_hero_Shadow-Shaman",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Shadow Shaman",
+    "descriptionHtml": "<ul><li><img></img>Level 15 Talent changed from +100 Cast Range to +75 Serpent Wards Attack Range</li><li><img></img>Level 25 Talent increased from +340 Ether Shock Damage to +370</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/d8/Shadow_Shaman_Large.png/80px-Shadow_Shaman_Large.png"
+  },
+  {
+    "id": "7.29_hero_Silencer",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Silencer",
+    "descriptionHtml": "<ul><li><img></img>Last Word mana cost reduced from 115 to 100/105/110/115</li><li><img></img>Arcane Curse damage reduced from 16/26/36/46 to 16/24/32/40</li><li><img></img>Arcane Curse no longer pauses damage when the debuff duration is delayed</li><li><img></img>Glaives of Wisdom shard damage behavior fixed (was reducing non-glaives damage to the secondary target too much)</li><li><img></img>Level 10 Talent increased from +5 Armor to +6</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/98/Silencer_Large.png/80px-Silencer_Large.png"
+  },
+  {
+    "id": "7.29_hero_Skywrath-Mage",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Skywrath Mage",
+    "descriptionHtml": "<ul><li><img></img>Base damage increased by 2</li><li><img></img>Reworked Shard upgrade. Every time you cast abilities you gain +5 Intelligence and +1 Armor for 35 seconds. Stacks independently.</li><li><img></img>Concussive Shot cooldown reduced from 18/16/14/12 to 15/14/13/12</li><li><img></img>Arcane Bolt damage multiplier reduced from 1.6 to 1.4</li><li><img></img>Arcane Bolt base damage increased from 60/80/100/120 to 60/85/110/135</li><li><img></img>Level 10 Talent changed from +15 Movement Speed to +175 Health</li><li><img></img>Level 25 Talent reduced from +480 Mystic Flare Damage to +450</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Skywrath_Mage_Large.png/80px-Skywrath_Mage_Large.png"
+  },
+  {
+    "id": "7.29_hero_Slardar",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Slardar",
+    "descriptionHtml": "<ul><li><img></img>Sprint no longer unlocks max movement speed</li><li><img></img>Sprint river speed rescaled from 10/20/30/40% to 25%</li><li><img></img>Slithereen Crush shard now applies the debuff before the damage</li><li><img></img>Slithereen Crush shard now also increases the radius by 75</li><li><img></img>Bash of the Deep now does double damage against creeps</li><li><img></img>Level 10 Talent increased from +6 Health Regen to +7</li><li><img></img>Level 15 Talent increased from +275 Health to +325</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/41/Slardar_Large.png/80px-Slardar_Large.png"
+  },
+  {
+    "id": "7.29_hero_Slark",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Slark",
+    "descriptionHtml": "<ul><li><img></img>Reworked Shard upgrade. Grants Depth Shroud. Creates a 300 AoE cloud at the target location for 3 seconds. All allies inside the radius are hidden and have increased regeneration and movement speed. Cast Range: 800. Cooldown: 75. Manacost: 75</li><li><img></img>Shadow Dance movement speed rescaled from 20/35/50% to 24/36/48%</li><li><img></img>Level 10 Talent increased from +7 Agility to +8</li><li><img></img>Level 15 Talent increased from +15% Lifesteal to +18%</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Slark_Large.png/80px-Slark_Large.png"
+  },
+  {
+    "id": "7.29_hero_Snapfire",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Snapfire",
+    "descriptionHtml": "<ul><li><img></img>Base armor increased by 1</li><li><img></img>Intelligence increased from 18 to 21</li><li><img></img>Lil&apos;Shredder damage increased from 20/40/60/80 to 20/45/70/95</li><li><img></img>Lil&apos;Shredder Mana cost rescaled from 75/80/85/90 to 50/60/70/80</li><li><img></img>Lil&apos;Shredder Armor reduction duration increased from 4 to 5</li><li><img></img>Scatterblast shard stun duration increased from 1.5 to 2</li><li><img></img>Firesnap Cookie jump distance reduced from 450 to 425</li><li><img></img>Firesnap Cookie cooldown reduced from 24/21/18/15 to 21/19/17/15</li><li><img></img>Level 15 Talent increased from +60 Scatterblast Damage to +75</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a4/Snapfire_Large.png/80px-Snapfire_Large.png"
+  },
+  {
+    "id": "7.29_hero_Sniper",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Sniper",
+    "descriptionHtml": "<ul><li><img></img>Take Aim active reworked. No longer gives double range for an attack. Now lasts 4 seconds and grants you True Strike and +30% Headshot chance. Causes you to move 30% slower. Cooldown: 35/30/25/20. Manacost: 50</li><li><img></img>Concussive Grenade now knocks sniper back 450 units away from the target direction</li><li><img></img>Concussive Grenade Cast range increased from 550 to 600</li><li><img></img>Level 25 Talent increased from +5 Shrapnel to +6</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a2/Sniper_Large.png/80px-Sniper_Large.png"
+  },
+  {
+    "id": "7.29_hero_Spectre",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Spectre",
+    "descriptionHtml": "<ul><li><img></img>Base armor increased by 1</li><li><img></img>Desolate damage increased from 15/30/45/60 to 18/32/46/60</li><li><img></img>Spectral Dagger cast range reduced from 2000 to 1800</li><li><img></img>Shadow Step cooldown reduced from 35 to 30</li><li><img></img>Dispersion shard can now target any enemy hero that damaged you in the last 8 seconds. Can ground target to find the closest valid target.</li><li><img></img>Dispersion Shard mana cost reduced from 150 to 50.</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0a/Spectre_Large.png/80px-Spectre_Large.png"
+  },
+  {
+    "id": "7.29_hero_Spirit-Breaker",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Spirit Breaker",
+    "descriptionHtml": "<ul><li><img></img>Nether Strike cast time reduced from 1.2 to 1</li><li><img></img>Bulldoze speed reduced from 12/18/24/30% to 10/16/22/28%</li><li><img></img>Level 25 Talent increased from +650 Health to +800</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f6/Spirit_Breaker_Large.png/80px-Spirit_Breaker_Large.png"
+  },
+  {
+    "id": "7.29_hero_Storm-Spirit",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Storm Spirit",
+    "descriptionHtml": "<ul><li><img></img>Electric Rave Shard upgrade is now an active on Overload instead of a dedicated hotkey</li><li><img></img>Ball Lightning travel speed rescaled from 1250/1875/2500 to 1400/1850/2300</li><li><img></img>Overload bounce talent is no longer applied to allies that have the Shard buff, only Storm Spirit benefits from it now</li><li><img></img>Overload bounce talent now causes the secondary attacks to do 75% damage instead of 100%</li><li><img></img>Level 10 Talent changed from +24 Overload Damage to 200 Health</li><li><img></img>Level 15 Talent changed from +375 Health to +25 Attack Speed</li><li><img></img>Level 20 Talent changed from +25 Attack Speed to -1.25s Static Remnant Cooldown</li><li><img></img>Level 25 Talent improved from 600 Distance Auto Remnant to 550</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0c/Storm_Spirit_Large.png/80px-Storm_Spirit_Large.png"
+  },
+  {
+    "id": "7.29_hero_Sven",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Sven",
+    "descriptionHtml": "<ul><li><img></img>Storm Hammer shard now also reduces cooldown by 4 seconds</li><li><img></img>Storm Hammer scepter cast range reduced from 950 to 900</li><li><img></img>God&apos;s Strength damage increased from 100/140/180% to 100/150/200%</li><li><img></img>Level 10 Talent changed from +2.5 Mana Regen to +15 Attack Speed</li><li><img></img>Level 10 Talent changed from +7 Strength to +3s Warcry Duration</li><li><img></img>Level 15 Talent changed from +4s Warcry Duration to +25% Great Cleave</li><li><img></img>Level 25 Talent increased from +1s Storm Hammer Stun Duration to +1.25</li><li><img></img>Level 20 Talent changed from -4s Storm Hammer Cooldown to +10 Warcry Armor</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f2/Sven_Large.png/80px-Sven_Large.png"
+  },
+  {
+    "id": "7.29_hero_Techies",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Techies",
+    "descriptionHtml": "<ul><li><img></img>Movement speed increased from 310 to 320</li><li><img></img>Remote Mines cast time improved from 1 to 0.75</li><li><img></img>Minefield Sign can no longer be placed in fountain areas</li><li><img></img>Blast Off! shard cast range reduced from +600 to +300</li><li><img></img>Blast Off! shard stun radius increased from 200 to 400 (same as damage radius)</li><li><img></img>Blast Off! shard stun duration increased from 1.5 to 1.75</li><li><img></img>Level 15 Talent increased from +240 Blast Off! Damage to +300</li><li><img></img>Level 15 Talent reduced from +5 Mana Regen to +4</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a7/Techies_Large.png/80px-Techies_Large.png"
+  },
+  {
+    "id": "7.29_hero_Templar-Assassin",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Templar Assassin",
+    "descriptionHtml": "<ul><li><img></img>Meld mana cost reduced from 50 to 35/40/45/50</li><li><img></img>Meld damage increased from 50/100/150/200 to 80/120/160/200</li><li><img></img>Meld cooldown increased from 12/10/8/6 to 15/12/9/6</li><li><img></img>Psionic Trap shard silence duration increased from 0.5/3 min/max to 1.5/3.5</li><li><img></img>Psionic Trap shard increases vision from 400 to 525 radius</li><li><img></img>Psionic Trap cast range reduced from 2000 to 1800</li><li><img></img>Psionic Projeection scepter mana cost reduced from 100 to 50</li><li><img></img>Psionic Projeection scepter cooldown reduced from 15 to 10</li><li><img></img>Level 10 Talent changed from +20 Movement Speed to +80 Psi Blades Range</li><li><img></img>Level 10 Talent increased from +15 Attack Speed to +20</li><li><img></img>Level 15 Talent increased from +160 Psionic Trap Damage to +180</li><li><img></img>Level 25 Talent increased from +6 Refraction Instance to +8</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/50/Templar_Assassin_Large.png/80px-Templar_Assassin_Large.png"
+  },
+  {
+    "id": "7.29_hero_Terrorblade",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Terrorblade",
+    "descriptionHtml": "<ul><li><img></img>Base HP regen increased from 0 to 1</li><li><img></img>Base damage increased by 4</li><li><img></img>Base armor reduced by 2</li><li><img></img>Metamorphosis attack damage bonus reduced from 20/40/60/80 to 15/30/45/60</li><li><img></img>Metamorphosis attack range bonus reduced from 400 to 340/360/380/400</li><li><img></img>Reflection illusion damage increased from 40/60/80/100% to 55/70/85/100%</li><li><img></img>Reflection slow rescaled from 25% to 15/20/25/30%</li><li><img></img>Reflection duration rescaled from 3.25/4/4.75/5.5 to 5</li><li><img></img>Reflection cooldown increased from 22/20/18/16 to 28/24/20/16</li><li><img></img>Reflection mana cost reduced from 50 to 35/40/45/50</li><li><img></img>Level 10 Talent increased from +15 Movement Speed to +20</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b5/Terrorblade_Large.png/80px-Terrorblade_Large.png"
+  },
+  {
+    "id": "7.29_hero_Tidehunter",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Tidehunter",
+    "descriptionHtml": "<ul><li><img></img>Gush mana cost rescaled from 90/100/110/120 to 100/105/110/115</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/de/Tidehunter_Large.png/80px-Tidehunter_Large.png"
+  },
+  {
+    "id": "7.29_hero_Timbersaw",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Timbersaw",
+    "descriptionHtml": "<ul><li><img></img>Base armor increased by 1</li><li><img></img>Reactive Armor duration reduced from 10/13/16/19 to 10/12/14/16</li><li><img></img>Reactive Armor regen per stack reduced from 1/1.1/1.2/1.3 to 0.7/0.9/1.1/1.3</li><li><img></img>Timber Chain cast range reduced from 800/1000/1200/1400 to 800/950/1100/1250</li><li><img></img>Timber Chain travel speed increased from 1900/2200/2500/2800 to 2200/2400/2600/2800</li><li><img></img>Flamethrower shard no longer ignores Ancients</li><li><img></img>Flamethrower shard now affects buildings for 40% damage</li><li><img></img>Whirling Death debuff duration rescaled from 14 to 12/13/14/15</li><li><img></img>Chakram scepter damage per second increased by 20</li><li><img></img>Level 15 Talent changed from +8 Reactive Armor Stacks to +6 Reactive Armor Stacks and Duration</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Timbersaw_Large.png/80px-Timbersaw_Large.png"
+  },
+  {
+    "id": "7.29_hero_Tinker",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Tinker",
+    "descriptionHtml": "<ul><li><img></img>Defense Matrix shard status resistance increased from 40% to 50%</li><li><img></img>Defense Matrix shard health increased from 275 to 350</li><li><img></img>Defense Matrix shard duration increased from 12 to 15</li><li><img></img>Laser scepter current health reduction reduced from 20% to 15%</li><li><img></img>Rearm cast point reduced from 0.53 to 0</li><li><img></img>Rearm mana cost increased from 100/200/300 to 100/210/320</li><li><img></img>Rearm channel time increased from 3/1.5/0.75 to 3.5/2/1.25</li><li><img></img>Heat-Seeking Missile mana cost reduced from 80/100/120/140 to 80/95/110/125</li><li><img></img>Level 10 Talent changed from +125 Cast Range to +8% Mana cost/Mana loss Reduction</li><li><img></img>Level 15 Talent changed from +9% Mana cost/Mana loss Reduction to +1 Heat-Seeking Missile</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c0/Tinker_Large.png/80px-Tinker_Large.png"
+  },
+  {
+    "id": "7.29_hero_Tiny",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Tiny",
+    "descriptionHtml": "<ul><li><img></img>Base HP regen increased from 1 to 1.5</li><li><img></img>Reworked Shard upgrade. Now causes Tree Grab to have no charge limit.</li><li><img></img>Tree Grab mana cost reduced from 50 to 40</li><li><img></img>Grow armor increased from 10/16/22 to 12/18/24</li><li><img></img>Tree Volley cast range reduced from 1300 to 1200</li><li><img></img>Tree Throw cast range reduced from 1300 to 1200</li><li><img></img>Toss cast range rescaled from 850/1000/1150/1300 to 900/1000/1100/1200</li><li><img></img>Level 10 Talent changed from +25 Damage to +10 Strength</li><li><img></img>Level 10 Talent increased from +15 Movement Speed to +20</li><li><img></img>Level 15 Talent changed from +5 Tree Grab Attack Charges to +15% Tree Grab Unit Damage Bonus</li><li><img></img>Level 20 Talent changed from +18 Strength to +15% Status Resistance</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Tiny_Large.png/80px-Tiny_Large.png"
+  },
+  {
+    "id": "7.29_hero_Treant-Protector",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Treant Protector",
+    "descriptionHtml": "<ul><li><img></img>Nature&apos;s Guise shard now also grants invisibility near trees</li><li><img></img>Leech Seed mana cost reduced from 110/120/130/140 to 80/90/100/110</li><li><img></img>Living Armor cast time reduced from 0.4 to 0.3</li><li><img></img>Level 10 Talent changed from +60 Damage to +1.75 Mana Regen</li><li><img></img>Level 10 Talent changed from Nature&apos;s Guise Invisibility to -5s Nature&apos;s Grasp Cooldown</li><li><img></img>Level 15 Talent increased from +24 Nature&apos;s Grasp Damage to +30</li><li><img></img>Level 20 Talent changed from +12% Cooldown Reduction to +8 Living Armor Bonus Armor</li><li><img></img>Level 25 Talent 450 AoE Living Armor now works on creeps</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7a/Treant_Protector_Large.png/80px-Treant_Protector_Large.png"
+  },
+  {
+    "id": "7.29_hero_Troll-Warlord",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Troll Warlord",
+    "descriptionHtml": "<ul><li><img></img>Whirling Axes Ranged mana cost increased from 50 to 60</li><li><img></img>Whirling Axes Ranged distance reduced from 1000 to 950</li><li><img></img>Reworked Shard upgrade. Grants Rampage. Globally causes all allied heroes to gain +70 Attack Speed or +25% Status resistance for 5 seconds based on whichever stance Troll is currently in. Ranged provides attack speed and melee provides status resistance. Cooldown: 80. Manacost: 75.</li><li><img></img>Berserker&apos;s Rage bonus armor rescaled from 6 to 4/5/6/7</li><li><img></img>Battle Trance movement speed reduced form 30/35/40% to 25/30/35%</li><li><img></img>Level 10 Talent increased from +200 Health to +225</li><li><img></img>Level 10 Talent reduced from +8 Agility to +7</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Troll_Warlord_Large.png/80px-Troll_Warlord_Large.png"
+  },
+  {
+    "id": "7.29_hero_Tusk",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Tusk",
+    "descriptionHtml": "<ul><li><img></img>Base HP regen reduced from 1 to 0.75</li><li><img></img>Walrus Punch now does the attack animation 40% faster</li><li><img></img>Tag Team damage reduced from 25/50/75/100 to 20/45/70/95</li><li><img></img>Snowball cast range reduced from 1250 to 1150</li><li><img></img>Ice Shards cast range reduced from 2000 to 1800</li><li><img></img>Ice Shards mana cost reduced from 100/105/110/115 to 100</li><li><img></img>Frozen Sigil shard no longer reduces attack speed</li><li><img></img>Frozen Sigil shard attacks to destroy increased from 4 to 6</li><li><img></img>Frozen Sigil shard vision radius increased from 400 to 650</li><li><img></img>Frozen Sigil shard movement speed increased from 340 to 375</li><li><img></img>Frozen Sigil shard manacost reduced from 100 to 70</li><li><img></img>Frozen Sigil shard slow increased from 35% to 40%</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Tusk_Large.png/80px-Tusk_Large.png"
+  },
+  {
+    "id": "7.29_hero_Underlord",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Underlord",
+    "descriptionHtml": "<ul><li><img></img>Attack range increased from 175 to 200</li><li><img></img>Firestorm radius rescaled from 400/430/460/490 to 425</li><li><img></img>Firestorm shard no longer provides healing</li><li><img></img>Firestorm shard now also increases the Firestorm wave count by 3</li><li><img></img>Dark Rift scepter now also increases radius from 600 to 900</li><li><img></img>Dark Rift scepter no longer reduces cooldown</li><li><img></img>Dark Rift scepter now causes it to have two charges</li><li><img></img>Level 10 Talent changed from +2 Firestorm Wave Count to +125 Firestorm Radius</li><li><img></img>Level 20 Talent increased from +50 Attack Speed to +60</li><li><img></img>Level 25 Talent changed from 15% Firestorm Building Damage to 40% Atrophy Allied Hero Bonus</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/9e/Underlord_Large.png/80px-Underlord_Large.png"
+  },
+  {
+    "id": "7.29_hero_Undying",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Undying",
+    "descriptionHtml": "<ul><li><img></img>Agility gain increased from 0.8 to 1.2</li><li><img></img>Decay mana cost reduced from 85/95/105/115 to 85/90/95/100</li><li><img></img>Decay now deals double damage to creeps</li><li><img></img>Flesh Golem illusions no longer apply the debuff</li><li><img></img>Level 10 Talent changed from +40 Decay Duration to +5 Armor</li><li><img></img>Level 10 Talent changed from +125 Cast Range to -15s Tombstone Cooldown</li><li><img></img>Level 15 Talent increased from +10 Soul Rip Damage/Heal to +12</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6b/Undying_Large.png/80px-Undying_Large.png"
+  },
+  {
+    "id": "7.29_hero_Ursa",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Ursa",
+    "descriptionHtml": "<ul><li><img></img>Reworked Shard upgrade. Now causes Earthshock to apply a 1.5 second Enrage buff on yourself. Reduces cooldown by 2 seconds.</li><li><img></img>Level 10 Talent increased from +1.5 Mana Regen to +1.75</li><li><img></img>Level 15 Talent reduced from +12 Agility to +10 Agility</li><li><img></img>Level 20 Talent changed from -3s Earthshock Cooldown to +10% Enrage Status Resistance</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/27/Ursa_Large.png/80px-Ursa_Large.png"
+  },
+  {
+    "id": "7.29_hero_Vengeful-Spirit",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Vengeful Spirit",
+    "descriptionHtml": "<ul><li><img></img>Base damage increased from 41-49 to 44-50</li><li><img></img>Base movement speed increased from 290 to 295</li><li><img></img>Vengeance Aura scepter illusion movement speed reduced from 30% to 25%</li><li><img></img>Wave of Terror radius increased from 300 to 325</li><li><img></img>Wave of Terror shard damage steal reduced from 25% to 20%</li><li><img></img>Wave of Terror shard now also steals 20% of the enemy base armor</li><li><img></img>Level 10 Talent changed from -1 Wave of Terror Armor to +10 Agility</li><li><img></img>Level 15 Talent changed from +12 Agility to -2 Wave of Terror Armor</li><li><img></img>Level 20 Talent changed from +125 Cast Range to -15s Nether Swap Cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c9/Vengeful_Spirit_Large.png/80px-Vengeful_Spirit_Large.png"
+  },
+  {
+    "id": "7.29_hero_Venomancer",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Venomancer",
+    "descriptionHtml": "<ul><li><img></img>Base damage increased from 42-44 to 44-47</li><li><img></img>Poison Sting slow reduced from 9/11/13/15% to 8/10/12/14%</li><li><img></img>Poison Nova radius increased from 575 to 630</li><li><img></img>Poison Nova duration increased from 18 to 20</li><li><img></img>Level 10 Talent changed from +15s Plague Ward Duration to +100 Attack Range</li><li><img></img>Level 15 Talent changed from +100 Attack Range to +12% Spell Lifesteal</li><li><img></img>Level 15 Talent reduced from -10% Poison Sting Slow to -8%</li><li><img></img>Level 20 Talent changed from +12% Spell Lifesteal to -1.5s Plague Wards Cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/39/Venomancer_Large.png/80px-Venomancer_Large.png"
+  },
+  {
+    "id": "7.29_hero_Viper",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Viper",
+    "descriptionHtml": "<ul><li><img></img>Poison Attack mana cost rescaled from 25 to 20/22/24/26</li><li><img></img>Poison Attack Shard armor reduction reduced from 1.5 to 1</li><li><img></img>Poison Attack Shard now also causes it to affect buildings for 40% poison damage</li><li><img></img>Viper Strike mana cost reduced from 125/175/225 to 100/150/200</li><li><img></img>Level 15 Talent changed from +5 Corrosive Skin Stats to +300 Health</li><li><img></img>Level 25 Talent changed from Poison Attack Affects Buildings to 2x Corrosive Skin Slow and Resistance</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Viper_Large.png/80px-Viper_Large.png"
+  },
+  {
+    "id": "7.29_hero_Visage",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Visage",
+    "descriptionHtml": "<ul><li><img></img>Attack animation improved from 0.46 to 0.4</li><li><img></img>Base armor increased by 1</li><li><img></img>Soul Assumption mana cost decreased from 135/140/145/150 to 125</li><li><img></img>Gravekeeper&apos;s Cloak shard mana cost reduced from 200 to 125</li><li><img></img>Gravekeeper&apos;s Cloak shard heal increased from 25% to 35%</li><li><img></img>Level 10 Talent changed from +75 Cast Range to -3s Grave Chill Cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f8/Visage_Large.png/80px-Visage_Large.png"
+  },
+  {
+    "id": "7.29_hero_Void-Spirit",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Void Spirit",
+    "descriptionHtml": "<ul><li><img></img>Dissimilate shard damage increased from +125 to +200</li><li><img></img>Aether Remnant cast range reduced from 1000 to 850</li><li><img></img>Astral Step cast range reduced from 700/900/1100 to 700/850/1000</li><li><img></img>Astral Step replenish time improved from 30/25/20 to 28/23/18</li><li><img></img>Resonant Pulse mana cost increased from 100/110/120/130 to 115/120/125/130</li><li><img></img>Resonant Pulse cooldown increased from 16 to 18</li><li><img></img>Level 20 Talent reduced from -5s Astral Step Charge Restore Time to -4</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/16/Void_Spirit_Large.png/80px-Void_Spirit_Large.png"
+  },
+  {
+    "id": "7.29_hero_Warlock",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Warlock",
+    "descriptionHtml": "<ul><li><img></img>Shadow Ward shard movement speed/slow reduced from 20% to 10%</li><li><img></img>Shadow Word shard now also changes it to a 450 AoE spell</li><li><img></img>Upheaval cast time improved from 0.5 to 0.4</li><li><img></img>Upheaval AoE reduced from 650 to 500/550/600/650</li><li><img></img>Upheaval slow cap rescaled from 84% to 40/60/80/100%</li><li><img></img>Upheaval slow per second rescaled from 7/14/21/28% to 12/17/22/27%</li><li><img></img>Upheaval max duration reduced from 16 to 10/12/14/16</li><li><img></img>Chaotic Offering scepter spawn interval reduced from 0.4 to 0.2</li><li><img></img>Level 10 Talent changed from +150 Cast Range to +50 Chaotic Offering Golem Movement Speed</li><li><img></img>Level 15 Talent reduced from -5.5s Shadow Word Cooldown to -5s</li><li><img></img>Level 15 Talent changed from +8 Armor to +40 Upheaval DPS</li><li><img></img>Level 20 Talent changed from 500 Shadow Word AoE to +25 Shadow Word Heal/Damage</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b9/Warlock_Large.png/80px-Warlock_Large.png"
+  },
+  {
+    "id": "7.29_hero_Weaver",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Weaver",
+    "descriptionHtml": "<ul><li><img></img>Shukuchi no longer unlocks max movement speed</li><li><img></img>Shukuchi now moves at haste speed always</li><li><img></img>Level 10 Talent changed from +15 Damage to +0.2 Swarm Armor Reduction</li><li><img></img>Level 20 Talent changed from +0.4 Swarm Armor Reduction to +35 Damage</li><li><img></img>Level 20 Talent reduced from +4 Swarm Attacks To Kill to +3</li><li><img></img>Level 25 Talent changed from +160 Shukuchi Movement Speed to 2 Shukuchi Charges</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/59/Weaver_Large.png/80px-Weaver_Large.png"
+  },
+  {
+    "id": "7.29_hero_Windranger",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Windranger",
+    "descriptionHtml": "<ul><li><img></img>Shackleshot mana cost reduced from 70/85/100/115 to 70/80/90/100</li><li><img></img>Powershot shard now also reduces cooldown by 1.5 seconds</li><li><img></img>Powershot kill threshold no longer scales based on powershot channel</li><li><img></img>Windrun scepter no longer unlocks max movement speed (still provides 2 charges)</li><li><img></img>Windrun scepter now passively provides 30% Evasion</li><li><img></img>Windrun scepter now provides haste instead of increasing the speed from 60% to 100%</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Windranger_Large.png/80px-Windranger_Large.png"
+  },
+  {
+    "id": "7.29_hero_Winter-Wyvern",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Winter Wyvern",
+    "descriptionHtml": "<ul><li><img></img>Base armor increased by 1</li><li><img></img>Arctic Burn cooldown reduced from 50/40/30/20 to 42/36/28/20</li><li><img></img>Winter&apos;s Curse now ends if there are no enemies in the area for 2.5 seconds</li><li><img></img>Winter&apos;s Curse cooldown reduced from 90 to 80</li><li><img></img>Winter&apos;s Curse duration increased from 4/4.75/5.5 to 4.5/5/5.5</li><li><img></img>Winter&apos;s Curse curse radius increased from 500 to 525</li><li><img></img>Winter&apos;s Curse attack speed increased from 55 to 65</li><li><img></img>Cold Embrace shard no longer increases Splinter Blast damage by +80</li><li><img></img>Cold Embrace shard now also reduces cooldown by 5 seconds</li><li><img></img>Level 10 Talent increased from +1% Cold Embrace Heal to +1.5%</li><li><img></img>Level 20 Talent changed from -4s Cold Embrace cooldown to +100 Splinter Blast Damage</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c7/Winter_Wyvern_Large.png/80px-Winter_Wyvern_Large.png"
+  },
+  {
+    "id": "7.29_hero_Witch-Doctor",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Witch Doctor",
+    "descriptionHtml": "<ul><li><img></img>Paralyzing Cask hero damage increased from 50 to 50/60/70/80</li><li><img></img>Level 10 Talent changed from +5 Armor to +200 Health</li><li><img></img>Level 15 Talent increased from +80 Maeldict AoE to +100</li><li><img></img>Level 25 Talent increased from +1.2% Max Health Voodoo Restoration to +1.5%</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b0/Witch_Doctor_Large.png/80px-Witch_Doctor_Large.png"
+  },
+  {
+    "id": "7.29_hero_Wraith-King",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Wraith King",
+    "descriptionHtml": "<ul><li><img></img>Level 10 Talent changed from -1s Wraithfire Blast Cooldown to +0.5s Wraithfire Blast Stun Duration</li><li><img></img>Level 15 Talent changed from +12 Strength to +25 Movement Speed</li><li><img></img>Level 20 Talent changed from +30 Movement Speed to +16 Strength</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6e/Wraith_King_Large.png/80px-Wraith_King_Large.png"
+  },
+  {
+    "id": "7.29_hero_Zeus",
+    "version": "7.29",
+    "category": "hero",
+    "label": "Zeus",
+    "descriptionHtml": "<ul><li><img></img>Base armor increased by 1</li><li><img></img>Static Field shard cooldown reduced from 14 to 11</li><li><img></img>Level 10 Talent changed from +200 Health to +20 Movement Speed</li><li><img></img>Level 15 Talent changed from +25 Movement Speed to +350 Health</li><li><img></img>Level 25 Talent changed from +275 Cast Range to +50% Spell Lifesteal</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/91/Zeus_Large.png/80px-Zeus_Large.png"
+  },
+  {
+    "id": "7.29_general_General-updates",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><img></img>Strength gain increased from 3.2 to 3.8</li><li><img></img>Base armor increased by 2</li><li><img></img>Starbreaker self stun at the end reduced from 0.3 to 0.2</li><li><img></img>Celestial Hammer Trail burn damage increased from 20 to 20/30/40/50</li><li><img></img>Luminosity healing from heroes increased from 25/30/35/40% to 30/40/50/60%</li><li><img></img>Solar Guardian heal per pulse increased from 40/55/70 to 45/70/95</li><li><img></img>Solar Guardian radius increased from 400 to 500</li><li><img></img>Solar Guardian stun duration increased from 1.1/1.3/1.5 to 1.5/1.75/2</li></ul>"
+  }
+]

@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "7.07_new-hero_Donte-Panlin,-the-Pangolier",
+    "version": "7.07",
+    "category": "new-hero",
+    "label": "Donte Panlin, the Pangolier",
+    "descriptionHtml": "",
+    "imageSrc": "/commons/images/thumb/a/a3/Pangolier_Large.png/128px-Pangolier_Large.png"
+  },
+  {
+    "id": "7.07_new-hero_Mireska-Sunbreeze,-the-Dark-Willow",
+    "version": "7.07",
+    "category": "new-hero",
+    "label": "Mireska Sunbreeze, the Dark Willow",
+    "descriptionHtml": "",
+    "imageSrc": "/commons/images/thumb/5/5e/Dark_Willow_Large.png/128px-Dark_Willow_Large.png"
+  },
+  {
+    "id": "7.07_general_General-updates",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>All Pick</a>drafting order is now: A-BB-AA-BB-AA-B</li><li>Each day 10 heroes are selected automatically as bonus heroes for the day<ul><li>Bonus heroes provide you with a free mango on selection (cannot be sold)</li></ul></li><li>Randoming no longer gives bonus gold<ul><li>It instead selects a hero from the set of bonus heroes and grants an extra iron branch (in addition to the mango)</li></ul></li><li>Removed repicking</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Health and mana regeneration formulas have been reworked<ul><li>For both health and mana, you gain a direct value</li><li>After that, Strength and Intelligence both amplify health and mana regenerations (Void Stone for example provides 1 mana regeneration, instead of 100%)</li></ul></li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Intelligence mana increased from 11 to 12</li><li>All Agility heroes base movement speeds reduced by 5</li><li>Strength, Agility, and Intelligence attributes now give a unique perk to the hero if they are the respective hero type (in addition to the +1 damage)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>All hero Talent Trees have been redesigned, many new ability-specific talents have been added</li></ul>"
+  },
+  {
+    "id": "7.07_item_Courier",
+    "version": "7.07",
+    "category": "item",
+    "label": "Courier",
+    "descriptionHtml": "<ul><li><a>Courier</a>cost increased from 100 to 200</li><li>Ground Courier movement speed increased from 350 to 380</li><li><a>Flying Courier</a>speed increased from 430 to 450</li><li>Flying Courier upgrade can no longer be purchased. Courier now upgrades automatically at 3 minutes</li><li>Flying Courier now has Courier Shield instead of the Haste ability (200 CD, Duration: 2)</li><li>Courier can no longer refill<a>Bottle</a></li><li>Courier can no longer be purchased more than once</li></ul>"
+  },
+  {
+    "id": "7.07_item_Shop",
+    "version": "7.07",
+    "category": "item",
+    "label": "Shop",
+    "descriptionHtml": "<ul><li>Removed the following items from the<a>side shop</a>:<a>Quarterstaff</a>,<a>Orb of Venom</a>,<a>Blades of Attack</a>,<a>Sage&apos;s Mask</a>,<a>Stout Shield</a>,<a>Ring of Regen</a>,<a>Ring of Health</a>,<a>Bottle</a>(1 charge)</li><li>Added the following item to the side shop:<a>Ring of Protection</a></li><li>Added the following items to<a>Secret Shop</a>:<a>Void Stone</a>,<a>Ring of Health</a>,<a>Bottle</a>(full charge)</li></ul>"
+  },
+  {
+    "id": "7.07_item_Support",
+    "version": "7.07",
+    "category": "item",
+    "label": "Support",
+    "descriptionHtml": "<ul><li><a>Observer Wards</a>cost increased from 60 to 80</li><li>Observer Wards XP bounty increased from 25 to 100</li><li><a>Tango</a>cost rescaled from 125 for 4 uses to 150 for 5 uses</li><li><a>Smoke of Deceit</a>cost increased from 50 to 80</li></ul>"
+  },
+  {
+    "id": "7.07_item_Miscellaneous",
+    "version": "7.07",
+    "category": "item",
+    "label": "Miscellaneous",
+    "descriptionHtml": "<ul><li><a>Gauntlet</a>cost reduced from 150 to 135</li><li><a>Slippers</a>cost reduced from 150 to 135</li><li><a>Mantle</a>cost reduced from 150 to 135</li><li><a>Wraith Band</a>Recipe reduced from 170 to 165</li><li><a>Bracer</a>recipe reduced from 175 to 165</li><li><a>Null Talisman</a>recipe increased from 155 to 165</li><li>Wraith/Bracer/Null no longer give +3 attack damage, they now give an additional +1 to primary attribute</li><li><a>Veil of Discord</a>no longer provides +6 Damage</li><li>Veil Intelligence bonus increased from +12 to +14</li><li><a>Dagon</a>no longer provides +9 Damage</li><li>Dagon Intelligence bonus increased +2</li><li><a>Drum of Endurance</a>no longer provides +3 Damage</li><li>Drum of Endurance Strength bonus increased +1</li><li><a>Rod of Atos</a>no longer provides +6 Damage</li><li><a>Perseverance</a>no longer gives +10 Damage</li><li><a>Linken&apos;s Sphere</a>no longer gives +15 Damage</li><li><a>Refresher Orb</a>no longer gives +20 Damage</li><li>Refresher Orb mana regen increased from 250 to 300%</li><li><a>Lotus Orb</a>no longer gives +10 Damage</li></ul>"
+  },
+  {
+    "id": "7.07_item_Aether-Lens",
+    "version": "7.07",
+    "category": "item",
+    "label": "Aether Lens",
+    "descriptionHtml": "<ul><li>Item Reworked</li></ul>",
+    "imageSrc": "/commons/images/e/ee/Aether_Lens.png"
+  },
+  {
+    "id": "7.07_item_Battle-Fury",
+    "version": "7.07",
+    "category": "item",
+    "label": "Battle Fury",
+    "descriptionHtml": "<ul><li>Recipe Changed<ul><li>Battle Fury now requires a Demon Edge instead of Claymore + Broadsword (cost is 400 cheaper)</li></ul></li><li>Attack damage reduced from 55 to 50</li><li>Cleave distance increased from 570 to 625</li><li>Cleave end radius increased from 300 to 330</li></ul>",
+    "imageSrc": "/commons/images/a/a5/Battle_Fury.png"
+  },
+  {
+    "id": "7.07_item_Boots-of-Speed",
+    "version": "7.07",
+    "category": "item",
+    "label": "Boots of Speed",
+    "descriptionHtml": "<ul><li>Boots of Speed movement speed reduced from +45 to +40</li></ul>",
+    "imageSrc": "/commons/images/0/07/Boots_of_Speed.png"
+  },
+  {
+    "id": "7.07_item_Boots-of-Travel",
+    "version": "7.07",
+    "category": "item",
+    "label": "Boots of Travel",
+    "descriptionHtml": "<ul><li>Boots of Travel building prioritization range increased from 325 to 700</li></ul>",
+    "imageSrc": "/commons/images/d/d8/Boots_of_Travel.png"
+  },
+  {
+    "id": "7.07_item_Bloodstone",
+    "version": "7.07",
+    "category": "item",
+    "label": "Bloodstone",
+    "descriptionHtml": "<ul><li>Recipe Changed<ul><li>Bloodstone now requires Perseverance instead of Soul Ring + Recipe</li></ul></li><li>Initial charges increased from 12 to 14</li><li>No longer heals in an area around your hero upon death</li></ul>",
+    "imageSrc": "/commons/images/0/00/Bloodstone.png"
+  },
+  {
+    "id": "7.07_item_Butterfly",
+    "version": "7.07",
+    "category": "item",
+    "label": "Butterfly",
+    "descriptionHtml": "<ul><li><a>Flutter</a>duration reduced from 4 to 2 seconds</li><li>Flutter no longer disables evasion</li></ul>",
+    "imageSrc": "/commons/images/1/10/Butterfly.png"
+  },
+  {
+    "id": "7.07_item_Desolator",
+    "version": "7.07",
+    "category": "item",
+    "label": "Desolator",
+    "descriptionHtml": "<ul><li>Desolator armor reduction reduced from -7 to -6</li></ul>",
+    "imageSrc": "/commons/images/e/e2/Desolator.png"
+  },
+  {
+    "id": "7.07_item_Diffusal-Blade",
+    "version": "7.07",
+    "category": "item",
+    "label": "Diffusal Blade",
+    "descriptionHtml": "<ul><li>Item Reworked</li><li>No longer dispels</li><li>No longer has charge limits</li><li>No longer upgradeable</li><li>Cooldown increased to 15 seconds</li></ul>",
+    "imageSrc": "/commons/images/a/a4/Diffusal_Blade.png"
+  },
+  {
+    "id": "7.07_item_Drum-of-Endurance",
+    "version": "7.07",
+    "category": "item",
+    "label": "Drum of Endurance",
+    "descriptionHtml": "<ul><li>Active bonus attack speed increased from 25 to 35</li></ul>",
+    "imageSrc": "/commons/images/a/a9/Drum_of_Endurance.png"
+  },
+  {
+    "id": "7.07_item_Ethereal-Blade",
+    "version": "7.07",
+    "category": "item",
+    "label": "Ethereal Blade",
+    "descriptionHtml": "<ul><li>Projectile speed increased from 1200 to 1275</li></ul>",
+    "imageSrc": "/commons/images/c/c9/Ethereal_Blade.png"
+  },
+  {
+    "id": "7.07_item_Eye-of-Skadi",
+    "version": "7.07",
+    "category": "item",
+    "label": "Eye of Skadi",
+    "descriptionHtml": "<ul><li>No longer requires an Orb of Venom</li></ul>",
+    "imageSrc": "/commons/images/6/64/Eye_of_Skadi.png"
+  },
+  {
+    "id": "7.07_item_Force-Staff",
+    "version": "7.07",
+    "category": "item",
+    "label": "Force Staff",
+    "descriptionHtml": "<ul><li>Cooldown increased from 20 to 23</li></ul>",
+    "imageSrc": "/commons/images/9/9f/Force_Staff.png"
+  },
+  {
+    "id": "7.07_item_Glimmer-Cape",
+    "version": "7.07",
+    "category": "item",
+    "label": "Glimmer Cape",
+    "descriptionHtml": "<ul><li>Glimmer Cape can no longer be disassembled</li></ul>",
+    "imageSrc": "/commons/images/a/ae/Glimmer_Cape.png"
+  },
+  {
+    "id": "7.07_item_Hurricane-Pike",
+    "version": "7.07",
+    "category": "item",
+    "label": "Hurricane Pike",
+    "descriptionHtml": "<ul><li>Hurricane Pike now requires a Wraith Band instead of a 500 gold recipe</li></ul>",
+    "imageSrc": "/commons/images/7/78/Hurricane_Pike.png"
+  },
+  {
+    "id": "7.07_item_Iron-Talon",
+    "version": "7.07",
+    "category": "item",
+    "label": "Iron Talon",
+    "descriptionHtml": "<ul><li>Iron Talon has been removed from the game</li></ul>",
+    "imageSrc": "/commons/images/5/5b/Iron_Talon.png"
+  },
+  {
+    "id": "7.07_item_Javelin",
+    "version": "7.07",
+    "category": "item",
+    "label": "Javelin",
+    "descriptionHtml": "<ul><li>Now provides 25% Accuracy</li><li>Cost reduced from 1500 to 1100</li><li>No longer grants +10 Damage</li><li>Accuracy proc now deals 100 magical damage (displayed overhead)</li></ul>",
+    "imageSrc": "/commons/images/1/1d/Javelin.png"
+  },
+  {
+    "id": "7.07_item_Basher",
+    "version": "7.07",
+    "category": "item",
+    "label": "Basher",
+    "descriptionHtml": "<ul><li>Recipe cost increased from 750 to 1150</li><li>No longer grants +10 Damage</li><li>Bashes cannot be evaded</li><li>Damage proc increased from 85 to 100 (displayed overhead)</li></ul>",
+    "imageSrc": "/commons/images/0/06/Skull_Basher.png"
+  },
+  {
+    "id": "7.07_item_Abyssal-Blade",
+    "version": "7.07",
+    "category": "item",
+    "label": "Abyssal Blade",
+    "descriptionHtml": "<ul><li>No longer grants +10 Damage</li><li>Bashes cannot be evaded</li><li>Damage proc increased from 85 to 100 (displayed overhead)</li></ul>",
+    "imageSrc": "/commons/images/7/70/Abyssal_Blade.png"
+  },
+  {
+    "id": "7.07_item_Monkey-King-Bar",
+    "version": "7.07",
+    "category": "item",
+    "label": "Monkey King Bar",
+    "descriptionHtml": "<ul><li>Item Reworked</li></ul>",
+    "imageSrc": "/commons/images/0/0a/Monkey_King_Bar.png"
+  },
+  {
+    "id": "7.07_item_Linken's-Sphere",
+    "version": "7.07",
+    "category": "item",
+    "label": "Linken's Sphere",
+    "descriptionHtml": "<ul><li>Cannot manually target self with Linken&apos;s Sphere</li></ul>",
+    "imageSrc": "/commons/images/3/3c/Linkens_Sphere.png"
+  },
+  {
+    "id": "7.07_item_Magic-Wand",
+    "version": "7.07",
+    "category": "item",
+    "label": "Magic Wand",
+    "descriptionHtml": "<ul><li>Recipe Changed</li></ul>",
+    "imageSrc": "/commons/images/b/bc/Magic_Wand.png"
+  },
+  {
+    "id": "7.07_item_Necronomicon",
+    "version": "7.07",
+    "category": "item",
+    "label": "Necronomicon",
+    "descriptionHtml": "<ul><li>Item Reworked</li><li>Removed Mana Burn from Archer</li><li>Level 3 Archer now gains Purge (Slow + Dispel, targets enemies only). Cooldown: 15</li></ul>",
+    "imageSrc": "/commons/images/5/51/Necronomicon_1.png"
+  },
+  {
+    "id": "7.07_item_Poor-Man's-Shield",
+    "version": "7.07",
+    "category": "item",
+    "label": "Poor Man's Shield",
+    "descriptionHtml": "<ul><li>Poor Man&apos;s Shield has been removed from the game</li></ul>",
+    "imageSrc": "/commons/images/d/df/Poor_Mans_Shield.png"
+  },
+  {
+    "id": "7.07_item_Orb-of-Venom",
+    "version": "7.07",
+    "category": "item",
+    "label": "Orb of Venom",
+    "descriptionHtml": "<ul><li>Damage over time no longer dispels consumables or disables Blink (behaves like Poison Sting)</li></ul>",
+    "imageSrc": "/commons/images/a/a2/Orb_of_Venom.png"
+  },
+  {
+    "id": "7.07_item_Pipe-of-Insight",
+    "version": "7.07",
+    "category": "item",
+    "label": "Pipe of Insight",
+    "descriptionHtml": "<ul><li>Barrier active can now affect buildings</li></ul>",
+    "imageSrc": "/commons/images/1/1e/Pipe_of_Insight.png"
+  },
+  {
+    "id": "7.07_item_Ring-of-Regen",
+    "version": "7.07",
+    "category": "item",
+    "label": "Ring of Regen",
+    "descriptionHtml": "<ul><li>Cost reduced from 325 to 300</li></ul>",
+    "imageSrc": "/commons/images/2/28/Ring_of_Regen.png"
+  },
+  {
+    "id": "7.07_item_Satanic",
+    "version": "7.07",
+    "category": "item",
+    "label": "Satanic",
+    "descriptionHtml": "<ul><li>Recipe Changed<ul><li>Now requires Claymore instead of Mithril Hammer</li></ul></li></ul>",
+    "imageSrc": "/commons/images/0/0e/Satanic.png"
+  },
+  {
+    "id": "7.07_item_Sentry-Wards",
+    "version": "7.07",
+    "category": "item",
+    "label": "Sentry Wards",
+    "descriptionHtml": "<ul><li>Sentry wards no longer automatically appear in front of Observer Wards when buying the item</li></ul>",
+    "imageSrc": "/commons/images/5/53/Sentry_Ward.png"
+  },
+  {
+    "id": "7.07_item_Silver-Edge",
+    "version": "7.07",
+    "category": "item",
+    "label": "Silver Edge",
+    "descriptionHtml": "<ul><li>No longer applies enemy damage reduction</li><li>Movement speed bonus increased from 20% to 25%</li></ul>",
+    "imageSrc": "/commons/images/4/4a/Silver_Edge.png"
+  },
+  {
+    "id": "7.07_item_Smoke-of-Deceit",
+    "version": "7.07",
+    "category": "item",
+    "label": "Smoke of Deceit",
+    "descriptionHtml": "<ul><li>Stock cooldown reduced from 11 minutes to 10 minutes</li></ul>",
+    "imageSrc": "/commons/images/b/b4/Smoke_of_Deceit.png"
+  },
+  {
+    "id": "7.07_item_Solar-Crest",
+    "version": "7.07",
+    "category": "item",
+    "label": "Solar Crest",
+    "descriptionHtml": "<ul><li>Accuracy increased from 35% to 40%</li></ul>",
+    "imageSrc": "/commons/images/5/59/Solar_Crest.png"
+  },
+  {
+    "id": "7.07_item_Soul-Ring",
+    "version": "7.07",
+    "category": "item",
+    "label": "Soul Ring",
+    "descriptionHtml": "<ul><li>Item Reworked</li></ul>",
+    "imageSrc": "/commons/images/d/d4/Soul_Ring.png"
+  },
+  {
+    "id": "7.07_item_Stout-Shield",
+    "version": "7.07",
+    "category": "item",
+    "label": "Stout Shield",
+    "descriptionHtml": "<ul><li>Damage Block increased from 16/8 to 18/9</li></ul>",
+    "imageSrc": "/commons/images/b/bf/Stout_Shield.png"
+  },
+  {
+    "id": "7.07_item_Urn-of-Shadows",
+    "version": "7.07",
+    "category": "item",
+    "label": "Urn of Shadows",
+    "descriptionHtml": "<ul><li>Urn of Shadows damage type changed from pure to magical</li><li>Urn Shadows damage increased from 150 to 200</li></ul>",
+    "imageSrc": "/commons/images/7/78/Urn_of_Shadows.png"
+  },
+  {
+    "id": "7.07_item_Vladmir's-Offering",
+    "version": "7.07",
+    "category": "item",
+    "label": "Vladmir's Offering",
+    "descriptionHtml": "<ul><li>Vladmir&apos;s Aura now stacks with Ring of Aquila/Ring of Basilius</li></ul>",
+    "imageSrc": "/commons/images/f/f5/Vladmirs_Offering.png"
+  },
+  {
+    "id": "7.07_new-item_Meteor-Hammer",
+    "version": "7.07",
+    "category": "new-item",
+    "label": "Meteor Hammer",
+    "descriptionHtml": "<ul><li>New Item</li></ul>",
+    "imageSrc": "/commons/images/a/a4/Meteor_Hammer.png"
+  },
+  {
+    "id": "7.07_new-item_Aeon-Disk",
+    "version": "7.07",
+    "category": "new-item",
+    "label": "Aeon Disk",
+    "descriptionHtml": "<ul><li>New Item</li></ul>",
+    "imageSrc": "/commons/images/0/0a/Aeon_Disk.png"
+  },
+  {
+    "id": "7.07_new-item_Spirit-Vessel",
+    "version": "7.07",
+    "category": "new-item",
+    "label": "Spirit Vessel",
+    "descriptionHtml": "<ul><li>New Item</li></ul>",
+    "imageSrc": "/commons/images/9/92/Spirit_Vessel.png"
+  },
+  {
+    "id": "7.07_new-item_Nullifier",
+    "version": "7.07",
+    "category": "new-item",
+    "label": "Nullifier",
+    "descriptionHtml": "<ul><li>New Item</li></ul>",
+    "imageSrc": "/commons/images/4/41/Nullifier.png"
+  },
+  {
+    "id": "7.07_new-item_Kaya",
+    "version": "7.07",
+    "category": "new-item",
+    "label": "Kaya",
+    "descriptionHtml": "<ul><li>New Item</li></ul>",
+    "imageSrc": "/commons/images/9/97/Kaya.png"
+  },
+  {
+    "id": "7.07_hero_Abaddon",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Abaddon",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +25 Movement Speed OR +20% XP Gain</li><li>Level 15: +6 Armor OR +50 Mist Coil Heal/Damage</li><li>Level 20: +15% Cooldown Reduction OR +90 Damage</li><li>Level 25: +250 Aphotic Shield Health OR +25% Curse of Avernus Slow</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Abaddon_Large.png/80px-Abaddon_Large.png"
+  },
+  {
+    "id": "7.07_hero_Alchemist",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Alchemist",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +25 Attack Speed OR +5 Armor</li><li>Level 15: +50 Damage OR +250 Health</li><li>Level 20: +25% Cleave OR +200 Unstable Concoction Damage</li><li>Level 25: -8s Unstable Concoction Cooldown OR -0.2 Chemical Rage Base Attack Time</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/1/11/Alchemist_Large.png/80px-Alchemist_Large.png"
+  },
+  {
+    "id": "7.07_hero_Ancient-Apparition",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Ancient Apparition",
+    "descriptionHtml": "<ul><li><a>Chilling Touch</a>duration rescaled from 30 to 20/24/28/32</li><li>Chilling Touch no longer reduces allies attack speed</li><li>Chilling Touch magic damage reduced from 50/60/70/80 to 30/45/60/75</li><li>Chilling Touch now applies a stacking 30% slow for 0.3 seconds</li><li>Talent Tree<ul><li>Level 10: +60 Gold/Min OR +10% Spell Amplification</li><li>Level 15: +20 Health Regen OR -1.5s Ice Vortex Cooldown</li><li>Level 20: +80 Chilling Touch Damage OR +8% Ice Vortex Slow/Resistance</li><li>Level 25: +4% Ice Blast Kill Threshold OR +4 Charges of Cold Feet</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5d/Ancient_Apparition_Large.png/80px-Ancient_Apparition_Large.png"
+  },
+  {
+    "id": "7.07_hero_Anti-Mage",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Anti-Mage",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +175 Health OR +20 Attack Speed</li><li>Level 15: -1s Blink Cooldown OR Blink Uncontrollable Illusion</li><li>Level 20: +300 Blink Cast Range OR +10 All Stats</li><li>Level 25: -50s Mana Void Cooldown OR +30% Spell Shield</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/7/70/Anti-Mage_Large.png/80px-Anti-Mage_Large.png"
+  },
+  {
+    "id": "7.07_hero_Arc-Warden",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Arc Warden",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +25 Attack Speed OR +5 Armor</li><li>Level 15: +2s Flux Duration OR +350 Health</li><li>Level 20: +100 Attack Range OR +10% Cooldown Reduction</li><li>Level 25: +30% Lifesteal OR +350 Spark Wraith Damage</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Arc_Warden_Large.png/80px-Arc_Warden_Large.png"
+  },
+  {
+    "id": "7.07_hero_Axe",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Axe",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +8 Strength OR +40 Attack Speed</li><li>Level 15: +3 Mana Regen OR +30 Movement Speed</li><li>Level 20: +20 Health Regen OR Attacks Proc Counter Helix</li><li>Level 25: +100 Berserker&apos;s Call AoE OR +120 Battle Hunger DPS</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a1/Axe_Large.png/80px-Axe_Large.png"
+  },
+  {
+    "id": "7.07_hero_Bane",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Bane",
+    "descriptionHtml": "<ul><li>Bane can attack nightmared units without waking them</li><li>All cast points reduced from 0.5 to 0.4</li><li><a>Nightmare</a>no longer deals 20 damage per second</li><li>Talent Tree<ul><li>Level 10: Enfeeble Steals Damage OR +6 Armor</li><li>Level 15: +150 Cast Range OR +40% XP Gain</li><li>Level 20: +100 Enfeeble Damage Reduction OR +75 Movement Speed</li><li>Level 25: +7s Fiend&apos;s Grip Duration OR +250 Brain Sap Damage/Heal</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/7/72/Bane_Large.png/80px-Bane_Large.png"
+  },
+  {
+    "id": "7.07_hero_Batrider",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Batrider",
+    "descriptionHtml": "<ul><li><a>Flamebreak</a>projectile now visually flies on an arc</li><li>Talent Tree<ul><li>Level 10: +5 Armor OR +6% Spell Amplification</li><li>Level 15: +300 Health OR +2s Flamebreak Burn Duration</li><li>Level 20: +50 Movement Speed OR +15% Cooldown Reduction</li><li>Level 25: +8s Firefly Duration OR -13s Flamebreak Cooldown</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c1/Batrider_Large.png/80px-Batrider_Large.png"
+  },
+  {
+    "id": "7.07_hero_Beastmaster",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Beastmaster",
+    "descriptionHtml": "<ul><li>Hero Reworked</li><li><a>Wild Axes</a>reworked<ul><li>Wild Axes spread distance (how far the axes are from each other at mid distance) increased from 353 to 450</li><li>Wild Axes hit radius increased from 140 to 175</li><li>Wild Axes mana cost reduced from 105/110/115/120 to 60/65/70/75</li><li>Wild Axes damage reduced from 70/100/130/160 to 40/70/100/130</li><li>Wild Axes cooldown reduced from 13 to 8</li><li>Wild Axes now places a stacking debuff on affected units<ul><li>Amplifies all damage the target takes from Beastmaster or his units by 6/8/10/12% for each axe hit</li><li>Debuff lasts 10 seconds</li></ul></li></ul></li><li><a>Primal Roar</a>now causes Beastmaster and all his units to gain 30% movement speed for 3 seconds</li><li>Reworked<a>Call of the Wild</a>(It is now a single ability)<ul><li>Beasts last 60 seconds<ul><li>Cooldown: 60</li><li>Mana Cost: 50/60/70/80</li></ul></li><li>Level 1: Boar Level 1</li><li>Level 2: Boar Level 2</li><li>Level 3: Boar Level 3 + Hawk</li><li>Level 4: Boar Level 4 + Hawk + Random Neutral</li><li>Boar HP: 275/350/425/500</li><li>Boar Attack Damage: 20/30/40/50 (rescaled from 10/25/40/55)</li><li>Boar Slow: 10/20/30/40%</li><li>Boar Slow Duration: 3</li><li>Hawk no longer becomes invisible</li><li>Hawk HP: 350 (increased from 40/60/80/100)</li><li>Hawk Armor: 5</li><li>Hawk Speed: 450</li><li>Hawk Night Sight: 1000</li><li>Hawk Day Sight: 1000</li><li>Neutral: Will select a random neutral from the following list (Alpha Wolf, Hellbear Smasher, Satyr Tormenter, Centaur Conqueror, Dark Troll Summoner)</li></ul></li><li>Talent Tree<ul><li>Level 10: +30 Movement Speed OR +25% XP Gain</li><li>Level 15: +40 Boar Damage OR +7 Armor</li><li>Level 20: +500 Health OR +120 Wild Axes Damage</li><li>Level 25: +2 Hawks OR +40 Inner Beast Attack Speed</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/1/19/Beastmaster_Large.png/80px-Beastmaster_Large.png"
+  },
+  {
+    "id": "7.07_hero_Bloodseeker",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Bloodseeker",
+    "descriptionHtml": "<ul><li><a>Rupture</a>cast range reduced from 1000 to 800</li><li>Talent Tree<ul><li>Level 10: +25 Attack Speed OR +4 Armor</li><li>Level 15: +300 Health OR +75 Bloodrite Damage</li><li>Level 20: +25% Lifesteal OR +14% Rupture Damage</li><li>Level 25: -6s Blood Rite Cooldown OR +20 Thirst</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a6/Bloodseeker_Large.png/80px-Bloodseeker_Large.png"
+  },
+  {
+    "id": "7.07_hero_Bounty-Hunter",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Bounty Hunter",
+    "descriptionHtml": "<ul><li><a>Track</a>can now be alt-clicked to alert your team to how much gold the target has (this information is already available in the track debuff tooltip)</li><li>Talent Tree<ul><li>Level 10: +30 Movement Speed OR +25% XP Gain</li><li>Level 15: +50 Attack Speed OR +350 Health</li><li>Level 20: +75 Shuriken Toss Damage OR +125% Jinada Critical Strike</li><li>Level 25: +50% Evasion OR 300 Track Gold (affects self and allies)</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/8/86/Bounty_Hunter_Large.png/80px-Bounty_Hunter_Large.png"
+  },
+  {
+    "id": "7.07_hero_Brewmaster",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Brewmaster",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +200 Health OR +30 Damage</li><li>Level 15: +3s Thunder Clap Slow OR +20% Magic Resistance</li><li>Level 20: +100 Attack Speed OR +1500 Primal Split Health</li><li>Level 25: -65s Primal Split Cooldown OR +15% Drunken Brawler</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0b/Brewmaster_Large.png/80px-Brewmaster_Large.png"
+  },
+  {
+    "id": "7.07_hero_Bristleback",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Bristleback",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +2 Mana Regen OR +20 Movement Speed</li><li>Level 15: +6 Max Goo Stacks OR +250 Health</li><li>Level 20: +25 Quill Stack Damage OR +20 Health Regen</li><li>Level 25: +15% Spell Lifesteal OR +20 Warpath Damage Per Stack</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f9/Bristleback_Large.png/80px-Bristleback_Large.png"
+  },
+  {
+    "id": "7.07_hero_Broodmother",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Broodmother",
+    "descriptionHtml": "<ul><li>Hero Reworked</li><li><a>Spin Web</a>no longer grants invisibility</li><li>Spin Web pathing/speed buff is no longer removed when taking damage</li><li>Movement speed reduced from 290 to 270</li><li><a>Spiderling</a>HP reduced from 450 to 250</li><li><a>Spiderite</a>HP reduced from 175 to 100</li><li>Spiders now have 50% magic resistance</li><li>Spiders armor increased by 8</li><li>Spiders HP regen increased from 0.5 to 2</li><li>Spin Web charges increased from 1/2/3/4 to 2/4/6/8 (matches amount you can place)</li><li>Talent Tree<ul><li>Level 10: +60 Spawn Spiderling Damage OR +200 Health</li><li>Level 15: +35% XP Gain OR +20% Cooldown Reduction</li><li>Level 20: +60 Attack Speed OR +20 Spiders Attack Damage</li><li>Level 25: +75 Insatiable Hunger Damage/Lifesteal OR +350 Spiders Health</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0c/Broodmother_Large.png/80px-Broodmother_Large.png"
+  },
+  {
+    "id": "7.07_hero_Centaur-Warrunner",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Centaur Warrunner",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +10% Evasion OR +10% Magic Resistance</li><li>Level 15: +75 Damage OR +15% Return Strength Damage</li><li>Level 20: +250 Double Edge Damage OR +20 Strength</li><li>Level 25: +1.5s Hoof Stomp Duration OR Gains Return Aura</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Centaur_Warrunner_Large.png/80px-Centaur_Warrunner_Large.png"
+  },
+  {
+    "id": "7.07_hero_Chaos-Knight",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Chaos Knight",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +20 Movement Speed OR +5 All Stats</li><li>Level 15: +15 Strength OR 12% Cooldown Reduction</li><li>Level 20: 150 Gold/Min OR Reality Rift Pierces Spell Immunity</li><li>Level 25: -7 Reality Rift Armor Reduction OR +2 Max Chaos Bolt Duration</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/4/46/Chaos_Knight_Large.png/80px-Chaos_Knight_Large.png"
+  },
+  {
+    "id": "7.07_hero_Chen",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Chen",
+    "descriptionHtml": "<ul><li>Attack range increased from 600 to 650</li><li>Removed Test of Faith (Teleport)</li><li><a>Holy Persuasion</a>can be cast on allied units to send them home after a 6/5/4/3 second delay and on yourself to teleport your creeps to you</li><li>Holy Persuasion mana cost rescaled from 100 to 100/110/120/130</li><li><a>Test of Faith</a>can now target allies, healing for half of the damage values. Always applies max values to yourself</li><li>Test of Faith mana cost rescaled from 90/100/110/120 to 60/80/100/120</li><li>Talent Tree<ul><li>Level 10: +20% XP Gain OR +125 Cast Range</li><li>Level 15: +7 Armor OR -10 Test of Faith Cooldown</li><li>Level 20: +180 Gold/Min OR +1000 Creep Min Health</li><li>Level 25: +4 Holy Persuasion Max Count OR +400 Hand of God Heal</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7d/Chen_Large.png/80px-Chen_Large.png"
+  },
+  {
+    "id": "7.07_hero_Clinkz",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Clinkz",
+    "descriptionHtml": "<ul><li>Agility growth reduced from 3.3 to 2.6</li><li><a>Death Pact</a>HP reduced from 50/70/90 to 40/60/80%</li><li>Death Pact damage reduced from 5/7/9% to 4/6/8%</li><li>Reworked<a>Strafe</a><ul><li>Now gives you +80/140/200/260 Attack Speed for 3 seconds</li><li>During this time you will automatically dodge up to 3 projectiles (ranged attacks or spells), stepping to the side slightly upon impact</li><li>Strafe ends if you lose the 3 stacks</li><li>Cooldown: 45/35/25/15</li></ul></li><li>Talent Tree<ul><li>Level 10: +12% Magic Resistance OR +5 Armor</li><li>Level 15: +15% Evasion OR +30 Searing Arrows Damage</li><li>Level 20: +100 Attack Range OR +20 Health Regen</li><li>Level 25: +4s Strafe Stacks/DurationOR Searing Arrows Multishot (Fires Searing Arrows on a random nearby target)</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4d/Clinkz_Large.png/80px-Clinkz_Large.png"
+  },
+  {
+    "id": "7.07_hero_Clockwerk",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Clockwerk",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +25 Movement Speed OR +5 Armor</li><li>Level 15: +15 Strength OR +30 Battery Assault Damage</li><li>Level 20: +20% Magic Resistance OR +125 Rocket Flare Damage</li><li>Level 25: -0.3s Battery Assault Interval OR Rocket Flare True Sight (affects wards as well)</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b8/Clockwerk_Large.png/80px-Clockwerk_Large.png"
+  },
+  {
+    "id": "7.07_hero_Crystal-Maiden",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Crystal Maiden",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +200 Health OR +100 Cast Range</li><li>Level 15: +14% Mana cost/Manaloss Reduction Aura OR +90 Gold/Min</li><li>Level 20: +60 Freezing Field Damage OR +250 Attack Speed</li><li>Level 25: +300 Crystal Nova Damage OR +1.5s Frostbite Duration</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dc/Crystal_Maiden_Large.png/80px-Crystal_Maiden_Large.png"
+  },
+  {
+    "id": "7.07_hero_Dark-Seer",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Dark Seer",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +12% Evasion OR +90 Damage</li><li>Level 15: +12 HP Regen OR +75 Vacuum AoE</li><li>Level 20: 300 AoE Surge OR +15% Cooldown Reduction</li><li>Level 25: Parallel Wall OR +150 Ion Shell Damage</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6f/Dark_Seer_Large.png/80px-Dark_Seer_Large.png"
+  },
+  {
+    "id": "7.07_hero_Dazzle",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Dazzle",
+    "descriptionHtml": "<ul><li>Reworked<a>Poison Touch</a><ul><li>Targets a unit and releases a poison that splashes on nearby targets (like Ethershock targeting)</li><li>Applies a DPS and a slow to the targeted enemies</li><li>Anytime a poisoned target gets attacked, the debuff duration gets refreshed</li><li>Deals 10/20/30/40 DPS and slows for 14/16/18/20%</li><li>Lasts 4/5/6/7 seconds</li><li>Affects up to 4/5/6/7 targets</li><li>Cooldown: 35/30/25/20</li><li>Mana Cost: 80</li><li>Cast Range: 600/700/800/900</li><li>Physical damage type</li><li>Gets refreshed by the same target rules as Blink (player-controlled units and Roshan)</li></ul></li><li>Talent Tree<ul><li>Level 10: +60 Damage OR +175 Health</li><li>Level 15: +125 Cast Range OR +20 Shadow Wave Heal/Damage</li><li>Level 20: +50 Movement Speed OR +30 Poison Touch DPS</li><li>Level 25: -4s Shadow Wave Cooldown OR +0.5 Weave Armor Per Second</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e3/Dazzle_Large.png/80px-Dazzle_Large.png"
+  },
+  {
+    "id": "7.07_hero_Death-Prophet",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Death Prophet",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +12% Magic Resistance OR +50 Damage</li><li>Level 15: +150 Cast Range OR +1% Max Health Spirit Siphon</li><li>Level 20: +500 Health OR -2s Crypt Swarm Cooldown</li><li>Level 25: +8 Exorcism Spirits OR Exorcism Grants Haste</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/8/80/Death_Prophet_Large.png/80px-Death_Prophet_Large.png"
+  },
+  {
+    "id": "7.07_hero_Disruptor",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Disruptor",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +200 Health OR +40 Thunder Strike Damage</li><li>Level 15: +150 Cast Range OR -3s Kinetic Field Cooldown</li><li>Level 20: +180 Gold/Min OR +4 Thunder Strike Hits</li><li>Level 25: -10s Glimpse Cooldown OR +4s Kinetic Field Duration</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b7/Disruptor_Large.png/80px-Disruptor_Large.png"
+  },
+  {
+    "id": "7.07_hero_Doom",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Doom",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +10 Scorched Earth Damage/Heal OR +25 Movement Speed</li><li>Level 15: +20% Evasion OR +150 Devour Bonus Gold</li><li>Level 20: +40 Doom DPS OR Devour Targets Ancients</li><li>Level 25: +3% Infernal Blade Damage OR +100% Cleave</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/1/19/Doom_Large.png/80px-Doom_Large.png"
+  },
+  {
+    "id": "7.07_hero_Dragon-Knight",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Dragon Knight",
+    "descriptionHtml": "<ul><li><a>Breathe Fire</a>now reduces total attack damage and not just base damage</li><li>Breathe Fire attack damage reduction reduced from 35% to 25%</li><li>Breathe Fire cast point increased from 0 to 0.2</li><li>Breathe Fire distance increased from 650 to 750</li><li>Talent Tree<ul><li>Level 10: +2 Mana Regen OR +30 Attack Speed</li><li>Level 15: +300 Health OR +40% XP Gain</li><li>Level 20: 2x Dragon Blood HP Regen/Armor OR +150 Gold/Min</li><li>Level 25: +40 Strength OR +1.75s Dragon Tail Stun Duration</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/d/da/Dragon_Knight_Large.png/80px-Dragon_Knight_Large.png"
+  },
+  {
+    "id": "7.07_hero_Drow-Ranger",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Drow Ranger",
+    "descriptionHtml": "<ul><li>Added a visual effect on creeps when<a>Precision Aura</a>is cast</li><li>Talent Tree<ul><li>Level 10: +5 All Stats OR +20 Movement Speed</li><li>Level 15: +25 Attack Speed OR +300 Gust Distance/Knockback</li><li>Level 20: +1.5s Gust Duration OR +20 Marksmanship Agility</li><li>Level 25: 50% Cooldown Reduction OR +20% Precision Aura</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7e/Drow_Ranger_Large.png/80px-Drow_Ranger_Large.png"
+  },
+  {
+    "id": "7.07_hero_Earth-Spirit",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Earth Spirit",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +10 Intelligence OR +40 Damage</li><li>Level 15: +7 Armor OR +200 Rolling Boulder Damage</li><li>Level 20: +150 Gold/Min OR +15% Spell Amplification</li><li>Level 25: +1s Boulder Smash Stun Duration OR Geomagnetic Grip Targets Allies</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/2/2b/Earth_Spirit_Large.png/80px-Earth_Spirit_Large.png"
+  },
+  {
+    "id": "7.07_hero_Earthshaker",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Earthshaker",
+    "descriptionHtml": "<ul><li><a>Echo Slam</a>initial damage removed</li><li>Echo Slam Echo Damage increased from 40/55/70 to 60/85/110</li><li>Echo Slam bounces twice off of non-illusion heroes</li><li>Talent Tree<ul><li>Level 10: +250 Mana OR +30 Damage</li><li>Level 15: +7 armor OR +30 Movement Speed</li><li>Level 20: +50 Echo Damage OR +400 Fissure Range</li><li>Level 25: -2s Enchant Totem Cooldown OR +50% Magic Resistance</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/8/8f/Earthshaker_Large.png/80px-Earthshaker_Large.png"
+  },
+  {
+    "id": "7.07_hero_Elder-Titan",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Elder Titan",
+    "descriptionHtml": "<ul><li><a>Echo Stomp</a>now wakes up if the target takes more than 50/100/150/200 cumulative damage (no longer has exception for player owned damage source or not)</li><li>Added visual effects for<a>Natural Order</a></li><li>Talent Tree<ul><li>Level 10: +200 Health OR +25 Movement Speed</li><li>Level 15: +30 Astral Spirit Hero Attack OR +15% Magic Resistance</li><li>Level 20: +70 Attack Speed OR +100 Echo Stomp Damage</li><li>Level 25: -75s Earth Splitter Cooldown OR +100% Lifesteal</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/b/bc/Elder_Titan_Large.png/80px-Elder_Titan_Large.png"
+  },
+  {
+    "id": "7.07_hero_Ember-Spirit",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Ember Spirit",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +150 Flame Guard Absorption OR +20 Damage</li><li>Level 15: +30 Flame Guard DPS OR +1s Searing Chains Duration</li><li>Level 20: +10% Spell Amplification OR True Strike</li><li>Level 25: 2 Sleight of Fist Charges OR -25s Remnant Charge Replenish</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/9/98/Ember_Spirit_Large.png/80px-Ember_Spirit_Large.png"
+  },
+  {
+    "id": "7.07_hero_Enchantress",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Enchantress",
+    "descriptionHtml": "<ul><li><a>Enchant</a>now removes positive buffs on enemy heroes</li><li>Talent Tree<ul><li>Level 10: +15% Magic Resistance OR +25 Movement Speed</li><li>Level 15: +50 Damage OR +8 Nature&apos;s Attendants Wisps</li><li>Level 20: Enchant Affects Ancients OR +100 Untouchable Slow</li><li>Level 25: +25 Nature&apos;s Attendants Heal OR +8% Impetus Damage</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/5/57/Enchantress_Large.png/80px-Enchantress_Large.png"
+  },
+  {
+    "id": "7.07_hero_Enigma",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Enigma",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +15% Magic Resistance OR +25 Movement Speed</li><li>Level 15: +120 Gold/Min OR +15% Cooldown Reduction</li><li>Level 20: +400 Health OR +70 Eidolon Damage</li><li>Level 25: +4 Malefice Instances OR +8 Demonic Conversion Eidolons</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/4/43/Enigma_Large.png/80px-Enigma_Large.png"
+  },
+  {
+    "id": "7.07_hero_Faceless-Void",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Faceless Void",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +8 Strength OR +20 Damage</li><li>Level 15: +100 Time Lock Damage OR +300 Health</li><li>Level 20: +500 Time Walk Cast Range OR +40 Attack Speed</li><li>Level 25: +25% Backtrack OR +175 Chronosphere AoE</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Faceless_Void_Large.png/80px-Faceless_Void_Large.png"
+  },
+  {
+    "id": "7.07_hero_Gyrocopter",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Gyrocopter",
+    "descriptionHtml": "<ul><li>Removed<a>Homing Missile</a>cast point</li><li>Homing Missile will find a new target if its primary target dies (Prioritizes heroes)</li><li>Homing Missile speed increased from 340 to 500</li><li>Homing Missile launch delay increased from 2 to 3 seconds</li><li>Homing Missile now does a fixed amount of damage, rescaled from a max of 125/250/375/500 to a fixed 100/175/250/325</li><li>Homing Missile hits to destroy from 3/3/4/5 to 3/3/4/4</li><li>Talent Tree<ul><li>Level 10: +25 Damage OR +200 Health</li><li>Level 15: +3 Flak Cannon Attacks OR +11 Rocket Barrage Damage</li><li>Level 20: +50 Movement Speed OR -25s Call Down Cooldown</li><li>Level 25: Global Call Down OR 3 Homing Missile Charges</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e1/Gyrocopter_Large.png/80px-Gyrocopter_Large.png"
+  },
+  {
+    "id": "7.07_hero_Huskar",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Huskar",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +20 Damage OR +175 Health</li><li>Level 15: +15% Lifesteal OR +10 Burning Spears DPS</li><li>Level 20: +15 Strength OR +400 Life Break Cast Range</li><li>Level 25: +125 Attack Range OR 0s Inner Vitality Cooldown</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f1/Huskar_Large.png/80px-Huskar_Large.png"
+  },
+  {
+    "id": "7.07_hero_Invoker",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Invoker",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +30 Chaos Meteor Damage OR +0.3s Tornado Duration</li><li>Level 15: +1.5s Cold Snap Duration OR +1 Forged Spirit Summoned</li><li>Level 20: +35 Alacrity Damage/Speed OR Cataclysm (Launched when Sun Strike is doubled tapped. Puts it on a 90 second cooldown. Creates 2 visible Sun Strikes within 175-250 range of each enemy hero)</li><li>Level 25: AoE Deafening Blast OR -16s Tornado Cooldown</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5b/Invoker_Large.png/80px-Invoker_Large.png"
+  },
+  {
+    "id": "7.07_hero_Io",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Io",
+    "descriptionHtml": "<ul><li><a>Relocate</a>cooldown increased from 100/80/60 to 120/100/80</li><li>Max<a>Spirits</a>range reduced from 875 to 700</li><li>Talent Tree<ul><li>Level 10: +400 Spirits Max Range OR +60 Damage</li><li>Level 15: Tether Grants Scepter Bonus OR +90 Spirits Damage</li><li>Level 20: +150 Gold/Min OR Attack Tethered Ally&apos;s Target</li><li>Level 25: +50 Health Regen OR Tether Stuns</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/a/ad/Io_Large.png/80px-Io_Large.png"
+  },
+  {
+    "id": "7.07_hero_Jakiro",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Jakiro",
+    "descriptionHtml": "<ul><li><a>Dual Breath</a>cast point reduced from 0.65 to 0.55</li><li><a>Macropyre</a>cast point reduced from 0.65 to 0.55</li><li>Talent Tree<ul><li>Level 10: +8% Spell Amplification OR +25% XP Gain</li><li>Level 15: +250 Attack Range OR +40 Dual Breath Damage</li><li>Level 20: -60 Liquid Fire Attack Speed OR +150 Gold/Min</li><li>Level 25: +1.25s Ice Path Duration OR Macropyre Pure and Pierces Immunity</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4d/Jakiro_Large.png/80px-Jakiro_Large.png"
+  },
+  {
+    "id": "7.07_hero_Juggernaut",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Juggernaut",
+    "descriptionHtml": "<ul><li>Juggernaut is no longer silenced while using<a>Blade Fury</a>(but still cannot cast<a>Omnislash</a>; can cast<a>Healing Ward</a>)</li><li>Talent Tree<ul><li>Level 10: +5 All Stats OR +20 Movement Speed</li><li>Level 15: +1s Blade Fury Duration OR +25 Attack Speed</li><li>Level 20: +10 Armor OR +100 Blade Fury DPS</li><li>Level 25: +600 Health OR +5 Omnislash Strikes</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c8/Juggernaut_Large.png/80px-Juggernaut_Large.png"
+  },
+  {
+    "id": "7.07_hero_Keeper-of-the-Light",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Keeper of the Light",
+    "descriptionHtml": "<ul><li><a>Mana Leak</a>cast range reduced from 550/700/850/1000 to 400/500/600/700</li><li>Talent Tree<ul><li>Level 10: +25 Movement Speed OR +8% Spell Lifesteal</li><li>Level 15: +40% XP Gain OR +350 Cast Range</li><li>Level 20: +300 Chakra Magic Mana OR +40% Magic Resistance</li><li>Level 25: +200 Illuminate Damage/Heal OR +2s Mana Leak Stun</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/b/bc/Keeper_of_the_Light_Large.png/80px-Keeper_of_the_Light_Large.png"
+  },
+  {
+    "id": "7.07_hero_Kunkka",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Kunkka",
+    "descriptionHtml": "<ul><li>Kunkka is no longer restricted from using<a>Quelling Blade</a></li><li>Talent Tree<ul><li>Level 10: +40 Damage OR +6 Armor</li><li>Level 15: +10 Health Regen OR +120 Torrent Damage</li><li>Level 20: +100 Torrent AoE OR +25 Strength</li><li>Level 25: Ghost Ship Fleet OR +50% Tidebringer Cleave</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/3/3a/Kunkka_Large.png/80px-Kunkka_Large.png"
+  },
+  {
+    "id": "7.07_hero_Legion-Commander",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Legion Commander",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +25% XP Gain OR +8 Strength</li><li>Level 15: +30 Attack Speed OR +50 Overwhelming Odds Hero Damage</li><li>Level 20: +60 Movement Speed OR +10% Moment Proc Chance</li><li>Level 25: +40 Duel Damage Bonus OR -10s Press The Attack Cooldown</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0a/Legion_Commander_Large.png/80px-Legion_Commander_Large.png"
+  },
+  {
+    "id": "7.07_hero_Leshrac",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Leshrac",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +5 Armor OR +250 Mana</li><li>Level 15: +15 Strength OR +40 Movement Speed</li><li>Level 20: +25% Evasion OR +50 Pulse Nova Damage</li><li>Level 25: +50 Diabolic Edict Explostions OR +3s Lightning Storm Slow Duration</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f6/Leshrac_Large.png/80px-Leshrac_Large.png"
+  },
+  {
+    "id": "7.07_hero_Lich",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Lich",
+    "descriptionHtml": "<ul><li><a>Chain Frost</a>is now reflected on initial projectile impact, rather than on cast time</li><li><a>Ice Armor</a>slow rescaled from 24/26/28/30% to 8/16/24/32%</li><li>Talent Tree<ul><li>Level 10: +175 Health OR +25 Movement Speed</li><li>Level 15: +120 Damage OR -4s Frost Blast Cooldown</li><li>Level 20: +120 Gold/Min OR +175 Cast Range</li><li>Level 25: Attacks Apply 30% MS/AS Slow OR Ice Armor Provides +30 HP Regen</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/3/35/Lich_Large.png/80px-Lich_Large.png"
+  },
+  {
+    "id": "7.07_hero_Lifestealer",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Lifestealer",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +20 Attack Speed OR +200 Health</li><li>Level 15: +30 Damage OR +35 Movement Speed</li><li>Level 20: +20% Evasion OR +50% Open Wounds Heal</li><li>Level 25: +2s Rage Duration OR +2% Feast</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/8/85/Lifestealer_Large.png/80px-Lifestealer_Large.png"
+  },
+  {
+    "id": "7.07_hero_Lina",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Lina",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +100 Cast Range OR +25 Damage</li><li>Level 15: +300 Health OR +140 Light Strike Array Damage</li><li>Level 20: +10% Spell Amplification OR +25/2% Fiery Soul Per Stack</li><li>Level 25: +175 Attack Range OR -6s Dragon Slave Cooldown</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/4/46/Lina_Large.png/80px-Lina_Large.png"
+  },
+  {
+    "id": "7.07_hero_Lion",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Lion",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +75 Cast Range OR +75 Damage</li><li>Level 15: +200 Finger of Death Damage OR +90 Gold/Min</li><li>Level 20: +500 Health OR +2 Mana Drain Multi Target</li><li>Level 25: +1000 Earth Spike Range OR +325 AoE Hex</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/8/8d/Lion_Large.png/80px-Lion_Large.png"
+  },
+  {
+    "id": "7.07_hero_Lone-Druid",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Lone Druid",
+    "descriptionHtml": "<ul><li><a>Battle Cry</a>cooldown reduced from 60 to 45</li><li>Battle Cry duration reduced from 6 to 5</li><li>Talent Tree<ul><li>Level 10: +175 Attack Range OR +250 Health</li><li>Level 15: -8s Savage Roar Cooldown OR +10 Spirit Bear Armor</li><li>Level 20: +40 Rabid Attack Speed OR -25s Battle Cry Cooldown</li><li>Level 25: 0 Entangle Cooldown OR Battle Cry Grants Spell Immunity</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e2/Lone_Druid_Large.png/80px-Lone_Druid_Large.png"
+  },
+  {
+    "id": "7.07_hero_Luna",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Luna",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +20 Attack Speed OR +150 Cast Range</li><li>Level 15: -2s Lucent Beam CD OR +24 Luna Blessing Damage</li><li>Level 20: +10 All Stats OR +100 Lucent Beam Damage</li><li>Level 25: +25% Lifesteal OR +0.25s Eclipse Lucent Ministun</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e2/Luna_Large.png/80px-Luna_Large.png"
+  },
+  {
+    "id": "7.07_hero_Lycan",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Lycan",
+    "descriptionHtml": "<ul><li>Fixed<a>Break</a>not disabling<a>Feral Impulse</a></li><li>Talent Tree<ul><li>Level 10: +5 Armor OR +20 Damage</li><li>Level 15: +8 Feral HP Regen OR +12% Cooldown Reduction</li><li>Level 20: +8s Shapeshift Duration OR +16% Feral Impulse Damage</li><li>Level 25: +3 Wolves Summoned OR +600 Howl Hero Health</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Lycan_Large.png/80px-Lycan_Large.png"
+  },
+  {
+    "id": "7.07_hero_Magnus",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Magnus",
+    "descriptionHtml": "<ul><li><a>Shockwave</a>Scepter speed increased from 1575 to 1700</li><li>Talent Tree<ul><li>Level 10: +25 Attack Speed OR +200 Health</li><li>Level 15: +15 Strength OR +75 Shockwave Damage</li><li>Level 20: +12 Armor OR +500 Skewer Range</li><li>Level 25: +20% Empower Damage/Cleave OR +0.75s Reverse Polarity</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/67/Magnus_Large.png/80px-Magnus_Large.png"
+  },
+  {
+    "id": "7.07_hero_Medusa",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Medusa",
+    "descriptionHtml": "<ul><li><a>Stone Gaze</a>slow no longer continues to affect targets after they turn away from Medusa</li><li>Stone Gaze can now be reapplied after it wears off if the target continues to face Medusa (timer on facing direction is reset after a Stone debuff is over)</li><li><a>Split Shot</a>is now a passive</li><li>Split Shot projectiles rescaled from 1/2/3/4 to 3</li><li>Split Shot rescaled from -20% damage to -65/50/35/20%</li><li>Split Shot no longer reduces damage for the primary target</li><li>Split Shot range now uses your attack range +100, rather than a fixed 700</li><li>Split Shot does not fire when attacking allied units</li><li>Talent Tree<ul><li>Level 10: +25 Damage OR +10% Evasion</li><li>Level 15: +30 Attack Speed OR +10% Mystic Snake Mana Steal</li><li>Level 20: +800 Mana OR +2s Stone Gaze Duration</li><li>Level 25: +7 Split Shot Targets OR Split Shot Uses Modifiers</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/3/38/Medusa_Large.png/80px-Medusa_Large.png"
+  },
+  {
+    "id": "7.07_hero_Meepo",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Meepo",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +10% Lifesteal OR +30 Movement Speed</li><li>Level 15: +10 Strength OR +40 Poof Damage</li><li>Level 20: +40 Damage OR +15% Evasion</li><li>Level 25: +700 Health OR -4s Poof Cooldown</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/9/97/Meepo_Large.png/80px-Meepo_Large.png"
+  },
+  {
+    "id": "7.07_hero_Mirana",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Mirana",
+    "descriptionHtml": "<ul><li>Reworked<a>Leap</a><ul><li>Has 3 charges</li><li>Leaps a distance of 550 per charge</li><li>Grants you movement and attack speed for 2 seconds</li><li>Replenish Time: 60/50/40/30</li><li>Mana Cost: 40</li><li>Movement Speed: 8/16/24/32%</li><li>Attack Speed: 25/50/75/100</li><li>Leap bonus affects only Mirana</li></ul></li><li>Talent Tree<ul><li>Level 10: +200 Health OR +20 Damage</li><li>Level 15: -5s Sacred Arrow Cooldown OR +100 Leap Attack Speed</li><li>Level 20: +12% Spell Amp OR +25 Mana Break</li><li>Level 25: +2 Multishot Sacred Arrows OR -70 Moonlight Shadow Cooldown</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/1/1f/Mirana_Large.png/80px-Mirana_Large.png"
+  },
+  {
+    "id": "7.07_hero_Monkey-King",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Monkey King",
+    "descriptionHtml": "<ul><li>Base damage reduced by 3</li><li><a>Jingu Mastery</a>bonus damage rescaled from 75/100/125/150 to 60/90/120/150</li><li>Monkey King no longer destroys trees he is standing on during Scepter<a>Stampede</a></li><li>Talent Tree<ul><li>Level 10: +150 Tree Dance Vision AoE OR +20 Attack Speed</li><li>Level 15: +300 Tree Dance Cast Range OR +75 Jingu Mastery Damage</li><li>Level 20: +50% Boundless Strike Damage OR +300 Primal Spring Damage</li><li>Level 25: +100 Armor Wukong&apos;s Command OR +1 Wukong Command Ring</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4e/Monkey_King_Large.png/80px-Monkey_King_Large.png"
+  },
+  {
+    "id": "7.07_hero_Morphling",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Morphling",
+    "descriptionHtml": "<ul><li>Reduced base Intelligence from 17 to 13</li><li>Renamed Morph to<a>Attribute Shift</a></li><li>Attribute Shift rate rescaled from 2/4/8/16 to 1/4/10/25</li><li>Attribute Shift now costs no mana</li><li><a>Adaptive Strike</a>is now two abilities, one that deals damage based on Agility and one that stuns/knocks back based on Strength<ul><li>When one is cast, the other goes into cooldown for 3 seconds</li></ul></li><li>Adaptive Strike (Strength) stun duration rescaled from 1.25/2.25/3.25/4.25 to 1.5/2/2.5/3</li><li>Adaptive Strike (Strength) knockback increased from max 300 to 500</li><li>Removed Morphling&apos;s Scepter</li><li>Replaced Replicate with a new ultimate:<a>Morph</a><ul><li>Changes your hero to match the target enemy</li><li>Copies the target&apos;s visual model, basic abilities, base movement speed, attack range, and attributes</li><li>Applies a soft dispel on transformation</li><li>If you die during this, Morphling dies</li><li>You can exit the morphed form anytime</li><li>Lasts 30 seconds</li><li>Cooldown: 160/100/40</li><li>Cast Range: 600</li><li>Mana Cost: 75/100/125</li></ul></li><li>Talent Tree<ul><li>Level 10: +10 Agility OR +20 Movement Speed</li><li>Level 15: Waveform Attacks Targets OR +30 Attack Speed</li><li>Level 20: -25s Morph Cooldown OR Morph Targets Allies</li><li>Level 25: +800 Waveform Range OR +2 Multishot Adaptive Strike</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c7/Morphling_Large.png/80px-Morphling_Large.png"
+  },
+  {
+    "id": "7.07_hero_Naga-Siren",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Naga Siren",
+    "descriptionHtml": "<ul><li><a>Ensnare</a>mana cost rescaled from 100 to 70/80/90/100</li><li>Talent Tree<ul><li>Level 10: +175 Health OR +25 Movement Speed</li><li>Level 15: +15 Agility OR +14 Strength</li><li>Level 20: +1 Mirror Image Illusion OR -5s Ensnare Cooldown</li><li>Level 25: -6 Rip Tide Armor OR +30% Evasion</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Naga_Siren_Large.png/80px-Naga_Siren_Large.png"
+  },
+  {
+    "id": "7.07_hero_Nature's-Prophet",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Nature's Prophet",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +30 Damage OR +30 Movement Speed</li><li>Level 15: +4 Treants Summoned OR +8 Armor</li><li>Level 20: +40 Attack Speed OR -4s Sprout Cooldown</li><li>Level 25: Removed Teleportation Cooldown OR 2x Treant HP/Damage</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/1/16/Natures_Prophet_Large.png/80px-Natures_Prophet_Large.png"
+  },
+  {
+    "id": "7.07_hero_Necrophos",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Necrophos",
+    "descriptionHtml": "<ul><li><a>Ghost Shroud</a>slow reduced from 12/20/28/36 to 6/12/18/24</li><li>Ghost Shroud bonus magic damage taken increased from 25% to 30%</li><li><a>Heartstopper Aura</a>range reduced from 900 to 700</li><li>Heartstopper Aura rescaled from 0.6/1/1.4/1.8 to 0.5/1/1.5/2</li><li><a>Reaper&apos;s Scythe</a>cooldown increased from 100 to 120</li><li>Reaper&apos;s Scythe mana cost from 175/340/500 to 200/350/500</li><li>Talent Tree<ul><li>Level 10: +10 Strength OR +40 Damage</li><li>Level 15: +30 Movement Speed OR +300 Health</li><li>Level 20: +20% Magic Resistance OR +80 Attack Speed</li><li>Level 25: -1.5s Death Pulse Cooldown OR +0.6 Heartstopper Aura</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0e/Necrophos_Large.png/80px-Necrophos_Large.png"
+  },
+  {
+    "id": "7.07_hero_Night-Stalker",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Night Stalker",
+    "descriptionHtml": "<ul><li>Daytime vision reduced from 1200 to 800</li><li>Talent Tree<ul><li>Level 10: +200 Mana OR +200 Health</li><li>Level 15: +15 Strength OR +150 Cast Range</li><li>Level 20: +50 Movement Speed OR +50 Damage</li><li>Level 25: -8s Crippling Fear Cooldown OR +140 Hunter In The Night Attack Speed</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c4/Night_Stalker_Large.png/80px-Night_Stalker_Large.png"
+  },
+  {
+    "id": "7.07_hero_Nyx-Assassin",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Nyx Assassin",
+    "descriptionHtml": "<ul><li><a>Spiked Carapace</a>damage return mechanics now work like Blade Mail (still returns only once per enemy, does not stun Spell Immune)</li><li>Talent Tree<ul><li>Level 10: +60 Gold/Min OR +6% Spell Amplification</li><li>Level 15: +325 Health OR +35 Movement Speed</li><li>Level 20: +75% Spiked Carapace Damage OR +175 Impale Damage</li><li>Level 25: +100 Agility OR Vendetta Unobstructed Pathing</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c4/Nyx_Assassin_Large.png/80px-Nyx_Assassin_Large.png"
+  },
+  {
+    "id": "7.07_hero_Ogre-Magi",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Ogre Magi",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +100 Cast Range OR +60 Gold/Min</li><li>Level 15: +300 Health OR +90 Damage</li><li>Level 20: +40 Bloodlust Attack Speed OR +30 Strength</li><li>Level 25: +90 Movement Speed OR +275 Fireblast Damage</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Ogre_Magi_Large.png/80px-Ogre_Magi_Large.png"
+  },
+  {
+    "id": "7.07_hero_Omniknight",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Omniknight",
+    "descriptionHtml": "<ul><li><a>Guardian Angel</a>cast point reduced from 0.5 to 0.4</li><li>Talent Tree<ul><li>Level 10: +90 Gold/Min OR +75 Purification AoE</li><li>Level 15: +35% XP Gain OR +90 Damage</li><li>Level 20: +6 Mana Regen OR -12% Degen Aura</li><li>Level 25: +3s Repel Duration OR +200 Purification Damage/Heal</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Omniknight_Large.png/80px-Omniknight_Large.png"
+  },
+  {
+    "id": "7.07_hero_Oracle",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Oracle",
+    "descriptionHtml": "<ul><li><a>False Promise</a>visual effects now show if the hero will die or not</li><li>Talent Tree<ul><li>Level 10: +1s Fortune&apos;s End Max Duration OR +25% XP Gain</li><li>Level 15: +150 Cast Range OR +90 Gold/Min</li><li>Level 20: +75 Movement Speed OR False Promise Invisibility (0.6s Fade Time)</li><li>Level 25: -5s Fate&apos;s Edict Cooldown OR +2 False Promise Duration</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fc/Oracle_Large.png/80px-Oracle_Large.png"
+  },
+  {
+    "id": "7.07_hero_Outworld-Devourer",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Outworld Devourer",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +200 Health OR +20 Attack Speed</li><li>Level 15: +15% Essence Aura Chance OR +40 Movement Speed</li><li>Level 20: +20 Strength OR +2 Sanity&apos;s Eclipse Multiplier</li><li>Level 25: +60s Arcane Orb Int Steal OR +15% Spell Lifesteal</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Outworld_Destroyer_Large.png/80px-Outworld_Destroyer_Large.png"
+  },
+  {
+    "id": "7.07_hero_Phantom-Assassin",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Phantom Assassin",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +150 Health OR +15 Damage</li><li>Level 15: +20% Cleave OR -4 Armor Corruption</li><li>Level 20: 20% Lifesteal OR Double Strike Stifling Dagger</li><li>Level 25: +5% Coup de Grace OR +25% Blur Evasion</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/2/2e/Phantom_Assassin_Large.png/80px-Phantom_Assassin_Large.png"
+  },
+  {
+    "id": "7.07_hero_Phantom-Lancer",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Phantom Lancer",
+    "descriptionHtml": "<ul><li><a>Phantom Rush</a>can now be toggled to disable it (default state is enabled)</li><li><a>Doppelganger</a>now adds 2 seconds to the duration of all your illusions</li><li>Talent Tree<ul><li>Level 10: +10% Evasion OR +20 Attack Speed</li><li>Level 15: +250 Health OR +125 Spirit Lance Damage</li><li>Level 20: +4 Max Juxtapose Illusions OR +500 Phantom Rush Range</li><li>Level 25: -5s Doppelganger CD OR 30% Critical Strike (2x)</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/1/1e/Phantom_Lancer_Large.png/80px-Phantom_Lancer_Large.png"
+  },
+  {
+    "id": "7.07_hero_Phoenix",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Phoenix",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +8% Spell Amplification OR +90 Gold/Min</li><li>Level 15: +60 Fire Spirits DPS OR +40% XP Gain</li><li>Level 20: +1400 Icarus Dive OR +1s Supernova Stun Duration</li><li>Level 25: +3 Supernova Hit Count OR +2% Max Health Sun Ray Damage</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Phoenix_Large.png/80px-Phoenix_Large.png"
+  },
+  {
+    "id": "7.07_hero_Puck",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Puck",
+    "descriptionHtml": "<ul><li><a>Dream Coil</a>no longer deals 100/150/200 damage on cast</li><li>Dream Coil link break damage increased from 100/150/200 to 300/400/500 (Scepter damage increased from 200/250/300 to 400/550/700)</li><li>Talent Tree<ul><li>Level 10: +5 Armor OR +10 Intelligence</li><li>Level 15: +50 Damage OR +8% Spell Amplification</li><li>Level 20: -5s Waning Rift Cooldown OR +40% Illusory Orb Distance/Speed</li><li>Level 25: +420 Gold/Min OR Dream Coil Rapid Fire (Attacks everyone once per 0.6 seconds within attack range)</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/3/3a/Puck_Large.png/80px-Puck_Large.png"
+  },
+  {
+    "id": "7.07_hero_Pudge",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Pudge",
+    "descriptionHtml": "<ul><li><a>Meat Hook</a>can pull<a>Runes</a>back to you (Mana cost is refunded if successful)</li><li><a>Dismember</a>now pulls the target closer to Pudge</li><li>Talent Tree<ul><li>Level 10: +5 Armor OR +35 Rot Damage</li><li>Level 15: +13% Spell Lifesteal OR +75 Damage</li><li>Level 20: +15% Cooldown ReductionOR +180 Gold/Min</li><li>Level 25: +2 Flesh Heap Stack Str OR +3s Dismember Duration</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dd/Pudge_Large.png/80px-Pudge_Large.png"
+  },
+  {
+    "id": "7.07_hero_Pugna",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Pugna",
+    "descriptionHtml": "<ul><li><a>Life Drain</a>range reduced by 100</li><li><a>Decrepify</a>can now target<a>Tombstone</a></li><li>Talent Tree<ul><li>Level 10: +225 Health OR +25 Movement Speed</li><li>Level 15: -1s Netherblast Cooldown OR +1 Nether Ward Health</li><li>Level 20: +2s Decrepify Duration OR +25% Life Drain Heal</li><li>Level 25: +1.75 Netherward Damage per Mana OR +200 Netherblast Damage</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/2/24/Pugna_Large.png/80px-Pugna_Large.png"
+  },
+  {
+    "id": "7.07_hero_Queen-of-Pain",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Queen of Pain",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +10 Strength OR +25 Damage</li><li>Level 15: +40 Attack Speed OR +12% Cooldown Reduction</li><li>Level 20: +650 AoE Shadow Strike OR +30% Spell Lifesteal</li><li>Level 25: 20s Spell Block OR Scream of Pain 1.5s Fear</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/62/Queen_of_Pain_Large.png/80px-Queen_of_Pain_Large.png"
+  },
+  {
+    "id": "7.07_hero_Razor",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Razor",
+    "descriptionHtml": "<ul><li>Base movement speed reduced by 5</li><li>Reworked<a>Unstable Current</a><ul><li>Passive: 4/8/12/16% Movement Bonus (like before)</li><li>Every 5 seconds, a random enemy within 350 AoE will be shocked, taking 100/130/160/190 damage and getting purged (40% slow for 0.5/1/1.5/2 seconds, dispels positive buffs)</li></ul></li><li>Talent Tree<ul><li>Level 10: +15 Agility OR +200 Health</li><li>Level 15: +4% Unstable Current Movement Speed OR +7 Static Link Damage Steal</li><li>Level 20: +10 Armor OR -0.1 Eye of the Storm Strike Interval</li><li>Level 25: +100 Attack Speed OR -3s Unstable Current Interval</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Razor_Large.png/80px-Razor_Large.png"
+  },
+  {
+    "id": "7.07_hero_Riki",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Riki",
+    "descriptionHtml": "<ul><li>Base movement speed reduced by 5</li><li>Enemy units in<a>Smoke Screen</a>have no vision</li><li><a>Backstab</a>damage can now be used in procs like Critical Strike, Cleave, etc.</li><li>Backstab damage reduced from 0.5/0.75/1/1.25 to 0.4/0.6/0.8/1</li><li>Talent Tree<ul><li>Level 10: +5 Health Regen OR +8 Agility</li><li>Level 15: -4s Smokescreen Cooldown OR 20% 1.5x Crit</li><li>Level 20: +900 Blink Strike Cast Range OR +0.2 Backstab Multiplier</li><li>Level 25: +400 Tricks of the Trade AoE OR Cloak and Dagger Doesn&apos;t Reveal</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a3/Riki_Large.png/80px-Riki_Large.png"
+  },
+  {
+    "id": "7.07_hero_Rubick",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Rubick",
+    "descriptionHtml": "<ul><li><a>Null Field</a>can now be toggled between defensive and offensive forms<ul><li>Has a 30 second cooldown once toggled</li><li>Offensive form reduces enemy magic resistance</li></ul></li><li>Null Field AoE increased from 900 to 1200</li><li>Talent Tree<ul><li>Level 10: +200 Health OR +60 Damage</li><li>Level 15: +100 Cast Range OR -35 Fade Bolt Hero Attack</li><li>Level 20: +5% Null Field OR +300 Telekinesis Land Distance</li><li>Level 25: +75% Spell Amp For Stolen Spells OR -15s Telekinesis Cooldown</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/5/57/Rubick_Large.png/80px-Rubick_Large.png"
+  },
+  {
+    "id": "7.07_hero_Sand-King",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Sand King",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +30 Movement Speed OR +200 Health</li><li>Level 15: +50 Sand Storm DPS OR -50 Epicenter Attack Slow</li><li>Level 20: +10 Armor OR +4 Epicenter Pulses</li><li>Level 25: +35 Health Regen OR 50% Sand Storm Slow and Blind</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e5/Sand_King_Large.png/80px-Sand_King_Large.png"
+  },
+  {
+    "id": "7.07_hero_Shadow-Demon",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Shadow Demon",
+    "descriptionHtml": "<ul><li><a>Demonic Purge</a>now works on cycloned units</li><li><a>Shadow Poison</a>radius increased from 190 to 200</li><li><a>Soul Catcher</a>no longer splits its effect, it only affects one unit in the area</li><li>When an enemy dies under Soul Catcher, an illusion of them is created under your control<ul><li>Lasts until they respawn or it is killed</li><li>Deals 30/45/60/75% damage and takes 200% damage</li></ul></li><li>Talent Tree<ul><li>Level 10: +25% XP Gain OR +10 Strength</li><li>Level 15: +25% Shadow Poison Damage OR +40 Movement Speed</li><li>Level 20: -6s Soul Catcher Cooldown OR -1.5s Shadow Poison Cooldown</li><li>Level 25: +500 Demonic Purge Damage OR +5s Disruption Banish Duration</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/7/79/Shadow_Demon_Large.png/80px-Shadow_Demon_Large.png"
+  },
+  {
+    "id": "7.07_hero_Shadow-Fiend",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Shadow Fiend",
+    "descriptionHtml": "<ul><li><a>Shadowraze</a>damage reduced from 100/175/250/325 to 90/160/230/300</li><li>Shadowraze now has a stack counter for each time an enemy gets hit<ul><li>Causes the enemy to take 60 more Shadowraze damage per stack (First hit does 0 bonus, next does 60, 120, etc.)</li><li>Lasts 8 seconds, gets refreshed on stack gain</li></ul></li><li>Talent Tree<ul><li>Level 10: +10% Spell Amplification OR +20 Attack Speed</li><li>Level 15: Presence Aura Affects Building OR +40 Movement Speed</li><li>Level 20: +150 Shadow Raze Damage OR +20% Evasion</li><li>Level 25: 40% Cooldown Reduction OR +3 Damage Per Soul</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Shadow_Fiend_Large.png/80px-Shadow_Fiend_Large.png"
+  },
+  {
+    "id": "7.07_hero_Shadow-Shaman",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Shadow Shaman",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +200 Health OR +20% XP Gain</li><li>Level 15: -4s Hex Cooldown OR +125 Cast Range</li><li>Level 20: +3s Shackles Duration OR +1 Serpent Wards Attacks HP</li><li>Level 25: +400 Ether Shock Damage OR +60 Wards Attack Damage</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/d/d8/Shadow_Shaman_Large.png/80px-Shadow_Shaman_Large.png"
+  },
+  {
+    "id": "7.07_hero_Silencer",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Silencer",
+    "descriptionHtml": "<ul><li><a>Glaives of Wisdom</a>damage from 35/50/65/80% to 15/30/45/60%</li><li>Talent Tree<ul><li>Level 10: +5 Armor OR +25 Attack Speed</li><li>Level 15: +90 Gold/Min OR +2 Intelligence Steal</li><li>Level 20: +125 Attack Range OR +30 Curse Damage</li><li>Level 25: +20% Glaives of Wisdom OR +2s Global Silence</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/9/98/Silencer_Large.png/80px-Silencer_Large.png"
+  },
+  {
+    "id": "7.07_hero_Skywrath-Mage",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Skywrath Mage",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +25 Movement Speed OR +8 Intelligence</li><li>Level 15: -6s Ancient Seal Cooldown OR +1 Arcane Bolt</li><li>Level 20: Global Concussive Shot OR +15% Ancient Seal Magic Resistance Reduction</li><li>Level 25: +600 Mystic Flare damage OR +300 Gold/Min</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Skywrath_Mage_Large.png/80px-Skywrath_Mage_Large.png"
+  },
+  {
+    "id": "7.07_hero_Slardar",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Slardar",
+    "descriptionHtml": "<ul><li><a>Guardian Sprint</a>moves at 700 speed along the river at ability level 4</li><li>Talent Tree<ul><li>Level 10: +20 Damage OR +5 Health Regen</li><li>Level 15: +300 Health OR +100 Bash Damage</li><li>Level 20: +50 Attack Speed OR Night Vision +1000</li><li>Level 25: +15% Bash Chance OR Corrosive Haze Undispellable</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/4/41/Slardar_Large.png/80px-Slardar_Large.png"
+  },
+  {
+    "id": "7.07_hero_Slark",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Slark",
+    "descriptionHtml": "<ul><li>Fixed a bug with<a>Pounce</a>where you could sometimes force yourself out if you were not moving on pounce impact</li><li>Talent Tree<ul><li>Level 10: +8 Strength OR +10 Agility</li><li>Level 15: +30 Attack Speed OR +20% Lifesteal</li><li>Level 20: +150 Dark Pact Damage OR +3s Pounce Leash</li><li>Level 25: +1s Shadow Dance Duration OR +120s Essence Shift duration</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Slark_Large.png/80px-Slark_Large.png"
+  },
+  {
+    "id": "7.07_hero_Sniper",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Sniper",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +12% Cooldown Reduction OR +20 Damage</li><li>Level 15: +40 Attack Speed OR +20 Shrapnel DPS</li><li>Level 20: +35 Knockback Distance Headshot OR -1.5s Assassinate</li><li>Level 25: +6 Shrapnel Charges OR +125 Attack Range</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a2/Sniper_Large.png/80px-Sniper_Large.png"
+  },
+  {
+    "id": "7.07_hero_Spectre",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Spectre",
+    "descriptionHtml": "<ul><li><a>Desolate</a>now applies a debuff that reduces the unit&apos;s vision by 40/50/60/70% for 5 seconds</li><li>Talent Tree<ul><li>Level 10: +5 Health Regen OR +15 Desolate Damage</li><li>Level 15: -8s Spectral Dagger Cooldown OR +8 All Stats</li><li>Level 20: +500 Health OR +20% Spectral Dagger Slow/Bonus</li><li>Level 25: +20% Haunt Illusion Damage OR +8% Dispersion</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0a/Spectre_Large.png/80px-Spectre_Large.png"
+  },
+  {
+    "id": "7.07_hero_Spirit-Breaker",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Spirit Breaker",
+    "descriptionHtml": "<ul><li><a>Charge of Darkness</a>no longer goes into cooldown when you die</li><li>Spirit Breaker base HP regen reduced by 1</li><li><a>Greater Bash</a>damage rescaled from 22/30/38/46% to 12/24/36/48%</li><li>Talent Tree<ul><li>Level 10: +400 Night Vision OR +5 Armor</li><li>Level 15: +10 Health Regen OR +30 Damage</li><li>Level 20: +400 Charge Speed OR +30% Greater Bash Damage</li><li>Level 25: +800 Health OR +25% Greater Bash Chance</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f6/Spirit_Breaker_Large.png/80px-Spirit_Breaker_Large.png"
+  },
+  {
+    "id": "7.07_hero_Storm-Spirit",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Storm Spirit",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +20 Damage OR +2 Mana Regen</li><li>Level 15: +80 Static Remnant Damage OR +300 Health</li><li>Level 20: +0.5s Electric Vortex OR +40 Attack Speed</li><li>Level 25: Overload Pierces Immunity OR Auto Remnant per 500 Ball Lightning</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0c/Storm_Spirit_Large.png/80px-Storm_Spirit_Large.png"
+  },
+  {
+    "id": "7.07_hero_Sven",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Sven",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +2 Mana Regen OR +8 Strength</li><li>Level 15: +30 Movement Speed OR +30 Damage</li><li>Level 20: +25% Lifesteal OR Storm Hammer Dispels Enemies</li><li>Level 25: +40 STR God&apos;s Strength OR -8s Storm Hammer Cooldown</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f2/Sven_Large.png/80px-Sven_Large.png"
+  },
+  {
+    "id": "7.07_hero_Techies",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Techies",
+    "descriptionHtml": "<ul><li><a>Proximity Mines</a>bounty reduced from 50 to 25</li><li>Proximity Mines damage increased from 150/350/550/750 to 200/400/600/800</li><li>Talent Tree<ul><li>Level 10: +30% XP Gain OR -4s Proximity Mines Cooldown</li><li>Level 15: +300 Blast Off Damage OR +4 Mana Regen</li><li>Level 20: +75 Movement Speed OR +150 Gold/Min</li><li>Level 25: +251 Damage OR +25 Mines Movement Speed</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a7/Techies_Large.png/80px-Techies_Large.png"
+  },
+  {
+    "id": "7.07_hero_Templar-Assassin",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Templar Assassin",
+    "descriptionHtml": "<ul><li><a>Psionic Traps</a>now deal 100/125/150 damage when fully charged (dealt over the duration of the debuff rather than instantly)</li><li>Talent Tree<ul><li>Level 10: +200 Health OR +25 Attack Speed</li><li>Level 15: +7 Armor OR +200 Psionic Trap Damage</li><li>Level 20: Refraction Dispels OR -4 Meld Armor Reduction</li><li>Level 25: +4 Refraction Instances OR Psi Blades Spill Paralyzes (slows affected targets MS by 100% for 1 second)</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/5/50/Templar_Assassin_Large.png/80px-Templar_Assassin_Large.png"
+  },
+  {
+    "id": "7.07_hero_Terrorblade",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Terrorblade",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +20 Movement Speed OR +10% Evasion</li><li>Level 15: +300 Health OR +25 Attack Speed</li><li>Level 20: +10 All Stats OR -8s Reflection Cooldown</li><li>Level 25: -35s Sunder Cooldown OR +300 Metamorphosis Attack Range</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b5/Terrorblade_Large.png/80px-Terrorblade_Large.png"
+  },
+  {
+    "id": "7.07_hero_Tidehunter",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Tidehunter",
+    "descriptionHtml": "<ul><li><a>Ravage</a>AoE increased from 1025 to 1250</li><li>Ravage speed reduced from 775 to 725</li><li>Talent Tree<ul><li>Level 10: +25 Movement Speed OR +80 Gush Damage</li><li>Level 15: +40% XP Gain OR +25% Anchor Smash Damage Reduction</li><li>Level 20: +24 Kraken Shell OR -4 Gush Armor</li><li>Level 25: +25% Cooldown Reduction OR +250 Damage</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/d/de/Tidehunter_Large.png/80px-Tidehunter_Large.png"
+  },
+  {
+    "id": "7.07_hero_Timbersaw",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Timbersaw",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +6% Spell Amplification OR +25% XP Gain</li><li>Level 15: +100 Damage OR +5 Reactive Armor Stacks</li><li>Level 20: +15 Strength OR +10% Cooldown Reduction</li><li>Level 25: +8% Whirling Death Attribute Reduction OR +1400 Timber Chain Range</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Timbersaw_Large.png/80px-Timbersaw_Large.png"
+  },
+  {
+    "id": "7.07_hero_Tinker",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Tinker",
+    "descriptionHtml": "<ul><li><a>Rearm</a>now affects items in the backpack</li><li><a>Heat-Seeking Missiles</a>travel speed reduced from 900 to 700</li><li>Heat-Seeking Missiles mana cost reduced from 120/140/160/180 to 80/100/120/140</li><li>Talent Tree<ul><li>Level 10: +6% Spell Amplification OR +75 Cast Range</li><li>Level 15: +40 Movement Speed OR +10% Spell Lifesteal</li><li>Level 20: +100 Attack Damage OR +8 March of the Machines Damage</li><li>Level 25: +100 Laser Damage OR +0.3s Heat-Seeking Missile Ministun</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c0/Tinker_Large.png/80px-Tinker_Large.png"
+  },
+  {
+    "id": "7.07_hero_Tiny",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Tiny",
+    "descriptionHtml": "<ul><li>Hero Reworked</li><li>Base HP regen increased by 1</li><li>Attack point reduced from 0.49 to 0.4</li><li>Avalanche damage rescaled from 100/180/260/300 to 120/180/240/300</li><li>Tiny Agility from 9 + 0.9 to 0 + 0</li><li>Tiny base armor increased from -1 to 0</li><li>Removed Scepter</li><li>Removed<a>Craggy Exterior</a></li><li>Added a new ability:<a>Tree Grab</a><ul><li>Targets a tree to use in attacks for 2/3/4/5 hits</li><li>Extends attack range to 350 range</li><li>Each hit deals 25% more base damage to units and 75% more base damage to buildings</li><li>Splashes 70% damage along the attack path</li><li>Affects buildings</li><li>Cooldown starts after bonus attacks are used</li><li>Cooldown: 40/32/24/16</li><li>Mana Cost: 20/30/40/50</li></ul></li><li>Tree Grab gives you a secondary ability when you grab a tree<ul><li>Lets you throw your tree (resulting in your charges being empty) at a targeted unit, proccing your attack on it and splashing 70% damage onto a 250 area</li><li>Cast Range: 1000</li></ul></li><li>Reworked<a>Grow</a><ul><li>Grants you 20/30/40% Status Resistance, increases base damage by 40/80/120, movement by 40/50/60, and reduces attack speed by 30</li></ul></li><li>Talent Tree<ul><li>Level 10: +15% Magic Resistance OR +25 Damage</li><li>Level 15: +75 Avalanche Damage OR +350 Health</li><li>Level 20: -10s Tree Grab CD OR Toss Requires No Target</li><li>Level 25: -12s Avalanche Cooldown OR 3 Toss Charges</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Tiny_Large.png/80px-Tiny_Large.png"
+  },
+  {
+    "id": "7.07_hero_Treant-Protector",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Treant Protector",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +35% XP Gain OR +10% Cooldown Reduction</li><li>Level 15: +90 Damage OR 3s Tree Respawn Time (Means trees always respawn in 3 seconds)</li><li>Level 20: +2s Nature&apos;s Guise Root OR +40 Leech Seed Damage/Heal</li><li>Level 25: +6 Living Armor Block Instances OR +350 Eyes and Overgrowth AoE</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7a/Treant_Protector_Large.png/80px-Treant_Protector_Large.png"
+  },
+  {
+    "id": "7.07_hero_Troll-Warlord",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Troll Warlord",
+    "descriptionHtml": "<ul><li>Whirling Axes ability icons are always visible on the UI, but disabled when unavailable due to melee/ranged form</li><li><a>Whirling Axes (Ranged)</a>cooldown reduced from 19/16/13/10 to 9</li><li>Whirling Axes (Ranged) slow reduced from 3/3.75/4.5/5.25 to 2.5/3/3.5/4</li><li>Whirling Axes (Ranged) slow amount increased from 30% to 40%</li><li><a>Whirling Axes (Melee)</a>cooldown reduced from 12 to 9</li><li>Whirling Axes (Melee) blind duration rescaled from 4/5/6/7 to 5</li><li>Talent Tree<ul><li>Level 10: +10 Agility OR +200 Health</li><li>Level 15: +3 Max Fervor Stacks OR +50 Whirling Axes Damage</li><li>Level 20: +20% Evasion OR +50 Damage</li><li>Level 25: -6s Whirling Axes Cooldown OR Battle Trance Dispels (affects allies as well)</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Troll_Warlord_Large.png/80px-Troll_Warlord_Large.png"
+  },
+  {
+    "id": "7.07_hero_Tusk",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Tusk",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +40% XP Gain OR +90 Gold/Min</li><li>Level 15: +350 Health OR +150 Snowball Damage</li><li>Level 20: +300 Snowball Speed OR +100% Walrus Punch Crit</li><li>Level 25: 12% Chance Walrus Punch OR -6s Ice Shards Cooldown</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Tusk_Large.png/80px-Tusk_Large.png"
+  },
+  {
+    "id": "7.07_hero_Underlord",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Underlord",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +18 Firestorm Damage OR +30 Movement Speed</li><li>Level 15: +100 Cast Range OR +15 Atrophy Attack Bonus Damage</li><li>Level 20: +70 Attack Speed OR +30 Health Regen</li><li>Level 25: +0.8s Pit of Malice Root OR 25% Firestorm Building Damage</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/9/9e/Underlord_Large.png/80px-Underlord_Large.png"
+  },
+  {
+    "id": "7.07_hero_Undying",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Undying",
+    "descriptionHtml": "<ul><li><a>Tombstone</a>duration rescaled from 15/20/25/30 to 30</li><li>Tombstone AoE rescaled from 600/800/1000/1200 to 1200</li><li>Tombstone spawn rate rescaled from 3 to 4.5/4/3.5/3</li><li>Tombstone cooldown rescaled from 70 to 85/80/75/70</li><li>Reduced Tombstone zombie collision size</li><li><a>Decay</a>mana cost rescaled from 70/90/110/130 to 70/85/100/115</li><li>Decay damage from 20/60/100/140 to 20/50/80/110</li><li>Talent Tree<ul><li>Level 10: +100 Cast Range OR +8 Health Regen</li><li>Level 15: Tombstone On Death OR +20 Decay Duration</li><li>Level 20: +30 Tombstone Zombie Damage OR +3 Tombstone Attacks</li><li>Level 25: Gains Reincarnation 200 CD OR -2s Decay Cooldown</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6b/Undying_Large.png/80px-Undying_Large.png"
+  },
+  {
+    "id": "7.07_hero_Ursa",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Ursa",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +1.75 Mana Regen OR +8 Strength</li><li>Level 15: +16 Agility OR -1s Earthshock Cooldown</li><li>Level 20: +1 Enrage Duration OR +25s Fury Swipes</li><li>Level 25: +14 Fury Swipes Damage OR +600 AoE Earthshock</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/2/27/Ursa_Large.png/80px-Ursa_Large.png"
+  },
+  {
+    "id": "7.07_hero_Vengeful-Spirit",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Vengeful Spirit",
+    "descriptionHtml": "<ul><li><a>Wave of Terror</a>vision AoE reduced from 500 to 300 (same as impact radius)</li><li>Wave of Terror cooldown reduced from 22/20/18/16 to 10</li><li>Wave of Terror debuff duration reduced from 15 to 8</li><li>Scepter Illusion damage increased from 50% to 100%</li><li><a>Vengeance Aura</a>AoE increased from 900 to 1200</li><li>Vengeance Aura no longer applied to enemies when you die</li><li>Whenever an allied hero dies under your damage aura, an illusion of that hero will be created, attacking the enemy that killed him for 7 seconds<ul><li>Illusions deal 100% Damage</li><li>Illusions are ghosts/not targetable and are visible/known to the enemy</li></ul></li><li>Talent Tree<ul><li>Level 10: +15% Magic Resistance OR -1 Wave of Terror Armor</li><li>Level 15: +15 Agility OR -6s Wave of Terror Cooldown</li><li>Level 20: -4s Magic Missile Cooldown OR +15% Vengeance Aura Damage</li><li>Level 25: +400 Magic Missile Damage OR Magic Missile Pierces Spell Immunity</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c9/Vengeful_Spirit_Large.png/80px-Vengeful_Spirit_Large.png"
+  },
+  {
+    "id": "7.07_hero_Venomancer",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Venomancer",
+    "descriptionHtml": "<ul><li>Base movement speed reduced by 5</li><li>Base damage reduced by 3</li><li><a>Venomous Gale</a>can now be dispelled</li><li>Talent Tree<ul><li>Level 10: -8 Venomous Gale CD OR +90 Gold/Min</li><li>Level 15: +150 Cast Range OR +6% Poison Sting Slow</li><li>Level 20: +6s Poison Nova Duration OR Gale Hero Impact Summons 2 Wards</li><li>Level 25: +600 Poison Nova AoE OR 3x Plague Ward HP/Damage</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/3/39/Venomancer_Large.png/80px-Venomancer_Large.png"
+  },
+  {
+    "id": "7.07_hero_Viper",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Viper",
+    "descriptionHtml": "<ul><li>Hero Reworked</li><li>Base movement speed reduced by 5</li><li>Base armor reduced by 1</li><li><a>Corrosive Skin</a>no longer slows movement speed</li><li>Corrosive Skin damage increased from 10/15/20/25 to 8/16/24/32</li><li>Corrosive Skin Attack Slow rescaled from 10/15/20/25 to 8/16/24/32</li><li>Reworked<a>Poison Attack</a><ul><li>Slows the target and deals damage based on how much health the target is missing</li><li>MS/AS Slow: 25/30/35/40%</li><li>DPS: 0.25/0.5/0.75/1 × Missing Health percentage (so at max level 50% missing health would be 50 DPS, 90% missing health would be 90 DPS)</li><li>Duration: 3</li><li>Cooldown: 6/4/2/0</li><li>Mana Cost: 40/35/30/25</li></ul></li><li>Reworked<a>Nethertoxin</a><ul><li>Releases poison onto the targeted area which deals damage over time, reduces magic resistance, and applies Break (disabling passive abilities) to those standing in that area</li><li>AoE: 300</li><li>DPS: 20/30/40/50</li><li>Magic Resistance: -10/15/20/25% + Applies Break</li><li>Duration: 8</li><li>Cooldown: 5</li><li>Mana Cost: 75</li><li>Cast Range: 900 (2000 projectile speed)</li><li>Note: This affects the area targeted on the ground, does not leave a debuff on enemies upon cast (Only active as long as they are in the area)</li></ul></li><li>Talent Tree<ul><li>Level 10: +20 Attack Speed OR +8% Spell Lifesteal</li><li>Level 15: +100 Attack Range OR +6 Corrosive Skin</li><li>Level 20: Poison Attack Affects Buildings OR +100 Viper Strike DPS</li><li>Level 25: +120 Damage OR Nethertoxin Silences</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Viper_Large.png/80px-Viper_Large.png"
+  },
+  {
+    "id": "7.07_hero_Visage",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Visage",
+    "descriptionHtml": "<ul><li><a>Familiar</a>&apos;s attack is now a constant 25/40/55 rather than damage charges</li><li>Casting<a>Grave Chill</a>now gives the buff to Familiars within 900 AoE at cast time</li><li>Talent Tree<ul><li>Level 10: +125 Cast Range OR +30 Damage</li><li>Level 15: +40% XP Gain OR Soul Assumption Double Strike</li><li>Level 20: +15 Soul Assumption Damage Per Charge OR +80 Familiars Movement Speed</li><li>Level 25: -2s Gravekeeper&apos;s Cloak OR +1 Familiar</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f8/Visage_Large.png/80px-Visage_Large.png"
+  },
+  {
+    "id": "7.07_hero_Warlock",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Warlock",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +5% Fatal Bonds Damage OR +125 Cast Range</li><li>Level 15: -7s Shadow Word Cooldown OR +40% XP Gain</li><li>Level 20: Summon a Golem on Death OR 250 Shadow Word AoE</li><li>Level 25: +20 Chaotic Offering Golems Armor OR Spell Immunity for Golems</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b9/Warlock_Large.png/80px-Warlock_Large.png"
+  },
+  {
+    "id": "7.07_hero_Weaver",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Weaver",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +20 Mana Break OR +25% XP Gain</li><li>Level 15: 12 Strength OR +75 Shukuchi Damage</li><li>Level 20: -0.5 Swarm Armor Reduction OR +2 Swarm Attacks to Kill</li><li>Level 25: +200 Shukuchi Movement Speed OR +1 Geminate Attack</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/5/59/Weaver_Large.png/80px-Weaver_Large.png"
+  },
+  {
+    "id": "7.07_hero_Windranger",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Windranger",
+    "descriptionHtml": "<ul><li><a>Focus Fire</a>now allows Windranger to move while attacking the Focus Fire target</li><li>Focus Fire attack speed bonus reduced from 500 to 350</li><li>Focus Fire cooldown increased from 60 to 70</li><li><a>Shackleshot</a>now shows an indicator for the missed area if it fails to latch onto a target</li><li>Talent Tree<ul><li>Level 10: +30% Windrun Slow OR +1.75 Mana/sec</li><li>Level 15: +90 Powershot Damage OR +75 Attack Range</li><li>Level 20: 25% Cooldown OR Windrun Grants Invis</li><li>Level 25: +20% Ministun Focus Fire OR +1 Shackleshot Target</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Windranger_Large.png/80px-Windranger_Large.png"
+  },
+  {
+    "id": "7.07_hero_Winter-Wyvern",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Winter Wyvern",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: 90 Gold/Min OR +50 Damage</li><li>Level 15: +350 Health OR +600 Night Vision</li><li>Level 20: +15% Arctic Burn Slow OR -5s Cold Embrace Cooldown</li><li>Level 25: +1.5s Winter&apos;s Curse Duration OR Splinter Blast 2s Stun</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c7/Winter_Wyvern_Large.png/80px-Winter_Wyvern_Large.png"
+  },
+  {
+    "id": "7.07_hero_Witch-Doctor",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Witch Doctor",
+    "descriptionHtml": "<ul><li><a>Death Ward</a>now attacks the enemy hero nearest to the ward on creation</li><li>Talent Tree<ul><li>Level 10: +5 Armor OR +75 Damage</li><li>Level 15: +2 Cask Bounces OR +120 Gold/Min</li><li>Level 20: +1 Maledict Tick OR +125 Death Ward Attack Range</li><li>Level 25: +1.5% Max Health Voodoo Restoration OR +75 Death Ward Damage</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b0/Witch_Doctor_Large.png/80px-Witch_Doctor_Large.png"
+  },
+  {
+    "id": "7.07_hero_Wraith-King",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Wraith King",
+    "descriptionHtml": "<ul><li>Hero Reworked</li><li>Strength gain reduced from 3.2 to 2.8</li><li>Reworked<a>Mortal Strike</a><ul><li>Mortal Strike hero chance rescaled from 15% to 9/11/13/15% (same as creep chance)</li><li>Mortal Strike hero crit rescaled from 150/200/250/300 to 300%</li><li>Reworked Mortal Strike vs creeps<ul><li>Grants a 9/11/13/15% chance to kill a non-player non-ancient unit in one hit and gain a charge counter</li></ul></li><li>Can cast mortal strike to summon skeletons equal to the number of charges you have (max of 4/5/6/7 charges)</li><li>Activation requires 75 mana and has a 50 second cooldown</li><li>Skeletons are not bound to you and will auto attack targets they find</li><li>Skeletons have 35-40 Damage, 1.2 attack rate, 350 MS, 350 Health, and grant 15 Gold/XP Bounty</li><li>Skeletons are summoned once per 0.25 seconds (first is immediate)</li><li>Note: If you have<a>Vampiric Aura</a>, you lifesteal as if your attack dealt enough damage to kill the creep</li></ul></li><li>Casting<a>Wraithfire Blast</a>on a target will order all skeletons to attack that target</li><li>Talent Tree<ul><li>Level 10: +40 Wraithfire Blast DPS OR +20 Attack Speed</li><li>Level 15: +5 Max Skeletons OR +15 Strength</li><li>Level 20: No Reincarnation Mana cost OR +30 Skeletons Attack Damage</li><li>Level 25: +25% Vampiric Aura Lifesteal OR Reincarnation Casts Wraithfire Blasts</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6e/Wraith_King_Large.png/80px-Wraith_King_Large.png"
+  },
+  {
+    "id": "7.07_hero_Zeus",
+    "version": "7.07",
+    "category": "hero",
+    "label": "Zeus",
+    "descriptionHtml": "<ul><li>Talent Tree<ul><li>Level 10: +6 Armor OR +25% XP Gain</li><li>Level 15: +40 Movement Speed OR +1% Static Field</li><li>Level 20: +15% Cooldown OR +0.5 Lightning Bolt Stun</li><li>Level 25: +200 Cast Range OR +170 Arc Lightning Damage</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/9/91/Zeus_Large.png/80px-Zeus_Large.png"
+  }
+]

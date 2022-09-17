@@ -1,0 +1,993 @@
+[
+  {
+    "id": "7.24_general_General-updates",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Heroes now have a dedicated neutral items slot. A maximum of one neutral item can be equipped on your hero.</li><li>There is now a Neutral Item Stash in the fountain. Neutral items are now stored there instead of on the fountain floor. Right clicking on an available item in the new UI will place it in your stash/courier and can be delivered to you. This UI will also show the state and location of all the other items that have dropped.</li><li>Neutral items can now be teleported to your Neutral Item Stash at home through a right click context menu (from your backpack or your neutral slot)</li><li>Backpack slot count reduced from 4 to 3</li><li>Neutral item drop count per tier increased from 3 to 4 (chance from 9 to 10%)</li><li>Ancients neutral drop rates are 3x higher</li></ul>"
+  },
+  {
+    "id": "7.24_item_Ironwood-Tree",
+    "version": "7.24",
+    "category": "item",
+    "label": "Ironwood Tree",
+    "descriptionHtml": "<ul><li>Now drops the full item rather than a recipe</li><li>All stats reduced from +7 to +6</li></ul>",
+    "imageSrc": "/commons/images/9/9b/Ironwood_Tree.png"
+  },
+  {
+    "id": "7.24_item_Arcane-Ring",
+    "version": "7.24",
+    "category": "item",
+    "label": "Arcane Ring",
+    "descriptionHtml": "<ul><li>Intelligence increased from +8 to +10</li></ul>",
+    "imageSrc": "/commons/images/6/62/Arcane_Ring.png"
+  },
+  {
+    "id": "7.24_item_Iron-Talon",
+    "version": "7.24",
+    "category": "item",
+    "label": "Iron Talon",
+    "descriptionHtml": "<ul><li>No longer has the Quell passive</li><li>Now provides +15 Attack Speed</li></ul>",
+    "imageSrc": "/commons/images/5/5b/Iron_Talon.png"
+  },
+  {
+    "id": "7.24_item_Keen-Optic",
+    "version": "7.24",
+    "category": "item",
+    "label": "Keen Optic",
+    "descriptionHtml": "<ul><li>Mana regen increased from 1 to 1.25</li></ul>",
+    "imageSrc": "/commons/images/8/83/Keen_Optic.png"
+  },
+  {
+    "id": "7.24_item_Mango-Tree",
+    "version": "7.24",
+    "category": "item",
+    "label": "Mango Tree",
+    "descriptionHtml": "<ul><li>Vision range reduced from 1200 to 1000</li><li>Mangoes now fall a little further out</li></ul>",
+    "imageSrc": "/commons/images/7/7e/Mango_Tree.png"
+  },
+  {
+    "id": "7.24_item_Poor-Man's-Shield",
+    "version": "7.24",
+    "category": "item",
+    "label": "Poor Man's Shield",
+    "descriptionHtml": "<ul><li>Blocked damage from 20/10 for melee/range to 30/20</li></ul>",
+    "imageSrc": "/commons/images/d/df/Poor_Mans_Shield.png"
+  },
+  {
+    "id": "7.24_item_Trusty-Shovel",
+    "version": "7.24",
+    "category": "item",
+    "label": "Trusty Shovel",
+    "descriptionHtml": "<ul><li>Health reduced from 150 to 100</li></ul>",
+    "imageSrc": "/commons/images/9/99/Trusty_Shovel.png"
+  },
+  {
+    "id": "7.24_item_Ocean-Heart",
+    "version": "7.24",
+    "category": "item",
+    "label": "Ocean Heart",
+    "descriptionHtml": "<ul><li>Health/Mana regen increased from 6/3 to 8/4</li></ul>",
+    "imageSrc": "/commons/images/8/86/Ocean_Heart.png"
+  },
+  {
+    "id": "7.24_item_Dragon-Scale",
+    "version": "7.24",
+    "category": "item",
+    "label": "Dragon Scale",
+    "descriptionHtml": "<ul><li>Afterburn damage increased from 12 to 18</li></ul>",
+    "imageSrc": "/commons/images/2/25/Dragon_Scale.png"
+  },
+  {
+    "id": "7.24_item_Clumsy-Net",
+    "version": "7.24",
+    "category": "item",
+    "label": "Clumsy Net",
+    "descriptionHtml": "<ul><li>Cast range reduced from 900 to 650</li><li>No longer pierces immunity on yourself</li></ul>",
+    "imageSrc": "/commons/images/7/7c/Clumsy_Net.png"
+  },
+  {
+    "id": "7.24_item_Essence-Ring",
+    "version": "7.24",
+    "category": "item",
+    "label": "Essence Ring",
+    "descriptionHtml": "<ul><li>Now increases current/max health directly and is not considered a heal (does not get amplified/triggered by heal related abilities)</li></ul>",
+    "imageSrc": "/commons/images/6/6f/Essence_Ring.png"
+  },
+  {
+    "id": "7.24_item_Vambrace",
+    "version": "7.24",
+    "category": "item",
+    "label": "Vambrace",
+    "descriptionHtml": "<ul><li>Now drops the full item rather than a recipe</li><li>can now be toggled between the different attributes</li><li>from 12/6 primary/secondary stats to 10/5</li></ul>",
+    "imageSrc": "/commons/images/e/ed/Vambrace.png"
+  },
+  {
+    "id": "7.24_item_Vampire-Fangs",
+    "version": "7.24",
+    "category": "item",
+    "label": "Vampire Fangs",
+    "descriptionHtml": "<ul><li>Spell Lifesteal reduced from 8% to 6%</li></ul>",
+    "imageSrc": "/commons/images/0/01/Vampire_Fangs.png"
+  },
+  {
+    "id": "7.24_item_Enchanted-Quiver",
+    "version": "7.24",
+    "category": "item",
+    "label": "Enchanted Quiver",
+    "descriptionHtml": "<ul><li>Bonus magic damage increased from 270 to 300</li><li>Fixed it working with Wukong&apos;s Command</li></ul>",
+    "imageSrc": "/commons/images/b/ba/Enchanted_Quiver.png"
+  },
+  {
+    "id": "7.24_item_Orb-of-Destruction",
+    "version": "7.24",
+    "category": "item",
+    "label": "Orb of Destruction",
+    "descriptionHtml": "<ul><li>Slow reduced from 30/15% to 20/10%</li></ul>",
+    "imageSrc": "/commons/images/e/e2/Orb_of_Destruction.png"
+  },
+  {
+    "id": "7.24_item_Craggy-Coat",
+    "version": "7.24",
+    "category": "item",
+    "label": "Craggy Coat",
+    "descriptionHtml": "<ul><li>Armor reduced from 13 to 12</li></ul>",
+    "imageSrc": "/commons/images/9/9e/Craggy_Coat.png"
+  },
+  {
+    "id": "7.24_item_Mind-Breaker",
+    "version": "7.24",
+    "category": "item",
+    "label": "Mind Breaker",
+    "descriptionHtml": "<ul><li>Silence duration reduced from 2 to 1.5 seconds</li></ul>",
+    "imageSrc": "/commons/images/c/c1/Mind_Breaker.png"
+  },
+  {
+    "id": "7.24_item_Telescope",
+    "version": "7.24",
+    "category": "item",
+    "label": "Telescope",
+    "descriptionHtml": "<ul><li>Attack range bonus reduced from 150 to 125</li></ul>",
+    "imageSrc": "/commons/images/6/6c/Telescope.png"
+  },
+  {
+    "id": "7.24_item_Repair-Kit",
+    "version": "7.24",
+    "category": "item",
+    "label": "Repair Kit",
+    "descriptionHtml": "<ul><li>Building Repair no longer has multishot</li><li>Health regen increased from 13 to 17</li></ul>",
+    "imageSrc": "/commons/images/8/84/Repair_Kit.png"
+  },
+  {
+    "id": "7.24_item_Havoc-Hammer",
+    "version": "7.24",
+    "category": "item",
+    "label": "Havoc Hammer",
+    "descriptionHtml": "<ul><li>Havoc base damage increased from 175 to 225</li></ul>",
+    "imageSrc": "/commons/images/2/2e/Havoc_Hammer.png"
+  },
+  {
+    "id": "7.24_item_Flicker",
+    "version": "7.24",
+    "category": "item",
+    "label": "Flicker",
+    "descriptionHtml": "<ul><li>Movement speed increased from +30 to +40</li></ul>",
+    "imageSrc": "/commons/images/1/1e/Flicker.png"
+  },
+  {
+    "id": "7.24_item_Magic-Lamp",
+    "version": "7.24",
+    "category": "item",
+    "label": "Magic Lamp",
+    "descriptionHtml": "<ul><li>Health threshold increased from 15% to 20%</li></ul>",
+    "imageSrc": "/commons/images/3/3b/Magic_Lamp.png"
+  },
+  {
+    "id": "7.24_item_Apex",
+    "version": "7.24",
+    "category": "item",
+    "label": "Apex",
+    "descriptionHtml": "<ul><li>Changed to a fixed +75 Primary Attribute instead of a percentage increased</li></ul>",
+    "imageSrc": "/commons/images/e/e5/Apex_dota2.png"
+  },
+  {
+    "id": "7.24_item_Fusion-Rune",
+    "version": "7.24",
+    "category": "item",
+    "label": "Fusion Rune",
+    "descriptionHtml": "<ul><li>Removed</li></ul>",
+    "imageSrc": "/commons/images/4/42/Fusion_Rune.png"
+  },
+  {
+    "id": "7.24_item_Ballista",
+    "version": "7.24",
+    "category": "item",
+    "label": "Ballista",
+    "descriptionHtml": "<ul><li>Attack range reduced from +400 to +250</li><li>Now deals +30 Pure Damage</li></ul>",
+    "imageSrc": "/commons/images/d/d5/Ballista.png"
+  },
+  {
+    "id": "7.24_item_Force-Boots",
+    "version": "7.24",
+    "category": "item",
+    "label": "Force Boots",
+    "descriptionHtml": "<ul><li>Cooldown increased from 6 to 9 seconds</li><li>Movement speed reduced from +50% to +40%</li><li>Push distance/duration from 800/0.65 to 600/0.5</li></ul>",
+    "imageSrc": "/commons/images/e/e9/Force_Boots.png"
+  },
+  {
+    "id": "7.24_item_Ex-Machina",
+    "version": "7.24",
+    "category": "item",
+    "label": "Ex Machina",
+    "descriptionHtml": "<ul><li>Reset Item Cooldowns increased from 30 to 45 seconds</li><li>Armor reduced from 25 to 20</li><li>Now has a 100 mana cost</li></ul>",
+    "imageSrc": "/commons/images/d/d9/Ex_Machina.png"
+  },
+  {
+    "id": "7.24_item_Mirror-Shield",
+    "version": "7.24",
+    "category": "item",
+    "label": "Mirror Shield",
+    "descriptionHtml": "<ul><li>Cooldown increased from 4 to 8 seconds</li></ul>",
+    "imageSrc": "/commons/images/9/93/Mirror_Shield.png"
+  },
+  {
+    "id": "7.24_item_Pirate-Hat",
+    "version": "7.24",
+    "category": "item",
+    "label": "Pirate Hat",
+    "descriptionHtml": "<ul><li>Attack speed reduced from +250 to +150</li><li>No longer drops a bounty rune on hero kills</li><li>You now steal 300 Gold from heroes you kill</li></ul>",
+    "imageSrc": "/commons/images/0/04/Pirate_Hat.png"
+  },
+  {
+    "id": "7.24_item_Seer-Stone",
+    "version": "7.24",
+    "category": "item",
+    "label": "Seer Stone",
+    "descriptionHtml": "<ul><li>Cast and Vision range reduced from 450 to 350</li></ul>",
+    "imageSrc": "/commons/images/1/17/Seer_Stone.png"
+  },
+  {
+    "id": "7.24_item_Phoenix-Ash",
+    "version": "7.24",
+    "category": "item",
+    "label": "Phoenix Ash",
+    "descriptionHtml": "<ul><li>Removed</li></ul>",
+    "imageSrc": "/commons/images/2/26/Phoenix_Ash.png"
+  },
+  {
+    "id": "7.24_item_Desolator-2",
+    "version": "7.24",
+    "category": "item",
+    "label": "Desolator 2",
+    "descriptionHtml": "<ul><li>Damage reduced from 100 to 75</li><li>Armor reduction reduced from 12 to 10</li><li>Armor reduction duration reduced from 15 to 7</li></ul>",
+    "imageSrc": "/commons/images/7/7a/Stygian_Desolator.png"
+  },
+  {
+    "id": "7.24_item_Woodland-Striders",
+    "version": "7.24",
+    "category": "item",
+    "label": "Woodland Striders",
+    "descriptionHtml": "<ul><li>Health regen reduced from 70 to 50</li><li>Tree duration reduced from 60 seconds to 15</li></ul>",
+    "imageSrc": "/commons/images/5/51/Woodland_Striders.png"
+  },
+  {
+    "id": "7.24_item_Fallen-Sky",
+    "version": "7.24",
+    "category": "item",
+    "label": "Fallen Sky",
+    "descriptionHtml": "<ul><li>Has the same Blink rules with regards to damage</li><li>Now drops the full item rather than a recipe</li></ul>",
+    "imageSrc": "/commons/images/6/67/Fallen_Sky.png"
+  },
+  {
+    "id": "7.24_item_Trident",
+    "version": "7.24",
+    "category": "item",
+    "label": "Trident",
+    "descriptionHtml": "<ul><li>All bonuses reduced from 33% to 30%</li></ul>",
+    "imageSrc": "/commons/images/9/9a/Trident.png"
+  },
+  {
+    "id": "7.24_item_Book-of-the-Dead",
+    "version": "7.24",
+    "category": "item",
+    "label": "Book of the Dead",
+    "descriptionHtml": "<ul><li>Changed from three sets of Necronomicon units to two sets with 50% more health and damage</li><li>Strength and Intelligence reduced from 35 to 30</li></ul>",
+    "imageSrc": "/commons/images/5/5a/Book_of_the_Dead.png"
+  },
+  {
+    "id": "7.24_item_Enchanted-Mango",
+    "version": "7.24",
+    "category": "item",
+    "label": "Enchanted Mango",
+    "descriptionHtml": "<ul><li>Mana restore reduced from 125 to 110</li></ul>",
+    "imageSrc": "/commons/images/2/23/Enchanted_Mango.png"
+  },
+  {
+    "id": "7.24_item_Quelling-Blade",
+    "version": "7.24",
+    "category": "item",
+    "label": "Quelling Blade",
+    "descriptionHtml": "<ul><li>No longer kills wards (same for Iron Talon and Battle Fury)</li></ul>",
+    "imageSrc": "/commons/images/4/43/Quelling_Blade.png"
+  },
+  {
+    "id": "7.24_item_Tango",
+    "version": "7.24",
+    "category": "item",
+    "label": "Tango",
+    "descriptionHtml": "<ul><li>No longer kills wards</li></ul>",
+    "imageSrc": "/commons/images/9/91/Tango.png"
+  },
+  {
+    "id": "7.24_item_Vladmir's-Offering",
+    "version": "7.24",
+    "category": "item",
+    "label": "Vladmir's Offering",
+    "descriptionHtml": "<ul><li>Mana regeneration reduced from 1.5 to 1.25</li></ul>",
+    "imageSrc": "/commons/images/f/f5/Vladmirs_Offering.png"
+  },
+  {
+    "id": "7.24_item_Void-Stone",
+    "version": "7.24",
+    "category": "item",
+    "label": "Void Stone",
+    "descriptionHtml": "<ul><li>Mana regeneration increased from 1.75 to 2.25</li></ul>",
+    "imageSrc": "/commons/images/c/c2/Void_Stone.png"
+  },
+  {
+    "id": "7.24_item_Perseverance",
+    "version": "7.24",
+    "category": "item",
+    "label": "Perseverance",
+    "descriptionHtml": "<ul><li>Mana regeneration increased from 2 to 2.25</li></ul>",
+    "imageSrc": "/commons/images/7/7f/Perseverance.png"
+  },
+  {
+    "id": "7.24_item_Battle-Fury",
+    "version": "7.24",
+    "category": "item",
+    "label": "Battle Fury",
+    "descriptionHtml": "<ul><li>Damage increased from 54 to 60</li><li>Cleave damage against heroes increased from 60% to 70%</li><li>Cleave damage against creeps decreased from 60% to 50%</li></ul>",
+    "imageSrc": "/commons/images/a/a5/Battle_Fury.png"
+  },
+  {
+    "id": "7.24_item_Maelstrom",
+    "version": "7.24",
+    "category": "item",
+    "label": "Maelstrom",
+    "descriptionHtml": "<ul><li>Chain Lightning damage reduced from 150 to 140</li></ul>",
+    "imageSrc": "/commons/images/1/14/Maelstrom.png"
+  },
+  {
+    "id": "7.24_item_Necronomicon",
+    "version": "7.24",
+    "category": "item",
+    "label": "Necronomicon",
+    "descriptionHtml": "<ul><li>Mana regeneration increased from 2/2.5/3 to 3/3.5/4</li></ul>",
+    "imageSrc": "/commons/images/5/51/Necronomicon_1.png"
+  },
+  {
+    "id": "7.24_item_Desolator",
+    "version": "7.24",
+    "category": "item",
+    "label": "Desolator",
+    "descriptionHtml": "<ul><li>Armor reduction duration reduced from 15 to 7</li></ul>",
+    "imageSrc": "/commons/images/e/e2/Desolator.png"
+  },
+  {
+    "id": "7.24_item_Radiance",
+    "version": "7.24",
+    "category": "item",
+    "label": "Radiance",
+    "descriptionHtml": "<ul><li>Damage reduced from 65 to 60</li></ul>",
+    "imageSrc": "/commons/images/7/71/Radiance.png"
+  },
+  {
+    "id": "7.24_item_Blade-Mail",
+    "version": "7.24",
+    "category": "item",
+    "label": "Blade Mail",
+    "descriptionHtml": "<ul><li>Damage increased from +22 to +28</li></ul>",
+    "imageSrc": "/commons/images/4/47/Blade_Mail.png"
+  },
+  {
+    "id": "7.24_item_Silver-Edge",
+    "version": "7.24",
+    "category": "item",
+    "label": "Silver Edge",
+    "descriptionHtml": "<ul><li>Damage increased from 40 to 45</li></ul>",
+    "imageSrc": "/commons/images/4/4a/Silver_Edge.png"
+  },
+  {
+    "id": "7.24_item_Mask-of-Madness",
+    "version": "7.24",
+    "category": "item",
+    "label": "Mask of Madness",
+    "descriptionHtml": "<ul><li>Damage increased from 10 to 15</li></ul>",
+    "imageSrc": "/commons/images/3/3e/Mask_of_Madness.png"
+  },
+  {
+    "id": "7.24_item_Armlet-of-Mordiggian",
+    "version": "7.24",
+    "category": "item",
+    "label": "Armlet of Mordiggian",
+    "descriptionHtml": "<ul><li>Damage increased from 9 to 15</li></ul>",
+    "imageSrc": "/commons/images/a/a2/Armlet_of_Mordiggian.png"
+  },
+  {
+    "id": "7.24_item_Crystalys",
+    "version": "7.24",
+    "category": "item",
+    "label": "Crystalys",
+    "descriptionHtml": "<ul><li>Damage increased from 38 to 45</li><li>Critical strike reduced from 175% to 160%</li></ul>",
+    "imageSrc": "/commons/images/c/c6/Crystalys.png"
+  },
+  {
+    "id": "7.24_item_Daedalus",
+    "version": "7.24",
+    "category": "item",
+    "label": "Daedalus",
+    "descriptionHtml": "<ul><li>Damage increased from 80 to 88</li><li>Critical strike reduced from 235% to 225%</li></ul>",
+    "imageSrc": "/commons/images/3/39/Daedalus.png"
+  },
+  {
+    "id": "7.24_item_Bloodthorn",
+    "version": "7.24",
+    "category": "item",
+    "label": "Bloodthorn",
+    "descriptionHtml": "<ul><li>Damage increased from 68 to 75</li><li>Critical strike reduced from 175% to 160%</li><li>Soul Rend critical strike reduced from 140% to 130%</li></ul>",
+    "imageSrc": "/commons/images/3/38/Bloodthorn.png"
+  },
+  {
+    "id": "7.24_hero_Abaddon",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Abaddon",
+    "descriptionHtml": "<ul><li>Base damage reduced by 2</li><li><a>Mist Coil</a>cooldown increased from 4.5 to 5.5</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Abaddon_Large.png/80px-Abaddon_Large.png"
+  },
+  {
+    "id": "7.24_hero_Alchemist",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Alchemist",
+    "descriptionHtml": "<ul><li><a><img></img></a><a><font><b>Strength</b></font></a>gain increased from 2.4 to 2.7</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/11/Alchemist_Large.png/80px-Alchemist_Large.png"
+  },
+  {
+    "id": "7.24_hero_Ancient-Apparition",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Ancient Apparition",
+    "descriptionHtml": "<ul><li><a>Ice Blast</a>kill threshold increased from 10/11/12% to 12/13/14%</li><li>Level 10 Talent changed from +90 Gold/Min to +175<a>Chilling Touch</a>Attack Range</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5d/Ancient_Apparition_Large.png/80px-Ancient_Apparition_Large.png"
+  },
+  {
+    "id": "7.24_hero_Axe",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Axe",
+    "descriptionHtml": "<ul><li>Movement speed increased by 5</li><li><a><img></img></a><a><font><b>Strength</b></font></a>gain increased from 3.4 to 3.6</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a1/Axe_Large.png/80px-Axe_Large.png"
+  },
+  {
+    "id": "7.24_hero_Bounty-Hunter",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Bounty Hunter",
+    "descriptionHtml": "<ul><li>Base armor increased by 1</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/86/Bounty_Hunter_Large.png/80px-Bounty_Hunter_Large.png"
+  },
+  {
+    "id": "7.24_hero_Brewmaster",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Brewmaster",
+    "descriptionHtml": "<ul><li>Base armor increased by 1</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0b/Brewmaster_Large.png/80px-Brewmaster_Large.png"
+  },
+  {
+    "id": "7.24_hero_Chaos-Knight",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Chaos Knight",
+    "descriptionHtml": "<ul><li><a>Reality Rift</a>armor reduction increased from 2/3/4/5 to 3/4/5/6</li><li><a>Phantasm</a>incoming damage reduced from 350% to 325%</li><li>Level 20 Talent changed from +150 Gold/Min to +10s Phantasm Duration</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/46/Chaos_Knight_Large.png/80px-Chaos_Knight_Large.png"
+  },
+  {
+    "id": "7.24_hero_Chen",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Chen",
+    "descriptionHtml": "<ul><li>Level 20 Talent changed from +180 Gold/Min to -30s<a>Hand of God</a>cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7d/Chen_Large.png/80px-Chen_Large.png"
+  },
+  {
+    "id": "7.24_hero_Clinkz",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Clinkz",
+    "descriptionHtml": "<ul><li><a>Burning Army</a>base damage increased from 24/26/28% to 28%</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4d/Clinkz_Large.png/80px-Clinkz_Large.png"
+  },
+  {
+    "id": "7.24_hero_Crystal-Maiden",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Crystal Maiden",
+    "descriptionHtml": "<ul><li>Level 15 Talent changed from +150 Gold/Min to -2s<a>Crystal Nova</a>Cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dc/Crystal_Maiden_Large.png/80px-Crystal_Maiden_Large.png"
+  },
+  {
+    "id": "7.24_hero_Dark-Seer",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Dark Seer",
+    "descriptionHtml": "<ul><li><a>Surge</a>speed changed from 25/40/55/70% to 70%</li><li>Surge duration reduced from 6 to 3/4/5/6</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6f/Dark_Seer_Large.png/80px-Dark_Seer_Large.png"
+  },
+  {
+    "id": "7.24_hero_Dark-Willow",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Dark Willow",
+    "descriptionHtml": "<ul><li>Level 15 Talent changed from +120 Gold/Min to +40<a>Bedlam</a>Damage</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5e/Dark_Willow_Large.png/80px-Dark_Willow_Large.png"
+  },
+  {
+    "id": "7.24_hero_Death-Prophet",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Death Prophet",
+    "descriptionHtml": "<ul><li>Base armor increased by 1</li><li>Base movement speed increased by 5</li><li><a>Spirit Siphon</a>charge restore time reduced from 60/52/44/36 to 45/40/35/30</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/80/Death_Prophet_Large.png/80px-Death_Prophet_Large.png"
+  },
+  {
+    "id": "7.24_hero_Disruptor",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Disruptor",
+    "descriptionHtml": "<ul><li><a>Thunder Strike</a>manacost increased from 130 to 130/140/150/160</li><li><a>Static Storm</a>Scepter no longer increases duration from 5 to 7</li><li>Level 20 Talent changed from +180 Gold/Min to<a>Kinetic Field</a>Grants True Sight</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b7/Disruptor_Large.png/80px-Disruptor_Large.png"
+  },
+  {
+    "id": "7.24_hero_Doom",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Doom",
+    "descriptionHtml": "<ul><li><a><img></img></a><a><font><b>Strength</b></font></a>gain reduced from 4.0 to 3.7</li><li><a>Scorched Earth</a>movement speed reduced from 12/13/14/15% to 9/11/13/15%</li><li><a>Devour</a>HP regen reduced from 3/8/13/18 to 3/7/11/15</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/19/Doom_Large.png/80px-Doom_Large.png"
+  },
+  {
+    "id": "7.24_hero_Dragon-Knight",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Dragon Knight",
+    "descriptionHtml": "<ul><li>Base movement speed increased by 10</li><li><a>Elder Dragon Form</a>movement speed bonus reduced from 30 to 25</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/da/Dragon_Knight_Large.png/80px-Dragon_Knight_Large.png"
+  },
+  {
+    "id": "7.24_hero_Drow-Ranger",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Drow Ranger",
+    "descriptionHtml": "<ul><li><a>Multishot</a>damage reduced from 90/115/140/165% to 85/110/135/160%</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7e/Drow_Ranger_Large.png/80px-Drow_Ranger_Large.png"
+  },
+  {
+    "id": "7.24_hero_Earth-Spirit",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Earth Spirit",
+    "descriptionHtml": "<ul><li><a>Stone Remnant</a>charge replenish time reduced from 30 to 25</li><li>Level 20 Talent changed from +150 Gold/Min to +3.5s<a>Geomagnetic Grip</a>Silence</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/2b/Earth_Spirit_Large.png/80px-Earth_Spirit_Large.png"
+  },
+  {
+    "id": "7.24_hero_Enigma",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Enigma",
+    "descriptionHtml": "<ul><li><a>Malefice</a>damage increased from 30/50/70/90 to 30/55/80/105</li><li>Level 15 Talent changed from +150 Gold/Min to +40 Malefice Instance Damage</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/43/Enigma_Large.png/80px-Enigma_Large.png"
+  },
+  {
+    "id": "7.24_hero_Grimstroke",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Grimstroke",
+    "descriptionHtml": "<ul><li>Base<a><img></img></a><a><font><b>Intelligence</b></font></a>increased by 2</li><li>Level 10 Talent changed from +90 Gold/Min to +100<a>Ink Swell</a>Max Damage</li><li>Level 15 Talent increased from +125 Cast Range to +175</li><li>Level 15 Talent increased from +12% Spell Amplification to +15%</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Grimstroke_Large.png/80px-Grimstroke_Large.png"
+  },
+  {
+    "id": "7.24_hero_Io",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Io",
+    "descriptionHtml": "<ul><li><a>Overcharge</a>heal reduced from 0.6/0.8/1/1.2% to 0.55/0.7/0.85/1%</li><li>Overcharge cooldown increased from 16 to 22/20/18/16</li><li>Level 15 Talent changed from +120 Gold/Min to +400<a>Spirits</a>Max Distance</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/ad/Io_Large.png/80px-Io_Large.png"
+  },
+  {
+    "id": "7.24_hero_Jakiro",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Jakiro",
+    "descriptionHtml": "<ul><li><a>Dual Breath</a>now does its first damage instance immediately</li><li>Level 20 Talent changed from +150 Gold/Min to +400 Dual Breath Range</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4d/Jakiro_Large.png/80px-Jakiro_Large.png"
+  },
+  {
+    "id": "7.24_hero_Juggernaut",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Juggernaut",
+    "descriptionHtml": "<ul><li>Base damage increased by 4</li><li>Base movement speed increased by 5</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c8/Juggernaut_Large.png/80px-Juggernaut_Large.png"
+  },
+  {
+    "id": "7.24_hero_Lich",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Lich",
+    "descriptionHtml": "<ul><li>Base damage reduced by 2</li><li><a>Frost Blast</a>manacost increased from 105/130/155/180 to 115/140/165/190</li><li><a>Sinister Gaze</a>duration reduced from 1.6/1.9/2.2/2.5 to 1.4/1.7/2.0/2.3</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/35/Lich_Large.png/80px-Lich_Large.png"
+  },
+  {
+    "id": "7.24_hero_Lion",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Lion",
+    "descriptionHtml": "<ul><li>Level 15 Talent changed from +150 Gold/Min to +60<a>Mana Drain</a></li></ul>",
+    "imageSrc": "/commons/images/thumb/8/8d/Lion_Large.png/80px-Lion_Large.png"
+  },
+  {
+    "id": "7.24_hero_Luna",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Luna",
+    "descriptionHtml": "<ul><li><a>Lunar Blessing</a>now affects base armor instead of total armor</li><li>Lunar Blessing increased from 10/15/20/25% to 15/20/25/30%</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e2/Luna_Large.png/80px-Luna_Large.png"
+  },
+  {
+    "id": "7.24_hero_Lycan",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Lycan",
+    "descriptionHtml": "<ul><li>Base<a><img></img></a><a><font><b>Intelligence</b></font></a>increased by 4</li><li><a>Shapeshift</a>transformation time from 1.5 to 1.25</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Lycan_Large.png/80px-Lycan_Large.png"
+  },
+  {
+    "id": "7.24_hero_Magnus",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Magnus",
+    "descriptionHtml": "<ul><li>Max damage reduced by 4</li><li><a>Empower</a>cleave reduced from 15/25/35/45 to 10/20/30/40</li><li>Level 10 Talent reduced from +25 Attack Speed to +20</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/67/Magnus_Large.png/80px-Magnus_Large.png"
+  },
+  {
+    "id": "7.24_hero_Mars",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Mars",
+    "descriptionHtml": "<ul><li><a><img></img></a><a><font><b>Strength</b></font></a>gain increased from 3.2 to 3.4</li><li><a>God&apos;s Rebuke</a>slow duration increased from 1.5 to 2</li><li>God&apos;s Rebuke hero attack damage increased from 25 to 35</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4e/Mars_Large.png/80px-Mars_Large.png"
+  },
+  {
+    "id": "7.24_hero_Medusa",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Medusa",
+    "descriptionHtml": "<ul><li><a><img></img></a><a><font><b>Intelligence</b></font></a>gain increased from 3.4 to 4.0</li><li><a>Stone Gaze</a>speed bonus increased from 35% to 50%</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/38/Medusa_Large.png/80px-Medusa_Large.png"
+  },
+  {
+    "id": "7.24_hero_Nyx-Assassin",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Nyx Assassin",
+    "descriptionHtml": "<ul><li><a>Vendetta</a>bonus damage changed from physical to pure damage</li><li>Vendetta damage reduced from 250/400/550 to 250/375/500</li><li>Level 10 Talent changed from +90 Gold/Min to +0.3s<a>Impale</a>Stun Duration</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c4/Nyx_Assassin_Large.png/80px-Nyx_Assassin_Large.png"
+  },
+  {
+    "id": "7.24_hero_Ogre-Magi",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Ogre Magi",
+    "descriptionHtml": "<ul><li>Level 10 Talent changed from +90 Gold/Min to +20<a>Ignite</a>DPS</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Ogre_Magi_Large.png/80px-Ogre_Magi_Large.png"
+  },
+  {
+    "id": "7.24_hero_Omniknight",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Omniknight",
+    "descriptionHtml": "<ul><li>Base armor reduced by 1</li><li><a><img></img></a><a><font><b>Strength</b></font></a>gain reduced from 3.6 to 3.4</li><li><a>Purification</a>cooldown increased from 17/15/13/11 to 18/16/14/12</li><li>Level 10 Talent changed from +90 Gold/Min to +10<a>Heavenly Grace</a>HP Regen</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Omniknight_Large.png/80px-Omniknight_Large.png"
+  },
+  {
+    "id": "7.24_hero_Oracle",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Oracle",
+    "descriptionHtml": "<ul><li>Level 15 Talent changed from +120 Gold/Min to -1s<a>Purifying Flames</a>Cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fc/Oracle_Large.png/80px-Oracle_Large.png"
+  },
+  {
+    "id": "7.24_hero_Pangolier",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Pangolier",
+    "descriptionHtml": "<ul><li><a>Shield Crash</a>casts in-place when rooted</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a3/Pangolier_Large.png/80px-Pangolier_Large.png"
+  },
+  {
+    "id": "7.24_hero_Phantom-Assassin",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Phantom Assassin",
+    "descriptionHtml": "<ul><li>Base damage increased by 3</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/2e/Phantom_Assassin_Large.png/80px-Phantom_Assassin_Large.png"
+  },
+  {
+    "id": "7.24_hero_Phantom-Lancer",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Phantom Lancer",
+    "descriptionHtml": "<ul><li>Level 15 Talent reduced from +275 Health to +250</li><li>Level 25 Talent reduced from -6s<a>Doppelganger</a>Cooldown to -5s</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/1e/Phantom_Lancer_Large.png/80px-Phantom_Lancer_Large.png"
+  },
+  {
+    "id": "7.24_hero_Phoenix",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Phoenix",
+    "descriptionHtml": "<ul><li>Attack range increased from 500 to 525</li><li>Base health regen increased by 0.5</li><li>Level 10 Talent changed from +90 Gold/Min to +18%<a>Icarus Dive</a>Slow</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Phoenix_Large.png/80px-Phoenix_Large.png"
+  },
+  {
+    "id": "7.24_hero_Puck",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Puck",
+    "descriptionHtml": "<ul><li>Base damage reduced by 3</li><li>Level 25 Talent changed from +420 Gold/Min to +425<a>Waning Rift</a>AoE and Range</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/3a/Puck_Large.png/80px-Puck_Large.png"
+  },
+  {
+    "id": "7.24_hero_Pudge",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Pudge",
+    "descriptionHtml": "<ul><li><a>Dismember</a>tick rate changed from every 1 to every 0.5 seconds (same total damage)</li><li>Level 20 Talent changed from +180 Gold/Min to +1s Dismember Duration</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dd/Pudge_Large.png/80px-Pudge_Large.png"
+  },
+  {
+    "id": "7.24_hero_Pugna",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Pugna",
+    "descriptionHtml": "<ul><li>Base<a><img></img></a><a><font><b>Agility</b></font></a>increased by 8</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/24/Pugna_Large.png/80px-Pugna_Large.png"
+  },
+  {
+    "id": "7.24_hero_Queen-of-Pain",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Queen of Pain",
+    "descriptionHtml": "<ul><li><a><img></img></a><a><font><b>Intelligence</b></font></a>gain increased from 2.9 to 3.4</li><li><a>Sonic Wave</a>damage increased from 340/430/520 to 340/450/560</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/62/Queen_of_Pain_Large.png/80px-Queen_of_Pain_Large.png"
+  },
+  {
+    "id": "7.24_hero_Rubick",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Rubick",
+    "descriptionHtml": "<ul><li><a>Arcane Supremacy</a>debuff amplification reduced from 20/28/36/44% to 16/24/32/40%</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/57/Rubick_Large.png/80px-Rubick_Large.png"
+  },
+  {
+    "id": "7.24_hero_Shadow-Demon",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Shadow Demon",
+    "descriptionHtml": "<ul><li><a>Demonic Purge</a>damage increased from 200/300/400 to 250/350/450</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/79/Shadow_Demon_Large.png/80px-Shadow_Demon_Large.png"
+  },
+  {
+    "id": "7.24_hero_Silencer",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Silencer",
+    "descriptionHtml": "<ul><li>Level 15 Talent changed from +120 Gold/Min to +12%<a>Arcane Curse</a>Slow</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/98/Silencer_Large.png/80px-Silencer_Large.png"
+  },
+  {
+    "id": "7.24_hero_Skywrath-Mage",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Skywrath Mage",
+    "descriptionHtml": "<ul><li>Level 25 Talent changed from +300 Gold/Min to<a>Arcane Bolt</a>Pierces Spell Immunity</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Skywrath_Mage_Large.png/80px-Skywrath_Mage_Large.png"
+  },
+  {
+    "id": "7.24_hero_Slardar",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Slardar",
+    "descriptionHtml": "<ul><li>Base movement speed increased by 10</li><li><a>Bash of the Deep</a>damage rescaled from 75/125/175/225 to 60/115/170/225</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/41/Slardar_Large.png/80px-Slardar_Large.png"
+  },
+  {
+    "id": "7.24_hero_Slark",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Slark",
+    "descriptionHtml": "<ul><li><a>Pounce</a>scepter replenish time increased from 20/16/12/8 to 10</li><li>Pounce scepter range reduced from 1400 to 1200</li><li>Level 15 Talent reduced from +30 Attack Speed to +25</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Slark_Large.png/80px-Slark_Large.png"
+  },
+  {
+    "id": "7.24_hero_Snapfire",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Snapfire",
+    "descriptionHtml": "<ul><li>Added to Captain&apos;s Mode</li><li>Base damage reduced by 4</li><li>Fixed<a>Firesnap Cookie</a>moving units affected by<a>Kinetic Field</a>,<a>Black Hole</a>, and<a>Chronosphere</a></li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a4/Snapfire_Large.png/80px-Snapfire_Large.png"
+  },
+  {
+    "id": "7.24_hero_Spectre",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Spectre",
+    "descriptionHtml": "<ul><li>Base health regen increased from 0 to 1.5</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0a/Spectre_Large.png/80px-Spectre_Large.png"
+  },
+  {
+    "id": "7.24_hero_Spirit-Breaker",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Spirit Breaker",
+    "descriptionHtml": "<ul><li><a>Bulldoze</a>cooldown reduced from 22 to 22/20/18/16</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f6/Spirit_Breaker_Large.png/80px-Spirit_Breaker_Large.png"
+  },
+  {
+    "id": "7.24_hero_Sven",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Sven",
+    "descriptionHtml": "<ul><li><a>Storm Hammer</a>damage increased from 80/160/240/320 to 110/180/250/320</li><li><a>Warcry</a>self movement bonus increased from 6/10/14/18% to 10/14/18/22%</li><li>Warcry cooldown reduced from 36/32/28/24 to 32/28/24/20</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f2/Sven_Large.png/80px-Sven_Large.png"
+  },
+  {
+    "id": "7.24_hero_Techies",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Techies",
+    "descriptionHtml": "<ul><li><a>Blast Off</a>self damage changed from Pure to Magical</li><li>Level 20 Talent changed from +150 Gold/Min to -28s Blast Off Cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a7/Techies_Large.png/80px-Techies_Large.png"
+  },
+  {
+    "id": "7.24_hero_Terrorblade",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Terrorblade",
+    "descriptionHtml": "<ul><li>Movement speed increased from 310 to 315</li><li><a>Reflection</a>slow increased from 20% to 25%</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b5/Terrorblade_Large.png/80px-Terrorblade_Large.png"
+  },
+  {
+    "id": "7.24_hero_Tidehunter",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Tidehunter",
+    "descriptionHtml": "<ul><li>Base<a><img></img></a><a><font><b>Intelligence</b></font></a>increased by 2</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/de/Tidehunter_Large.png/80px-Tidehunter_Large.png"
+  },
+  {
+    "id": "7.24_hero_Tinker",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Tinker",
+    "descriptionHtml": "<ul><li>Level 15 Talent changed from +150 Gold/Min to +2s<a>March of the Machines</a>Duration</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c0/Tinker_Large.png/80px-Tinker_Large.png"
+  },
+  {
+    "id": "7.24_hero_Tiny",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Tiny",
+    "descriptionHtml": "<ul><li><a>Avalanche</a>duration reduced from 1.8 to 1.4 seconds</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Tiny_Large.png/80px-Tiny_Large.png"
+  },
+  {
+    "id": "7.24_hero_Treant-Protector",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Treant Protector",
+    "descriptionHtml": "<ul><li><a><img></img></a><a><font><b>Strength</b></font></a>gain reduced from 3.5 to 3.4</li><li><a>Nature&apos;s Grasp</a>manacost increased from 60/70/80/90 to 75/80/85/90</li><li><a>Living Armor</a>reduced from 4/6/8/10 to 5/6/7/8</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7a/Treant_Protector_Large.png/80px-Treant_Protector_Large.png"
+  },
+  {
+    "id": "7.24_hero_Troll-Warlord",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Troll Warlord",
+    "descriptionHtml": "<ul><li>Min base damage increased by 4</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Troll_Warlord_Large.png/80px-Troll_Warlord_Large.png"
+  },
+  {
+    "id": "7.24_hero_Tusk",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Tusk",
+    "descriptionHtml": "<ul><li>Base health regen increased from 0.5 to 1</li><li>Level 10 Talent changed from +90 Gold/Min to +0.5s<a>Walrus Punch</a>Stun Duration</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Tusk_Large.png/80px-Tusk_Large.png"
+  },
+  {
+    "id": "7.24_hero_Underlord",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Underlord",
+    "descriptionHtml": "<ul><li>Level 15 Talent reduced from +7<a>Atrophy</a>Permanent Damage to +6</li><li>Level 15 Talent increased from +150 Cast Range to +200</li><li>Level 20 Talent reduced from +70 Attack Speed to +60</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/9e/Underlord_Large.png/80px-Underlord_Large.png"
+  },
+  {
+    "id": "7.24_hero_Undying",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Undying",
+    "descriptionHtml": "<ul><li>Fixed<a>Helm of the Dominator</a>not working on<a>Zombies</a></li><li>Level 15 Zombie damage talent is now base damage</li><li><a>Tombstone</a><a>Deathlust</a>health thresholds is now always 40%</li><li>Tombstone Deathlust movement speed bonus from 50% to 35/40/45/50%</li><li>Tombstone Deathlust attack speed values from 75 to 50/60/70/80</li><li><a>Flesh Golem</a>debuff duration increased from 5 to 6</li><li>Flesh Golem duration increased from 30 to 40</li><li>Flesh Golem now grants +30 Movement Speed</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6b/Undying_Large.png/80px-Undying_Large.png"
+  },
+  {
+    "id": "7.24_hero_Venomancer",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Venomancer",
+    "descriptionHtml": "<ul><li>Level 10 Talent changed from +90 Gold/Min to +15s<a>Plague Wards</a>Duration</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/39/Venomancer_Large.png/80px-Venomancer_Large.png"
+  },
+  {
+    "id": "7.24_hero_Visage",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Visage",
+    "descriptionHtml": "<ul><li><a>Soul Assumption</a>gather damage threshold reduced from 110 to 100</li><li>Soul Assumption manacost from 170/160/150/140 to 150</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f8/Visage_Large.png/80px-Visage_Large.png"
+  },
+  {
+    "id": "7.24_hero_Void-Spirit",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Void Spirit",
+    "descriptionHtml": "<ul><li>Added to Captain&apos;s Mode</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/16/Void_Spirit_Large.png/80px-Void_Spirit_Large.png"
+  },
+  {
+    "id": "7.24_hero_Warlock",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Warlock",
+    "descriptionHtml": "<ul><li><a>Shadow Word</a>cooldown reduced from 16 to 14</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b9/Warlock_Large.png/80px-Warlock_Large.png"
+  },
+  {
+    "id": "7.24_hero_Weaver",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Weaver",
+    "descriptionHtml": "<ul><li><a>The Swarm</a>attack rate improved from 1.25/1.1/0.95/0.8 to 1.15/1.0/0.85/0.7</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/59/Weaver_Large.png/80px-Weaver_Large.png"
+  },
+  {
+    "id": "7.24_hero_Winter-Wyvern",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Winter Wyvern",
+    "descriptionHtml": "<ul><li>Base<a><img></img></a><a><font><b>Strength</b></font></a>reduced from 26 to 24</li><li><a>Cold Embrace</a>percentage heal reduced from 3/4/5/6% to 2/3/4/5%</li><li>Cold Embrace base heal increased from 14/18/22/26 to 20/26/32/38</li><li>Level 10 Talent changed from +90 Gold/Min to +1% Cold Embrace Heal</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c7/Winter_Wyvern_Large.png/80px-Winter_Wyvern_Large.png"
+  },
+  {
+    "id": "7.24_hero_Witch-Doctor",
+    "version": "7.24",
+    "category": "hero",
+    "label": "Witch Doctor",
+    "descriptionHtml": "<ul><li>Base armor increased by 1</li><li>Level 15 Talent changed from +120 Gold/Min to +100<a>Maledict</a>AoE</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b0/Witch_Doctor_Large.png/80px-Witch_Doctor_Large.png"
+  }
+]

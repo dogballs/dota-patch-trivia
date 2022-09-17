@@ -1,0 +1,929 @@
+[
+  {
+    "id": "7.22_general_General-updates",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added new<a>Aghanim&apos;s Scepter</a>upgrades for all of the 24 remaining heroes without an upgrade</li><li>Updated various older Scepter upgrades</li><li>Scepter can now be consumed as a buff by purchasing a 2000 gold recipe upgrade<ul><li>Scepter buffs do not grant secondary stat bonuses</li></ul></li><li>Added a new visual effect under heroes that have a Scepter upgrade</li></ul>"
+  },
+  {
+    "id": "7.22_item_Bloodstone",
+    "version": "7.22",
+    "category": "item",
+    "label": "Bloodstone",
+    "descriptionHtml": "<ul><li>Fixed multiple Bloodstones stacking the mana regen amplification effect</li></ul>",
+    "imageSrc": "/commons/images/0/00/Bloodstone.png"
+  },
+  {
+    "id": "7.22_item_Drum-of-Endurance",
+    "version": "7.22",
+    "category": "item",
+    "label": "Drum of Endurance",
+    "descriptionHtml": "<ul><li>Mana regen reduced from 1.5 to 1.25</li></ul>",
+    "imageSrc": "/commons/images/a/a9/Drum_of_Endurance.png"
+  },
+  {
+    "id": "7.22_item_Eye-of-Skadi",
+    "version": "7.22",
+    "category": "item",
+    "label": "Eye of Skadi",
+    "descriptionHtml": "<ul><li>Slow duration changed from 5/2.5 for melee/range attackers to 3 seconds</li><li>Slow amount reduced from 35% to 20% when used against melee heroes</li><li>Slow amount increased from 35% to 45% when used against ranged heroes</li><li>Attack speed slow now matches the movement slow values above</li></ul>",
+    "imageSrc": "/commons/images/6/64/Eye_of_Skadi.png"
+  },
+  {
+    "id": "7.22_item_Guardian-Greaves",
+    "version": "7.22",
+    "category": "item",
+    "label": "Guardian Greaves",
+    "descriptionHtml": "<ul><li>HP regen aura reduced from 4.5 to 3.5</li><li>Threshold bonus armor reduced from 15 to 10</li></ul>",
+    "imageSrc": "/commons/images/5/57/Guardian_Greaves.png"
+  },
+  {
+    "id": "7.22_item_Helm-of-The-Dominator",
+    "version": "7.22",
+    "category": "item",
+    "label": "Helm of The Dominator",
+    "descriptionHtml": "<ul><li>Now has a 300 gold recipe</li></ul>",
+    "imageSrc": "/commons/images/6/61/Helm_of_the_Dominator.png"
+  },
+  {
+    "id": "7.22_item_Mask-of-Madness",
+    "version": "7.22",
+    "category": "item",
+    "label": "Mask of Madness",
+    "descriptionHtml": "<ul><li>Movement speed bonus increased from 25 to 30</li></ul>",
+    "imageSrc": "/commons/images/3/3e/Mask_of_Madness.png"
+  },
+  {
+    "id": "7.22_item_Mekansm",
+    "version": "7.22",
+    "category": "item",
+    "label": "Mekansm",
+    "descriptionHtml": "<ul><li>HP regen aura reduced from 4.5 to 3.5</li></ul>",
+    "imageSrc": "/commons/images/b/b8/Mekansm.png"
+  },
+  {
+    "id": "7.22_item_Observer-Ward",
+    "version": "7.22",
+    "category": "item",
+    "label": "Observer Ward",
+    "descriptionHtml": "<ul><li>Cost decreased from 75 to 50</li><li>Gold bounty increased from 100 + 2/min to 100 + 4/min</li><li>XP bounty increased from 50 + 4/min to 50 + 6/min</li></ul>",
+    "imageSrc": "/commons/images/6/69/Observer_Ward.png"
+  },
+  {
+    "id": "7.22_item_Pipe-of-Insight",
+    "version": "7.22",
+    "category": "item",
+    "label": "Pipe of Insight",
+    "descriptionHtml": "<ul><li>HP regen aura reduced from 3 to 2</li></ul>",
+    "imageSrc": "/commons/images/1/1e/Pipe_of_Insight.png"
+  },
+  {
+    "id": "7.22_item_Rod-of-Atos",
+    "version": "7.22",
+    "category": "item",
+    "label": "Rod of Atos",
+    "descriptionHtml": "<ul><li>Strength and agility reduced from 12 to 10</li></ul>",
+    "imageSrc": "/commons/images/5/55/Rod_of_Atos.png"
+  },
+  {
+    "id": "7.22_item_Sentry-Ward",
+    "version": "7.22",
+    "category": "item",
+    "label": "Sentry Ward",
+    "descriptionHtml": "<ul><li>Cost decreased from 100 to 75</li><li>Now have a stock limit (max limit of 10, starting capacity of 4, replenish rate of 70 seconds)</li></ul>",
+    "imageSrc": "/commons/images/5/53/Sentry_Ward.png"
+  },
+  {
+    "id": "7.22_item_Spirit-Vessel",
+    "version": "7.22",
+    "category": "item",
+    "label": "Spirit Vessel",
+    "descriptionHtml": "<ul><li>Heal reduction reduced from 70% to 60%</li><li>Current health as damage per second reduced from 5% to 4%</li></ul>",
+    "imageSrc": "/commons/images/9/92/Spirit_Vessel.png"
+  },
+  {
+    "id": "7.22_item_Tome-of-Knowledge",
+    "version": "7.22",
+    "category": "item",
+    "label": "Tome of Knowledge",
+    "descriptionHtml": "<ul><li>The initial 10 minute stock now provides 2 tomes</li><li>Now has a 5 minute use cooldown</li></ul>",
+    "imageSrc": "/commons/images/4/4c/Tome_of_Knowledge.png"
+  },
+  {
+    "id": "7.22_item_Vladmir's-Offering",
+    "version": "7.22",
+    "category": "item",
+    "label": "Vladmir's Offering",
+    "descriptionHtml": "<ul><li>Mana regen reduced from 1.75 to 1.5</li></ul>",
+    "imageSrc": "/commons/images/f/f5/Vladmirs_Offering.png"
+  },
+  {
+    "id": "7.22_item_Wraith-Band",
+    "version": "7.22",
+    "category": "item",
+    "label": "Wraith Band",
+    "descriptionHtml": "<ul><li>Attack speed bonus reduced from 6 to 5</li></ul>",
+    "imageSrc": "/commons/images/6/62/Wraith_Band.png"
+  },
+  {
+    "id": "7.22_hero_Abaddon",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Abaddon",
+    "descriptionHtml": "<ul><li>Base attack speed increased from 100 to 115</li><li>Reworked Scepter upgrade<ul><li>While<a>Borrowed Time</a>is active, anytime an ally takes more than 525 damage while within 1600 range of Abaddon, an individual<a>Mist Coil</a>will automatically fire towards that ally</li><li>(Scepter still increases duration by 1)</li></ul></li><li>Mist Coil cast range reduced from 800 to 500</li><li>Level 15 Talent reduced from +75 Mist Coil Heal/Damage to +60</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Abaddon_Large.png/80px-Abaddon_Large.png"
+  },
+  {
+    "id": "7.22_hero_Alchemist",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Alchemist",
+    "descriptionHtml": "<ul><li>Added Scepter upgrade<ul><li>With Scepter equipped or<a>synthesized</a>, you gain a bonus +30 Damage and +6% Spell Amp for each Scepter that you gave allies at any point in the game</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/1/11/Alchemist_Large.png/80px-Alchemist_Large.png"
+  },
+  {
+    "id": "7.22_hero_Ancient-Apparition",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Ancient Apparition",
+    "descriptionHtml": "<ul><li><a>Ice Vortex</a>mana cost reduced from 50/70/90/110 to 40/60/80/100</li><li><a>Ice Blast</a>can no longer been seen on the minimap by enemies if they have true sight</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5d/Ancient_Apparition_Large.png/80px-Ancient_Apparition_Large.png"
+  },
+  {
+    "id": "7.22_hero_Anti-Mage",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Anti-Mage",
+    "descriptionHtml": "<ul><li>Added Scepter upgrade<ul><li><a>Mana Void</a>kills now add +70 seconds to the highest cooldown ability on the enemy hero</li><li>Cooldown starts once the enemy respawns</li><li>Increases the stun duration by 1 second, if the target dies during this period it is still counted as a Mana Void kill</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/7/70/Anti-Mage_Large.png/80px-Anti-Mage_Large.png"
+  },
+  {
+    "id": "7.22_hero_Arc-Warden",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Arc Warden",
+    "descriptionHtml": "<ul><li>Turn rate improved from 0.6 to 0.7</li><li>Fixed<a>Tempest Double</a>being unable to activate runes</li><li>Added Scepter upgrade<ul><li>Grants a new ability,<a>Rune Forge</a></li><li>Creates a random<a>Rune</a>in front of you</li><li>Cooldown: 60</li><li>Mana Cost: 100</li><li>The selection of Runes include Bounty Runes and Powerup Runes</li></ul></li><li>Level 10 Talent increased from +30 Attack Speed to +35</li><li>Level 20 Talent increased from -1.5 Spark Wraith Cooldown to -2</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Arc_Warden_Large.png/80px-Arc_Warden_Large.png"
+  },
+  {
+    "id": "7.22_hero_Axe",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Axe",
+    "descriptionHtml": "<ul><li>Base damage increased by 3</li><li>Base armor increased by 1</li><li>Reworked Scepter upgrade<ul><li>Now causes<a>Battle Hunger</a>to be a 400 AoE target ability</li><li>(Debuff still reduces enemy damage by 30%)</li></ul></li><li>Battle Hunger gives half speed when used on creeps</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a1/Axe_Large.png/80px-Axe_Large.png"
+  },
+  {
+    "id": "7.22_hero_Bane",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Bane",
+    "descriptionHtml": "<ul><li><a>Brain Sap</a>Scepter now also reduces cast point by 50%</li><li>Level 20 Talent increased from +100 Enfeeble Attack Speed Reduction to +125</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/72/Bane_Large.png/80px-Bane_Large.png"
+  },
+  {
+    "id": "7.22_hero_Batrider",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Batrider",
+    "descriptionHtml": "<ul><li><a>Firefly</a>cooldown from 34 to 40/38/36/34</li><li><a>Flaming Lasso</a>Scepter secondary search radius increased from 400 to 450</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c1/Batrider_Large.png/80px-Batrider_Large.png"
+  },
+  {
+    "id": "7.22_hero_Beastmaster",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Beastmaster",
+    "descriptionHtml": "<ul><li>Reworked Scepter upgrade<ul><li><a>Wild Axes</a>have no cooldown and can be used again once they have returned to Beastmaster</li></ul></li><li>Level 15 Talent changed from +65 Wild Axes Damage to 40 Boar Attack Damage</li><li>Level 20 Talent changed from +50 Boar Attack Damage to +75 Wild Axes Damage</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/19/Beastmaster_Large.png/80px-Beastmaster_Large.png"
+  },
+  {
+    "id": "7.22_hero_Bloodseeker",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Bloodseeker",
+    "descriptionHtml": "<ul><li>Agility gain reduced from 3.5 to 3.1</li><li><a>Blood Rite</a>mana cost reduced from 100 to 70/80/90/100</li><li><a>Rupture</a>is now lethal again<ul><li>Deals 30/45/60% of distance moved as damage</li><li>Has 8/10/12 second duration</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a6/Bloodseeker_Large.png/80px-Bloodseeker_Large.png"
+  },
+  {
+    "id": "7.22_hero_Bounty-Hunter",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Bounty Hunter",
+    "descriptionHtml": "<ul><li><a>Jinada</a>damage reduced from 80/110/140/170 to 70/100/130/160</li><li><a>Shuriken Toss</a>Scepter now also increases cast range from 400 to 800</li><li>Level 20 Talent increased from +75 Shuriken Toss Damage to +125</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/86/Bounty_Hunter_Large.png/80px-Bounty_Hunter_Large.png"
+  },
+  {
+    "id": "7.22_hero_Brewmaster",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Brewmaster",
+    "descriptionHtml": "<ul><li><a>Thunder Clap</a>damage reduced from 100/175/250/300 to 90/160/230/300</li><li><a>Primal Split</a>Scepter now also grants<a>Brewlings</a>+100 movement speed</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0b/Brewmaster_Large.png/80px-Brewmaster_Large.png"
+  },
+  {
+    "id": "7.22_hero_Bristleback",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Bristleback",
+    "descriptionHtml": "<ul><li>Base armor increased by 1</li><li><a>Warpath</a>damage per stack increased from 18/24/30 to 22/28/34</li><li><a>Viscous Nasal Goo</a>Scepter AoE increased from 750 to 825</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f9/Bristleback_Large.png/80px-Bristleback_Large.png"
+  },
+  {
+    "id": "7.22_hero_Broodmother",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Broodmother",
+    "descriptionHtml": "<ul><li>Base attack speed increased from 100 to 125</li><li>Added Scepter upgrade<ul><li>Increases<a>Spin Web</a>max count from 8 to 20, movement speed bonus from 70% to 100%, and removes movement speed limit</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0c/Broodmother_Large.png/80px-Broodmother_Large.png"
+  },
+  {
+    "id": "7.22_hero_Centaur-Warrunner",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Centaur Warrunner",
+    "descriptionHtml": "<ul><li>Base armor increased by 1</li><li>Level 20 Talent increased from +70 Retaliate Damage to +80</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Centaur_Warrunner_Large.png/80px-Centaur_Warrunner_Large.png"
+  },
+  {
+    "id": "7.22_hero_Chaos-Knight",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Chaos Knight",
+    "descriptionHtml": "<ul><li>Strength gain reduced from 3.7 to 3.4</li><li><a>Chaos Bolt</a>minimum damage increased from 60/90/120/150 to 90/110/130/150</li><li>Chaos Bolt maximum damage increased from 180/210/240/270 to 180/220/260/300</li><li>Chaos Bolt minimum stun changed from 1/1/1/2 to 1.25/1.5/1.75/2</li><li>Chaos Bolt maximum stun changed from 2/3/4/4 to 2.2/2.8/3.4/4</li><li>Chaos Bolt cooldown increased from 10 to 13/12/11/10</li><li><a>Phantasm</a>Scepter now also reduces incoming illusion damage from 260% to 180%</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/46/Chaos_Knight_Large.png/80px-Chaos_Knight_Large.png"
+  },
+  {
+    "id": "7.22_hero_Chen",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Chen",
+    "descriptionHtml": "<ul><li><a>Holy Persuasion</a>provides +10/15/20/25 bonus movement speed to converted creeps</li><li><a>Divine Favor</a>is now a passive aura<ul><li>Provides 1/2/3/4 HP regen, 8/12/16/20% Heal Amplification, and 4/8/12/16 bonus damage for heroes (Creeps get 2× damage values)</li></ul></li><li>Level 15 Talent changed from -7 Divine Favor Cooldown to +10 Divine Favor Damage</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7d/Chen_Large.png/80px-Chen_Large.png"
+  },
+  {
+    "id": "7.22_hero_Clinkz",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Clinkz",
+    "descriptionHtml": "<ul><li>Now has 0.25 base mana regen</li><li>Added Scepter upgrade<ul><li>Creates two skeletons near Clinkz when exiting<a>Wind Walk</a></li><li>Increases Wind Walk speed by +30% and unlocks max movement speed</li></ul></li><li><a>Burning Army</a>base attack time changed from 1.75/1.6/1.45 to 1.6</li><li>Burning Army units damage from 100% of your base damage to 80/100/120%</li><li>Level 15 Talent reduced from +30 Searing Arrows Damage to +20</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4d/Clinkz_Large.png/80px-Clinkz_Large.png"
+  },
+  {
+    "id": "7.22_hero_Clockwerk",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Clockwerk",
+    "descriptionHtml": "<ul><li>Base armor increased by 1</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b8/Clockwerk_Large.png/80px-Clockwerk_Large.png"
+  },
+  {
+    "id": "7.22_hero_Crystal-Maiden",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Crystal Maiden",
+    "descriptionHtml": "<ul><li>Attack point improved from 0.55 to 0.45</li><li>Base attack speed increased from 100 to 115</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dc/Crystal_Maiden_Large.png/80px-Crystal_Maiden_Large.png"
+  },
+  {
+    "id": "7.22_hero_Dark-Seer",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Dark Seer",
+    "descriptionHtml": "<ul><li>Strength reduced from 24 to 21</li><li>Level 20 Talent changed from 400 AoE Surge to +100 Ion Shell Damage</li><li>Level 20 Talent changed from +15% Cooldown Reduction to +10 Armor</li><li>Level 25 Talent changed from +150 Ion Shell Damage to 400 AoE Surge</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6f/Dark_Seer_Large.png/80px-Dark_Seer_Large.png"
+  },
+  {
+    "id": "7.22_hero_Dark-Willow",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Dark Willow",
+    "descriptionHtml": "<ul><li>Added Scepter upgrade<ul><li>Attacking no longer takes you out of<a>Shadow Realm</a></li><li>Each attack still has bonus damage based on the duration of the buff</li></ul></li><li>Level 15 Talent increased from +90 Gold/Min to +120</li><li>Level 20 Talent changed from +300 Shadow Realm Max Damage to -12s Bramble Maze Cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5e/Dark_Willow_Large.png/80px-Dark_Willow_Large.png"
+  },
+  {
+    "id": "7.22_hero_Dazzle",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Dazzle",
+    "descriptionHtml": "<ul><li><a>Shallow Grave</a>Scepter radius increased from 450 to 500</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e3/Dazzle_Large.png/80px-Dazzle_Large.png"
+  },
+  {
+    "id": "7.22_hero_Death-Prophet",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Death Prophet",
+    "descriptionHtml": "<ul><li>Added Scepter upgrade<ul><li>Anytime an enemy is effected by your spells (carrion swarm impact, silence debuff, spirit siphon target) or when you attack an enemy, a ghost will fly out and hit the enemy for double the usual damage then return to you with life</li><li>These ghosts apply a 100% slow for 0.3 seconds</li></ul></li><li><a>Crypt Swarm</a>cast point reduced from 0.5 to 0.4</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/80/Death_Prophet_Large.png/80px-Death_Prophet_Large.png"
+  },
+  {
+    "id": "7.22_hero_Disruptor",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Disruptor",
+    "descriptionHtml": "<ul><li>Level 15 Talent increased from -3 Kinetic Field Cooldown to -4</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b7/Disruptor_Large.png/80px-Disruptor_Large.png"
+  },
+  {
+    "id": "7.22_hero_Doom",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Doom",
+    "descriptionHtml": "<ul><li><a>Devour</a>now has a creep level limit of 3/4/5/6</li><li>Level 25 Talent increased from +130% Cleave to +175%</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/19/Doom_Large.png/80px-Doom_Large.png"
+  },
+  {
+    "id": "7.22_hero_Dragon-Knight",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Dragon Knight",
+    "descriptionHtml": "<ul><li>Added Scepter upgrade<ul><li>Adds a 4th level to<a>Elder Dragon Form</a>, a Black Dragon</li><li>Gaining Scepter increases the level of your ultimate by one</li><li>Black Dragon has 50% more Corrosive Damage,<a>Splash</a>Damage, and Slow amount</li><li>It also increases your attack range to 600 and grants you +30% Magic Resistance</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/d/da/Dragon_Knight_Large.png/80px-Dragon_Knight_Large.png"
+  },
+  {
+    "id": "7.22_hero_Drow-Ranger",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Drow Ranger",
+    "descriptionHtml": "<ul><li><a>Marksmanship</a>no longer instantly kills Ancients (still does damage/pierces)</li><li>Marksmanship now only pierces base armor not total armor</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7e/Drow_Ranger_Large.png/80px-Drow_Ranger_Large.png"
+  },
+  {
+    "id": "7.22_hero_Elder-Titan",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Elder Titan",
+    "descriptionHtml": "<ul><li>Reworked Scepter upgrade<ul><li><a>Echo Stomp</a>now causes you to become Spell Immune while channeling and for 2 additional seconds per affected enemy hero</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/b/bc/Elder_Titan_Large.png/80px-Elder_Titan_Large.png"
+  },
+  {
+    "id": "7.22_hero_Ember-Spirit",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Ember Spirit",
+    "descriptionHtml": "<ul><li>Added Scepter upgrade<ul><li><a>Fire Remnant</a>cast range is 3 times longer and initial remnant movement speed is 2 times faster</li><li>Maximum number of charges increased from 3 to 5</li><li>Activate Fire Remnant costs no mana</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/9/98/Ember_Spirit_Large.png/80px-Ember_Spirit_Large.png"
+  },
+  {
+    "id": "7.22_hero_Faceless-Void",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Faceless Void",
+    "descriptionHtml": "<ul><li>Strength gain increased from 2.1 to 2.4</li><li>Level 10 Talent improved from +10 Strength to +12</li><li>Level 15 Talent improved from -1 Time Walk Cooldown to -1.5</li><li>Level 20 Talent improved from +40 Attack Speed to +45</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Faceless_Void_Large.png/80px-Faceless_Void_Large.png"
+  },
+  {
+    "id": "7.22_hero_Grimstroke",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Grimstroke",
+    "descriptionHtml": "<ul><li>Added Scepter upgrade<ul><li>Grants you a new ability,<a>Dark Portrait</a></li><li>Creates an ink illusion of a target enemy hero</li><li>Illusion lasts 20 seconds and is magic immune with +30% movement speed</li><li>Takes 200% incoming damage and deals 150% outgoing damage</li><li>Cooldown: 35</li><li>Mana Cost: 200</li></ul></li><li><a>Ink Swell</a>is now castable on allied Spell Immune units</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Grimstroke_Large.png/80px-Grimstroke_Large.png"
+  },
+  {
+    "id": "7.22_hero_Gyrocopter",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Gyrocopter",
+    "descriptionHtml": "<ul><li>Base attack speed increased from 100 to 125</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e1/Gyrocopter_Large.png/80px-Gyrocopter_Large.png"
+  },
+  {
+    "id": "7.22_hero_Huskar",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Huskar",
+    "descriptionHtml": "<ul><li>Base armor increased by 1</li><li><a>Berserker&apos;s Blood</a>regen increased from 20/40/60/80 to 25/45/65/85%</li><li><a>Inner Fire</a>cooldown reduced from 18/16/14/12 to 14/13/12/11</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f1/Huskar_Large.png/80px-Huskar_Large.png"
+  },
+  {
+    "id": "7.22_hero_Invoker",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Invoker",
+    "descriptionHtml": "<ul><li>Base damage increased by 3</li><li><a>Exort</a>attack damage per instance reduced from 3/7/11/15/19/23/27 to 2/6/10/14/18/22/26</li><li>Level 10 Talent increased from +30 Chaos Meteor Contact Damage to +40</li><li>Level 20 Talent increased from +35 Alacrity Damage/Speed to +45</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5b/Invoker_Large.png/80px-Invoker_Large.png"
+  },
+  {
+    "id": "7.22_hero_Io",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Io",
+    "descriptionHtml": "<ul><li>Added to Captains Mode</li><li>Added Scepter upgrade<ul><li><a>Spirits</a>now passively spawn around you constantly every second (max of 5 spirits at a given time)</li></ul></li><li><a>Tether</a>pull can now be interrupted if stunned during it (like<a>Timber Chain</a>)</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/ad/Io_Large.png/80px-Io_Large.png"
+  },
+  {
+    "id": "7.22_hero_Jakiro",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Jakiro",
+    "descriptionHtml": "<ul><li><a>Liquid Fire</a>ability effect still impacts the area when the target dies or the attack is evaded</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4d/Jakiro_Large.png/80px-Jakiro_Large.png"
+  },
+  {
+    "id": "7.22_hero_Keeper-of-the-Light",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Keeper of the Light",
+    "descriptionHtml": "<ul><li>Scepter now also causes<a>Illuminate</a>to not require channeling (still provides heal bonus)</li><li><a>Chakra Magic</a>can now be cast on enemies, placing a debuff that drains 4/4.5/5/5.5% of current mana per 100 units moved<ul><li>Lasts 5 seconds</li><li>(Old version was a percent of max mana, not current)</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/b/bc/Keeper_of_the_Light_Large.png/80px-Keeper_of_the_Light_Large.png"
+  },
+  {
+    "id": "7.22_hero_Legion-Commander",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Legion Commander",
+    "descriptionHtml": "<ul><li>Base armor increased by 1</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0a/Legion_Commander_Large.png/80px-Legion_Commander_Large.png"
+  },
+  {
+    "id": "7.22_hero_Lich",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Lich",
+    "descriptionHtml": "<ul><li>Now has 0.75 base mana regen</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/35/Lich_Large.png/80px-Lich_Large.png"
+  },
+  {
+    "id": "7.22_hero_Lina",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Lina",
+    "descriptionHtml": "<ul><li>Strength gain increased from 2 to 2.2</li><li>Turn rate improved from 0.5 to 0.6</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/46/Lina_Large.png/80px-Lina_Large.png"
+  },
+  {
+    "id": "7.22_hero_Lion",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Lion",
+    "descriptionHtml": "<ul><li><a>Finger of Death</a>damage per kill reduced from 50 to 40</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/8d/Lion_Large.png/80px-Lion_Large.png"
+  },
+  {
+    "id": "7.22_hero_Lone-Druid",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Lone Druid",
+    "descriptionHtml": "<ul><li>Strength gain increased from 2.4 to 2.7</li><li><a>True Form</a>health bonus increased from 300/600/900 to 300/700/1100</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e2/Lone_Druid_Large.png/80px-Lone_Druid_Large.png"
+  },
+  {
+    "id": "7.22_hero_Luna",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Luna",
+    "descriptionHtml": "<ul><li>Base damage increased by 4</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e2/Luna_Large.png/80px-Luna_Large.png"
+  },
+  {
+    "id": "7.22_hero_Lycan",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Lycan",
+    "descriptionHtml": "<ul><li>Added Scepter upgrade<ul><li>Causes one of the three creep waves to include two<a>wolves</a></li><li>You cannot control the wolves, but they are considered your units</li><li>These wolves have the same movement speed as lane creeps</li></ul></li><li>Level 15 Talent increased from +8 Feral HP Regen to +10</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Lycan_Large.png/80px-Lycan_Large.png"
+  },
+  {
+    "id": "7.22_hero_Magnus",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Magnus",
+    "descriptionHtml": "<ul><li>Starting strength increased by 2</li><li><a>Shockwave</a>Scepter max range increased from 1725 to 2000</li><li>Shockwave Scepter speed increased from 1200 to 1500</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/67/Magnus_Large.png/80px-Magnus_Large.png"
+  },
+  {
+    "id": "7.22_hero_Mars",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Mars",
+    "descriptionHtml": "<ul><li>Added to Captains Mode</li><li>Base damage reduced by 4</li><li>Base armor reduced by 1</li><li>Added Scepter upgrade<ul><li><a>God&apos;s Rebuke</a>cooldown is now 1.4 seconds during Arena of Blood</li><li>Resets God&apos;s Rebuke cooldown when Arena of Blood is cast</li></ul></li><li><a>Arena of Blood</a>damage rescaled from 150/200/250 to 120/185/250</li><li>Arena of Blood cast point increased from 0.1 to 0.2</li><li>Level 15 Talent reduced from +35 Damage to +30</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4e/Mars_Large.png/80px-Mars_Large.png"
+  },
+  {
+    "id": "7.22_hero_Medusa",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Medusa",
+    "descriptionHtml": "<ul><li>Agility gain reduced from 3.9 to 3.6</li><li>Level 15 Talent reduced from +30% Mystic Snake Mana Steal to +25%</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/38/Medusa_Large.png/80px-Medusa_Large.png"
+  },
+  {
+    "id": "7.22_hero_Meepo",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Meepo",
+    "descriptionHtml": "<ul><li>Base damage increased by 2</li><li>Level 10 Talent increased from +7 Strength to +10</li><li>Level 10 Talent increased from +10 Damage to +15</li><li>Level 15 Talent increased from +15% Evasion to +20%</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/97/Meepo_Large.png/80px-Meepo_Large.png"
+  },
+  {
+    "id": "7.22_hero_Mirana",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Mirana",
+    "descriptionHtml": "<ul><li>Attack point increased from 0.3 to 0.35</li><li>Base attack speed increased from 100 to 115</li><li><a>Starstorm</a>Scepter upgrade trigger rate improved from 10 seconds to 9</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/1f/Mirana_Large.png/80px-Mirana_Large.png"
+  },
+  {
+    "id": "7.22_hero_Monkey-King",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Monkey King",
+    "descriptionHtml": "<ul><li>Added Scepter upgrade<ul><li>Spawns a monkey soldier near you every 3.5 seconds</li><li>These soldiers last 12 seconds</li><li>Soldiers do not spawn if you are invisible or on trees</li><li>These soldiers can attack any target (however, they will not attack buildings if you are not within 500 range of them)</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4e/Monkey_King_Large.png/80px-Monkey_King_Large.png"
+  },
+  {
+    "id": "7.22_hero_Morphling",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Morphling",
+    "descriptionHtml": "<ul><li><a>Adaptive Strike</a>damage reduced from 100 to 70/80/90/100</li><li>Added Scepter upgrade<ul><li>While<a>Morphed</a>, you gain +35% cooldown reduction, +50% mana cost reduction and +600 cast range</li></ul></li><li>Morph no longer dispels your hero</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c7/Morphling_Large.png/80px-Morphling_Large.png"
+  },
+  {
+    "id": "7.22_hero_Nature's-Prophet",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Nature's Prophet",
+    "descriptionHtml": "<ul><li>Base damage reduced by 2</li><li><a>Nature&apos;s Call</a>attack damage reduced from 27/30/33/36 to 24/28/32/36</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/16/Natures_Prophet_Large.png/80px-Natures_Prophet_Large.png"
+  },
+  {
+    "id": "7.22_hero_Necrophos",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Necrophos",
+    "descriptionHtml": "<ul><li><a>Reaper&apos;s Scythe</a>respawn time reduced from 15/30/45 to 15/25/35</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0e/Necrophos_Large.png/80px-Necrophos_Large.png"
+  },
+  {
+    "id": "7.22_hero_Night-Stalker",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Night Stalker",
+    "descriptionHtml": "<ul><li>Added Scepter upgrade<ul><li><a>Void</a>is now applied in a 900 AoE around you</li><li>Increases the Void ministun duration from 0.1 to 0.6</li><li>Reduces cooldown by 2 seconds</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c4/Night_Stalker_Large.png/80px-Night_Stalker_Large.png"
+  },
+  {
+    "id": "7.22_hero_Nyx-Assassin",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Nyx Assassin",
+    "descriptionHtml": "<ul><li>Base strength reduced by 1</li><li><a>Vendetta</a>cooldown rescaled from 70/60/50 to 90/70/50</li><li>Level 15 Talent reduced from +30 Movement Speed to +25</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c4/Nyx_Assassin_Large.png/80px-Nyx_Assassin_Large.png"
+  },
+  {
+    "id": "7.22_hero_Ogre-Magi",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Ogre Magi",
+    "descriptionHtml": "<ul><li><a>Multicast</a>2× cast chance increased from 70% to 75%</li><li>Level 25 Talent increased from +275 Fireblast Damage to +300</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Ogre_Magi_Large.png/80px-Ogre_Magi_Large.png"
+  },
+  {
+    "id": "7.22_hero_Omniknight",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Omniknight",
+    "descriptionHtml": "<ul><li><a>Guardian Angel</a>Scepter now also provides +40 HP/sec regen (affects buildings still)</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Omniknight_Large.png/80px-Omniknight_Large.png"
+  },
+  {
+    "id": "7.22_hero_Oracle",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Oracle",
+    "descriptionHtml": "<ul><li>Base attack time increased from 1.4 to 1.7</li><li>Level 20 Talent reduced from +50 Movement Speed to +45</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fc/Oracle_Large.png/80px-Oracle_Large.png"
+  },
+  {
+    "id": "7.22_hero_Outworld-Devourer",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Outworld Devourer",
+    "descriptionHtml": "<ul><li><a>Equilibrium</a>now passively provides 11/18/25/32% Mana Steal (all damage not just spells)<ul><li>When Activated, triples the Mana Steal and slows enemies hit by your spells</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Outworld_Destroyer_Large.png/80px-Outworld_Destroyer_Large.png"
+  },
+  {
+    "id": "7.22_hero_Pangolier",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Pangolier",
+    "descriptionHtml": "<ul><li>Added Scepter upgrade<ul><li><a>Shield Crash</a>now casts a 2-attack Swashbuckle every 90 degrees around your hero</li></ul></li><li><a>Lucky Shot</a>no longer has a chance to silence, now always disarms</li><li>Lucky Shot now reduces armor by 3/4/5/6</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a3/Pangolier_Large.png/80px-Pangolier_Large.png"
+  },
+  {
+    "id": "7.22_hero_Phantom-Assassin",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Phantom Assassin",
+    "descriptionHtml": "<ul><li>Added Scepter upgrade<ul><li><a>Blur</a>now has instant cast time and applies a dispel</li><li>Anytime you get a hero kill, your abilities are refreshed</li><li>Reduces Blur cooldown to 12 seconds</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/2/2e/Phantom_Assassin_Large.png/80px-Phantom_Assassin_Large.png"
+  },
+  {
+    "id": "7.22_hero_Phantom-Lancer",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Phantom Lancer",
+    "descriptionHtml": "<ul><li>Strength gain increased from 2 to 2.2</li><li>Agility gain increased from 3 to 3.2</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/1e/Phantom_Lancer_Large.png/80px-Phantom_Lancer_Large.png"
+  },
+  {
+    "id": "7.22_hero_Phoenix",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Phoenix",
+    "descriptionHtml": "<ul><li>Base strength increased by 2</li><li><a>Supernova</a>now causes your abilities to refresh on cast, rather than at the end of the spell</li><li>Supernova Scepter now also allows you to cast<a>Sun Ray</a>and turn its direction while in Supernova</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Phoenix_Large.png/80px-Phoenix_Large.png"
+  },
+  {
+    "id": "7.22_hero_Puck",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Puck",
+    "descriptionHtml": "<ul><li>Intelligence gain increased from 3.1 to 3.5</li><li>Strength gain increased from 2.2 to 2.4</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/3a/Puck_Large.png/80px-Puck_Large.png"
+  },
+  {
+    "id": "7.22_hero_Pudge",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Pudge",
+    "descriptionHtml": "<ul><li>Base intelligence increased by 2</li><li>Level 15 Talent increased from +12% Rot Slow to +16%</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dd/Pudge_Large.png/80px-Pudge_Large.png"
+  },
+  {
+    "id": "7.22_hero_Pugna",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Pugna",
+    "descriptionHtml": "<ul><li>Now has 0.5 base mana regen</li><li>Agility gain increased from 1 to 1.3</li><li><a>Nether Ward</a>mana loss increased from 0.25/0.5/0.75/1 to 0.3/0.6/0.9/1.2</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/24/Pugna_Large.png/80px-Pugna_Large.png"
+  },
+  {
+    "id": "7.22_hero_Razor",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Razor",
+    "descriptionHtml": "<ul><li><a>Eye of the Storm</a>Scepter no longer increases attack rate</li><li>Eye of the Storm Scepter now hits up to two different units strike instead of one (still affects buildings)</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Razor_Large.png/80px-Razor_Large.png"
+  },
+  {
+    "id": "7.22_hero_Riki",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Riki",
+    "descriptionHtml": "<ul><li>Base damage increased by 3</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a3/Riki_Large.png/80px-Riki_Large.png"
+  },
+  {
+    "id": "7.22_hero_Rubick",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Rubick",
+    "descriptionHtml": "<ul><li>Agility gain increased from 19 + 2.1 to 23 + 2.5</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/57/Rubick_Large.png/80px-Rubick_Large.png"
+  },
+  {
+    "id": "7.22_hero_Shadow-Demon",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Shadow Demon",
+    "descriptionHtml": "<ul><li>Intelligence gain increased from 3.1 to 3.3</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/79/Shadow_Demon_Large.png/80px-Shadow_Demon_Large.png"
+  },
+  {
+    "id": "7.22_hero_Shadow-Fiend",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Shadow Fiend",
+    "descriptionHtml": "<ul><li>Now has 0.3 mana regen</li><li>Strength gain increased from 2.3 to 2.5</li><li>Agility gain increased from 3.3 to 3.5</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Shadow_Fiend_Large.png/80px-Shadow_Fiend_Large.png"
+  },
+  {
+    "id": "7.22_hero_Shadow-Shaman",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Shadow Shaman",
+    "descriptionHtml": "<ul><li><a>Ether Shock</a>mana cost rescaled from 95/105/135/160 to 100/120/140/160</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/d8/Shadow_Shaman_Large.png/80px-Shadow_Shaman_Large.png"
+  },
+  {
+    "id": "7.22_hero_Silencer",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Silencer",
+    "descriptionHtml": "<ul><li>Base attack speed increased from 100 to 115</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/98/Silencer_Large.png/80px-Silencer_Large.png"
+  },
+  {
+    "id": "7.22_hero_Skywrath-Mage",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Skywrath Mage",
+    "descriptionHtml": "<ul><li><a>Ancient Seal</a>cast range increased from 700 to 750</li><li><a>Concussive Shot</a>mana cost from 95 to 80/85/90/95</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Skywrath_Mage_Large.png/80px-Skywrath_Mage_Large.png"
+  },
+  {
+    "id": "7.22_hero_Slardar",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Slardar",
+    "descriptionHtml": "<ul><li>Added Scepter upgrade<ul><li><a>Slithereen Crush</a>now creates a puddle of water that is considered a river for bonuses</li><li>Provides +25 HP regen, +12 Armor and +40% Status Resistance while in a Puddle or River (in addition to the normal Guardian Sprint River bonuses)</li><li>Puddle AoE is 550</li><li>Puddles last for 25 seconds</li></ul></li><li><a>Guardian Sprint</a>now passively provides an extra 5/20/35/50% movement boost in the river with unlocked max speed, rather than a fixed 700 at level 4 when activated</li><li>Level 25 Talent changed from +1.25s Slithereen Crush Stun to -4.5 Slithereen Crush Cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/41/Slardar_Large.png/80px-Slardar_Large.png"
+  },
+  {
+    "id": "7.22_hero_Slark",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Slark",
+    "descriptionHtml": "<ul><li>Base attack speed increased from 100 to 120</li><li><a>Shadow Dance</a>passive health regen rescaled from 3/5/7% to 5/6/7%</li><li>Shadow Dance Scepter range increased from 325 to 425</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Slark_Large.png/80px-Slark_Large.png"
+  },
+  {
+    "id": "7.22_hero_Spectre",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Spectre",
+    "descriptionHtml": "<ul><li>Added Scepter upgrade<ul><li>Grants you a new ability,<a>Shadow Step</a></li><li>Allows you to perform a single target unit<a>Haunt</a></li><li>Cooldown: 70</li><li>Mana Cost: 180</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0a/Spectre_Large.png/80px-Spectre_Large.png"
+  },
+  {
+    "id": "7.22_hero_Spirit-Breaker",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Spirit Breaker",
+    "descriptionHtml": "<ul><li>Base health regen increased from 0.75 to 1.25</li><li><a>Bulldoze</a>status resistance increased from 30/40/50/60 to 34/46/58/70%</li><li>Bulldoze movement speed increased from 12/18/24/30% to 14/20/26/32%</li><li><a>Greater Bash</a>stun duration rescaled from 1.2/1.4/1.6/1.8 to 0.9/1.2/1.5/1.8</li><li>Greater Bash damage rescaled from 8/16/24/32% to 14/20/26/32%</li><li><a>Charge of Darkness</a>mana cost reduced from 100 to 70/80/90/100</li><li><a>Nether Strike</a>Scepter cast range increased from 850 to 950</li><li>Nether Strike Scepter radius increased from 250 to 350</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f6/Spirit_Breaker_Large.png/80px-Spirit_Breaker_Large.png"
+  },
+  {
+    "id": "7.22_hero_Techies",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Techies",
+    "descriptionHtml": "<ul><li>Now has 1 base mana regen</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a7/Techies_Large.png/80px-Techies_Large.png"
+  },
+  {
+    "id": "7.22_hero_Templar-Assassin",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Templar Assassin",
+    "descriptionHtml": "<ul><li>Added Scepter upgrade<ul><li>Grants you a new ability,<a>Psionic Projection</a></li><li>Allows you to teleport to any<a>Psionic Trap</a>after a 2 second channel</li><li>Does not break Meld</li><li>Cooldown: 30</li><li>Mana Cost: 100</li><li>Detonates the psionic trap on arrival</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/5/50/Templar_Assassin_Large.png/80px-Templar_Assassin_Large.png"
+  },
+  {
+    "id": "7.22_hero_Terrorblade",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Terrorblade",
+    "descriptionHtml": "<ul><li>Added Scepter upgrade<ul><li>After casting<a>Metamorphosis</a>, a wave travels outwards in all directions causing enemy heroes to become<a>feared</a>for 3 seconds upon impact</li><li>Wave starts traveling 0.6 seconds and has a travel speed of 1000</li><li>Spell Immune units do not get hit by the wave</li><li>Has a global sound effect</li></ul></li><li><a>Reflection</a>no longer affects illusions</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b5/Terrorblade_Large.png/80px-Terrorblade_Large.png"
+  },
+  {
+    "id": "7.22_hero_Tidehunter",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Tidehunter",
+    "descriptionHtml": "<ul><li><a>Gush</a>Scepter upgrade radius increased from 240 to 260</li><li>Gush Scepter upgrade distance increased from 1800 to 2200</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/de/Tidehunter_Large.png/80px-Tidehunter_Large.png"
+  },
+  {
+    "id": "7.22_hero_Timbersaw",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Timbersaw",
+    "descriptionHtml": "<ul><li>Strength growth increased from 2.8 to 3.2</li><li>Intelligence gain increased from 2.4 to 2.7</li><li>Base armor increased by 1</li><li>Level 10 Talent changed from +6% Spell Amplification to +2.5 Mana Regen</li><li>Level 10 Talent changed from +25% XP Gain to +225 Health</li><li>Level 15 Talent increased from +5 Reactive Armor Stacks to +8</li><li>Level 15 Talent changed from +100 Damage to +10% Spell Amplification</li><li>Level 20 Talent increased from +15 Strength to +20</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Timbersaw_Large.png/80px-Timbersaw_Large.png"
+  },
+  {
+    "id": "7.22_hero_Tinker",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Tinker",
+    "descriptionHtml": "<ul><li>Now has 0.25 base mana regen</li><li>Intelligence gain increased from 2.5 to 3.3</li><li>Level 10 Talent increased from +6% Spell Amplification to +8%</li><li>Level 10 Talent increased from +75 Cast Range to +100</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c0/Tinker_Large.png/80px-Tinker_Large.png"
+  },
+  {
+    "id": "7.22_hero_Tiny",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Tiny",
+    "descriptionHtml": "<ul><li>Intelligence gain increased from 1.6 to 2.2</li><li>Added Scepter upgrade<ul><li>Grants you a new channeling ability,<a>Tree Volley</a></li><li>Every 0.4 seconds a random tree within 525 range of your hero will be thrown towards the targeted AoE</li><li>Deals 120% of your damage to enemies in that area</li><li>Target AoE: 400</li><li>Cast Range: 1300</li><li>Max Channel: 2.4 seconds</li><li>Cooldown: 12</li><li>Mana Cost: 150</li></ul></li><li><a>Tree Grab</a>cooldown reduced from 27/22/17/12 to 25/20/15/10</li><li><a>Grow</a>armor increased from 7/16/25 to 10/18/26</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Tiny_Large.png/80px-Tiny_Large.png"
+  },
+  {
+    "id": "7.22_hero_Treant-Protector",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Treant Protector",
+    "descriptionHtml": "<ul><li>Now has 0.5 base mana regen</li><li><a>Nature&apos;s Guise</a>has been reworked<ul><li>It is now a self cast ability with a 0.6 second cast time</li><li>No longer has a fade delay nor gets interrupted on damage taken</li><li>Goes on cooldown after the invisibility buff ends</li><li>Cooldown: 10/8/6/4</li><li>Mana Cost: 30/40/50/60</li></ul></li><li>Nature&apos;s Guise movement speed bonus rescaled from 14/18/22/26% to 20/22/24/26%</li><li>Nature&apos;s Guise damage rescaled from 30/90/150/210 to 60/110/160/210</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7a/Treant_Protector_Large.png/80px-Treant_Protector_Large.png"
+  },
+  {
+    "id": "7.22_hero_Troll-Warlord",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Troll Warlord",
+    "descriptionHtml": "<ul><li>Added Scepter upgrade<ul><li>Reduces<a>Battle Trance</a>cooldown to 35 seconds and allows it to be cast on allied or enemy heroes</li><li>Lasts half duration on enemies</li><li>Cast Range: 525</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Troll_Warlord_Large.png/80px-Troll_Warlord_Large.png"
+  },
+  {
+    "id": "7.22_hero_Tusk",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Tusk",
+    "descriptionHtml": "<ul><li>Level 20 Talent changed from +300 Snowball Speed to -6 Ice Shards Cooldown</li><li>Level 25 Talent changed from -6 Ice Shards Cooldown to -7 Snowball Cooldown</li><li>Level 25 Talent increased from 12% Chance Walrus Punch to 15% (now uses pseudo-random chance)</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Tusk_Large.png/80px-Tusk_Large.png"
+  },
+  {
+    "id": "7.22_hero_Underlord",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Underlord",
+    "descriptionHtml": "<ul><li><a>Pit of Malice</a>radius increased from 375 to 390</li><li>Pit of Malice cooldown reduced from 32/28/24/20 to 30/26/22/18</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/9e/Underlord_Large.png/80px-Underlord_Large.png"
+  },
+  {
+    "id": "7.22_hero_Undying",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Undying",
+    "descriptionHtml": "<ul><li><a>Soul Rip</a>cast point improved from 0.45 to 0.35</li><li><a>Tombstone</a>zombies now treat illusions like creeps, requiring 2 hits to kill rather than 1</li><li>Tombstone takes 1/4 damage from creeps/illusions rather than 1/2</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6b/Undying_Large.png/80px-Undying_Large.png"
+  },
+  {
+    "id": "7.22_hero_Vengeful-Spirit",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Vengeful Spirit",
+    "descriptionHtml": "<ul><li><a>Nether Swap</a>now has a 0.25 second cooldown to prevent accidental uses</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c9/Vengeful_Spirit_Large.png/80px-Vengeful_Spirit_Large.png"
+  },
+  {
+    "id": "7.22_hero_Venomancer",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Venomancer",
+    "descriptionHtml": "<ul><li>Base intelligence increased by 2</li><li>Base attack speed increased from 100 to 115</li><li>Level 15 Talent increased from +8% Poison Sting Slow to +12%</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/39/Venomancer_Large.png/80px-Venomancer_Large.png"
+  },
+  {
+    "id": "7.22_hero_Visage",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Visage",
+    "descriptionHtml": "<ul><li>Base magic resistance increased from 10% to 25%</li><li><a>Summon Familiars</a>health rescaled from 400/550/700 to 500/600/700</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f8/Visage_Large.png/80px-Visage_Large.png"
+  },
+  {
+    "id": "7.22_hero_Warlock",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Warlock",
+    "descriptionHtml": "<ul><li><a>Chaotic Offering</a>Scepter now lands the 2nd Golem 0.4 seconds after the first, rather than both at the same time</li><li><a>Fatal Bonds</a>count rescaled from 3/4/5/6 to 6</li><li>Fatal Bonds rescaled damage from 25% to 13/17/21/25</li><li>Level 25 Talent increased from +20 Golem Armor to +25</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b9/Warlock_Large.png/80px-Warlock_Large.png"
+  },
+  {
+    "id": "7.22_hero_Weaver",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Weaver",
+    "descriptionHtml": "<ul><li>Now has 0.4 base mana regen</li><li>Base attack speed increased from 100 to 120</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/59/Weaver_Large.png/80px-Weaver_Large.png"
+  },
+  {
+    "id": "7.22_hero_Windranger",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Windranger",
+    "descriptionHtml": "<ul><li>Reworked Scepter<ul><li>Now adds 2 charges to<a>Windrun</a>and increases movement speed by 45%</li></ul></li><li><a>Focus Fire</a>cooldown reduced from 70 to 70/50/30</li><li>Level 10 Talent changed from +30% Windrun Slow to -2s Shackleshot Cooldown</li><li>Level 25 Talent changed from +35% Ministun Focus Fire to -20% Focus Fire Damage Reduction</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Windranger_Large.png/80px-Windranger_Large.png"
+  },
+  {
+    "id": "7.22_hero_Winter-Wyvern",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Winter Wyvern",
+    "descriptionHtml": "<ul><li><a>Arctic Burn</a>scepter mana cost per second reduced from 40 to 30</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c7/Winter_Wyvern_Large.png/80px-Winter_Wyvern_Large.png"
+  },
+  {
+    "id": "7.22_hero_Witch-Doctor",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Witch Doctor",
+    "descriptionHtml": "<ul><li><a>Death Ward</a>damage increased from 75/125/175 to 85/135/185</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b0/Witch_Doctor_Large.png/80px-Witch_Doctor_Large.png"
+  },
+  {
+    "id": "7.22_hero_Zeus",
+    "version": "7.22",
+    "category": "hero",
+    "label": "Zeus",
+    "descriptionHtml": "<ul><li>Now has 0.25 base mana regen</li><li>Attack point improved from 0.633 to 0.45</li><li>Level 10 Talent changed from +6 Armor to +3 Mana Regen</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/91/Zeus_Large.png/80px-Zeus_Large.png"
+  }
+]

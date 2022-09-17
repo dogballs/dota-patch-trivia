@@ -1,0 +1,41 @@
+[
+  {
+    "id": "7.15_general_General-updates",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Now spawn every 5 minutes</li><li>Now grants gold to each player (40 + 3/min)</li><li>Now fully fills bottles</li></ul>"
+  },
+  {
+    "id": "7.15_item_Animal-Courier",
+    "version": "7.15",
+    "category": "item",
+    "label": "Animal Courier",
+    "descriptionHtml": "<ul><li>Ground Courier bounty reduced from 175 to 125 (Flying Courier is still 175)</li></ul>",
+    "imageSrc": "/commons/images/c/cd/Animal_Courier.png"
+  },
+  {
+    "id": "7.15_item_Bottle",
+    "version": "7.15",
+    "category": "item",
+    "label": "Bottle",
+    "descriptionHtml": "<ul><li>Heal rate increased from 80/40 HP/MP to 100/50</li></ul>",
+    "imageSrc": "/commons/images/5/5d/Bottle.png"
+  },
+  {
+    "id": "7.15_item_Observer-Ward",
+    "version": "7.15",
+    "category": "item",
+    "label": "Observer Ward",
+    "descriptionHtml": "<ul><li>Restock cooldown reduced from 150 to 135</li><li>Cost reduced from 80 to 75</li></ul>",
+    "imageSrc": "/commons/images/6/69/Observer_Ward.png"
+  },
+  {
+    "id": "7.15_item_Enchanted-Mango",
+    "version": "7.15",
+    "category": "item",
+    "label": "Enchanted Mango",
+    "descriptionHtml": "<ul><li>HP regen reduced from 0.7 to 0.6</li></ul>",
+    "imageSrc": "/commons/images/2/23/Enchanted_Mango.png"
+  }
+]

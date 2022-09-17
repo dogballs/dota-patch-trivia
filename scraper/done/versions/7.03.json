@@ -1,0 +1,681 @@
+[
+  {
+    "id": "7.03_general_General-updates",
+    "version": "7.03",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reduced lane<a>melee creeps</a>base gold bounties by 2</li><li>Increased lane melee creeps gold bounty per upgrade cycle by 1</li><li>Reduced lane<a>range creeps</a>gold bounty per upgrade cycle by 1</li><li>Ranked<a>All Pick</a>hero selection time reduced from 35 seconds to 30 seconds</li></ul>"
+  },
+  {
+    "id": "7.03_item_Battle-Fury",
+    "version": "7.03",
+    "category": "item",
+    "label": "Battle Fury",
+    "descriptionHtml": "<ul><li><a>Cleave</a>damage increased from 35% to 40%</li></ul>",
+    "imageSrc": "/commons/images/a/a5/Battle_Fury.png"
+  },
+  {
+    "id": "7.03_item_Blight-Stone",
+    "version": "7.03",
+    "category": "item",
+    "label": "Blight Stone",
+    "descriptionHtml": "<ul><li>No longer available in the<a>Side Shop</a></li></ul>",
+    "imageSrc": "/commons/images/d/d5/Blight_Stone.png"
+  },
+  {
+    "id": "7.03_item_Bloodthorn",
+    "version": "7.03",
+    "category": "item",
+    "label": "Bloodthorn",
+    "descriptionHtml": "<ul><li>Cooldown increased from 13 to 14</li></ul>",
+    "imageSrc": "/commons/images/3/38/Bloodthorn.png"
+  },
+  {
+    "id": "7.03_item_Drum-of-Endurance",
+    "version": "7.03",
+    "category": "item",
+    "label": "Drum of Endurance",
+    "descriptionHtml": "<ul><li>Recipe cost reduced from 700 to 575</li></ul>",
+    "imageSrc": "/commons/images/a/a9/Drum_of_Endurance.png"
+  },
+  {
+    "id": "7.03_item_Daedalus",
+    "version": "7.03",
+    "category": "item",
+    "label": "Daedalus",
+    "descriptionHtml": "<ul><li><a>Critical Strike</a>damage increased from 230% to 235%</li></ul>",
+    "imageSrc": "/commons/images/3/39/Daedalus.png"
+  },
+  {
+    "id": "7.03_item_Dragon-Lance",
+    "version": "7.03",
+    "category": "item",
+    "label": "Dragon Lance",
+    "descriptionHtml": "<ul><li>Agility bonus reduced from 13 to 12</li></ul>",
+    "imageSrc": "/commons/images/1/18/Dragon_Lance.png"
+  },
+  {
+    "id": "7.03_item_Echo-Sabre",
+    "version": "7.03",
+    "category": "item",
+    "label": "Echo Sabre",
+    "descriptionHtml": "<ul><li>No longer slows attack speed</li></ul>",
+    "imageSrc": "/commons/images/2/26/Echo_Sabre.png"
+  },
+  {
+    "id": "7.03_item_Helm-of-the-Dominator",
+    "version": "7.03",
+    "category": "item",
+    "label": "Helm of the Dominator",
+    "descriptionHtml": "<ul><li>Reduced All Stats modifier from +4 to +2</li><li>Recipe cost increased from 725 to 800</li></ul>",
+    "imageSrc": "/commons/images/6/61/Helm_of_the_Dominator.png"
+  },
+  {
+    "id": "7.03_item_Headdress",
+    "version": "7.03",
+    "category": "item",
+    "label": "Headdress",
+    "descriptionHtml": "<ul><li>Recipe cost increased from 200 to 300</li></ul>",
+    "imageSrc": "/commons/images/e/ea/Headdress.png"
+  },
+  {
+    "id": "7.03_item_Hood-of-Defiance",
+    "version": "7.03",
+    "category": "item",
+    "label": "Hood of Defiance",
+    "descriptionHtml": "<ul><li>Magic Resistance reduced from 30% to 25%</li></ul>",
+    "imageSrc": "/commons/images/b/b3/Hood_of_Defiance.png"
+  },
+  {
+    "id": "7.03_item_Hurricane-Pike",
+    "version": "7.03",
+    "category": "item",
+    "label": "Hurricane Pike",
+    "descriptionHtml": "<ul><li>Cooldown increased from 14 to 15</li></ul>",
+    "imageSrc": "/commons/images/7/78/Hurricane_Pike.png"
+  },
+  {
+    "id": "7.03_item_Mask-of-Madness",
+    "version": "7.03",
+    "category": "item",
+    "label": "Mask of Madness",
+    "descriptionHtml": "<ul><li>Attack speed increased from 100 to 120</li></ul>",
+    "imageSrc": "/commons/images/3/3e/Mask_of_Madness.png"
+  },
+  {
+    "id": "7.03_item_Moon-Shard",
+    "version": "7.03",
+    "category": "item",
+    "label": "Moon Shard",
+    "descriptionHtml": "<ul><li>Can now be cast on allied heroes</li></ul>",
+    "imageSrc": "/commons/images/9/90/Moon_Shard.png"
+  },
+  {
+    "id": "7.03_item_Necronomicon",
+    "version": "7.03",
+    "category": "item",
+    "label": "Necronomicon",
+    "descriptionHtml": "<ul><li>Cooldown reduced from 95 to 90</li></ul>",
+    "imageSrc": "/commons/images/5/51/Necronomicon_1.png"
+  },
+  {
+    "id": "7.03_item_Rod-of-Atos",
+    "version": "7.03",
+    "category": "item",
+    "label": "Rod of Atos",
+    "descriptionHtml": "<ul><li>Cast range increased from 1000 to 1150</li></ul>",
+    "imageSrc": "/commons/images/5/55/Rod_of_Atos.png"
+  },
+  {
+    "id": "7.03_item_Silver-Edge",
+    "version": "7.03",
+    "category": "item",
+    "label": "Silver Edge",
+    "descriptionHtml": "<ul><li>Backstab damage reduced from 200 to 175 (same as Shadow Blade)</li></ul>",
+    "imageSrc": "/commons/images/4/4a/Silver_Edge.png"
+  },
+  {
+    "id": "7.03_item_Town-Portal-Scroll",
+    "version": "7.03",
+    "category": "item",
+    "label": "Town Portal Scroll",
+    "descriptionHtml": "<ul><li>Cooldown increased from 70 to 80</li></ul>",
+    "imageSrc": "/commons/images/1/1c/Town_Portal_Scroll.png"
+  },
+  {
+    "id": "7.03_item_Ultimate-Orb",
+    "version": "7.03",
+    "category": "item",
+    "label": "Ultimate Orb",
+    "descriptionHtml": "<ul><li>Cost increased from 2100 to 2150</li></ul>",
+    "imageSrc": "/commons/images/0/07/Ultimate_Orb.png"
+  },
+  {
+    "id": "7.03_hero_Abaddon",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Abaddon",
+    "descriptionHtml": "<ul><li><a>Aphotic Shield</a>mana cost rescaled from 100/105/110/115 to 115</li><li>Level 25 Talent increased from +200 Aphotic Shield Health to +300</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Abaddon_Large.png/80px-Abaddon_Large.png"
+  },
+  {
+    "id": "7.03_hero_Ancient-Apparition",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Ancient Apparition",
+    "descriptionHtml": "<ul><li>Level 25 Talent increased from +80 Chilling Touch Damage to +100</li><li>Level 25 Talent increased from +3 Charges of Cold Feet to +4</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5d/Ancient_Apparition_Large.png/80px-Ancient_Apparition_Large.png"
+  },
+  {
+    "id": "7.03_hero_Arc-Warden",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Arc Warden",
+    "descriptionHtml": "<ul><li><a>Magnetic Field</a>mana cost rescaled from 110 to 80/90/100/110</li><li><a>Tempest Double</a>duration increased from 12/14/16 to 14/16/18</li><li>Level 25 Talent increased from +175 Spark Wraith Damage to +250</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Arc_Warden_Large.png/80px-Arc_Warden_Large.png"
+  },
+  {
+    "id": "7.03_hero_Bane",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Bane",
+    "descriptionHtml": "<ul><li>Base damage increased by 4</li><li>Level 25 Talent increased from +75 Movement Speed to +100</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/72/Bane_Large.png/80px-Bane_Large.png"
+  },
+  {
+    "id": "7.03_hero_Batrider",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Batrider",
+    "descriptionHtml": "<ul><li>Level 25 Talent increased from +200 Flamebreak AoE to +300</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c1/Batrider_Large.png/80px-Batrider_Large.png"
+  },
+  {
+    "id": "7.03_hero_Beastmaster",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Beastmaster",
+    "descriptionHtml": "<ul><li>Level 20 Talent increased from +350 Health to +400</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/19/Beastmaster_Large.png/80px-Beastmaster_Large.png"
+  },
+  {
+    "id": "7.03_hero_Bloodseeker",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Bloodseeker",
+    "descriptionHtml": "<ul><li>Level 10 Talent increased from +200 Health to +225</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a6/Bloodseeker_Large.png/80px-Bloodseeker_Large.png"
+  },
+  {
+    "id": "7.03_hero_Brewmaster",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Brewmaster",
+    "descriptionHtml": "<ul><li>Level 15 Talent increased from +10% Magic Resistance to +12%</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0b/Brewmaster_Large.png/80px-Brewmaster_Large.png"
+  },
+  {
+    "id": "7.03_hero_Bristleback",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Bristleback",
+    "descriptionHtml": "<ul><li>Level 10 Talent increased from +7 Strength to +8</li><li>Level 20 Talent increased from +45 Attack Speed to +50</li><li>Level 20 Talent increased from -35s Respawn Time to -40s</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f9/Bristleback_Large.png/80px-Bristleback_Large.png"
+  },
+  {
+    "id": "7.03_hero_Broodmother",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Broodmother",
+    "descriptionHtml": "<ul><li>Level 15 Talent increased from +250 Health to +325</li><li>Level 20 Talent increased from +50 Attack Speed to +70</li><li>Level 20 Talent increased from +8 Spiders Attack Damage to +12</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0c/Broodmother_Large.png/80px-Broodmother_Large.png"
+  },
+  {
+    "id": "7.03_hero_Centaur",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Centaur",
+    "descriptionHtml": "<ul><li>Base armor reduced by 1</li><li>Scepter<a>Stampede</a>damage reduction reduced from 60% to 50%</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Centaur_Warrunner_Large.png/80px-Centaur_Warrunner_Large.png"
+  },
+  {
+    "id": "7.03_hero_Crystal-Maiden",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Crystal Maiden",
+    "descriptionHtml": "<ul><li>Level 25 Talent increased from +250 Crystal Nova Damage to +300</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dc/Crystal_Maiden_Large.png/80px-Crystal_Maiden_Large.png"
+  },
+  {
+    "id": "7.03_hero_Dark-Seer",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Dark Seer",
+    "descriptionHtml": "<ul><li><a>Vacuum</a>cooldown increased from 28 to 32</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6f/Dark_Seer_Large.png/80px-Dark_Seer_Large.png"
+  },
+  {
+    "id": "7.03_hero_Death-Prophet",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Death Prophet",
+    "descriptionHtml": "<ul><li>Level 10 Talent increased from +4% Spell Amplification to 5%</li><li>Level 10 Talent increased from +8% Magic Resistance to +10%</li><li>Level 20 Talent increased from +25 Movement Speed to +50</li><li>Level 25 Talent increased from +400 Health to +600</li><li>Level 25 Talent increased from +6 Exorcism Spirits to +8</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/80/Death_Prophet_Large.png/80px-Death_Prophet_Large.png"
+  },
+  {
+    "id": "7.03_hero_Dragon-Knight",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Dragon Knight",
+    "descriptionHtml": "<ul><li>Level 10 Talent increased from +7 Strength to +9</li><li>Level 10 Talent increased from +20 Attack Speed to +25</li><li>Level 25 Talent increased from +60 Movement Speed to +75</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/da/Dragon_Knight_Large.png/80px-Dragon_Knight_Large.png"
+  },
+  {
+    "id": "7.03_hero_Earth-Spirit",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Earth Spirit",
+    "descriptionHtml": "<ul><li>Base movement speed reduced from 295 to 290</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/2b/Earth_Spirit_Large.png/80px-Earth_Spirit_Large.png"
+  },
+  {
+    "id": "7.03_hero_Earthshaker",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Earthshaker",
+    "descriptionHtml": "<ul><li><a>Aftershock</a>damage increased from 50/75/100/125 to 75/100/125/150</li><li>Level 10 Talent increased from +8 Strength to +10</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/8f/Earthshaker_Large.png/80px-Earthshaker_Large.png"
+  },
+  {
+    "id": "7.03_hero_Elder-Titan",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Elder Titan",
+    "descriptionHtml": "<ul><li>Agility gain increased from 1.5 to 1.8</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/bc/Elder_Titan_Large.png/80px-Elder_Titan_Large.png"
+  },
+  {
+    "id": "7.03_hero_Ember-Spirit",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Ember Spirit",
+    "descriptionHtml": "<ul><li>Level 10 Talent reduced from +12% Spell Amplification to 10%</li><li>Level 10 Talent increased from +20 Damage to +25</li><li>Level 20 Talent increased from +8 Armor to +10</li><li>Level 20 Talent changed from +15% Cooldown Reduction to +500 Flame Guard Absorption</li><li>Level 25 Talent changed from +500 Flame Guard Absorption to +20% Cooldown Reduction</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/98/Ember_Spirit_Large.png/80px-Ember_Spirit_Large.png"
+  },
+  {
+    "id": "7.03_hero_Enchantress",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Enchantress",
+    "descriptionHtml": "<ul><li>Base movement speed increased from 335 to 340</li><li>Level 15 Talent changed from +10s Nature&apos;s Attendants Duration to +7 Nature&apos;s Attendants Wisps</li><li>Level 20 Talent increased from +12% Magic Resistance to +15%</li><li>Level 25 Talent changed from +12 Nature&apos;s Attendants Wisps to Enchant Affects Ancients</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/57/Enchantress_Large.png/80px-Enchantress_Large.png"
+  },
+  {
+    "id": "7.03_hero_Faceless-Void",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Faceless Void",
+    "descriptionHtml": "<ul><li>Level 10 Talent increased from +7 Strength to +8</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Faceless_Void_Large.png/80px-Faceless_Void_Large.png"
+  },
+  {
+    "id": "7.03_hero_Gyrocopter",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Gyrocopter",
+    "descriptionHtml": "<ul><li>Level 10 Talent increased from +200 Health to +225</li><li>Level 15 Talent increased from +12% Magic Resistance to +15%</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e1/Gyrocopter_Large.png/80px-Gyrocopter_Large.png"
+  },
+  {
+    "id": "7.03_hero_Huskar",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Huskar",
+    "descriptionHtml": "<ul><li>Level 25 Talent increased from +400 Life Break Cast Range to +500</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f1/Huskar_Large.png/80px-Huskar_Large.png"
+  },
+  {
+    "id": "7.03_hero_Invoker",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Invoker",
+    "descriptionHtml": "<ul><li><a>Alacrity</a>mana cost increased from 45 to 60</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5b/Invoker_Large.png/80px-Invoker_Large.png"
+  },
+  {
+    "id": "7.03_hero_Io",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Io",
+    "descriptionHtml": "<ul><li><a>Relocate</a>cooldown rescaled from 90/75/60 to 100/80/60</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/ad/Io_Large.png/80px-Io_Large.png"
+  },
+  {
+    "id": "7.03_hero_Jakiro",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Jakiro",
+    "descriptionHtml": "<ul><li>Level 10 Talent increased from +20% XP Gain to +25%</li><li>Level 15 Talent increased from +25 Dual Breath Burn Damage to +35</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4d/Jakiro_Large.png/80px-Jakiro_Large.png"
+  },
+  {
+    "id": "7.03_hero_Juggernaut",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Juggernaut",
+    "descriptionHtml": "<ul><li><a>Healing Ward</a>bounty increased from 25 Gold to 75 Gold and XP</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c8/Juggernaut_Large.png/80px-Juggernaut_Large.png"
+  },
+  {
+    "id": "7.03_hero_Keeper-of-the-Light",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Keeper of the Light",
+    "descriptionHtml": "<ul><li><a>Mana Leak</a>duration reduced from 5/6/7/8 to 4/5/6/7</li><li>Mana Leak mana cost increased from 150 to 160</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/bc/Keeper_of_the_Light_Large.png/80px-Keeper_of_the_Light_Large.png"
+  },
+  {
+    "id": "7.03_hero_Kunkka",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Kunkka",
+    "descriptionHtml": "<ul><li>Level 15 Talent increased from +15 Movement Speed to +20</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/3a/Kunkka_Large.png/80px-Kunkka_Large.png"
+  },
+  {
+    "id": "7.03_hero_Legion-Commander",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Legion Commander",
+    "descriptionHtml": "<ul><li>Level 25 Talent changed from +25% Cooldown Reduction to -8s Press The Attack Cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0a/Legion_Commander_Large.png/80px-Legion_Commander_Large.png"
+  },
+  {
+    "id": "7.03_hero_Leshrac",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Leshrac",
+    "descriptionHtml": "<ul><li>Level 25 Talent increased from +2s Lightning Storm Slow Duration to +3s</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f6/Leshrac_Large.png/80px-Leshrac_Large.png"
+  },
+  {
+    "id": "7.03_hero_Lich",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Lich",
+    "descriptionHtml": "<ul><li>Level 10 Talent increased from +15 Movement Speed to +25</li><li>Level 10 Talent increased from +125 Health to +175</li><li>Level 15 Talent increased from -3s Frost Blast Cooldown to -4s</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/35/Lich_Large.png/80px-Lich_Large.png"
+  },
+  {
+    "id": "7.03_hero_Lifestealer",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Lifestealer",
+    "descriptionHtml": "<ul><li>Base damage reduced by 3</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/85/Lifestealer_Large.png/80px-Lifestealer_Large.png"
+  },
+  {
+    "id": "7.03_hero_Lina",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Lina",
+    "descriptionHtml": "<ul><li>Level 10 Talent increased from -25s Respawn Time to -30s</li><li>Level 10 Talent increased from +60 Light Strike Array Damage to +80</li><li>Level 15 Talent increased from +40 Damage to +50</li><li>Level 25 Talent changed from +1 Fiery Soul Max Stacks to +40/4% Fiery Soul Per Stack</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/46/Lina_Large.png/80px-Lina_Large.png"
+  },
+  {
+    "id": "7.03_hero_Lion",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Lion",
+    "descriptionHtml": "<ul><li>Level 10 Talent increased from -25s Respawn Time to -30s</li><li>Level 10 Talent increased from +45 Damage to +60</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/8d/Lion_Large.png/80px-Lion_Large.png"
+  },
+  {
+    "id": "7.03_hero_Lone-Druid",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Lone Druid",
+    "descriptionHtml": "<ul><li>Base damage reduced by 4</li><li><a>Rabid</a>cooldown increased from 30 to 45</li><li>Level 15 Talent reduced from +55 Damage to +50 Damage</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e2/Lone_Druid_Large.png/80px-Lone_Druid_Large.png"
+  },
+  {
+    "id": "7.03_hero_Lycan",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Lycan",
+    "descriptionHtml": "<ul><li>Level 10 Talent increased from +150 Health to +175</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Lycan_Large.png/80px-Lycan_Large.png"
+  },
+  {
+    "id": "7.03_hero_Medusa",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Medusa",
+    "descriptionHtml": "<ul><li>Level 25 Talent increased from +1s Stone Gaze Stun to +2s</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/38/Medusa_Large.png/80px-Medusa_Large.png"
+  },
+  {
+    "id": "7.03_hero_Monkey-King",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Monkey King",
+    "descriptionHtml": "<ul><li>Added to<a>Captains Mode</a></li><li><a>Jingu Mastery</a>buff now has a max duration of 35 seconds</li><li><a>Tree Dance</a>night vision reduced from 800 to 400</li><li><a>Wukong&apos;s Command</a>duration rescaled from 13/14/15 to 13</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4e/Monkey_King_Large.png/80px-Monkey_King_Large.png"
+  },
+  {
+    "id": "7.03_hero_Nature's-Prophet",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Nature's Prophet",
+    "descriptionHtml": "<ul><li><a>Nature&apos;s Call</a>mana cost rescaled from 160 to 130/140/150/160</li><li>Level 15 Talent increased from +15 Intelligence to +20</li><li>Level 15 Talent increased from +20 Movement Speed to +35</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/16/Natures_Prophet_Large.png/80px-Natures_Prophet_Large.png"
+  },
+  {
+    "id": "7.03_hero_Nyx-Assassin",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Nyx Assassin",
+    "descriptionHtml": "<ul><li><a>Spiked Carapace</a>cooldown rescaled from 22/18/14/10 to 25/20/15/10</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c4/Nyx_Assassin_Large.png/80px-Nyx_Assassin_Large.png"
+  },
+  {
+    "id": "7.03_hero_Ogre-Magi",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Ogre Magi",
+    "descriptionHtml": "<ul><li>Base movement speed reduced from 290 to 285</li><li><a>Bloodlust</a>mana cost increased from 50 to 65</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Ogre_Magi_Large.png/80px-Ogre_Magi_Large.png"
+  },
+  {
+    "id": "7.03_hero_Phantom-Lancer",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Phantom Lancer",
+    "descriptionHtml": "<ul><li><a>Spirit Lance</a>illusions now give the same constant 5 bounty as Juxtapose, rather than scaling with levels</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/1e/Phantom_Lancer_Large.png/80px-Phantom_Lancer_Large.png"
+  },
+  {
+    "id": "7.03_hero_Phoenix",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Phoenix",
+    "descriptionHtml": "<ul><li>Level 15 Talent increased from +90 Gold/Min to +120</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Phoenix_Large.png/80px-Phoenix_Large.png"
+  },
+  {
+    "id": "7.03_hero_Puck",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Puck",
+    "descriptionHtml": "<ul><li>Base damage increased by 3</li><li>Level 15 Talent increased from +15% Magic Resistance to +20%</li><li>Level 15 Talent increased from +40 Damage to +50</li><li>Level 25 Talent increased from +300 Gold/Min to +420</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/3a/Puck_Large.png/80px-Puck_Large.png"
+  },
+  {
+    "id": "7.03_hero_Pudge",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Pudge",
+    "descriptionHtml": "<ul><li><a>Meat Hook</a>speed reduced from 1600 to 1450</li><li>Meat Hook no longer pulls invulnerable heroes</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dd/Pudge_Large.png/80px-Pudge_Large.png"
+  },
+  {
+    "id": "7.03_hero_Pugna",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Pugna",
+    "descriptionHtml": "<ul><li>Pugna Level 10 Talent increased from +150 Health to +225</li><li>Pugna Level 15 Talent changed from +12 Strength to -1s Netherblast Cooldown</li><li>Pugna Level 15 Talent increased from -25s Respawn Time to -35s</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/24/Pugna_Large.png/80px-Pugna_Large.png"
+  },
+  {
+    "id": "7.03_hero_Queen-of-Pain",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Queen of Pain",
+    "descriptionHtml": "<ul><li>Level 10 Talent increased from +6 Strength to +9</li><li>Level 10 Talent increased from +20 Damage to +25</li><li>Level 20 Talent increased from +200 Health to +300</li><li>Level 25 Talent changed from -3s Shadow Strike Cooldown to Removed Shadow Strike Cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/62/Queen_of_Pain_Large.png/80px-Queen_of_Pain_Large.png"
+  },
+  {
+    "id": "7.03_hero_Razor",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Razor",
+    "descriptionHtml": "<ul><li>Level 10 Talent increased from +15 Movement Speed to +20</li><li>Level 10 Talent increased from +10 Agility to +15</li><li><a>Eye of the Storm</a>Scepter now hits shrines instead of ignoring them</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Razor_Large.png/80px-Razor_Large.png"
+  },
+  {
+    "id": "7.03_hero_Rubick",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Rubick",
+    "descriptionHtml": "<ul><li>Attack Range reduced from 600 to 550</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/57/Rubick_Large.png/80px-Rubick_Large.png"
+  },
+  {
+    "id": "7.03_hero_Shadow-Fiend",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Shadow Fiend",
+    "descriptionHtml": "<ul><li>Level 25 Talent changed from -7s Shadow Raze Cooldown to +125 Shadow Raze Damage</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Shadow_Fiend_Large.png/80px-Shadow_Fiend_Large.png"
+  },
+  {
+    "id": "7.03_hero_Shadow-Shaman",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Shadow Shaman",
+    "descriptionHtml": "<ul><li>Base armor increased by 1</li><li>Base attack range reduced from 500 to 400</li><li>Base attack damage increased by 18</li><li>Level 10 Talent increased from +15 Movement Speed to +20</li><li>Level 10 Talent increased from +150 Health to +175</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/d8/Shadow_Shaman_Large.png/80px-Shadow_Shaman_Large.png"
+  },
+  {
+    "id": "7.03_hero_Slardar",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Slardar",
+    "descriptionHtml": "<ul><li><a>Slithereen Crush</a>stun duration reduced from 1.5/1.75/2/2.25 to 1.25/1.5/1.75/2</li><li><a>Corrosive Haze</a>duration reduced from 25 to 18</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/41/Slardar_Large.png/80px-Slardar_Large.png"
+  },
+  {
+    "id": "7.03_hero_Spectre",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Spectre",
+    "descriptionHtml": "<ul><li>Level 15 Talent increased from +15 Movement Speed to +20</li><li>Level 15 Talent increased from +6 All Stats to +8</li><li>Level 20 Talent increased from +15 Strength to +20</li><li>Level 20 Talent increased from +25 Attack Speed to +30</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0a/Spectre_Large.png/80px-Spectre_Large.png"
+  },
+  {
+    "id": "7.03_hero_Techies",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Techies",
+    "descriptionHtml": "<ul><li><a>Proximity Mines</a>damage rescaled from 225/400/575/750 to 150/350/550/750</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a7/Techies_Large.png/80px-Techies_Large.png"
+  },
+  {
+    "id": "7.03_hero_Tiny",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Tiny",
+    "descriptionHtml": "<ul><li>Level 15 Talent increased from +20 Movement Speed to +35</li><li>Level 15 Talent increased from +45 Damage to +60</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Tiny_Large.png/80px-Tiny_Large.png"
+  },
+  {
+    "id": "7.03_hero_Treant-Protector",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Treant Protector",
+    "descriptionHtml": "<ul><li><a>Eyes In The Forest</a>cooldown increased from 25 to 35</li><li><a>Nature&apos;s Guise</a>fade delay rescaled from 6/5/4/3 to 7/6/5/3</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7a/Treant_Protector_Large.png/80px-Treant_Protector_Large.png"
+  },
+  {
+    "id": "7.03_hero_Tusk",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Tusk",
+    "descriptionHtml": "<ul><li>Level 10 Talent increased from +35% XP Gain to +40%</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Tusk_Large.png/80px-Tusk_Large.png"
+  },
+  {
+    "id": "7.03_hero_Undying",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Undying",
+    "descriptionHtml": "<ul><li>Level 20 Talent increased from +25 Movement Speed to +30</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6b/Undying_Large.png/80px-Undying_Large.png"
+  },
+  {
+    "id": "7.03_hero_Venomancer",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Venomancer",
+    "descriptionHtml": "<ul><li>Level 10 Talent increased from +20% XP Gain to +30%</li><li>Level 10 Talent increased from +20 Movement Speed to +30</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/39/Venomancer_Large.png/80px-Venomancer_Large.png"
+  },
+  {
+    "id": "7.03_hero_Viper",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Viper",
+    "descriptionHtml": "<ul><li>Level 15 Talent increased from +7 Strength to +8</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Viper_Large.png/80px-Viper_Large.png"
+  },
+  {
+    "id": "7.03_hero_Visage",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Visage",
+    "descriptionHtml": "<ul><li>Level 10 Talent increased from +25% XP Gain to +30%</li><li><a>Familiars</a>HP rescaled from 300/500/700 to 400/550/700</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f8/Visage_Large.png/80px-Visage_Large.png"
+  },
+  {
+    "id": "7.03_hero_Weaver",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Weaver",
+    "descriptionHtml": "<ul><li>Base damage reduced by 3</li><li>Base movement speed reduced from 290 to 285</li><li>Level 25 Talent increased from +25% Magic Resistance to +35%</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/59/Weaver_Large.png/80px-Weaver_Large.png"
+  },
+  {
+    "id": "7.03_hero_Windranger",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Windranger",
+    "descriptionHtml": "<ul><li><a>Windrun</a>cooldown reduced from 13 to 12</li><li>Level 10 Talent increased from +25% Windrun Slow to +30%</li><li>Level 25 Talent increased from -6s Powershot Cooldown to -7s</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Windranger_Large.png/80px-Windranger_Large.png"
+  },
+  {
+    "id": "7.03_hero_Winter-Wyvern",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Winter Wyvern",
+    "descriptionHtml": "<ul><li>Level 10 Talent increased from +6 Strength to +7</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c7/Winter_Wyvern_Large.png/80px-Winter_Wyvern_Large.png"
+  },
+  {
+    "id": "7.03_hero_Zeus",
+    "version": "7.03",
+    "category": "hero",
+    "label": "Zeus",
+    "descriptionHtml": "<ul><li>Scepter CD/Duration reduced from 40 to 35</li><li>Level 10 Talent increased from +175 Health to +200</li><li>Level 25 Talent increased from +1.5% Static Field to +2%</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/91/Zeus_Large.png/80px-Zeus_Large.png"
+  }
+]

@@ -1,13 +1,13 @@
-import React from "react";
-import { DragDropContext, DropResult } from "react-beautiful-dnd";
-import { GameState } from "../types/game";
-import useAutoMoveSensor from "../lib/useAutoMoveSensor";
-import { checkCorrect, getRandomItem, preloadImage } from "../lib/items";
-import NextItemList from "./next-item-list";
-import PlayedItemList from "./played-item-list";
-import styles from "../styles/board.module.scss";
-import Hearts from "./hearts";
-import GameOver from "./game-over";
+import React from 'react';
+import { DragDropContext, DropResult } from 'react-beautiful-dnd';
+import { GameState } from '../types/game';
+import useAutoMoveSensor from '../lib/useAutoMoveSensor';
+import { checkCorrect, getRandomItem, preloadImage } from '../lib/items';
+import NextItemList from './next-item-list';
+import PlayedItemList from './played-item-list';
+import styles from '../styles/board.module.scss';
+import Hearts from './hearts';
+import GameOver from './game-over';
 
 interface Props {
   highscore: number;
@@ -35,20 +35,20 @@ export default function Board(props: Props) {
     if (
       !destination ||
       state.next === null ||
-      (source.droppableId === "next" && destination.droppableId === "next")
+      (source.droppableId === 'next' && destination.droppableId === 'next')
     ) {
       return;
     }
 
     const item = { ...state.next };
 
-    if (source.droppableId === "next" && destination.droppableId === "played") {
+    if (source.droppableId === 'next' && destination.droppableId === 'played') {
       const newDeck = [...state.deck];
       const newPlayed = [...state.played];
       const { correct, delta } = checkCorrect(
         newPlayed,
         item,
-        destination.index
+        destination.index,
       );
       newPlayed.splice(destination.index, 0, {
         ...state.next,
@@ -58,14 +58,14 @@ export default function Board(props: Props) {
       const newNext = state.nextButOne;
       const newNextButOne = getRandomItem(
         newDeck,
-        newNext ? [...newPlayed, newNext] : newPlayed
+        newNext ? [...newPlayed, newNext] : newPlayed,
       );
-      const newImageCache = [preloadImage(newNextButOne.image)];
+      const newImageCache = [preloadImage(newNextButOne.imageSrc)];
 
       setState({
         ...state,
         deck: newDeck,
-        imageCache: newImageCache,
+        imageCache: [],
         next: newNext,
         nextButOne: newNextButOne,
         played: newPlayed,
@@ -79,8 +79,8 @@ export default function Board(props: Props) {
             },
       });
     } else if (
-      source.droppableId === "played" &&
-      destination.droppableId === "played"
+      source.droppableId === 'played' &&
+      destination.droppableId === 'played'
     ) {
       const newPlayed = [...state.played];
       const [item] = newPlayed.splice(source.index, 1);

@@ -1,0 +1,928 @@
+[
+  {
+    "id": "6.72_new-hero_Rubick,-the-Grand-Magus",
+    "version": "6.72",
+    "category": "new-hero",
+    "label": "Rubick, the Grand Magus",
+    "descriptionHtml": "",
+    "imageSrc": "/commons/images/thumb/5/57/Rubick_Large.png/128px-Rubick_Large.png"
+  },
+  {
+    "id": "6.72_hero_Abaddon",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Abaddon",
+    "descriptionHtml": "<ul><li><a>Aphotic Shield</a>cast range increased from 350 to 450</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Abaddon_Large.png/80px-Abaddon_Large.png"
+  },
+  {
+    "id": "6.72_hero_Ancient-Apparition",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Ancient Apparition",
+    "descriptionHtml": "<ul><li>Armor reduced from 4 to 2</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5d/Ancient_Apparition_Large.png/80px-Ancient_Apparition_Large.png"
+  },
+  {
+    "id": "6.72_hero_Anti-Mage",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Anti-Mage",
+    "descriptionHtml": "<ul><li>Base attack time improved from 1.45 to 1.35<ul><li>(Hero attack rate improves the lower the Base Attack Time is)</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/7/70/Anti-Mage_Large.png/80px-Anti-Mage_Large.png"
+  },
+  {
+    "id": "6.72_hero_Axe",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Axe",
+    "descriptionHtml": "<ul><li>Base HP regeneration increased from 0.25 to 1</li><li><a>Battle Hunger</a>damage per second rescaled from 15/17/25/33 to 15/21/27/33</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a1/Axe_Large.png/80px-Axe_Large.png"
+  },
+  {
+    "id": "6.72_hero_Bane",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Bane",
+    "descriptionHtml": "<ul><li><a>Brain Sap</a>cooldown decreased from 16 to 14</li><li><a>Fiend&apos;s Grip</a>now gives vision of the target</li><li><a>Enfeeble</a>now reduces attack damage by a constant amount</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/72/Bane_Large.png/80px-Bane_Large.png"
+  },
+  {
+    "id": "6.72_hero_Batrider",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Batrider",
+    "descriptionHtml": "<ul><li>Armor reduced by 1</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c1/Batrider_Large.png/80px-Batrider_Large.png"
+  },
+  {
+    "id": "6.72_hero_Beastmaster",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Beastmaster",
+    "descriptionHtml": "<ul><li>Greater<a>Hawk</a>invisibility fade time decreased from 8 to 5 seconds</li><li><a>Wild Axes</a>now move at similar speed to the max range (so it isn&apos;t as slow for short range targeting)</li><li>Added Aghanim&apos;s Scepter upgrade<ul><li>Increases cast range from 600 to 950</li><li>Decreases cooldown from 80/75/70 to 45</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/1/19/Beastmaster_Large.png/80px-Beastmaster_Large.png"
+  },
+  {
+    "id": "6.72_hero_Bloodseeker",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Bloodseeker",
+    "descriptionHtml": "<ul><li><a>Blood Bath</a>assist AoE increased from 200 to 225</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a6/Bloodseeker_Large.png/80px-Bloodseeker_Large.png"
+  },
+  {
+    "id": "6.72_hero_Bounty-Hunter",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Bounty Hunter",
+    "descriptionHtml": "<ul><li>Base HP regeneration increased from 0.25 to 0.75</li><li><a>Jinada</a>cooldown decreased from 15/12/9/6 to 12/10/8/6</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/86/Bounty_Hunter_Large.png/80px-Bounty_Hunter_Large.png"
+  },
+  {
+    "id": "6.72_hero_Brewmaster",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Brewmaster",
+    "descriptionHtml": "<ul><li><a>Drunken Haze</a>duration increased from 7 to 8 seconds</li><li><a>Primal Split</a><a>Earth</a>panda now carries the hero&apos;s auras around him<ul><li>If you are carrying<a>Radiance</a>or<a>Assault Cuirass</a>for example, the area around your panda is affected</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0b/Brewmaster_Large.png/80px-Brewmaster_Large.png"
+  },
+  {
+    "id": "6.72_hero_Bristleback",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Bristleback",
+    "descriptionHtml": "<ul><li><a>Warpath</a>damage per stack increased from 4/8/12 to 10/15/20</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f9/Bristleback_Large.png/80px-Bristleback_Large.png"
+  },
+  {
+    "id": "6.72_hero_Centaur-Warrunner",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Centaur Warrunner",
+    "descriptionHtml": "<ul><li>Movement speed increased from 300 to 305</li><li><a>Double Edge</a>cooldown decreased from 12 to 10</li><li><a>Hoof Stomp</a>cooldown decreased from 15 to 13</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Centaur_Warrunner_Large.png/80px-Centaur_Warrunner_Large.png"
+  },
+  {
+    "id": "6.72_hero_Chaos-Knight",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Chaos Knight",
+    "descriptionHtml": "<ul><li>Base strength increased by 3</li><li><a>Chaos Bolt</a>damage improved from 1-200 to 1-200/50-225/75-250/100-275</li><li>Chaos Bolt now has a floating text indicator for the damage done</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/46/Chaos_Knight_Large.png/80px-Chaos_Knight_Large.png"
+  },
+  {
+    "id": "6.72_hero_Chen",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Chen",
+    "descriptionHtml": "<ul><li><a>Test of Faith</a>secondary ability to teleport units is now a part of<a>Holy Persuasion</a>instead</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7d/Chen_Large.png/80px-Chen_Large.png"
+  },
+  {
+    "id": "6.72_hero_Clockwerk",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Clockwerk",
+    "descriptionHtml": "<ul><li>Armor reduced by 1</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b8/Clockwerk_Large.png/80px-Clockwerk_Large.png"
+  },
+  {
+    "id": "6.72_hero_Crystal-Maiden",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Crystal Maiden",
+    "descriptionHtml": "<ul><li><a>Freezing Field</a>level 1 mana cost decreased from 300 to 200</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dc/Crystal_Maiden_Large.png/80px-Crystal_Maiden_Large.png"
+  },
+  {
+    "id": "6.72_hero_Dark-Seer",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Dark Seer",
+    "descriptionHtml": "<ul><li><a>Wall of Replica</a>illusion damage improved from 70% to 70/80/90%</li><li>Added an Aghanim&apos;s Scepter upgrade (and visual effect)<ul><li>Creates illusions of allied heroes as well as enemy heroes</li><li>Allied illusions deal 50% damage</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6f/Dark_Seer_Large.png/80px-Dark_Seer_Large.png"
+  },
+  {
+    "id": "6.72_hero_Dazzle",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Dazzle",
+    "descriptionHtml": "<ul><li><a>Poison Touch</a>damage increased from 7/14/21/28 to 8/16/24/32</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e3/Dazzle_Large.png/80px-Dazzle_Large.png"
+  },
+  {
+    "id": "6.72_hero_Death-Prophet",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Death Prophet",
+    "descriptionHtml": "<ul><li>Base HP regeneration increased from 0.25 to 0.75</li><li><a>Witchcraft</a>bonuses rescaled to be more straightforward</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/80/Death_Prophet_Large.png/80px-Death_Prophet_Large.png"
+  },
+  {
+    "id": "6.72_hero_Doom",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Doom",
+    "descriptionHtml": "<ul><li><a>Doom</a>duration decreased from 14 to 13 seconds (Aghanim&apos;s Doom is still 14)</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/19/Doom_Large.png/80px-Doom_Large.png"
+  },
+  {
+    "id": "6.72_hero_Dragon-Knight",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Dragon Knight",
+    "descriptionHtml": "<ul><li><a>Breathe Fire</a>damage rescaled from 75/150/225/300 to 90/170/240/300</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/da/Dragon_Knight_Large.png/80px-Dragon_Knight_Large.png"
+  },
+  {
+    "id": "6.72_hero_Drow-Ranger",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Drow Ranger",
+    "descriptionHtml": "<ul><li>Previous sight range nerf reverted (from 6.68)</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7e/Drow_Ranger_Large.png/80px-Drow_Ranger_Large.png"
+  },
+  {
+    "id": "6.72_hero_Earthshaker",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Earthshaker",
+    "descriptionHtml": "<ul><li><a>Echo Slam</a>initial damage reduced from 165/230/285 to 160/210/270</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/8f/Earthshaker_Large.png/80px-Earthshaker_Large.png"
+  },
+  {
+    "id": "6.72_hero_Elder-Titan",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Elder Titan",
+    "descriptionHtml": "<ul><li><a>Ancestral Spirit</a>now has a secondary ability that returns the spirit</li><li>Ancestral Spirit cooldown decreased from 19 to 16</li><li>Ancestral Spirit cast range increased from 1000 to 1200</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/bc/Elder_Titan_Large.png/80px-Elder_Titan_Large.png"
+  },
+  {
+    "id": "6.72_hero_Enchantress",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Enchantress",
+    "descriptionHtml": "<ul><li>Aghanim&apos;s<a>Impetus</a>range bonus increased from +150 extra to +165</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/57/Enchantress_Large.png/80px-Enchantress_Large.png"
+  },
+  {
+    "id": "6.72_hero_Faceless-Void",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Faceless Void",
+    "descriptionHtml": "<ul><li>Base HP regeneration increased from 0.25 to 0.75</li><li>Aghanim&apos;s upgraded<a>Chronosphere</a>cooldown decreased from 75 to 60</li><li>Chronosphere now reveals<a>Invisible</a>units</li><li>Chronosphere cast range improved from 500/550/600 to 600</li><li><a>Time Walk</a>slow affects all units along his path, instead of just at the destination</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Faceless_Void_Large.png/80px-Faceless_Void_Large.png"
+  },
+  {
+    "id": "6.72_hero_Gyrocopter",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Gyrocopter",
+    "descriptionHtml": "<ul><li>Agility growth increased from 2.4 to 2.8</li><li><a>Rocket Barrage</a>cooldown rescaled from 6.5 to 7/6.5/6/5.5 seconds</li><li>Added an Aghanim&apos;s Scepter upgrade (and visual effect)<ul><li><a>Call Down</a>now has a global cast range and the second rocket does 75 more damage</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e1/Gyrocopter_Large.png/80px-Gyrocopter_Large.png"
+  },
+  {
+    "id": "6.72_hero_Huskar",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Huskar",
+    "descriptionHtml": "<ul><li><a>Burning Spears</a>minimum HP requirement removed (it is still non-lethal)</li><li><a>Life Break</a>cast mechanism changed<ul><li>It now has a 600 cast range and causes Huskar to quickly dash forward towards the target</li><li>You are magic immune while running forward</li><li>If you get interrupted, the dash stops</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f1/Huskar_Large.png/80px-Huskar_Large.png"
+  },
+  {
+    "id": "6.72_hero_Invoker",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Invoker",
+    "descriptionHtml": "<ul><li>No longer gets interrupted by casting orbs or invoke</li><li>Base damage reduced by 5</li><li><a>Alacrity</a>can now target mechanical units</li><li>Alacrity mana cost increased from 50 to 100</li><li>Alacrity bonus damage &amp; attack speed decreased from 30➜90 to 20➜80</li><li><a>Cold Snap</a>now requires a minimum of 10 damage before it triggers</li><li><a>Ice Wall</a>no longer affects magic immune units</li><li>The<a>Invoke</a>combinations are now displayed in the ability tooltip</li><li>Fixed some issues with how Invoke tracks your recently casted spells<ul><li>It now always remembers the latest invoke spell even if it is one you already have</li><li>So if you have two and want to keep the oldest one, you can recast it and it will consider it the newest one</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5b/Invoker_Large.png/80px-Invoker_Large.png"
+  },
+  {
+    "id": "6.72_hero_Io",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Io",
+    "descriptionHtml": "<ul><li>Base damage increased from 33-42 to 43-52</li><li>Attack range increased from 525 to 575</li><li><a>Tether</a>movement speed bonus reduced from 15/20/25/30% to 20%</li><li>Tether stun duration rebalanced from 1/1.25/1.5/1.75 to 0.75/1.25/1.75/2.25</li><li><a>Spirits</a>Oscillation subabilities no longer interrupt Wisp&apos;s movement</li><li>Spirits now circle slightly faster when there are fewer alive</li><li>Spirits no longer slow</li><li>Spirits life duration increased by 3 seconds</li><li>Spirits now spawn over 4 second interval instead of 6</li><li>Overcharge Reworked</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/ad/Io_Large.png/80px-Io_Large.png"
+  },
+  {
+    "id": "6.72_hero_Jakiro",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Jakiro",
+    "descriptionHtml": "<ul><li><a>Macropyre</a>AoE increased from 200 to 225</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4d/Jakiro_Large.png/80px-Jakiro_Large.png"
+  },
+  {
+    "id": "6.72_hero_Juggernaut",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Juggernaut",
+    "descriptionHtml": "<ul><li>Base HP regeneration increased from 0.25 to 0.75</li><li><a>Blade Dance</a>critical strike chance rescaled from 10/20/25/35% to 15/20/25/35%</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c8/Juggernaut_Large.png/80px-Juggernaut_Large.png"
+  },
+  {
+    "id": "6.72_hero_Kunkka",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Kunkka",
+    "descriptionHtml": "<ul><li><a>Ghost Ship</a>stun increased from 1 to 1.2 seconds</li><li><a>Tidebringer</a>cooldown rescaled from 16/12/8/4 to 13/10/7/4</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/3a/Kunkka_Large.png/80px-Kunkka_Large.png"
+  },
+  {
+    "id": "6.72_hero_Lich",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Lich",
+    "descriptionHtml": "<ul><li><a>Dark Ritual</a>cooldown rescaled from 30/27/24/21 to 35/30/25/20</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/35/Lich_Large.png/80px-Lich_Large.png"
+  },
+  {
+    "id": "6.72_hero_Lifestealer",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Lifestealer",
+    "descriptionHtml": "<ul><li>Reworked<a>Infest</a><ul><li>Can now be cast on allied heroes, dealing AoE damage when Lifestealer bursts out</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/8/85/Lifestealer_Large.png/80px-Lifestealer_Large.png"
+  },
+  {
+    "id": "6.72_hero_Lina",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Lina",
+    "descriptionHtml": "<ul><li>Aghanim&apos;s<a>Laguna Blade</a>cast range increased from 600 to 900</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/46/Lina_Large.png/80px-Lina_Large.png"
+  },
+  {
+    "id": "6.72_hero_Lone-Druid",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Lone Druid",
+    "descriptionHtml": "<ul><li><a>Spirit Bear</a><a>Demolish</a>decreased from 60% to 40% bonus damage versus buildings</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e2/Lone_Druid_Large.png/80px-Lone_Druid_Large.png"
+  },
+  {
+    "id": "6.72_hero_Luna",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Luna",
+    "descriptionHtml": "<ul><li><a>Lunar Blessing</a>rescaled from 8/16/24/32 to 14/20/26/32</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e2/Luna_Large.png/80px-Luna_Large.png"
+  },
+  {
+    "id": "6.72_hero_Lycan",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Lycan",
+    "descriptionHtml": "<ul><li><a>Lycan Wolves</a>move speed increased from 400 to 400/420/440/460</li><li>Wolves collision size reduced a bit</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Lycan_Large.png/80px-Lycan_Large.png"
+  },
+  {
+    "id": "6.72_hero_Magnus",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Magnus",
+    "descriptionHtml": "<ul><li>Cast point reduced</li><li><a>Empower</a>cast range increased from 500 to 800</li><li><a>Skewer</a>number of enemy units dragged rescaled from 2 to 1/2/3/4</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/67/Magnus_Large.png/80px-Magnus_Large.png"
+  },
+  {
+    "id": "6.72_hero_Meepo",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Meepo",
+    "descriptionHtml": "<ul><li>Added an Aghanim&apos;s Scepter upgrade<ul><li>Creates an extra clone once the item is acquired</li><li>Please note that the item is undroppable once the clone is created</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/9/97/Meepo_Large.png/80px-Meepo_Large.png"
+  },
+  {
+    "id": "6.72_hero_Morphling",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Morphling",
+    "descriptionHtml": "<ul><li>Armor reduced by 2</li><li><a>Replicate</a>now has a visual time (player only) that counts down its duration</li><li><a>Morph</a>now has a visual effect<ul><li>Shows one visual effect for transforming agility, and another one for strength</li><li>This effect can be seen by both teams</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c7/Morphling_Large.png/80px-Morphling_Large.png"
+  },
+  {
+    "id": "6.72_hero_Naga-Siren",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Naga Siren",
+    "descriptionHtml": "<ul><li>Base HP regeneration increased from 0.25 to 0.75</li><li>Nearby Naga Siren illusions now play the<a>Ensnare</a>animation</li><li>Critical Strike replaced with<a>Rip Tide</a></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Naga_Siren_Large.png/80px-Naga_Siren_Large.png"
+  },
+  {
+    "id": "6.72_hero_Nature's-Prophet",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Nature's Prophet",
+    "descriptionHtml": "<ul><li><a>Wrath of Nature</a>bounce count improved from 12/14/16 to 16<ul><li>Scepter from 14/16/18 to 18</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/1/16/Natures_Prophet_Large.png/80px-Natures_Prophet_Large.png"
+  },
+  {
+    "id": "6.72_hero_Necrophos",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Necrophos",
+    "descriptionHtml": "<ul><li><a>Reaper&apos;s Scythe</a>reworked slightly<ul><li>The HP difference calculation is now processed after the stun duration is over</li><li>Any damage dealt in between the start of the effect and the end is included in the final damage dealt</li><li>Stun duration reduced from 1.5 to 1</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0e/Necrophos_Large.png/80px-Necrophos_Large.png"
+  },
+  {
+    "id": "6.72_hero_Night-Stalker",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Night Stalker",
+    "descriptionHtml": "<ul><li><a>Hunter in the Night</a>movement bonus rescaled from 15/20/30/35% to 20/25/30/35%</li><li>Hunter in the Night attack speed bonus rescaled from 20/35/55/75 to 30/45/60/75</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c4/Night_Stalker_Large.png/80px-Night_Stalker_Large.png"
+  },
+  {
+    "id": "6.72_hero_Omniknight",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Omniknight",
+    "descriptionHtml": "<ul><li><a>Purification</a>cast range increased from 400 to 400/500/600/700</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Omniknight_Large.png/80px-Omniknight_Large.png"
+  },
+  {
+    "id": "6.72_hero_Outworld-Devourer",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Outworld Devourer",
+    "descriptionHtml": "<ul><li>Intelligence growth increased from 2.8 to 3.3</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Outworld_Destroyer_Large.png/80px-Outworld_Destroyer_Large.png"
+  },
+  {
+    "id": "6.72_hero_Phoenix",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Phoenix",
+    "descriptionHtml": "<ul><li><a>Icarus Dive</a>cooldown decreased from 40 to 30</li><li>Icarus Dive no longer makes Phoenix spell immune<ul><li>If he is disabled during it, he stops</li></ul></li><li><a>Sun Ray</a>no longer slows</li><li>Sun Ray damage from 10/20/30/40 + 5% to 15/30/45/60 + 4%</li><li>Sun Ray turn rate slightly improved</li><li><a>Fire Spirits</a>now trigger in the area around you and your target when you use<a>Target Fire Spirits</a><ul><li>The damage and heal from the two areas do not stack, you are only affected once</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Phoenix_Large.png/80px-Phoenix_Large.png"
+  },
+  {
+    "id": "6.72_hero_Pit-Lord",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Pit Lord",
+    "descriptionHtml": "<ul><li>Model size slightly reduced</li><li>Cast Point decreased from 0.75 to 0.6</li><li><a>Dark Rift</a>level 1 can now target units</li><li><a>Expulsion</a>reworked slightly<ul><li>Expulsion AoE now follows you around and is centered on your hero</li><li>Expulsion no longer ministuns</li><li>Expulsion Search AOE increased from 475 to 600</li><li>Expulsion Damage/Heal increased AOE from 375 to 600</li><li>Expulsion now heals allies in the area it damages in (for half the amount 10/20/30/40)</li></ul></li><li><a>Pit of Malice</a>duration decreased from 1.5/2/2.5/3 to 1/1.5/2/2.5</li><li>Pit of Malice now deals 100 damage when it affects a unit</li><li>Pit of Malice now creates 5 corpses in the cast area</li><li><a>Firestorm</a>reworked</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/9e/Underlord_Large.png/80px-Underlord_Large.png"
+  },
+  {
+    "id": "6.72_hero_Puck",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Puck",
+    "descriptionHtml": "<ul><li>Base damage increased by 4</li><li><a>Waning Rift</a>silence duration rebalanced from 0.1/1/2/3 to 0.75/1.5/2.25/3</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/3a/Puck_Large.png/80px-Puck_Large.png"
+  },
+  {
+    "id": "6.72_hero_Pudge",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Pudge",
+    "descriptionHtml": "<ul><li><a>Rot</a>damage increased from 25/50/75/100 to 35/60/85/110</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dd/Pudge_Large.png/80px-Pudge_Large.png"
+  },
+  {
+    "id": "6.72_hero_Queen-of-Pain",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Queen of Pain",
+    "descriptionHtml": "<ul><li><a>Sonic Wave</a>damage rescaled from 290/430/600 to 350/475/600</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/62/Queen_of_Pain_Large.png/80px-Queen_of_Pain_Large.png"
+  },
+  {
+    "id": "6.72_hero_Riki",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Riki",
+    "descriptionHtml": "<ul><li>Base HP regeneration increased from 0.25 to 0.75</li><li><a>Blink Strike</a>cooldown rescaled from 30/20/10/5 to 20/15/10/5</li><li><a>Smoke Screen</a>cast range increased from 350 to 425</li><li>Smoke Screen cooldown decreased from 15 to 13 seconds</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a3/Riki_Large.png/80px-Riki_Large.png"
+  },
+  {
+    "id": "6.72_hero_Sand-King",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Sand King",
+    "descriptionHtml": "<ul><li>Armor increased by 1</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e5/Sand_King_Large.png/80px-Sand_King_Large.png"
+  },
+  {
+    "id": "6.72_hero_Shadow-Demon",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Shadow Demon",
+    "descriptionHtml": "<ul><li><a>Disruption</a>mana cost increased from 75 to 120</li><li>Disruption cooldown rescaled from 16 to 25/22/19/16</li><li>Disruption illusion duration rescaled from 6 to 5/6/7/8</li><li>Changed Shadow Demon&apos;s hero model<ul><li>This was his original model during development</li><li>The previous model will be used for another hero instead</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/7/79/Shadow_Demon_Large.png/80px-Shadow_Demon_Large.png"
+  },
+  {
+    "id": "6.72_hero_Shadow-Shaman",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Shadow Shaman",
+    "descriptionHtml": "<ul><li>Base damage increased by 5</li><li><a>Ether Shock</a>target count rescaled from 3/4/6/7 to 1/3/5/7</li><li>Ether Shock damage rescaled from 80/160/240/320 to 140/200/260/320</li><li><a>Mass Serpent Wards</a>are now automatically added to your unit selection upon cast<ul><li>Issuing a command to the wards will NOT cause your hero to be interrupted while you are channeling Shackles</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/d/d8/Shadow_Shaman_Large.png/80px-Shadow_Shaman_Large.png"
+  },
+  {
+    "id": "6.72_hero_Silencer",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Silencer",
+    "descriptionHtml": "<ul><li>Movement speed increased from 290 to 300</li><li><a>Curse of the Silent</a>cast range decreased from 900 to 800</li><li><a>Glaives of Wisdom</a>cooldown from 2/0/0/0 to 0</li><li><a>Last Word</a>is now muted when Silencer is stunned (previously it was only when silenced)</li><li>Last Word no longer triggers on Spell-Attacks (Frost Arrows, Burning Spears, etc)</li><li>Last Word AoE decreased from 900 to 750</li><li>Last Word now steals a point of intelligence if Silencer gets a killing blow on a hero<ul><li>This is in addition if the hero died within the AoE</li><li>So if you kill a hero you will steal 2 intelligence points, otherwise you will steal 1</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/9/98/Silencer_Large.png/80px-Silencer_Large.png"
+  },
+  {
+    "id": "6.72_hero_Slardar",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Slardar",
+    "descriptionHtml": "<ul><li><a>Amplify Damage</a>armor reduction increased from 5/10/15 to 8/12/16</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/41/Slardar_Large.png/80px-Slardar_Large.png"
+  },
+  {
+    "id": "6.72_hero_Slark",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Slark",
+    "descriptionHtml": "<ul><li>Strength growth increased from 1 to 1.8</li><li>Intelligence growth increased from 1.6 to 1.9</li><li>Agility growth reduced from 2 to 1.5</li><li><a>Essence Shift</a>now reduces each stat by 1 on attacks (no longer reduces the primary by 2)</li><li>Essence Shift agility bonus reduced from 4 to 3 per attack</li><li>Essence Shift duration increased from 15/30/45/60 to 15/30/60/120</li><li>Essence Shift permanently reduces each stat of a hero Slark kills by 1 and he gains 3 Agi permanently</li><li><a>Pounce</a>no longer hits non-hero units</li><li>Pounce AoE increased from 85 to 95</li><li>Pounce speed fixed to be the same at all levels</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Slark_Large.png/80px-Slark_Large.png"
+  },
+  {
+    "id": "6.72_hero_Spirit-Breaker",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Spirit Breaker",
+    "descriptionHtml": "<ul><li>Base HP regeneration increased from 0.25 to 0.75</li><li><a>Greater Bash</a>now gives a 3 second 15% movement speed bonus whenever you land a bash</li><li><a>Charge of Darkness</a>Reworked</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f6/Spirit_Breaker_Large.png/80px-Spirit_Breaker_Large.png"
+  },
+  {
+    "id": "6.72_hero_Sven",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Sven",
+    "descriptionHtml": "<ul><li><a>Great Cleave</a>AoE increased from 175 to 200</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f2/Sven_Large.png/80px-Sven_Large.png"
+  },
+  {
+    "id": "6.72_hero_Techies",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Techies",
+    "descriptionHtml": "<ul><li>Aghanim&apos;s<a>Remote Mine</a>cast range decreased from 900 to 700</li><li><a>Land Mine</a>limit increased from 15 to 20</li><li><a>Suicide Squad, Attack!</a>now gives Techies XP for kills he gets with it</li><li>Suicide Squad, Attack! cooldown from 75 to 180/170/160/150</li><li>Suicide Squad, Attack! now causes Techies death time to be reduced by 50%</li><li>Detonate All subability of Remote Mine removed<ul><li>Based on Techies player feedback, it was much more commonly used accidentally than for its intended purpose</li><li>The new focused detonation ability or the group selection detonate fill the role better</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a7/Techies_Large.png/80px-Techies_Large.png"
+  },
+  {
+    "id": "6.72_hero_Templar-Assassin",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Templar Assassin",
+    "descriptionHtml": "<ul><li><a>Psi Blades</a>width increased from 70 to 80</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/50/Templar_Assassin_Large.png/80px-Templar_Assassin_Large.png"
+  },
+  {
+    "id": "6.72_hero_Terrorblade",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Terrorblade",
+    "descriptionHtml": "<ul><li>Movement speed increased from 300 to 310</li><li><a>Sunder</a>HP limit now applies to yourself<ul><li>This is an improvement, it will no longer bring you down to the target&apos;s HP</li><li>It will follow the HP percentage restrictions</li><li>The main application of this is when it is used to heal an ally</li></ul></li><li>Sunder cooldown rescaled from 200/120/60 to 160/110/60</li><li><a>Metamorphosis</a>reworked</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b5/Terrorblade_Large.png/80px-Terrorblade_Large.png"
+  },
+  {
+    "id": "6.72_hero_Tidehunter",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Tidehunter",
+    "descriptionHtml": "<ul><li><a>Anchor Smash</a>reworked</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/de/Tidehunter_Large.png/80px-Tidehunter_Large.png"
+  },
+  {
+    "id": "6.72_hero_Tinker",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Tinker",
+    "descriptionHtml": "<ul><li><a>Heat Seeking Missile</a>now hits 2 units at all levels</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c0/Tinker_Large.png/80px-Tinker_Large.png"
+  },
+  {
+    "id": "6.72_hero_Tiny",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Tiny",
+    "descriptionHtml": "<ul><li><a>Tossed</a>allied units no longer take damage (they used to take a portion of the damage)</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Tiny_Large.png/80px-Tiny_Large.png"
+  },
+  {
+    "id": "6.72_hero_Treant-Protector",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Treant Protector",
+    "descriptionHtml": "<ul><li>Armor reduced by 1</li><li><a>Nature&apos;s Guise</a>now gives the unit a 10% movement speed bonus</li><li>Nature&apos;s Guise keeps the target invisible for up to 1 second after leaving the proximity of a tree, except during the initial cast</li><li>Nature&apos;s Guise cooldown increased from 3 seconds to 10/8/6/4 seconds</li><li><a>Overgrowth</a>rebalanced</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7a/Treant_Protector_Large.png/80px-Treant_Protector_Large.png"
+  },
+  {
+    "id": "6.72_hero_Troll-Warlord",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Troll Warlord",
+    "descriptionHtml": "<ul><li>Cast point reduced by 0.3</li><li><a>Berserker Rage</a>transformation time removed (was 0.1 sec)</li><li>Blind replaced with<a>Whirling Axes</a></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Troll_Warlord_Large.png/80px-Troll_Warlord_Large.png"
+  },
+  {
+    "id": "6.72_hero_Tusk",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Tusk",
+    "descriptionHtml": "<ul><li><a>Ice Shards</a>now kills trees around the area it is created</li><li><a>Snowball</a>no longer moves faster based on the allies inside of it<ul><li>It used to move at a rate of 1.5× your speed plus 50% of the speed of all allies</li><li>It now only moves at 1.5× your speed</li><li>The minimum speed for the snowball is 200</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Tusk_Large.png/80px-Tusk_Large.png"
+  },
+  {
+    "id": "6.72_hero_Ursa",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Ursa",
+    "descriptionHtml": "<ul><li><a>Enrage</a>no longer triggers an additional Fury Swipes hit</li><li><a>Earthshock</a>damage increased from 70/120/170/220 to 90/140/190/240</li><li><a>Fury Swipes</a>duration increased from 5 to 6 seconds</li><li><a>Overpower</a>cast time removed</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/27/Ursa_Large.png/80px-Ursa_Large.png"
+  },
+  {
+    "id": "6.72_hero_Vengeful-Spirit",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Vengeful Spirit",
+    "descriptionHtml": "<ul><li>Aghanim&apos;s<a>Nether Swap</a>can now target creeps</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c9/Vengeful_Spirit_Large.png/80px-Vengeful_Spirit_Large.png"
+  },
+  {
+    "id": "6.72_hero_Venomancer",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Venomancer",
+    "descriptionHtml": "<ul><li>Base HP regeneration increased from 0.25 to 0.75</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/39/Venomancer_Large.png/80px-Venomancer_Large.png"
+  },
+  {
+    "id": "6.72_hero_Viper",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Viper",
+    "descriptionHtml": "<ul><li><a>Corrosive Skin</a>now stacks with Poison Attack</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Viper_Large.png/80px-Viper_Large.png"
+  },
+  {
+    "id": "6.72_hero_Visage",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Visage",
+    "descriptionHtml": "<ul><li>Base Strength decreased from 25 to 22</li><li>Strength growth increased from 2.2 to 2.4</li><li><a>Soul Assumption</a>mana cost rescaled from 150 to 200/180/160/140</li><li><a>Familiars</a>HP improved from 300/400/500 to 300/450/600</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f8/Visage_Large.png/80px-Visage_Large.png"
+  },
+  {
+    "id": "6.72_hero_Warlock",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Warlock",
+    "descriptionHtml": "<ul><li><a>Fatal Bonds</a>link count increased from 2/3/4/5 to 3/4/5/6</li><li>Fatal Bonds casting range increased from 600 to 800</li><li><a>Upheaval</a>cooldown decreased from 65 to 50</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b9/Warlock_Large.png/80px-Warlock_Large.png"
+  },
+  {
+    "id": "6.72_hero_Weaver",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Weaver",
+    "descriptionHtml": "<ul><li>Armor reduced by 1</li><li><a>The Swarm</a>damage rescaled from 21/24/27/30 to 15/20/25/30</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/59/Weaver_Large.png/80px-Weaver_Large.png"
+  },
+  {
+    "id": "6.72_hero_Windranger",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Windranger",
+    "descriptionHtml": "<ul><li><a>Shackleshot</a>cooldown increased from 10 to 12 seconds</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Windranger_Large.png/80px-Windranger_Large.png"
+  },
+  {
+    "id": "6.72_hero_Witch-Doctor",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Witch Doctor",
+    "descriptionHtml": "<ul><li><a>Death Ward</a>is automatically added to your unit selection upon cast</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b0/Witch_Doctor_Large.png/80px-Witch_Doctor_Large.png"
+  },
+  {
+    "id": "6.72_hero_Wraith-King",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Wraith King",
+    "descriptionHtml": "<ul><li><a>Reincarnation</a>now does a 700 AoE 3 second 30% slow around the area where he respawns</li><li>Reincarnation delay decreased from 5/4.5/4 to 3 seconds</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6e/Wraith_King_Large.png/80px-Wraith_King_Large.png"
+  },
+  {
+    "id": "6.72_hero_Zeus",
+    "version": "6.72",
+    "category": "hero",
+    "label": "Zeus",
+    "descriptionHtml": "<ul><li><a>Arc Lightning</a>cooldown decreased from 2.25 to 2</li><li>Arc Lightning mana cost improved from 65/72/79/87 to 65/70/75/80</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/91/Zeus_Large.png/80px-Zeus_Large.png"
+  },
+  {
+    "id": "6.72_new-item_Veil-of-Discord",
+    "version": "6.72",
+    "category": "new-item",
+    "label": "Veil of Discord",
+    "descriptionHtml": "<ul><li>Added a new item to the Arcane Sanctum shop (Veil of Discord)</li></ul>",
+    "imageSrc": "/commons/images/f/f0/Veil_of_Discord.png"
+  },
+  {
+    "id": "6.72_item_Courier",
+    "version": "6.72",
+    "category": "item",
+    "label": "Courier",
+    "descriptionHtml": "<ul><li>Added a short cooldown on Courier and Flying Courier recipe buying to prevent accidental double buys</li><li>Minimap indicator is now shown at the location where a courier dies</li><li>Resume Delivery ability added, upon use the courier will resume its previous deliver action<ul><li>For example, if it was delivering an item to another player, and you interrupted it to do something, you could then resume it to deliver the items to its previous target</li></ul></li></ul>",
+    "imageSrc": "/commons/images/c/cd/Animal_Courier.png"
+  },
+  {
+    "id": "6.72_item_Assault-Cuirass",
+    "version": "6.72",
+    "category": "item",
+    "label": "Assault Cuirass",
+    "descriptionHtml": "<ul><li>Assault Cuirass recipe cost decreased from 1500 to 1300</li></ul>",
+    "imageSrc": "/commons/images/4/40/Assault_Cuirass.png"
+  },
+  {
+    "id": "6.72_item_Bloodstone",
+    "version": "6.72",
+    "category": "item",
+    "label": "Bloodstone",
+    "descriptionHtml": "<ul><li>Now starts with 5 charges</li><li>Can no longer be disassembled<ul><li>This is primarily due to the charge change above and preventing abuse</li></ul></li></ul>",
+    "imageSrc": "/commons/images/0/00/Bloodstone.png"
+  },
+  {
+    "id": "6.72_item_Boots-of-Travel",
+    "version": "6.72",
+    "category": "item",
+    "label": "Boots of Travel",
+    "descriptionHtml": "<ul><li>Double clicking now teleports you to fountain</li><li>Towers no longer stop attacking when you teleport to them</li><li>Creeps no longer stop moving when you teleport to them<ul><li>The unit you are teleporting on still has lowest AI priority</li></ul></li></ul>",
+    "imageSrc": "/commons/images/d/d8/Boots_of_Travel.png"
+  },
+  {
+    "id": "6.72_item_Crystalys",
+    "version": "6.72",
+    "category": "item",
+    "label": "Crystalys",
+    "descriptionHtml": "<ul><li>Critical Strike chance increased from 15% to 20%</li></ul>",
+    "imageSrc": "/commons/images/c/c6/Crystalys.png"
+  },
+  {
+    "id": "6.72_item_Daedalus",
+    "version": "6.72",
+    "category": "item",
+    "label": "Daedalus",
+    "descriptionHtml": "<ul><li>Critical Strike chance increased from 20% to 25%</li></ul>",
+    "imageSrc": "/commons/images/3/39/Daedalus.png"
+  },
+  {
+    "id": "6.72_item_Desolator",
+    "version": "6.72",
+    "category": "item",
+    "label": "Desolator",
+    "descriptionHtml": "<ul><li><a>Corruption</a>effect now works on<a>buildings</a></li></ul>",
+    "imageSrc": "/commons/images/e/e2/Desolator.png"
+  },
+  {
+    "id": "6.72_item_Diffusal-Blade",
+    "version": "6.72",
+    "category": "item",
+    "label": "Diffusal Blade",
+    "descriptionHtml": "<ul><li><a>Purge</a>cooldown decreased from 12 to 8</li><li>Purge now removes<a>Ghost Scepter</a><a>Ghost Form</a></li></ul>",
+    "imageSrc": "/commons/images/a/a4/Diffusal_Blade.png"
+  },
+  {
+    "id": "6.72_item_Drum-of-Endurance",
+    "version": "6.72",
+    "category": "item",
+    "label": "Drum of Endurance",
+    "descriptionHtml": "<ul><li>Charges can now be refreshed by buying the recipe</li></ul>",
+    "imageSrc": "/commons/images/a/a9/Drum_of_Endurance.png"
+  },
+  {
+    "id": "6.72_item_Ethereal-Blade",
+    "version": "6.72",
+    "category": "item",
+    "label": "Ethereal Blade",
+    "descriptionHtml": "<ul><li><a>Ether Blast</a>slow increased from 45% to 60%</li><li>Can now be<a>disassembled</a></li></ul>",
+    "imageSrc": "/commons/images/c/c9/Ethereal_Blade.png"
+  },
+  {
+    "id": "6.72_item_Force-Staff",
+    "version": "6.72",
+    "category": "item",
+    "label": "Force Staff",
+    "descriptionHtml": "<ul><li>Can no longer push units out of<a>Chronosphere</a></li></ul>",
+    "imageSrc": "/commons/images/9/9f/Force_Staff.png"
+  },
+  {
+    "id": "6.72_item_Gem-of-True-Sight",
+    "version": "6.72",
+    "category": "item",
+    "label": "Gem of True Sight",
+    "descriptionHtml": "<ul><li>Stock cooldown increased from 6 to 8 minutes</li></ul>",
+    "imageSrc": "/commons/images/3/3a/Gem_of_True_Sight.png"
+  },
+  {
+    "id": "6.72_item_Hand-of-Midas",
+    "version": "6.72",
+    "category": "item",
+    "label": "Hand of Midas",
+    "descriptionHtml": "<ul><li>Hand of Midas now gives a constant amount of gold (190)</li></ul>",
+    "imageSrc": "/commons/images/1/1a/Hand_of_Midas.png"
+  },
+  {
+    "id": "6.72_item_Healing-Salve",
+    "version": "6.72",
+    "category": "item",
+    "label": "Healing Salve",
+    "descriptionHtml": "<ul><li>Stock cooldown removed</li></ul>",
+    "imageSrc": "/commons/images/9/9c/Healing_Salve.png"
+  },
+  {
+    "id": "6.72_item_Heart-of-Tarrasque",
+    "version": "6.72",
+    "category": "item",
+    "label": "Heart of Tarrasque",
+    "descriptionHtml": "<ul><li>Melee heroes now only have to wait 4 seconds after taking player damage for the regeneration to activate</li></ul>",
+    "imageSrc": "/commons/images/a/a6/Heart_of_Tarrasque.png"
+  },
+  {
+    "id": "6.72_item_Maelstrom",
+    "version": "6.72",
+    "category": "item",
+    "label": "Maelstrom",
+    "descriptionHtml": "<ul><li>Recipe cost decreased from 800 to 600</li></ul>",
+    "imageSrc": "/commons/images/1/14/Maelstrom.png"
+  },
+  {
+    "id": "6.72_item_Mjollnir",
+    "version": "6.72",
+    "category": "item",
+    "label": "Mjollnir",
+    "descriptionHtml": "<ul><li>Recipe cost increased from 400 to 600</li><li>IAS bonus increased from 70 to 80 to match its components</li></ul>",
+    "imageSrc": "/commons/images/b/b7/Mjollnir.png"
+  },
+  {
+    "id": "6.72_item_Necronomicon",
+    "version": "6.72",
+    "category": "item",
+    "label": "Necronomicon",
+    "descriptionHtml": "<ul><li>Warrior<a>Last Will</a>damage rescaled from 200/400/600 to 400/500/600</li><li><a>Archer Aura</a>AoE increased to standard aura sizes</li></ul>",
+    "imageSrc": "/commons/images/5/51/Necronomicon_1.png"
+  },
+  {
+    "id": "6.72_item_Orb-of-Venom",
+    "version": "6.72",
+    "category": "item",
+    "label": "Orb of Venom",
+    "descriptionHtml": "<ul><li>Orb of Venom price decreased from 500 to 450</li></ul>",
+    "imageSrc": "/commons/images/a/a2/Orb_of_Venom.png"
+  },
+  {
+    "id": "6.72_item_Orchid-Malevolence",
+    "version": "6.72",
+    "category": "item",
+    "label": "Orchid Malevolence",
+    "descriptionHtml": "<ul><li><a>Soul Burn</a>damage recurrence increased from 20% to 25%</li></ul>",
+    "imageSrc": "/commons/images/e/e5/Orchid_Malevolence.png"
+  },
+  {
+    "id": "6.72_item_Pipe-of-Insight",
+    "version": "6.72",
+    "category": "item",
+    "label": "Pipe of Insight",
+    "descriptionHtml": "<ul><li><a>Barrier</a>duration increased from 8 to 10</li></ul>",
+    "imageSrc": "/commons/images/1/1e/Pipe_of_Insight.png"
+  },
+  {
+    "id": "6.72_item_Quelling-Blade",
+    "version": "6.72",
+    "category": "item",
+    "label": "Quelling Blade",
+    "descriptionHtml": "<ul><li>Can now be sold</li></ul>",
+    "imageSrc": "/commons/images/4/43/Quelling_Blade.png"
+  },
+  {
+    "id": "6.72_item_Refresher-Orb",
+    "version": "6.72",
+    "category": "item",
+    "label": "Refresher Orb",
+    "descriptionHtml": "<ul><li>Cooldown decreased from 210 to 160</li></ul>",
+    "imageSrc": "/commons/images/a/a2/Refresher_Orb.png"
+  },
+  {
+    "id": "6.72_item_Ring-of-Basilius",
+    "version": "6.72",
+    "category": "item",
+    "label": "Ring of Basilius",
+    "descriptionHtml": "<ul><li>No longer interrupts your hero when toggled</li></ul>",
+    "imageSrc": "/commons/images/a/a4/Ring_of_Basilius.png"
+  },
+  {
+    "id": "6.72_item_Sange",
+    "version": "6.72",
+    "category": "item",
+    "label": "Sange",
+    "descriptionHtml": "<ul><li><a>Lesser Maim</a>is no longer an Orb effect</li></ul>",
+    "imageSrc": "/commons/images/c/ca/Sange.png"
+  },
+  {
+    "id": "6.72_item_Sange-and-Yasha",
+    "version": "6.72",
+    "category": "item",
+    "label": "Sange and Yasha",
+    "descriptionHtml": "<ul><li><a>Greater Maim</a>is no longer an Orb effect</li></ul>",
+    "imageSrc": "/commons/images/1/1c/Sange_and_Yasha.png"
+  },
+  {
+    "id": "6.72_item_Scythe-of-Vyse",
+    "version": "6.72",
+    "category": "item",
+    "label": "Scythe of Vyse",
+    "descriptionHtml": "<ul><li>Mana regeneration decreased from 200% to 150%</li></ul>",
+    "imageSrc": "/commons/images/b/b3/Scythe_of_Vyse.png"
+  },
+  {
+    "id": "6.72_item_Shadow-Blade",
+    "version": "6.72",
+    "category": "item",
+    "label": "Shadow Blade",
+    "descriptionHtml": "<ul><li><a>Shadow Walk</a>bonus damage increased from 125 to 150</li></ul>",
+    "imageSrc": "/commons/images/4/4a/Shadow_Blade.png"
+  },
+  {
+    "id": "6.72_item_Smoke-of-Deceit",
+    "version": "6.72",
+    "category": "item",
+    "label": "Smoke of Deceit",
+    "descriptionHtml": "<ul><li>Dispel AoE from heroes and towers increased from 850 to 950</li><li>Stock cooldown increased from 10 to 12 minutes</li></ul>",
+    "imageSrc": "/commons/images/b/b4/Smoke_of_Deceit.png"
+  },
+  {
+    "id": "6.72_item_Urn-of-Shadows",
+    "version": "6.72",
+    "category": "item",
+    "label": "Urn of Shadows",
+    "descriptionHtml": "<ul><li>Double clicking will now self-cast<a>Soul Release</a></li></ul>",
+    "imageSrc": "/commons/images/7/78/Urn_of_Shadows.png"
+  },
+  {
+    "id": "6.72_general_General-updates",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Heroes now get XP if they get a kill outside of the standard XP range</li></ul>"
+  },
+  {
+    "id": "6.72_bug-fix_Bug-fixes",
+    "version": "6.72",
+    "category": "bug-fix",
+    "label": "Bug fixes",
+    "descriptionHtml": "<ul><li>Fixed Courier stopping and standing still in the middle of its delivery path if the hero disappears (Astral Imprisonment, Disruption, etc.)</li><li>Fixed a bug with Phase Boots that could cause Smoke of Deceit invisibility to last a little bit extra after it should be revealed</li><li>Fixed Scream of Pain not hitting fogged or invisible units</li><li>Fixed item chest sometimes being hard to click when buying with full inventory at side shops</li><li>Fixed courier command panel sometimes getting bugged if the courier is carrying certain items</li><li>Fixed the Collect Items function causing an enemy gem to be teleported back to their base</li><li>Fixed Flying Courier from being able to right click on a powerup to waste it</li><li>Fixed Natural Order and Ice Vortex interaction with spell resistance items</li><li>Fixed Buyback wasting gold and cooldown if used while reviving with Aegis</li><li>Fixed creep spawn count increase timer starting from game load rather than creep spawn</li><li>Fixed Impetus damage cap reverting it to zero instead of remaining at the cap at long distances</li><li>Fixed Shackleshot not stunning the secondary target if it went into fog while the projectile was flying</li><li>Fixed deaths during Primal Split from counting as suicides</li><li>Fixed the selection type for Mass Serpent Wards, Death Ward and Plague Wards so they behave like normal units from UI</li><li>Fixed a rare bug that sometimes caused level 1-3 of Necromastery to be a little higher than its max</li><li>Fixed Blur triggering on heroes with an invisibility buff</li><li>Fixed a bug with TB disappearing from map</li><li>Fixed Sun Ray continuing while reincarnating with Aegis</li><li>Fixed Plasma Field AoE damage not hitting invisible units</li><li>Fixed Desolator against Swarm units</li><li>Fixed Desolator against Seeking Missile</li><li>Fixed Overcharge sometimes turning off by itself</li><li>Fixed some rare bugs with Time Walk that could cause it to jump much further</li><li>Fixed a bug with Phase Boots and Spectral Dagger</li><li>Fixed a rare visual glitch possible with Dream Coil</li><li>Fixed Pudge being unable to cast Meat Hook when Ethereal</li><li>Fixed a bug with how Stone Gaze levels up</li><li>Fixed a bug with how the slow on Demonic Purges levels up</li><li>Fixed Charge of Darkness using up Linken&apos;s Sphere but continuing anyways</li><li>Fixed Meat Hook from wasting Linken&apos;s Sphere</li><li>Fixed Laser&apos;s blind effect not getting removed by Dark Pact</li><li>Fixed Jinada charge getting wasted on structures</li><li>Fixed Armlet sometimes draining extra HP when you interact with your inventory</li><li>Fixed Smoke of Deceit from getting temporarily applied if enemies were already in range</li><li>Fixed being able to buy smoke and gem at enemy base</li><li>Fixed Lifestealer continuing to lose HP via Armlet while he is infesting a unit</li><li>Fixed some rare bugs with Juggernaut becoming permanently magic immune and silenced</li><li>Fixed a bug with RD that allowed you to make the heroes move</li><li>Fixed some edges in the Roshan area where you could place a ward</li><li>Fixed Gem allied visual effect sometimes not showing up</li><li>Fixed Urn of Shadows ignoring Linken&apos;s Sphere</li><li>Fixed Ethereal Blade ignoring Linken&apos;s Sphere</li><li>Fixed Primal Roar not being blocked properly by Linken&apos;s Sphere</li><li>Fixed Waveform sometimes moving a little further than it should</li><li>Added safety code to Nether Strike preventing cases that teleported SB into the enemy fountain</li><li>Time Lapse now starts remembering locations when Weaver is picked instead of when it is skilled</li><li>Fixed lots of old tooltip inconsistencies</li></ul>"
+  }
+]

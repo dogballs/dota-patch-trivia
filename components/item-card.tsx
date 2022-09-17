@@ -1,10 +1,10 @@
-import React from "react";
-import classNames from "classnames";
-import { useSpring, animated } from "react-spring";
-import { Draggable } from "react-beautiful-dnd";
-import { Item, PlayedItem } from "../types/item";
-import { createWikimediaImage } from "../lib/image";
-import styles from "../styles/item-card.module.scss";
+import React from 'react';
+import classNames from 'classnames';
+import { useSpring, animated } from 'react-spring';
+import { Draggable } from 'react-beautiful-dnd';
+import { Item, PlayedItem } from '../types/item';
+import { createImageUrl } from '../lib/items';
+import styles from '../styles/item-card.module.scss';
 
 type Props = {
   draggable?: boolean;
@@ -12,26 +12,6 @@ type Props = {
   index: number;
   item: Item | PlayedItem;
   setFlippedId?: (flippedId: string | null) => void;
-};
-
-const datePropIdMap: { [datePropId: string]: string } = {
-  P575: "discovered", // or invented
-  P7589: "date of assent",
-  P577: "published",
-  P1191: "first performed",
-  P1619: "officially opened",
-  P571: "created",
-  P1249: "earliest record",
-  P576: "ended",
-  P8556: "became extinct",
-  P6949: "announced",
-  P1319: "earliest",
-  P569: "born",
-  P570: "died",
-  P582: "ended",
-  P580: "started",
-  P7125: "latest one",
-  P7124: "first one",
 };
 
 function capitalize(str: string): string {
@@ -49,19 +29,17 @@ export default function ItemCard(props: Props) {
     config: { mass: 5, tension: 750, friction: 100 },
   });
 
-  const type = React.useMemo(() => {
-    const safeDescription = item.description.replace(/ \(.+\)/g, "");
+  let bottomStr = 'changed in';
+  if (item.category === 'new-hero' || item.category === 'new-item') {
+    bottomStr = 'added in';
+  }
+  if ('played' in item) {
+    bottomStr = item.version;
+  }
 
-    if (item.description.length < 60 && !/\d\d/.test(safeDescription)) {
-      return item.description.replace(/ \(.+\)/g, "");
-    }
-
-    if (item.instance_of.includes("human") && item.occupations !== null) {
-      return item.occupations[0];
-    }
-
-    return item.instance_of[0];
-  }, [item]);
+  const cleanDescription = item.descriptionHtml
+    .replaceAll('<a>', '')
+    .replaceAll('</a>', ' ');
 
   return (
     <Draggable draggableId={item.id} index={index} isDragDisabled={!draggable}>
@@ -69,22 +47,22 @@ export default function ItemCard(props: Props) {
         return (
           <div
             className={classNames(styles.itemCard, {
-              [styles.played]: "played" in item,
+              [styles.played]: 'played' in item,
               [styles.flipped]: flipped,
               [styles.dragging]: snapshot.isDragging,
             })}
             ref={provided.innerRef}
             {...provided.draggableProps}
             {...provided.dragHandleProps}
-            onClick={() => {
-              if ("played" in item && setFlippedId) {
-                if (flipped) {
-                  setFlippedId(null);
-                } else {
-                  setFlippedId(item.id);
-                }
-              }
-            }}
+            // onClick={() => {
+            //   if ('played' in item && setFlippedId) {
+            //     if (flipped) {
+            //       setFlippedId(null);
+            //     } else {
+            //       setFlippedId(item.id);
+            //     }
+            //   }
+            // }}
           >
             <animated.div
               className={styles.front}
@@ -94,31 +72,32 @@ export default function ItemCard(props: Props) {
               }}
             >
               <div className={styles.top}>
+                {
+                  <div
+                    className={styles.image}
+                    style={{
+                      backgroundImage: item.imageSrc
+                        ? `url("${createImageUrl(item.imageSrc)}")`
+                        : undefined,
+                    }}
+                  ></div>
+                }
                 <div className={styles.label}>{capitalize(item.label)}</div>
-                <div className={styles.description}>{capitalize(type)}</div>
               </div>
               <div
-                className={styles.image}
-                style={{
-                  backgroundImage: `url("${createWikimediaImage(item.image)}")`,
-                }}
-              ></div>
+                className={styles.type}
+                dangerouslySetInnerHTML={{ __html: cleanDescription }}
+              />
               <animated.div
                 className={classNames(styles.bottom, {
-                  [styles.correct]: "played" in item && item.played.correct,
-                  [styles.incorrect]: "played" in item && !item.played.correct,
+                  [styles.correct]: 'played' in item && item.played.correct,
+                  [styles.incorrect]: 'played' in item && !item.played.correct,
                 })}
               >
-                <span>
-                  {"played" in item
-                    ? item.year < -10000
-                      ? item.year.toLocaleString()
-                      : item.year.toString()
-                    : datePropIdMap[item.date_prop_id]}
-                </span>
+                {<span>{bottomStr}</span>}
               </animated.div>
             </animated.div>
-            <animated.div
+            {/*<animated.div
               className={styles.back}
               style={{
                 opacity: cardSpring.opacity,
@@ -145,7 +124,7 @@ export default function ItemCard(props: Props) {
               >
                 Wikipedia
               </a>
-            </animated.div>
+            </animated.div>*/}
           </div>
         );
       }}

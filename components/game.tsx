@@ -1,12 +1,12 @@
-import React, { useState } from "react";
-import axios from "axios";
-import { GameState } from "../types/game";
-import { Item } from "../types/item";
-import createState from "../lib/create-state";
-import Board from "./board";
-import Loading from "./loading";
-import Instructions from "./instructions";
-import badCards from "../lib/bad-cards";
+import React, { useState } from 'react';
+import axios from 'axios';
+import { GameState } from '../types/game';
+import { Item } from '../types/item';
+import createState from '../lib/create-state';
+import Board from './board';
+import Loading from './loading';
+import Instructions from './instructions';
+import badCards from '../lib/bad-cards';
 
 export default function Game() {
   const [state, setState] = useState<GameState | null>(null);
@@ -16,22 +16,23 @@ export default function Game() {
 
   React.useEffect(() => {
     const fetchGameData = async () => {
-      const res = await axios.get<string>(
-        "https://wikitrivia-data.tomjwatson.com/items.json"
-      );
-      const items: Item[] = res.data
-        .trim()
-        .split("\n")
-        .map((line) => {
-          return JSON.parse(line);
-        })
+      const res = await axios.get<Item[]>('/combined.json');
+      const responseItems = res.data;
+      const filteredItems = responseItems
         // Filter out questions which give away their answers
-        .filter((item) => !item.label.includes(String(item.year)))
-        .filter((item) => !item.description.includes(String(item.year)))
-        .filter((item) => !item.description.includes(String("st century" || "nd century" || "th century")))
+        // .filter<Item>((item) => !item.label.includes(String(item.year)))
+        // .filter((item) => !item.description.includes(String(item.year)))
+        // .filter(
+        //   (item) =>
+        //     !item.description.includes(
+        //       String('st century' || 'nd century' || 'th century'),
+        //     ),
+        // )
         // Filter cards which have bad data as submitted in https://github.com/tom-james-watson/wikitrivia/discussions/2
-        .filter((item) => !(item.id in badCards));
-      setItems(items);
+        .filter((item) => {
+          return !badCards.includes(item.id);
+        });
+      setItems(filteredItems);
     };
 
     fetchGameData();
@@ -55,11 +56,11 @@ export default function Game() {
   }, [items]);
 
   const [highscore, setHighscore] = React.useState<number>(
-    Number(localStorage.getItem("highscore") ?? "0")
+    Number(localStorage.getItem('highscore') ?? '0'),
   );
 
   const updateHighscore = React.useCallback((score: number) => {
-    localStorage.setItem("highscore", String(score));
+    localStorage.setItem('highscore', String(score));
     setHighscore(score);
   }, []);
 

@@ -1,0 +1,257 @@
+[
+  {
+    "id": "7.19_new-hero_Grimstroke",
+    "version": "7.19",
+    "category": "new-hero",
+    "label": "Grimstroke",
+    "descriptionHtml": "",
+    "imageSrc": "/commons/images/thumb/6/60/Grimstroke_Large.png/128px-Grimstroke_Large.png"
+  },
+  {
+    "id": "7.19_general_General-updates",
+    "version": "7.19",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Daily Bonus Hero</a>changed from 2<a>Mangoes</a>to 1</li><li>Added 2 trees near the cliff area below the Dire primary jungle shrine</li></ul>"
+  },
+  {
+    "id": "7.19_hero_Abaddon",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Abaddon",
+    "descriptionHtml": "<ul><li><a>Mist Coil</a>mana cost reduced from 50/60/70/80 to 50</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Abaddon_Large.png/80px-Abaddon_Large.png"
+  },
+  {
+    "id": "7.19_hero_Ancient-Apparition",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Ancient Apparition",
+    "descriptionHtml": "<ul><li><a>Ice Vortex</a>mana cost reduced from 80/90/100/110 to 65/80/95/110</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5d/Ancient_Apparition_Large.png/80px-Ancient_Apparition_Large.png"
+  },
+  {
+    "id": "7.19_hero_Bloodseeker",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Bloodseeker",
+    "descriptionHtml": "<ul><li>Level 25 Talent reduced from +20% Max Thirst and Damage to +18%</li><li><a>Thirst</a>bonus rescaled from 16/24/32/40 to 7/18/29/40</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a6/Bloodseeker_Large.png/80px-Bloodseeker_Large.png"
+  },
+  {
+    "id": "7.19_hero_Broodmother",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Broodmother",
+    "descriptionHtml": "<ul><li><a>Spin Web</a>movement speed reduced from 40/50/60/70% to 25/40/55/70%</li><li>Spin Web charge replenish rate increased from 40 to 45 seconds</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0c/Broodmother_Large.png/80px-Broodmother_Large.png"
+  },
+  {
+    "id": "7.19_hero_Centaur-Warrunner",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Centaur Warrunner",
+    "descriptionHtml": "<ul><li>Base strength increased by 2</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Centaur_Warrunner_Large.png/80px-Centaur_Warrunner_Large.png"
+  },
+  {
+    "id": "7.19_hero_Crystal-Maiden",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Crystal Maiden",
+    "descriptionHtml": "<ul><li><a>Crystal Nova</a>mana cost increased from 100/120/140/160 to 130/140/150/160</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dc/Crystal_Maiden_Large.png/80px-Crystal_Maiden_Large.png"
+  },
+  {
+    "id": "7.19_hero_Drow-Ranger",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Drow Ranger",
+    "descriptionHtml": "<ul><li>Base strength reduced by 1</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7e/Drow_Ranger_Large.png/80px-Drow_Ranger_Large.png"
+  },
+  {
+    "id": "7.19_hero_Enchantress",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Enchantress",
+    "descriptionHtml": "<ul><li><a>Nature&apos;s Attendants</a>mana cost increased from 110/120/140/150 to 170/160/150/140</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/57/Enchantress_Large.png/80px-Enchantress_Large.png"
+  },
+  {
+    "id": "7.19_hero_Grimstroke",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Grimstroke",
+    "descriptionHtml": "<ul><li><a>Stroke of Fate</a><ul><li>Reduced movement slow duration from 2➜1.5</li><li>Movement slow can now be dispelled</li><li>Reduced projectile vision radius from 240➜160</li><li>Reduced projectile’s endpoint vision radius from 300➜160 and duration from 3.34➜2</li><li>Fixed +600 range talent incorrectly updating the range preview</li></ul></li><li><a>Phantom&apos;s Embrace</a><ul><li>Reduced phantom unit&apos;s vision range from 400➜200</li><li>Changed latch duration from 4/4.5/5/5.5➜4/4/5/5</li><li>If the target dies, the phantom now flies back to caster to refresh the cooldown</li><li>Fixed a bug with +2 hits required talent only giving +1.3 hits (4 non-hero hits instead of 6)</li></ul></li><li><a>Ink Swell</a><ul><li>Reduced bonus movement speed from 28/32/36/40%➜18/22/26/30%</li><li>Damage and stun amounts now range from 0 to max, instead of from a base value to max</li><li>Ink tendril particle doesn&apos;t display if the affected enemy unit is invisible</li></ul></li><li><a>Soulbind</a><ul><li>No longer sees through invisibility on leashed targets</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Grimstroke_Large.png/80px-Grimstroke_Large.png"
+  },
+  {
+    "id": "7.19_hero_Juggernaut",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Juggernaut",
+    "descriptionHtml": "<ul><li><a>Blade Fury</a>damage increased from 80/105/130/155 to 90/115/140/160</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c8/Juggernaut_Large.png/80px-Juggernaut_Large.png"
+  },
+  {
+    "id": "7.19_hero_Necrophos",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Necrophos",
+    "descriptionHtml": "<ul><li><a>Ghost Shroud</a>self magic resistance reduction increased from 30% to 40%</li><li><a>Reaper&apos;s Scythe</a>Scepter cooldown increased from 55/40/25 to 60/50/40</li><li>Reaper&apos;s Scythe cast point increased from 0.5 to 0.55</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0e/Necrophos_Large.png/80px-Necrophos_Large.png"
+  },
+  {
+    "id": "7.19_hero_Ogre-Magi",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Ogre Magi",
+    "descriptionHtml": "<ul><li><a>Fireblast</a>damage increased from 55/110/165/220 to 60/120/180/240</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Ogre_Magi_Large.png/80px-Ogre_Magi_Large.png"
+  },
+  {
+    "id": "7.19_hero_Outworld-Devourer",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Outworld Devourer",
+    "descriptionHtml": "<ul><li><a>Sanity&apos;s Eclipse</a>damage multiplier increased from 8/9/10 to 9/10/11</li><li><a>Essence Aura</a>mana bonus increased from 125/200/275/350 to 150/250/350/450</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Outworld_Destroyer_Large.png/80px-Outworld_Destroyer_Large.png"
+  },
+  {
+    "id": "7.19_hero_Phantom-Lancer",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Phantom Lancer",
+    "descriptionHtml": "<ul><li><a>Juxtapose</a>Illusion incoming damage increased from 500% to 600%</li><li>Base intelligence reduced by 2</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/1e/Phantom_Lancer_Large.png/80px-Phantom_Lancer_Large.png"
+  },
+  {
+    "id": "7.19_hero_Phoenix",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Phoenix",
+    "descriptionHtml": "<ul><li>Level 15 Talent reduced from +60 Fire Spirits DPS to +50</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Phoenix_Large.png/80px-Phoenix_Large.png"
+  },
+  {
+    "id": "7.19_hero_Puck",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Puck",
+    "descriptionHtml": "<ul><li><a>Waning Rift</a>silence duration increased from 1.5/2/2.5/3 to 2/2.5/3/3.5</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/3a/Puck_Large.png/80px-Puck_Large.png"
+  },
+  {
+    "id": "7.19_hero_Pudge",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Pudge",
+    "descriptionHtml": "<ul><li><a>Meat Hook</a>cooldown increased from 17/15/13/11 to 27/22/17/12</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dd/Pudge_Large.png/80px-Pudge_Large.png"
+  },
+  {
+    "id": "7.19_hero_Pugna",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Pugna",
+    "descriptionHtml": "<ul><li>Base damage reduced by 2</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/24/Pugna_Large.png/80px-Pugna_Large.png"
+  },
+  {
+    "id": "7.19_hero_Riki",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Riki",
+    "descriptionHtml": "<ul><li><a>Smoke Screen</a>cast point improved from 0.4 to 0.2</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a3/Riki_Large.png/80px-Riki_Large.png"
+  },
+  {
+    "id": "7.19_hero_Shadow-Shaman",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Shadow Shaman",
+    "descriptionHtml": "<ul><li>Base armor increased by 1</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/d8/Shadow_Shaman_Large.png/80px-Shadow_Shaman_Large.png"
+  },
+  {
+    "id": "7.19_hero_Sniper",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Sniper",
+    "descriptionHtml": "<ul><li>Level 15 Talent increased from +25 Shrapnel DPS to +35</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a2/Sniper_Large.png/80px-Sniper_Large.png"
+  },
+  {
+    "id": "7.19_hero_Sven",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Sven",
+    "descriptionHtml": "<ul><li>Base damage increased by 2</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f2/Sven_Large.png/80px-Sven_Large.png"
+  },
+  {
+    "id": "7.19_hero_Templar-Assassin",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Templar Assassin",
+    "descriptionHtml": "<ul><li><a>Psionic Trap</a>damage reduced from 250/350/450 to 250/300/350</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/50/Templar_Assassin_Large.png/80px-Templar_Assassin_Large.png"
+  },
+  {
+    "id": "7.19_hero_Timbersaw",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Timbersaw",
+    "descriptionHtml": "<ul><li><a>Reactive Armor</a>armor per stack increased from 1/1.2/1.4/1.6 to 1.3/1.4/1.5/1.6</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Timbersaw_Large.png/80px-Timbersaw_Large.png"
+  },
+  {
+    "id": "7.19_hero_Treant-Protector",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Treant Protector",
+    "descriptionHtml": "<ul><li><a>Leech Seed</a>mana cost increased from 80/95/110/125 to 100/110/120/130</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7a/Treant_Protector_Large.png/80px-Treant_Protector_Large.png"
+  },
+  {
+    "id": "7.19_hero_Visage",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Visage",
+    "descriptionHtml": "<ul><li><a>Gravekeeper&apos;s Cloak</a>minimum damage reduced from 50 to 40</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f8/Visage_Large.png/80px-Visage_Large.png"
+  },
+  {
+    "id": "7.19_hero_Weaver",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Weaver",
+    "descriptionHtml": "<ul><li>Base movement speed reduced from 280 to 275</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/59/Weaver_Large.png/80px-Weaver_Large.png"
+  },
+  {
+    "id": "7.19_hero_Windranger",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Windranger",
+    "descriptionHtml": "<ul><li><a>Windrun</a>cooldown﻿ increased from 12 to 15/14/13/12</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Windranger_Large.png/80px-Windranger_Large.png"
+  },
+  {
+    "id": "7.19_hero_Winter-Wyvern",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Winter Wyvern",
+    "descriptionHtml": "<ul><li><a>Splinter Blast</a>mana cost increased from 90/110/130/150 to 105/120/135/150</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c7/Winter_Wyvern_Large.png/80px-Winter_Wyvern_Large.png"
+  },
+  {
+    "id": "7.19_hero_Zeus",
+    "version": "7.19",
+    "category": "hero",
+    "label": "Zeus",
+    "descriptionHtml": "<ul><li><a>Nimbus</a>radius reduced from 500 to 450</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/91/Zeus_Large.png/80px-Zeus_Large.png"
+  }
+]

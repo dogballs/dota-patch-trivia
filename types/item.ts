@@ -1,15 +1,19 @@
+export type Category =
+  | 'new-hero'
+  | 'new-item'
+  | 'general'
+  | 'bug-fix'
+  | 'item'
+  | 'neutral-item'
+  | 'hero';
+
 export interface Item {
-  date_prop_id: string;
-  description: string;
   id: string;
-  image: string;
-  instance_of: string[];
+  version: string;
+  category: Category;
   label: string;
-  num_sitelinks: number;
-  occupations: string[] | null;
-  page_views: number;
-  wikipedia_title: string;
-  year: number;
+  descriptionHtml: string;
+  imageSrc?: string;
 }
 
 export type PlayedItem = Item & {

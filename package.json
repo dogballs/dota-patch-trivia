@@ -11,7 +11,8 @@
     "start": "next start",
     "parse": "ts-node scraper/parse.ts",
     "fetch": "ts-node scraper/fetch.ts",
-    "combine": "ts-node scraper/combine.ts"
+    "combine": "ts-node scraper/combine.ts",
+    "images": "ts-node scraper/images.ts"
   },
   "dependencies": {
     "axios": "^0.21.1",

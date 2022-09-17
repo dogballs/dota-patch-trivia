@@ -1,0 +1,1003 @@
+[
+  {
+    "id": "7.28_general_General-updates",
+    "version": "7.28",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Game now starts at night time and turns to day once creeps spawn</li></ul>"
+  },
+  {
+    "id": "7.28_general_General-updates",
+    "version": "7.28",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new item:<b>Aghanim’s Shard</b></li><li>Costs 1400 Gold. All heroes have their own custom shard upgrade as part of this update which permanently adds a new ability or improves an existing one. Can be purchased starting at 20 minutes and gets consumed immediately when it&apos;s given to your hero (like Aghanim&apos;s Blessing).</li><li>You can now check what Scepter and Shard upgrades do for the selected hero directly in the Hero UI, next to their abilities, as well as which ones are active. Consumed Scepter buffs no longer shows up as a buff icon mixed in with other buffs. Alt-Clicking on the Scepter and Shard UI will notify your allies whether the selected hero owns that upgrade.</li></ul>"
+  },
+  {
+    "id": "7.28_hero_Abaddon",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Abaddon",
+    "descriptionHtml": "<ul><li><img></img><a>Aphotic Shield</a>cast point reduced from 0.4 to 0.3</li><li><img></img><a>Borrowed Time</a>scepter duration increased from 5/6/7 to 6/7/8</li><li><img></img>Level 15 Talent increased from +48 Mist Coil Heal/Damage to +50</li><li><img></img>Level 15 Talent changed from +6 Armor to +65 Damage</li><li><img></img>Level 20 Talent changed from +80 Damage to +8 Armor</li><li><img></img>Level 25 Talent increased from 375 AoE Mist Coil to 425</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Mist Coil</a>and Aphotic Shield<ul><li>Apply a<a>Curse of Avernus</a>stack on enemies.</li><li>Increases Curse of Avernus base slow by 6%.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Abaddon_Large.png/80px-Abaddon_Large.png"
+  },
+  {
+    "id": "7.28_hero_Alchemist",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Alchemist",
+    "descriptionHtml": "<ul><li><img></img><a>Unstable Concoction</a>manacost reduced from 120 to 90/100/110/120</li><li><img></img>Unstable Concoction cooldown reduced from 22/20/18/16 to 16</li><li><img></img><a>Acid Spray</a>damage increased from 15/20/25/30 to 20/25/30/35</li><li><img></img>Acid Spray first damage instance is now immediate rather than after a second</li><li><img></img>Gold bonus cap reduced from 18/22/26/30 to 18/21/24/27 (last hit count from 5/7/8/9 to 5/6/7/8)</li><li><img></img>If an ally already has a scepter buff or the item, it refunds them based on which version they have (either 4200 or 5800).</li><li><img></img>Alchemist granted scepter buffs provide the full stat bonuses.</li><li><img></img>Scepter damage/spell amp bonus reduced from 30/6 to 20/5</li><li><img></img>Level 20 Talent reduced from +30% Cleave to +25%</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Berserk Potion</a><ul><li>Throws a potion at the target ally, applying a basic dispel and granting +50 Attack Speed and +40 HP Regen for 10 seconds.</li><li>Cast Range: 800. Cooldown: 45. Manacost: 125. Can be used on self.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/1/11/Alchemist_Large.png/80px-Alchemist_Large.png"
+  },
+  {
+    "id": "7.28_hero_Ancient-Apparition",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Ancient Apparition",
+    "descriptionHtml": "<ul><li><img></img><a>Ice Blast</a>max travel time improved from 2 seconds to 1.75</li><li><img></img><a>Chilling Touch</a>manacost reduced from 30/50/70/90 to 30/45/60/75</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Ice Vortex</a><ul><li>Deal 40 DPS and reduces attack speed by 20</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5d/Ancient_Apparition_Large.png/80px-Ancient_Apparition_Large.png"
+  },
+  {
+    "id": "7.28_hero_Anti-Mage",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Anti-Mage",
+    "descriptionHtml": "<ul><li><img></img><a>Mana Break</a>max burn reduced from 1/2/3/4% to 1/1.8/2.6/3.4%</li><li><img></img>Level 15 Talent changed from +12 Agility to +8 Armor</li><li><img></img>Level 15 Talent reduced from +325 Blink Cast Range to +300</li><li><img></img>Level 20 Talent changed from Blink Uncontrollable Illusion to +0.1 Mana Void Damage Multiplier</li><li><img></img>Scepter Rework<ul><li>Grants<a>Blink Fragment</a><ul><li>Blinks an illusion at the target enemy or location and attacks them for 7 seconds. Uses Blink&apos;s Cast Range. Illusion cannot be controlled, deals 50% damage, takes 250%.</li><li>Casting<a>Counterspell</a>also casts it on the Fragment illusion. Cooldown: 20. Manacost: 50</li></ul></li></ul></li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Counterspell<ul><li>Successful Counterspell creates an illusion attacking the caster for 5 seconds.</li><li>Removes Counterspell manacost.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/7/70/Anti-Mage_Large.png/80px-Anti-Mage_Large.png"
+  },
+  {
+    "id": "7.28_hero_Arc-Warden",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Arc Warden",
+    "descriptionHtml": "<ul><li><img></img>Strength gain reduced from 3.0 to 2.8</li><li><img></img>Level 10 Talent reduced from +300 Flux Cast Range to +250</li><li><img></img>Level 15 Talent reduced from +15% Cooldown Reduction to +12%</li><li><img></img>Level 15 Talent reduced from 50 Attack Speed to 40</li><li><img></img>Level 20 Talent changed from -1.5s Spark Wraith Cooldown Reduction to +150 Spark Wraith Damage</li><li><img></img>Level 25 Talent changed from +250 Spark Wraith Damage to +12s Tempest Double Duration</li><li><img></img>Scepter Rework<ul><li>After impacting an enemy, Spark Wraiths now spawn a new Wraith, which then starts its activation period.</li><li>Has a 3 second spawn delay. Duplicated Wraiths do not duplicate again</li></ul></li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Magnetic Field</a><ul><li>Now pushes enemies out of the area at cast time, and provides allies in it with +20% Magic Resistance.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Arc_Warden_Large.png/80px-Arc_Warden_Large.png"
+  },
+  {
+    "id": "7.28_hero_Axe",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Axe",
+    "descriptionHtml": "<ul><li><img></img><a>Battle Hunger</a>cast range rescaled from 750 to 700/775/850/925</li><li><img></img>Level 10 Talent changed from +20 Movement Speed to +1.75 Mana Regen</li><li><img></img>Level 15 Talent changed from +2 Mana Regen to +25 Movement Speed</li><li><img></img>Level 15 Talent changed from Attacking Procs Counter Helix to +300 Health</li><li><img></img>Scepter Rework<ul><li><a>Berserker&apos;s Call</a>applies Battle Hunger to affected units. Lowers Berserker&apos;s Call cooldown by 2 seconds.</li><li>Battle Hunger also reduces enemy armor by 7 and grants you 7 per affected target (half on creeps).</li></ul></li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Causes your attacks to have a chance to proc a<a>Counter Helix</a>.</li><li>Attack procs ignore Counter Helix cooldown. Provides +20 Attack Speed.</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a1/Axe_Large.png/80px-Axe_Large.png"
+  },
+  {
+    "id": "7.28_hero_Bane",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Bane",
+    "descriptionHtml": "<ul><li><img></img>Night vision improved from 800 to 1200</li><li><img></img><a>Brain Sap</a>damage type changed from Magical to Pure</li><li><img></img>Brain Sap damage reduced from 100/200/300/400 to 75/150/225/300</li><li><img></img>Brain Sap scepter no longer improves the cast point.</li><li><img></img>Brain Sap cast point reduced from 0.4 to 0.2</li><li><img></img><a>Fiend’s Grip</a>damage type changed from Magical to Pure</li><li><img></img>Fiend’s Grip damage reduced from 100/155/215 to 80/120/160</li><li><img></img>Swapped the Nightmare and Enfeeble hotkeys</li><li><img></img>Reworked<a>Enfeeble</a><ul><li>Reduces all attack damage by 25/35/45/55%, regeneration by 25/35/45/55% and cast speed by 30%.</li><li>Lasts 8 seconds. Does not pierce Spell Immunity.</li><li>Cooldown: 20/16/12/8. Cast Range: 1100. Manacost: 40/50/60/70. Cast Point: 0.2</li></ul></li><li><img></img>Level 15 Talent increased from +9% Spell Amp to +12%</li><li><img></img>Level 15 Talent reduced from +125 Cast Range to +100</li><li><img></img>Level 25 Talent reduced from +200 Brain Sap Damage/Heal to +150</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Fiend’s Grip<ul><li>Fiend’s Grip now creates an uncontrollable illusion that is also channeling Fiend’s Grip on the target.</li><li>Illusion takes 750% incoming damage and immediately dies if it is interrupted.</li><li>Multiple Fiend’s Grip effects do not stack on the target.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/7/72/Bane_Large.png/80px-Bane_Large.png"
+  },
+  {
+    "id": "7.28_hero_Batrider",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Batrider",
+    "descriptionHtml": "<ul><li><img></img>Base armor increased by 1</li><li><img></img><a>Sticky Napalm</a>no longer does less damage to creeps</li><li><img></img>Sticky Napalm damage per stack reduced from 10/15/20/25 to 6/12/18/24</li><li><img></img>Sticky Napalm turn rate slow reduced from 40/50/60/70% to 10/30/50/70%</li><li><img></img>Sticky Napalm radius increased from 375 to 375/400/425/450</li><li><img></img><a>Firefly</a>movement speed decreased from 4/7/10/13% to 3/6/9/12%</li><li><img></img><a>Flaming Lasso</a>cooldown increased from 100/90/80 to 120/115/110</li><li><img></img>Flaming Lasso cast range increased from 100 to 175</li><li><img></img>Flaming Lasso scepter secondary range increased from 550 to 600</li><li><img></img>Level 20 Talent increased from +25 Movement Speed to +30</li><li><img></img>Level 20 Talent changed from +12% Cooldown Reduction to 2 Flamebreak Charges</li><li><img></img>Level 25 Talent changed from -10s Flamebreak Cooldown to -35s Flaming Lasso Cooldown</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Flaming Lasso<ul><li>Allows Flaming Lasso to be cast on an allied hero, granting them 80% damage reduction.</li><li>Has 20 second cooldown when used on allies.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c1/Batrider_Large.png/80px-Batrider_Large.png"
+  },
+  {
+    "id": "7.28_hero_Beastmaster",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Beastmaster",
+    "descriptionHtml": "<ul><li><img></img><a>Wild Axes</a>damage per axe increased from 30/60/90/120 to 40/70/100/130</li><li><img></img>Level 15 Talent changed from +200 Hawk Vision to +3 Mana Regen</li><li><img></img>Level 20 Talent changed from +450 Health to +50 Wild Axes Damage</li><li><img></img>Level 25 Talent changed from +100 Wild Axes Damage to +350 Health Beastmaster Controlled Units (affects Beastmaster and all of his summoned units)</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Call of the Wild Hawk</a><ul><li>Hawks become controllable and gain Dive Bomb.</li><li>Channels for 1 second, revealing itself, and then flies towards the target enemy, dealing 175 damage and stunning them for 1 second, killing the hawk.</li></ul></li><li>Cast Range: 500.</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/1/19/Beastmaster_Large.png/80px-Beastmaster_Large.png"
+  },
+  {
+    "id": "7.28_hero_Bloodseeker",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Bloodseeker",
+    "descriptionHtml": "<ul><li><img></img>Base intelligence reduced from 21 to 17</li><li><img></img><a>Bloodrage</a>hp cost reduced from 2.2/2.3/2.4/2.5 to 2%</li><li><img></img>Bloodrage attack speed increased from 50/80/110/140 to 60/90/120/150</li><li><img></img><a>Blood Rite</a>damage reduced from 120/180/240/300 to 120/160/200/240</li><li><img></img>Blood Rite cooldown increased from 12 to 15/14/13/12</li><li><img></img>Blood Rite manacost increased from 70/80/90/100 to 90/100/110/120</li><li><img></img><a>Thirst</a>non-hero heal increased from 8/12/16/20% to 11/14/17/20%</li><li><img></img>Thirst no longer provides half heal when within 300 range of dying creeps</li><li><img></img>Thirst now provides full heal (rather than half) when within 300 range of dying heroes</li><li><img></img>Thirst hero heal reduced from 12/18/24/30% to 10/15/20/25%</li><li><img></img><a>Rupture</a>manacost reduced from 200/225/250 to 100/150/200</li><li><img></img>Rupture damage increased from 30/45/60% to 36/48/60%</li><li><img></img>Level 25 Talent reduced from -5s Blood Rite Cooldown to -4</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Bloodrage<ul><li>Bloodrage attacks now deal 1.5% of the target’s max health as pure damage and heals you for that amount.</li><li>Only affects Bloodseeker.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a6/Bloodseeker_Large.png/80px-Bloodseeker_Large.png"
+  },
+  {
+    "id": "7.28_hero_Bounty-Hunter",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Bounty Hunter",
+    "descriptionHtml": "<ul><li><img></img>Base movement speed increased from 315 to 320</li><li><img></img>Intelligence rescaled from 19 + 2 to 22 + 1.9</li><li><img></img>Shadow Walk slow increased from 14/20/26/32% to 16/24/32/40%</li><li><img></img>Track speed radius increased from 900 to 1200</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Track<ul><li>Allies now gain 50% of Track speed boost.</li><li>Provides 800 vision around the Track target for your team.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/8/86/Bounty_Hunter_Large.png/80px-Bounty_Hunter_Large.png"
+  },
+  {
+    "id": "7.28_hero_Brewmaster",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Brewmaster",
+    "descriptionHtml": "<ul><li><img></img>Base agility reduced from 22 to 19</li><li><img></img><a>Drunken Brawler</a>now passively provides 6/12/18/24% Evasion and 24% Critical Strike chance for 145/160/175/190% damage</li><li><img></img>Drunken Brawler can now be activated to provide 3x chance for evasion and critical strike and alternate between 20% slower and 40% faster for 5 seconds.</li><li><img></img>Drunken Brawler cooldown increased from 23/21/19/17 to 29/25/21/17</li><li><img></img><a>Primal Split</a>Earth brewling armor increased from 3 to 3/5/7</li><li><img></img>Primal Split Earth brewling health rescaled from 1500/2200/3000 to 1400/2200/3000</li><li><img></img>Primal Split Earth Brewling hp regen increased from 1/2/2 to 2/4/6</li><li><img></img>Primal Split Storm hp regen increased from 1/2/2 to 2/4/6</li><li><img></img>Primal Split Storm magic resistance increased from 0 to 25%</li><li><img></img>Primal Split Storm health reduced from 1000/1500/1900 to 1000/1400/1800</li><li><img></img>Primal Split Fire Brewling armor increased from 0/3/6 to 0/4/8</li><li><img></img>Primal Split Fire Brewling hp regen increased from 2/4/4 to 2/4/6</li><li><img></img>Primal Split Fire Brewling now has 30% Status Resistance</li><li><img></img>Scepter Rework<ul><li>Primal Split now has 2 charges and can be canceled at any time.</li><li>Your hero forms back on whichever brewling you canceled it from.</li><li>Charge replenish time is equal to the normal cooldown.</li></ul></li><li><img></img>Level 10 Talent changed from +175 Health to +1s<a>Thunder Clap</a>Slow</li><li><img></img>Level 15 Talent changed from +2.5s Thunder Clap Slow to +30%<a>Cinder Brew</a>Damage/Duration</li><li><img></img>Level 15 Talent changed from +15% Magic Resistance to +350 Health</li><li><img></img>Level 25 Talent reduced from +120% Drunken Brawler Critical Strike Damage to +80%</li><li><img></img>Level 25 Talent changed from -65s Primal Split Cooldown to Brewlings Gain Drunken Brawler Passive</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Primal Split<ul><li>Primal Split now creates a Void brewling.</li><li>Has Astral Pulse ability, affecting enemies in 500 AoE.</li><li>Applies a 20/30/40% slow and Disarm for 2.5 seconds. Cooldown: 20.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0b/Brewmaster_Large.png/80px-Brewmaster_Large.png"
+  },
+  {
+    "id": "7.28_hero_Bristleback",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Bristleback",
+    "descriptionHtml": "<ul><li><img></img><a>Warpath</a>bonus damage increased from 22/28/34 to 25/30/35</li><li><img></img><a>Viscous Nasal Goo</a>Scepter now also increases max stacks from 4 to 8</li><li><img></img>Viscous Nasal Goo scepter radius increased from 825 to 950</li><li><img></img>Level 15 Talent changed from +5 Max Goo Stacks to +15 Attack Speed</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Hairball</a><ul><li>Coughs a quill filled hairball towards the target location.</li><li>Erupts at the location, hitting enemies in a 700 radius with Goo and two Quills.</li><li>Cast Range: 1500. Cooldown: 20. Manacost: 100.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f9/Bristleback_Large.png/80px-Bristleback_Large.png"
+  },
+  {
+    "id": "7.28_hero_Broodmother",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Broodmother",
+    "descriptionHtml": "<ul><li><img></img>Agility gain reduced from 3.2 to 3.0</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Silken Bola</a><ul><li>Consumes 1 Spin Web charge and roots the target enemy for 2 seconds.</li><li>Cast Range: 900. Cooldown: 12. Manacost: 50.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0c/Broodmother_Large.png/80px-Broodmother_Large.png"
+  },
+  {
+    "id": "7.28_hero_Centaur-Warrunner",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Centaur Warrunner",
+    "descriptionHtml": "<ul><li><img></img><a>Stampede</a>duration rescaled from 4 to 3.5/4/4.5</li><li><img></img>Stampede damage increased from 100/200/300% of your Strength to 200/250/300%</li><li><img></img>Level 15 Talent changed from +40 Damage to +1s Stampede Duration</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Double Edge</a><ul><li>Causes Double Edge to increase your strength by 15% per hero hit for 12 seconds.</li><li>Duration refreshes per stack, up to 5 stacks.</li><li>Slows enemies by 15% for 2 seconds.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Centaur_Warrunner_Large.png/80px-Centaur_Warrunner_Large.png"
+  },
+  {
+    "id": "7.28_hero_Chaos-Knight",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Chaos Knight",
+    "descriptionHtml": "<ul><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Chaos Bolt</a><ul><li>Chaos Bolt creates a<a>Phantasm</a>illusion attacking the target for the duration of the stun.</li><li>Increases cast range by 300.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/4/46/Chaos_Knight_Large.png/80px-Chaos_Knight_Large.png"
+  },
+  {
+    "id": "7.28_hero_Chen",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Chen",
+    "descriptionHtml": "<ul><li><img></img><a>Divine Favor</a>no longer has an active component</li><li><img></img><a>Holy Persuasion</a>can now be cast on an already converted unit to teleport it to you or can be cast on your own hero to teleport all creeps to you</li><li><img></img>Level 10 Talent increased from +150 Health to +175</li><li><img></img>Level 10 Talent increased from +150 Cast Range to +175</li><li><img></img>Level 15 Talent changed from -32s Divine Favor Cooldown to +12% Penitence Slow</li><li><img></img>Level 25 Talent changed from +4 Holy Persuasion Max Units to +3 Holy Persuasion Max Units and 3 Charges</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Divine Favor<ul><li>Allows Divine Favor to be cast on allies, teleporting them back home after 6 seconds.</li><li>Cooldown: 35. Manacost: 200. Cast Range: 500.</li><li>Purgeable. Cannot target Spell Immune Allies.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7d/Chen_Large.png/80px-Chen_Large.png"
+  },
+  {
+    "id": "7.28_hero_Clinkz",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Clinkz",
+    "descriptionHtml": "<ul><li><img></img>Base mana regen reduced from 0.25 to 0</li><li><img></img>Level 10 Talent changed from<a>Skeleton Walk</a>Exit Summons A Burning Army Skeleton to +8 Agility</li><li><img></img>Level 20 Talent changed from Kills Reset<a>Death Pact</a>Cooldown to -10s Strafe Cooldown</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Skeleton Walk<ul><li>Causes Skeleton Walk to create two Burning Army Skeletons on Exit.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4d/Clinkz_Large.png/80px-Clinkz_Large.png"
+  },
+  {
+    "id": "7.28_hero_Clockwerk",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Clockwerk",
+    "descriptionHtml": "<ul><li><img></img>Level 25 Talent changed from +40% Magic Resistance to Spell Immunity While Inside<a>Power Cogs</a></li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Jetpack</a><ul><li>Rises up and grants flying vision, flying movement and 15% movement speed, but significantly reduced ability to turn.</li><li>Lasts 6 seconds. You are disarmed during the flight. Casting Hookshot ends this buff.</li><li>Cooldown: 25. Manacost: 150.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b8/Clockwerk_Large.png/80px-Clockwerk_Large.png"
+  },
+  {
+    "id": "7.28_hero_Crystal-Maiden",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Crystal Maiden",
+    "descriptionHtml": "<ul><li><img></img><a>Frostbite</a>damage interval changed from 0.7 to 0.25 (same overall damage, first instance at 0.25)</li><li><img></img>Frostbite DPS changed to a fixed 25 per tick, rather than being defined by its total damage (same overall damage to both heroes and creeps normally, but affects things that change spell duration like her talent and status resistance)</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Frostbite<ul><li>Reduces Frostbite cooldown by 1 second and allows it to be cast on yourself, reducing incoming damage by 70% for the duration.</li><li>Allows casting Frostbite while channeling as long as a valid target is in range.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dc/Crystal_Maiden_Large.png/80px-Crystal_Maiden_Large.png"
+  },
+  {
+    "id": "7.28_hero_Dark-Seer",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Dark Seer",
+    "descriptionHtml": "<ul><li><img></img><a>Ion Shell</a>radius increased from 250 to 275</li><li><img></img>Level 15 Talent changed from Ion Shell Provides 350 Max Health to +6 Armor</li><li><img></img>Level 20 Talent changed from +8 Armor to +1s<a>Wall of Replica</a>slow</li><li><img></img>Scepter Rework<ul><li>Upgrades Ion Shell<ul><li>Causes Ion Shell to have 2 Charges, increases duration by 20 seconds and provides +350 Health.</li></ul></li></ul></li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Normal Punch</a><ul><li>Passive cooldown attack. Causes your next attack on a hero to knock an illusion out of them and stun them for up to 2 seconds, knock back for 350 distance and deal 250 damage based on how far you&apos;ve moved in the past 3 seconds.</li><li>Cooldown: 14. Max power is after 1500 distance moved. Illusions lasts for 5 seconds.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6f/Dark_Seer_Large.png/80px-Dark_Seer_Large.png"
+  },
+  {
+    "id": "7.28_hero_Dark-Willow",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Dark Willow",
+    "descriptionHtml": "<ul><li><img></img>Base intelligence increased by 3</li><li><img></img><a>Cursed Crown</a>cast range increased from 600 to 600/625/650/675</li><li><img></img><a>Bramble Maze</a>cast range increased from 1200 to 1100/1200/1300/1400</li><li><img></img><a>Terrorize</a>cast range reduced from 1500 to 1300</li><li><img></img>Level 10 Talent increased from +0.4s Cursed Crown Stun Duration to +0.6s</li><li><img></img>Level 10 Talent changed from +100 Cast Range to -2s<a>Shadow Realm</a>Cooldown</li><li><img></img>Level 15 Talent changed from -2s Shadow Realm Cooldown to +125 Cast Range</li><li><img></img>Level 20 Talent reduced from -10s Bramble Maze CD to -8</li><li><img></img>Level 25 Talent increased from +1.3s Terrorize Duration to +1.5s</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Cursed Crown<ul><li>Cursed Crown now creates four brambles around the target after the counter ends (regardless of how it ends).</li><li>Reduces cooldown by 3 seconds.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5e/Dark_Willow_Large.png/80px-Dark_Willow_Large.png"
+  },
+  {
+    "id": "7.28_hero_Dazzle",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Dazzle",
+    "descriptionHtml": "<ul><li><img></img><a>Shallow Grave</a>duration rescaled from 5 to 4/4.5/5/5.5</li><li><img></img>Shallow Grave cooldown reduced from 60/46/32/18 to 42/34/26/18</li><li><img></img>Shallow Grave cast range increased from 550/700/850/1000 to 700/800/900/1000</li><li><img></img>Level 15 Talent changed from +30<a>Shadow Wave</a>Heal/Damage to +35 Attack Speed</li><li><img></img>Scepter Rework<ul><li>Causes Shadow Wave to dispel allies, increases heal by +60 and increases damage by +80.</li></ul></li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Launches an attack at the three closest enemies within 1200 range (prioritizes heroes) each time you cast an ability.</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e3/Dazzle_Large.png/80px-Dazzle_Large.png"
+  },
+  {
+    "id": "7.28_hero_Death-Prophet",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Death Prophet",
+    "descriptionHtml": "<ul><li><img></img>Base movement speed increased from 310 to 335</li><li><img></img><a>Spirit Siphon</a>no longer drains movement speed</li><li><img></img>Spirit Siphon charge replenish time from 45/40/35/30 to 36/34/32/30</li><li><img></img><a>Exorcism</a>ghost speed increased from 500 to 525</li><li><img></img>Turn rate improved from 0.5 to 0.8</li><li><img></img>Level 25 Talent changed from Exorcism Grants Haste to -20s Spirit Siphon Replenish Time</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Spirit Siphon<ul><li>Spirit Siphon now drains 0.75 armor per second and gives it to you.</li><li>Armor gain/loss lasts for 14 seconds (starts from cast time).</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/8/80/Death_Prophet_Large.png/80px-Death_Prophet_Large.png"
+  },
+  {
+    "id": "7.28_hero_Disruptor",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Disruptor",
+    "descriptionHtml": "<ul><li><img></img>Level 10 Talent increased from -2s Kinetic Field Cooldown to -3s</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Thunder Strike</a><ul><li>Allows Thunder Strike to be cast on allies, follows the ally and deals damage around them.</li><li>Each strike gives a short 1s buff that provides +50% MS and +75 Attack Speed (strike interval is every 2 seconds).</li><li>Increases radius by 160 when used on allies.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b7/Disruptor_Large.png/80px-Disruptor_Large.png"
+  },
+  {
+    "id": "7.28_hero_Doom",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Doom",
+    "descriptionHtml": "<ul><li><img></img>Scepter Rework<ul><li>Causes<a>Doom</a>to apply Break and reduces cooldown from 145 to 100.</li></ul></li><li><img></img>Level 10 Talent increased from +2s Doom Duration to +3s</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Infernal Blade</a><ul><li>Infernal Blade stun duration is increased from 0.6 to 1.2 second.</li><li>If the enemy level is a multiple of 3 or above level 24, they will be stunned for an additional 0.6 seconds and take 150 bonus damage.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/1/19/Doom_Large.png/80px-Doom_Large.png"
+  },
+  {
+    "id": "7.28_hero_Dragon-Knight",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Dragon Knight",
+    "descriptionHtml": "<ul><li><img></img><a>Breathe Fire</a>manacost reduced from 100/110/120/130 to 90/100/110/120</li><li><img></img><a>Dragon Tail</a>damage increased from 25/50/75/100 to 50/75/100/125</li><li><img></img><a>Elder Dragon Form</a>splash radius increased from 300 to 350</li><li><img></img>Level 15 Talent increased from +350 Health to +400</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants Elder Dragon Form the<a>Fireball</a>ability.<ul><li>Ignites a 450 AoE area for 10 seconds, dealing 80 damage per second to enemies in it.</li><li>Lasts 10 seconds. Cast Range: 1400. Cooldown: 20. Manacost: 150.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/d/da/Dragon_Knight_Large.png/80px-Dragon_Knight_Large.png"
+  },
+  {
+    "id": "7.28_hero_Drow-Ranger",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Drow Ranger",
+    "descriptionHtml": "<ul><li><img></img>Base damage reduced by 2</li><li><img></img><a>Frost Arrows</a>slow reduced from 16/32/48/64 to 15/30/45/60</li><li><img></img><a>Marksmanship</a>agility bonus rescaled from 28/36/44% to 25/35/45%</li><li><img></img>Marksmanship damage bonus reduced from 70/80/90 to 50/70/90</li><li><img></img>Level 20 Talent changed from +2.5s Gust Silence Duration to -4s Gust Cooldown</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Frost Arrows<ul><li>Frost Arrows apply a Hypothermia stack to enemy heroes, reducing their regeneration by 10% per stack.</li><li>Lasts 7 seconds. If an enemy hero dies with Hypothermia stacks, they burst and deal 60 magic damage per stack and 25% slow for 2 seconds to enemies within 650 radius. Max Stacks: 7</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7e/Drow_Ranger_Large.png/80px-Drow_Ranger_Large.png"
+  },
+  {
+    "id": "7.28_hero_Earth-Spirit",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Earth Spirit",
+    "descriptionHtml": "<ul><li><img></img>Earth Remnant duration reduced from 2 minutes to 1 minute</li><li><img></img><a>Enchant Remnant</a>can now also be cast on Remnants. Has a 5 second cooldown when used this way.</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Stone Remnant</a><ul><li>Causes Earth Remnants to provide 400 ground vision. Increases charge count by 4. (Can use alt to see the radius)</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/2/2b/Earth_Spirit_Large.png/80px-Earth_Spirit_Large.png"
+  },
+  {
+    "id": "7.28_hero_Earthshaker",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Earthshaker",
+    "descriptionHtml": "<ul><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Fissure</a><ul><li>Reduces Fissure cooldown by 2 seconds and allows you to walk on it.</li><li>Whenever you cast a spell, an aftershock effect is replicated throughout the fissure path</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/8/8f/Earthshaker_Large.png/80px-Earthshaker_Large.png"
+  },
+  {
+    "id": "7.28_hero_Elder-Titan",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Elder Titan",
+    "descriptionHtml": "<ul><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Echo Stomp</a><ul><li>Allows you to turn Echo Stomp on autocast.</li><li>When cast while on Autocast, you will take the place of the Astral Spirit as it completes its stomp.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/b/bc/Elder_Titan_Large.png/80px-Elder_Titan_Large.png"
+  },
+  {
+    "id": "7.28_hero_Ember-Spirit",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Ember Spirit",
+    "descriptionHtml": "<ul><li><img></img>Intelligence gain increased from 1.8 to 2.2</li><li><img></img><a>Activate Fire Remnant</a>scepter manacost increased from 25 to 75</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Fire Remnant</a><ul><li>Fire Remnants deal 45 damage per second in a 600 AoE around them.</li><li>Dying or killing an enemy hero leaves a Fire Remnant nearby.</li><li>Kills within 400 range of you count.</li><li>DPS from multiple Fire Remnants does not stack.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/9/98/Ember_Spirit_Large.png/80px-Ember_Spirit_Large.png"
+  },
+  {
+    "id": "7.28_hero_Enchantress",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Enchantress",
+    "descriptionHtml": "<ul><li><img></img><a>Enchant</a>cooldown rescaled from 20 to 28/24/20/16</li><li><img></img><a>Sproink</a>upgrade no longer grants +150 attack range passively</li><li><img></img>Sproink now launches an Impetus attack on the 3 furthest enemy units within your attack range +200.</li><li><img></img>Sproink cooldown increased from 3 to 5 seconds</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Nature&apos;s Attendants</a><ul><li>Adds 3 permanent Nature’s Attendants that follow you around.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/5/57/Enchantress_Large.png/80px-Enchantress_Large.png"
+  },
+  {
+    "id": "7.28_hero_Enigma",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Enigma",
+    "descriptionHtml": "<ul><li><img></img><a>Demonic Conversion</a>attack point improved from 0.4 to 0.3</li><li><img></img>Demonic Conversion duration from 35 to 40</li><li><img></img><a>Malefice</a>cooldown reduced from 18/17/16/15 to 14</li><li><img></img>Level 10 Talent changed from +4s<a>Midnight Pulse</a>Duration to +0.35s Malefice Stun Duration</li><li><img></img>Level 15 Talent reduced from 12% Cooldown Reduction to 10%</li><li><img></img>Level 15 Talent changed from +0.35s Malefice Stun Duration to +150 Midnight Pulse Radius</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Black Hole</a><ul><li>Black Hole now does a non-interrupting pull towards its center in a 1200 AoE (pulls at a rate of 175 units per second)</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/4/43/Enigma_Large.png/80px-Enigma_Large.png"
+  },
+  {
+    "id": "7.28_hero_Faceless-Void",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Faceless Void",
+    "descriptionHtml": "<ul><li><img></img>Base agility reduced by 4 (base damage unchanged)</li><li><img></img><a>Time Lock</a>bonus damage reduced from 20/25/30/35 to 10/15/20/25</li><li><img></img>Level 15 Talent reduced from +275<a>Time Walk</a>Cast Range to +250</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Time Walk<ul><li>Time Walk remains castable for 1.5 second after landing.</li><li>If used in this period, you will reverse your time walk back to your previous cast location.</li><li>Increases Time Walk cast range by 200. (Note: Does not change health the second use)</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Faceless_Void_Large.png/80px-Faceless_Void_Large.png"
+  },
+  {
+    "id": "7.28_hero_Grimstroke",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Grimstroke",
+    "descriptionHtml": "<ul><li><img></img>Base attack range increased from 575 to 600</li><li><img></img><a>Ink Swell</a>Max damage is reduced from 100/200/300/400 to 90/180/270/360</li><li><img></img>Ink Swell max values now happen after 2.5 seconds of touching an enemy, rather than 3 seconds</li><li><img></img><a>Phantom&apos;s Embrace</a>manacost reduced from 110/120/130/140 to 80/100/120/140</li><li><img></img>Phantom&apos;s Embrace cooldown rescaled from to 32/28/24/20 to 36/30/24/18</li><li><img></img>Phantom&apos;s Embrace bounty from 37/20 Gold/XP to 10/10</li><li><img></img><a>Dark Portrait</a>illusion duration increased from 15 seconds to 25</li><li><img></img>Phantom;s Embrace now refreshes the cooldown if the target it was cast on dies before it reaches them</li><li><img></img>Level 10 Talent changed from +80 Ink Swell Damage to -4s Ink Swell Cooldown</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Ink Over</a><ul><li>Covers a target enemy in ink for 6 seconds, slowing attack speed by 50, movement speed by 20% and dealing a total of 240 damage over its duration.</li><li>Cast Range: 700. Cooldown: 14. Manacost: 125</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Grimstroke_Large.png/80px-Grimstroke_Large.png"
+  },
+  {
+    "id": "7.28_hero_Gyrocopter",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Gyrocopter",
+    "descriptionHtml": "<ul><li><img></img>Attack backswing animation reduced from 0.65 to 0.1</li><li><img></img>Base damage range rescaled from 40-50 to 42-48</li><li><img></img>Base agility increased by 7 (base damage unchanged)</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Rocket Barrage</a><ul><li>Rocket Barrage now hits an extra target.</li><li>Increases Barrage duration by 1 second.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e1/Gyrocopter_Large.png/80px-Gyrocopter_Large.png"
+  },
+  {
+    "id": "7.28_hero_Huskar",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Huskar",
+    "descriptionHtml": "<ul><li><img></img><a>Berserker&apos;s Blood</a>max attack speed increased from 130/190/250/310 to 160/210/260/310</li><li><img></img><a>Life Break</a>scepter duration increased from 2.5 to 3</li><li><img></img>Life Break scepter now also increases cast range by +300</li><li><img></img>Level 20 Talent changed from +325 Life Break Cast Range to -3s Life Break Cooldown</li><li><img></img>Level 25 Talent increased from +175 Attack Range to +200</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Inner Fire</a><ul><li>Causes Inner Fire to reduce healing/regen by 50% and applies a 35% movement speed slow.</li><li>Lowers cooldown by 2 seconds.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f1/Huskar_Large.png/80px-Huskar_Large.png"
+  },
+  {
+    "id": "7.28_hero_Invoker",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Invoker",
+    "descriptionHtml": "<ul><li><img></img><a>Forged Spirit</a>now spawns two units when both Quas and Exort have 4 points</li><li><img></img>Forged Spirit armor reduction cap increased from 10 to 20</li><li><img></img><a>Cataclysm</a>cooldown increased from 90 to 100</li><li><img></img>Level 10 Talent increased from +30%<a>Chaos Meteor</a>Damage to +40% Chaos Meteor Damage</li><li><img></img>Level 15 Talent changed from +1 Forged Spirit Summoned to +40 DPS Ice Wall</li><li><img></img>Level 20 Talent reduced from +40<a>Alacrity</a>Damage/Speed to +35</li><li><img></img>Level 20 Talent increased from -8s<a>Tornado</a>Cooldown to -10s</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Ice Wall</a><ul><li>Causes Ice Wall to become an 900 range Vector Target ability.</li><li>Lowers cooldown by 2 seconds.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5b/Invoker_Large.png/80px-Invoker_Large.png"
+  },
+  {
+    "id": "7.28_hero_Io",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Io",
+    "descriptionHtml": "<ul><li><img></img>No longer has instant turning before actions</li><li><img></img>Attack point increased from 0.15 to 0.3</li><li><img></img>Base damage increased from 39-48 to 45-51</li><li><img></img><a>Tether</a>slow increased from 8/16/24/32 to 15/25/35/45</li><li><img></img>Tether movement bonus rescaled from 5/8/11/14 to 6/8/10/12</li><li><img></img>Tether heal transfer reduced from 60/90/120/150 to 60/80/100/120</li><li><img></img><a>Spirits</a>now has the In and Out sub abilities again</li><li><img></img>Spirits damage increased from 20/40/60/80 to 30/50/70/90</li><li><img></img>Spirits collision damage increased from 10/18/26/34 to 10/20/30/40</li><li><img></img><a>Overcharge</a>attack speed reduced from 50/80/110/140 to 50/70/90/110</li><li><img></img>Overcharge now grants 10/12/14/16% Spell Amplification</li><li><img></img><a>Relocate</a>cooldown increased from 90/75/60 to 100/90/80</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Tether<ul><li>Ending Tether now stuns enemies touching it for 1.75 seconds and deals 150 damage.</li><li>Increases movement speed by 5%.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/a/ad/Io_Large.png/80px-Io_Large.png"
+  },
+  {
+    "id": "7.28_hero_Jakiro",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Jakiro",
+    "descriptionHtml": "<ul><li><img></img>Level 15 Talent increased from -1s<a>Ice Path</a>Cooldown to -1.5s</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Liquid Frost</a><ul><li>Autocast attack ability.</li><li>Causes your Ice head to release a frost based attack, slowing enemies by 30% and dealing 20 + 2.5% max health as damage per second for 4 seconds.</li><li>Cooldown: 12.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4d/Jakiro_Large.png/80px-Jakiro_Large.png"
+  },
+  {
+    "id": "7.28_hero_Juggernaut",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Juggernaut",
+    "descriptionHtml": "<ul><li><img></img>Blade Fury radius increased from 250 to 260</li><li><img></img>Omnislash is no longer restricted from initially being cast on Ancients</li><li><img></img>Swiftslash is no longer restricted from initially being cast on Ancients</li><li><img></img>Level 15 Talent changed from +100 Blade Fury movement speed to -20s Healing Ward cooldown</li><li><img></img>Level 20 Talent increased from +140 Blade Fury DPS to +160</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Blade Fury</a><ul><li>Increases your movement speed during Blade Fury by +100 and attacks a random nearby enemy once per second.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c8/Juggernaut_Large.png/80px-Juggernaut_Large.png"
+  },
+  {
+    "id": "7.28_hero_Keeper-of-the-Light",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Keeper of the Light",
+    "descriptionHtml": "<ul><li><img></img><a>Illuminate</a>manacost reduced from 150/160/170/180 to 100/125/150/175</li><li><img></img><a>Chakra Magic</a>can no longer be cast on enemies</li><li><img></img>Removed<a>Blinding Light</a>as a basic ability</li><li><img></img>New Ability:<a>Solar Bind</a>as a new basic ability.<ul><li>Lowers the target&apos;s magic resistance by 15/20/25/30% and causes the target to become increasingly slowed the more the target moves.</li><li>Each 100 units moved reduces the target&apos;s movement speed by 4/5.5/7/8.5%.</li><li>Lasts 7 seconds. Cast Range: 700/750/800/850.</li><li>Manacost: 60/80/100/120. Cooldown: 22/20/18/16</li></ul></li><li><img></img><a>Spirit Form</a>is now an ultimate ability. Transforms your hero into a spirit form, granting you +20/25/30% Movement Speed, +125/250/375 Cast Range. Grants Blinding Light (18 cd, 600 cast range, 40% miss for 4 seconds, 400 knockback distance, 100 damage, 150 manacost) and<a>Recall</a>(15 cd, 3 second delay, 150 manacost). Also causes Illuminate to no longer require channeling. Cooldown: 90/80/70. Duration: 40. Manacost: 75/125/175</li><li><img></img>Scepter Rework<ul><li>Grants<a>Will-O-Wisp</a><ul><li>However instead of a stun on flicker, it applies a movement manipulation that pulls units inwards at a rate of 60 units per second but does not prevent attacking/casting. Cooldown: 60</li></ul></li></ul></li><li><img></img>Level 10 Talent increased from -2.5s Blinding Light Cooldown to +30% Blinding Light Miss</li><li><img></img>Level 15 Talent changed from +2 Will-O-Wisp Flicker to -6s Blinding Light Cooldown</li><li><img></img>Level 20 Talent changed from +150 Will-O-Wisp AoE to +15s Spirit Form Duration</li><li><img></img>Level 25 Talent changed from +3 Will-O-Wisp Health Count to +1.2s Blinding Light Stun</li><li><img></img>Level 25 Talent changed from +160 Illuminate Damage/Heal to +160 Illuminate Damage</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Illuminate<ul><li>Causes Illuminate to heal allied units for 40% of its damage during daytime.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/b/bc/Keeper_of_the_Light_Large.png/80px-Keeper_of_the_Light_Large.png"
+  },
+  {
+    "id": "7.28_hero_Kunkka",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Kunkka",
+    "descriptionHtml": "<ul><li><img></img>Base intelligence gain increased from 1.5 to 1.8</li><li><img></img><a>Ghostship</a>Rum movement speed increased from 10% to 12%</li><li><img></img>Base health regen increased from 0 to 0.25</li><li><img></img>Level 10 Talent changed from +6 Armor to +150 Cast Range</li><li><img></img>Level 20 Talent increased from +18 strength to +20</li><li><img></img>Level 25 Talent increased from +110%<a>Tidebringer</a>Cleave to +140%</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Tidal Wave</a><ul><li>Releases a wave towards the target direction that deals 225 damage and drags (non-interrupting) enemies along it for 600 range over 1.25 seconds.</li><li>The wave spawns 600 units behind you and travels 1400 distance in front of you. Has 700 speed and 750 radius.</li><li>Cooldown: 16. Manacost: 150</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/3/3a/Kunkka_Large.png/80px-Kunkka_Large.png"
+  },
+  {
+    "id": "7.28_hero_Legion-Commander",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Legion Commander",
+    "descriptionHtml": "<ul><li><img></img>Level 15 Talent increased from -6s<a>Overwhelming Odds</a>Cooldown to -9s</li><li><img></img>Level 15 Talent reduced from +25 Attack Speed to +20</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Duel</a><ul><li>While Dueling, every 1.5 seconds an Overwhelming Odds is cast centered on a random enemy unit within 900 radius.</li><li>Does not center on the same target twice. Prioritizes heroes.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0a/Legion_Commander_Large.png/80px-Legion_Commander_Large.png"
+  },
+  {
+    "id": "7.28_hero_Leshrac",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Leshrac",
+    "descriptionHtml": "<ul><li><img></img>Scepter Rework<ul><li>Grants<a>Nihilism</a><ul><li>Grants you a temporary aura that causes you and all nearby enemies in 450 AoE to turn ethereal, preventing them from attacking, causing them to take 30% more magic damage and be slowed by 30% for 4 seconds.</li><li>Increases your speed rather than reducing it. Cooldown: 25. Manacost: 75</li></ul></li></ul></li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Split Earth</a><ul><li>Causes Split Earth to repeat in the same location two additional times, with a 5 second delay between each one.</li><li>Each time the radius increases by 75. Split Earth echo location is visible to both teams.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f6/Leshrac_Large.png/80px-Leshrac_Large.png"
+  },
+  {
+    "id": "7.28_hero_Lich",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Lich",
+    "descriptionHtml": "<ul><li><img></img>Level 10 Talent increased from +60<a>Frost Nova</a>AoE Damage to +90</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Ice Spire</a><ul><li>Creates an icicle at the target spot for 15 seconds, slowing enemies by 20% within 500 range.</li><li><a>Chain Frost</a>can bounce to the Icicle if there are no other enemies in range.</li><li>Can cast<a>Frost Shield</a>on it. Has 300 health. Cast Range: 750. Cooldown: 25. Manacost: 150</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/3/35/Lich_Large.png/80px-Lich_Large.png"
+  },
+  {
+    "id": "7.28_hero_Lifestealer",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Lifestealer",
+    "descriptionHtml": "<ul><li><img></img>Base attack speed reduced from 130 to 120</li><li><img></img><a>Feast</a>increased from 1.5/2/2.5/3% to 1.6/2.2/2.8/3.4%</li><li><img></img>Feast no longer grants attack speed</li><li><img></img>New Ability: Replaced<a>Open Wounds</a>with<a>Ghoul Frenzy</a>. Passively causes Lifestealer&apos;s attacks to slow enemy movement speed by 6/12/18/24% for 1.5 seconds. Additionally, grants you 20/30/40/50 Attack Speed.</li><li><img></img><a>Rage</a>manacost increased from 75 to 75/100/125/150</li><li><img></img><a>Infest</a>manacost increased from 50 to 100/150/200</li><li><img></img>Level 20 Talent changed from -4s Open Wounds Cooldown to +8% Ghoul Frenzy Slow</li><li><img></img>Scepter Rework<ul><li>Allows Infesting enemy heroes for 4 seconds, attacking inside them every 1.25 seconds.</li><li>Enemy heroes gain no bonuses from Infest.</li><li>Doubles self regen rate, increases cast range to 500 and reduces cooldown to 25 seconds.</li></ul></li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Open Wounds</a><ul><li>Provides attackers with 50% Lifesteal for all damage dealt to the target.</li><li>Has 800 cast range, 25 seconds cooldown. Max slow 50%. Manacost: 125</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/8/85/Lifestealer_Large.png/80px-Lifestealer_Large.png"
+  },
+  {
+    "id": "7.28_hero_Lina",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Lina",
+    "descriptionHtml": "<ul><li><img></img>Base damage reduced from 49-61 to 49-57</li><li><img></img>Base armor reduced by 1</li><li><img></img><a>Fiery Soul</a>attack speed increased from 40/55/70/85 to 40/60/80/100</li><li><img></img><a>Light Strike Array</a>cooldown increased from 7 to 10/9/8/7</li><li><img></img><a>Laguna Blade</a>mana cost reduced from 280/420/680 to 250/400/550</li><li><img></img>Level 15 Talent increased from +110 Light Strike Array Damage to +130</li><li><img></img>Level 15 Talent increased from +300 Health to +350</li><li><img></img>Level 20 Talent increased from +30/1.5% Fiery Soul Per Stack to +30/2%</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Laguna Blade<ul><li>Increases Laguna Blade cast range by 150.</li><li>Laguna Blade can now also be ground targeted, and will always travel its full cast length and hit all units along its path.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/4/46/Lina_Large.png/80px-Lina_Large.png"
+  },
+  {
+    "id": "7.28_hero_Lion",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Lion",
+    "descriptionHtml": "<ul><li><img></img>Agility increased from 15 to 18</li><li><img></img><a>Earth Spike</a>cast range increased from 500 to 575</li><li><img></img><a>Hex</a>unit movement speed reduced from 140 to 120</li><li><img></img><a>Mana Drain</a>multi target now searches for units within your cast range +300, rather than in a 400 radius around the target. Prioritizes heroes.</li><li><img></img>Fixed<a>Finger of Death</a>scepter reducing manacost by 25 at level 3</li><li><img></img>Level 15 Talent reduced from +150 Cast Range to +125</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Mana Drain<ul><li>Mana Drain grants true sight over the enemy and reduces their attack speed by 90.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/8/8d/Lion_Large.png/80px-Lion_Large.png"
+  },
+  {
+    "id": "7.28_hero_Lone-Druid",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Lone Druid",
+    "descriptionHtml": "<ul><li><img></img>Level 20 Talent increased from -32s<a>True Form</a>Cooldown to -40s</li><li><img></img>Level 25 Changed from +1000 True Form Health to +1000 True Form and<a>Spirit Bear</a>Health</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Savage Roar</a><ul><li>Savage Roar now empowers allied units in 700 AoE with +20% Movement Speed and +60 Attack Speed for 4 seconds.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e2/Lone_Druid_Large.png/80px-Lone_Druid_Large.png"
+  },
+  {
+    "id": "7.28_hero_Luna",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Luna",
+    "descriptionHtml": "<ul><li><img></img>Base agility increased by 6 (base damage unchanged)</li><li><img></img><a>Lunar Blessing</a>damage bonus changed from 10/18/26/34% to flat +5/15/25/35</li><li><img></img>Lunar Blessing night vision increased from 200/400/600/800 to 250/500/750/1000</li><li><img></img><a>Moon Glaive</a>damage reduction reduced from 52/46/40/34% to 50/44/38/32%</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Lucent Beam</a><ul><li>Allows Lucent beam to be ground targeted, increases stun duration from 0.8 to 1.1 and grants you +30% bonus movement speed for 3 seconds.</li><li>Ground Target Search Radius: 325.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e2/Luna_Large.png/80px-Luna_Large.png"
+  },
+  {
+    "id": "7.28_hero_Lycan",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Lycan",
+    "descriptionHtml": "<ul><li><img></img><a>Howl</a>cooldown reduced from 24/22/20/18 to 18</li><li><img></img>Howl manacost reduced from 50 to 35/40/45/50</li><li><img></img><a>Feral Impulse</a>no longer has a radius, affects your units anywhere.</li><li><img></img>Level 10 Talent changed from +4 Armor to +8 Feral HP Regen</li><li><img></img>Level 15 Talent changed from +10 Feral HP Regen to +75<a>Shapeshift</a>Speed</li><li><img></img>Level 20 Talent increased from +15% Feral Impulse Damage to +25%</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Summon Wolves</a><ul><li>Causes one of your creep waves to include an uncontrollable wolf that moves with each wave.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Lycan_Large.png/80px-Lycan_Large.png"
+  },
+  {
+    "id": "7.28_hero_Magnus",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Magnus",
+    "descriptionHtml": "<ul><li><img></img><a>Empower</a>duration rescaled from 38/42/46/50 to 40</li><li><img></img>Level 15 Talent changed from +140<a>Shockwave</a>Damage to -5s<a>Skewer</a>Cooldown</li><li><img></img>Level 25 Talent reduced from +12% Empower Damage/Cleave to +10%</li><li><img></img>Level 25 Talent increased from +0.8<a>Reverse Polarity</a>Stun Duration to +1</li><li><img></img>Scepter Rework<ul><li>Releases 3 shockwaves going outwards from you at 30 degree angles (can only be hit by one).</li><li>After reaching the end, the shockwaves come back to their origin and deal 75% damage and pull towards cast point a second time.</li></ul></li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Horn Toss</a><ul><li>Tosses enemies in front of you, launching them behind you.</li><li>Enemies spend 0.6 seconds in the air and take 150 damage on landing and are stunned for 0.25 seconds.</li><li>Cast Range: 100. Cooldown: 30. Manacost: 125.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/67/Magnus_Large.png/80px-Magnus_Large.png"
+  },
+  {
+    "id": "7.28_hero_Mars",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Mars",
+    "descriptionHtml": "<ul><li><img></img><a>God&apos;s Rebuke</a>manacost increased from 65/70/75/80 to 80</li><li><img></img><a>Arena of Blood</a>manacost reduced from 200 to 150/175/200</li><li><img></img>Arena of Blood damage reduced from 120/185/250 to 100/175/250</li><li><img></img>Scepter Rework<ul><li>Creates invulnerable soldiers in front of you while<a>Bulwark</a>is toggled on.</li><li>Soldiers move alongside your hero deal your full damage with a bonus 75 damage (applies procs as well).</li><li>Enemies can only be attacked by 1 soldier at a time.</li><li>Soldiers apply a 20% slow for 1 second on their attacks.</li></ul></li><li><img></img>Level 10 Talent changed from -3s Spear Cooldown to +15 Movement Speed</li><li><img></img>Level 15 Talent changed from +20 Movement Speed to -4s God&apos;s Rebuke Cooldown</li><li>Level 25 increased from +80 HP Regen Allied Arena of Blood to +120</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Spear of Mars</a><ul><li>Spear of Mars impales up to two units and leaves a fire trail behind it which lasts for 10 seconds.</li><li>Deals 35 dps and slows by 20%. Debuff lingers for 2 second.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4e/Mars_Large.png/80px-Mars_Large.png"
+  },
+  {
+    "id": "7.28_hero_Medusa",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Medusa",
+    "descriptionHtml": "<ul><li><img></img>Level 25 Talent changed from +800 Mana to +75 Intelligence</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Cold Blooded</a><ul><li>Passive. When you are targeted with a spell, a single target Mystic Snake is sent back towards the enemy. Cooldown: 12.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/3/38/Medusa_Large.png/80px-Medusa_Large.png"
+  },
+  {
+    "id": "7.28_hero_Meepo",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Meepo",
+    "descriptionHtml": "<ul><li><img></img>Turn rate improved from 0.65 to 0.7</li><li><img></img>Level 15 Talent increased from +30<a>Poof</a>Damage to +35</li><li><img></img>Level 20 Talent changed from +8% Lifesteal to +8<a>Ransack</a>Health Steal</li><li><img></img>Level 25 Talent changed from -4s Poof Cooldown to +1<a>Divided We Stand</a>clone</li><li><img></img>Scepter Rework<ul><li>Grants a new skill,<a>Dig</a><ul><li>Clones also have this ability.</li><li>Channels for 0.75 seconds and digs into the ground for 3.5 seconds, dispelling you and causing you to become invulnerable and untargetable. Restores a total of 25% of your max health over that duration. Can’t be cast while rooted. Cooldown: 40. Manacost: 150.</li></ul></li></ul></li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Ransack<ul><li>Ransack now has a 30% chance on hit to apply a geostrike debuff, slowing enemies by 20% and dealing 20 DPS for 4 seconds.</li><li>Instances from different Meepos stack.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/9/97/Meepo_Large.png/80px-Meepo_Large.png"
+  },
+  {
+    "id": "7.28_hero_Mirana",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Mirana",
+    "descriptionHtml": "<ul><li><img></img>Level 10 Talent increased from +12 Damage to +15</li><li><img></img>Scepter Rework<ul><li>Causes<a>Sacred Arrow</a>to release a<a>Starfall</a>on enemies within 500 AoE along the travel path (only active on the primary arrow).</li><li>Drops a second Starfall that deals 50% damage on the impacted unit.</li></ul></li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Leap</a><ul><li>Grants +1 Leap Charge.</li><li>Attacks during the leap buff have a 1.5x Critical Strike.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/1/1f/Mirana_Large.png/80px-Mirana_Large.png"
+  },
+  {
+    "id": "7.28_hero_Monkey-King",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Monkey King",
+    "descriptionHtml": "<ul><li><img></img>Base armor increased by 1</li><li><img></img><a>Mischief</a>cooldown reduced from 20 to 15</li><li><img></img>Level 20 Talent increased from +320<a>Primal Spring</a>Damage to +350</li><li><img></img>Level 25 Talent adjusted from +100<a>Wukong&apos;s Command</a>Armor to +200</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Tree Dance</a><ul><li>Lowers Tree Dance cooldown from 1 to 0.3 and cast point from 0.3 to 0.1</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4e/Monkey_King_Large.png/80px-Monkey_King_Large.png"
+  },
+  {
+    "id": "7.28_hero_Morphling",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Morphling",
+    "descriptionHtml": "<ul><li><img></img>Level 25 Talent changed from +3 Multishot<a>Adaptive Strike</a>to +30 Strength</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Adaptive Strike<ul><li>Causes Adaptive Strike to have +1 Multishot and removes the 3 second shared cooldown between the two different abilities.</li><li>Prioritizes enemy heroes.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c7/Morphling_Large.png/80px-Morphling_Large.png"
+  },
+  {
+    "id": "7.28_hero_Naga-Siren",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Naga Siren",
+    "descriptionHtml": "<ul><li><img></img><a>Mirror Image</a>cooldown reduced from 45/40/35/30 to 40/36/32/28</li><li><img></img><a>Ensnare</a>cast point reduced from 0.5 to 0.4</li><li><img></img>Level 20 Talent changed from -9s Ensnare Cooldown to -30s<a>Song of the Siren</a>Cooldown</li><li><img></img>Scepter Rework<ul><li>Allows Ensnare to target Spell Immune or sleeping units.</li><li>Reduces the Ensnare cooldown by 5 seconds and increases cast range by 400.</li></ul></li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Rip Tide</a><ul><li>Can activate Rip Tide, releasing stronger Rip Tide that deals 100 extra damage and slows enemies by 30% for 3 seconds.</li><li>Applies around each illusion, but can be only hit by one instance. Cooldown: 15. Manacost: 75.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Naga_Siren_Large.png/80px-Naga_Siren_Large.png"
+  },
+  {
+    "id": "7.28_hero_Nature's-Prophet",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Nature's Prophet",
+    "descriptionHtml": "<ul><li><img></img><a>Nature&apos;s Call</a>treant movement speed rescaled from 325 to 300/320/340/360</li><li><img></img>Nature&apos;s Call treant base damage reduced from 24/28/32/36 to 22/26/30/34</li><li><img></img>Nature&apos;s Call treant base attack time improved from 1.75 to 1.6</li><li><img></img><a>Sprout</a>back swing reduced from 1.1 to 0.5</li><li><img></img>Scepter Rework<ul><li>Lowers cooldown from 85 to 60.</li><li>Entangles all enemies it hits.</li><li>Duration scales from 1.2 seconds up to 3 seconds at max bounce.</li></ul></li><li><img></img>Level 15 Talent increased from +4 Treants Summoned to +5</li><li><img></img>Level 25 Talent increased from 1.8x Treant HP/Damage to 2x</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Sprout<ul><li>Causes the first two trees destroyed with Sprout to summon Greater Treants.</li><li>Can only have two Greater Treants alive at a time.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/1/16/Natures_Prophet_Large.png/80px-Natures_Prophet_Large.png"
+  },
+  {
+    "id": "7.28_hero_Necrophos",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Necrophos",
+    "descriptionHtml": "<ul><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Death Seeker</a><ul><li>Spawns a fast moving large<a>Death Pulse</a>towards the target enemy or ally (not self), dealing 50% more damage and causing it to spread a normal Death Pulse towards nearby enemies and allies.</li><li>Cast Range 900. Cooldown: 20. Manacost: 150.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0e/Necrophos_Large.png/80px-Necrophos_Large.png"
+  },
+  {
+    "id": "7.28_hero_Night-Stalker",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Night Stalker",
+    "descriptionHtml": "<ul><li><img></img>Level 10 Talent changed from +7%<a>Hunter in the Night</a>Movement Speed to +4 Armor</li><li><img></img>Level 15 Talent changed from +20% Lifesteal to +10% Hunter in the Night Movement Speed</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Hunter in the Night<ul><li>During night time, you can cast Hunter in the Night.</li><li>Consumes a lesser creature, instantly killing it and restoring 25% of your maximum HP and mana.</li><li>Can only be cast on non-player units. Cooldown: 20</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c4/Night_Stalker_Large.png/80px-Night_Stalker_Large.png"
+  },
+  {
+    "id": "7.28_hero_Nyx-Assassin",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Nyx Assassin",
+    "descriptionHtml": "<ul><li><img></img>Base intelligence increased from 18 to 21</li><li><img></img><a>Vendetta</a>damage increased from 250/375/500 to 300/450/600</li><li><img></img><a>Impale</a>cast point reduced from 0.4 to 0.3</li><li><img></img>Level 20 Talent increased from +60%<a>Spiked Carapace</a>Damage to +75%</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Vendetta<ul><li>Causes your Vendetta attack to reduce magic resistance by -20% for 4 seconds.</li><li>Increases Vendetta movement speed by 40%, unlocking max speed.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c4/Nyx_Assassin_Large.png/80px-Nyx_Assassin_Large.png"
+  },
+  {
+    "id": "7.28_hero_Ogre-Magi",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Ogre Magi",
+    "descriptionHtml": "<ul><li><img></img>Base damage reduced by 2</li><li><img></img><a>Ignite</a>manacost increased from 90 to 100</li><li><img></img>Ignite first damage instance is now dealt immediately</li><li><img></img><a>Fireblast</a>manacost reduced from 75/85/95/105 to 70/80/90/100</li><li><img></img><a>Unrefined Fireblast</a>mana cost reduced from 45% of current mana to 30%</li><li><img></img>Level 25 Talent changed from +60 Movement Speed to 20% Bash 1.5s</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Fire Shield</a><ul><li>Creates a shield around the target ally or building, absorbing 70% of the damage from the next 3 attacks.</li><li>Launches fireballs at the attacker, dealing 125 damage.</li><li>Lasts 25 seconds. Can be Multicast. Cast Range: 600. Cooldown: 18. Manacost: 125.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Ogre_Magi_Large.png/80px-Ogre_Magi_Large.png"
+  },
+  {
+    "id": "7.28_hero_Omniknight",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Omniknight",
+    "descriptionHtml": "<ul><li><img></img><a>Heavenly Grace</a>duration reduced from 12 to 10 seconds</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Hammer of Purity</a><ul><li>Auto Attack Ability.</li><li>Causes your next attack to deal bonus pure damage equal to 25 plus 150% of your base damage.</li><li>You are healed for the amount of damage dealt. Cooldown: 6. Manacost: 30</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Omniknight_Large.png/80px-Omniknight_Large.png"
+  },
+  {
+    "id": "7.28_hero_Oracle",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Oracle",
+    "descriptionHtml": "<ul><li><img></img>Scepter Rework<ul><li>Causes<a>Fate&apos;s Edict</a>to no longer disarm allies or make enemies magic damage immune.</li></ul></li><li><img></img>Level 20 Talent changed from<a>False Promise</a>Invisibility to -50%<a>Purifying Flames</a>Allied Damage</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades False Promise<ul><li>Causes False Promise to have a 0.3 second fade delay invisibility.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fc/Oracle_Large.png/80px-Oracle_Large.png"
+  },
+  {
+    "id": "7.28_hero_Outworld-Destroyer",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Outworld Destroyer",
+    "descriptionHtml": "<ul><li><img></img>Renamed from Outworld Devourer to Outworld Destroyer</li><li><img></img>Agility reduced from 24 + 2 to 22 + 1.3</li><li><img></img>Minimum damage increased from 46 to 49</li><li><img></img><a>Astral Imprisonment</a>cast range increased from 300/350/400/450 to 650</li><li><img></img>Astral Imprisonment scepter upgrade cast range bonus reduced from +300 to +150</li><li><img></img>Astral Imprisonment duration reduced from 4 to 1.75/2.5/3.25/4</li><li><img></img>Astral Imprisonment no longer deals area damage</li><li><img></img>Astral Imprisonment damage to a single target increased from 100/175/250/325 to 120/190/260/330</li><li><img></img>Astral Imprisonment manacost reduced from 140/160/180/200 to 120</li><li><img></img>Astral Imprisonment now steals 14/16/18/20% max mana from enemies for 30/40/50/60 seconds. (It doesn&apos;t increase your current mana values, and it doesn&apos;t reduce the enemy&apos;s current mana value directly)</li><li><img></img><a>Arcane Orb</a>manacost changed from 80/120/160/200 to 20% of current mana</li><li><img></img>Arcane Orb cooldown increased from 0 to 6/4/2/0</li><li><img></img>Arcane Orb damage increased from 7.5/9/10.5/12% to 14%</li><li><img></img><a>Essence Flux</a>no longer has an active component</li><li><img></img><a>Sanity&apos;s Eclipse</a>no longer provides his other abilities with a mana capacity charge counter</li><li><img></img>Sanity&apos;s Eclipse base damage increased from 150/250/350 to 200/275/350</li><li><img></img>Sanity&apos;s Eclipse cooldown reduced from 160 to 160/145/130</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Essence Flux<ul><li>Essence Flux becomes a 1.5 second channel ability.</li><li>Swaps your current Life and Mana totals.</li><li>Only transfers 75% of the respective values. Cooldown: 45</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Outworld_Destroyer_Large.png/80px-Outworld_Destroyer_Large.png"
+  },
+  {
+    "id": "7.28_hero_Pangolier",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Pangolier",
+    "descriptionHtml": "<ul><li><img></img><a>Shield Crash</a>damage increased from 75/150/225/300 to 90/160/230/300</li><li><img></img>Shield Crash manacost reduced from 90/100/110/120 to 80/90/100/110</li><li><img></img>Shield Crash cooldown reduced from 19/17/15/13 to 18/16/14/12</li><li><img></img>Level 10 Talent increased from +350<a>Swashbuckle</a>Slash Range to +400</li><li><img></img>Level 20 Talent increased from +16 Strength to +18</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Roll Up</a><ul><li>Turns you into a protective ball for up to 4 seconds, gaining magic immunity and allowing you to turn.</li><li>Can be cast during Rolling Thunder to temporarily pause it.</li><li>Can cast Rolling Thunder and Shield Crash during Roll Up.</li><li>If enemies attack you during Roll Up, you will roll away from the attacker for 0.75 seconds, applying<a>Rolling Thunder</a>damage/stun if there are enemies in the way. Cooldown: 30</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a3/Pangolier_Large.png/80px-Pangolier_Large.png"
+  },
+  {
+    "id": "7.28_hero_Phantom-Assassin",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Phantom Assassin",
+    "descriptionHtml": "<ul><li><img></img><a>Blur</a>fade time for non-scepter reduced from 0.75 to 0.5</li><li><img></img>Blur evasion reduced from 20/30/40/50% to 15/25/35/45%</li><li><img></img>Level 10 Talent reduced from +175 Health to +150</li><li><img></img>Level 15 Talent reduced from +350<a>Phantom Strike</a>Cast Range to +300</li><li><img></img>Level 25 Talent changed from +100% Critical Damage to +7%<a>Coup de Grace</a>Chance</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Fan of Knives</a><ul><li>Releases sharp blades around you in a 550 AoE, dealing 12% of enemies&apos; max health on impact and applies Break for 3 seconds.</li><li>Cooldown: 20. Manacost: 125.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/2/2e/Phantom_Assassin_Large.png/80px-Phantom_Assassin_Large.png"
+  },
+  {
+    "id": "7.28_hero_Phantom-Lancer",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Phantom Lancer",
+    "descriptionHtml": "<ul><li><img></img>Base intelligence increased from 19 to 21</li><li><img></img><a>Spirit Lance</a>manacost rescaled from 110/120/130/140 to 120</li><li><img></img><a>Phantom Rush</a>agility bonus is still provided if the dash is canceled</li><li><img></img>Phantom Rush minimum proc distance reduced from 250 to 200</li><li><img></img>Level 15 Talent increased from -1s Spirit Lance Cooldown to -2s</li><li><img></img>Level 20 Talent decreased from +400 Phantom Rush Range to +350</li><li><img></img>Scepter Rework<ul><li><a>Juxtapose</a>can now be cast, destroying your other juxtapose illusions and quickly creating the max illusions it allows (6/8/10), with a bonus 10 seconds duration.</li><li>Cooldown: 60. Manacost: 75.</li></ul></li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Spirit Lance<ul><li>Bounces once towards an enemy up to 900 units away, prioritizing heroes.</li><li>Increases Spirit Lance Illusion damage by +20%.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/1/1e/Phantom_Lancer_Large.png/80px-Phantom_Lancer_Large.png"
+  },
+  {
+    "id": "7.28_hero_Phoenix",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Phoenix",
+    "descriptionHtml": "<ul><li><img></img><a>Supernova</a>cooldown increased from 110 to 120</li><li><img></img>Supernova manacost rescaled from 200 to 150/200/250</li><li><img></img><a>Sunray</a>manacost increased from 100 to 100/110/120/130</li><li><img></img>Level 10 Talent increased from +18% Icarus Dive Slow to +24%</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Fire Spirits</a><ul><li>Causes Fire Spirits to become a passive ability.</li><li>Every 7 seconds a Fire Spirit respawns.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Phoenix_Large.png/80px-Phoenix_Large.png"
+  },
+  {
+    "id": "7.28_hero_Puck",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Puck",
+    "descriptionHtml": "<ul><li><img></img>Agility gain increased from 2.2 to 2.5</li><li><img></img>Turn rate improved from 0.5 to 0.8</li><li><img></img><a>Illusory Orb</a>damage increased from 70/140/210/280 to 75/150/225/300</li><li><img></img><a>Waning Rift</a>max distance increased from 275 to 300</li><li><img></img><a>Dream Coil</a>scepter link break stun duration rescaled from 1.8/3/4.5 to 2/3.25/4.5 (base ability is 1.8/2.4/3)</li><li><img></img>Dream Coil initial damage increased from 100/150/200 to 125/200/275</li><li><img></img>Level 10 Talent increased from +25 Damage to +30</li><li><img></img>Level 25 Talent reduced from +300 Waning Rift AoE and Range to +275</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Waning Rift<ul><li>Waning Rift now deals 70 bonus damage and knocks enemies back 250 distance over 0.4 seconds (non-interrupting).</li><li>Reveals invisible enemy units and wards in the area for 5 seconds.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/3/3a/Puck_Large.png/80px-Puck_Large.png"
+  },
+  {
+    "id": "7.28_hero_Pudge",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Pudge",
+    "descriptionHtml": "<ul><li><img></img>Base damage increased by 2</li><li><img></img>Base armor increased by 1</li><li><img></img>Agility gain reduced from 1.5 to 1.4</li><li><img></img>Strength gain reduced from 3.2 to 3.0</li><li><img></img><a>Flesh Heap</a>magic resistance increased from 8/10/12/14% to 12/14/16/18%</li><li><img></img>Level 10 Talent changed from +30<a>Rot</a>Damage to -14% Rot Slow</li><li><img></img>Level 15 Talent changed from -16% Rot Slow to +120 Meat Hook Damage</li><li><img></img>Scepter Rework<ul><li>Increases Rot radius by 200, damage by 80.</li><li>Reduces health regen on affected enemies by 25%</li></ul></li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Dismember</a><ul><li>Allows targeting an ally with Dismember to swallow them and heal them for 6% max health per second.</li><li>Has half cooldown when used on allies.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dd/Pudge_Large.png/80px-Pudge_Large.png"
+  },
+  {
+    "id": "7.28_hero_Pugna",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Pugna",
+    "descriptionHtml": "<ul><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Life Drain</a><ul><li>For every 1.75 seconds of channel on an enemy, another secondary Life Drain is created targeting another random enemy hero in the cast range +200.</li><li>You will continue to channel until there are no enemy heroes available or the channel duration runs out.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/2/24/Pugna_Large.png/80px-Pugna_Large.png"
+  },
+  {
+    "id": "7.28_hero_Queen-of-Pain",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Queen of Pain",
+    "descriptionHtml": "<ul><li><img></img>Strength gain increased 2.2 to 2.4</li><li><img></img>Level 10 Talent increased from +8 Strength to +9</li><li><img></img>Level 25 Talent changed from<a>Scream of Pain</a>Fear to +200<a>Sonic Wave</a>Damage</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Blink</a><ul><li>Releases a sonic boom when you blink at both your starting and ending location.</li><li>Deals 150 damage in a 300 AoE and silences for 1.5 seconds. (you can be hit by both)</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/62/Queen_of_Pain_Large.png/80px-Queen_of_Pain_Large.png"
+  },
+  {
+    "id": "7.28_hero_Razor",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Razor",
+    "descriptionHtml": "<ul><li><img></img>Base movement speed increased from 285 to 290</li><li><img></img>Base HP regen increased from 0 to 1</li><li><img></img><a>Plasma Field</a>minimum damage increased from 15/25/35/45 to 35/40/45/50</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Storm Surge</a><ul><li>Causes Storm Surge to have a 18% chance to release a forked lightning when attacked or always when targeted with a spell, hitting the target and up to 2 other enemies.</li><li>Deals 120 Damage and slows them by 50% for 1.5 seconds.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Razor_Large.png/80px-Razor_Large.png"
+  },
+  {
+    "id": "7.28_hero_Riki",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Riki",
+    "descriptionHtml": "<ul><li><img></img><a>Smoke Screen</a>can now be cast during Tricks of the Trade</li><li><img></img>Smoke Screen radius increased from 280/310/340/370 to 300/325/350/375</li><li><img></img>Smoke Screen miss rate rescaled from 25/35/45/55% to 20/35/50/65%</li><li><img></img>Smoke Screen manacost reduced from 90 to 75</li><li><img></img><a>Tricks of the Trade</a>scepter cast range reduced from 1000 to 700</li><li><img></img>Tricks of the Trade scepter upgrade now hits 2 units at once rather than 1</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Sleeping Dart</a><ul><li>Fires a dart at the target enemy, putting them to sleep for 3 seconds (target is invulnerable until duration ends).</li><li>When the target wakes up, they receive 150 damage and are slowed by 25% for 4 seconds. Cooldown: 20. Cast Range: 1200. Manacost: 125</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a3/Riki_Large.png/80px-Riki_Large.png"
+  },
+  {
+    "id": "7.28_hero_Rubick",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Rubick",
+    "descriptionHtml": "<ul><li><img></img><a>Arcane Supremacy</a>no longer provides debuff amplification</li><li><img></img>Arcane Supremacy now provides +75/125/175/225 Cast Range</li><li><img></img><a>Spell Steal</a>now provides bonus +10/20/30% Debuff Amplification to the stolen spells</li><li><img></img>Spell Steal cooldown rescaled from 20/18/16 to 26/20/14</li><li><img></img>Spell Steal scepter cooldown rescaled from 2 to 6/4/2</li><li><img></img>Level 10 Talent changed from +50 Base Damage to<a>Fade Bolt</a>Steals Hero Damage</li><li><img></img>Level 15 Talent changed from Fade Bolt Steals Hero Damage to +100 Base Damage</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Telekinesis</a><ul><li>Allows you to use Telekinesis on yourself or an ally.</li><li>Throw range is 60% longer and cooldown is reduced by 30% when targeting allies.</li><li>Throw delay is reduced to 0.5 seconds.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/5/57/Rubick_Large.png/80px-Rubick_Large.png"
+  },
+  {
+    "id": "7.28_hero_Sand-King",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Sand King",
+    "descriptionHtml": "<ul><li><img></img><a>Epicenter</a>now uses cast time instead of channel time</li><li><img></img>Epicenter radius increase from 275-&gt;725 to 500-&gt;725</li><li><img></img>Level 15 Talent increased from +8%<a>Caustic Finale</a>Slow to +15%</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Epicenter<ul><li>EpicenterEvery 700 units moved causes an Epicenter Pulse around you in 400 AoE.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e5/Sand_King_Large.png/80px-Sand_King_Large.png"
+  },
+  {
+    "id": "7.28_hero_Shadow-Demon",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Shadow Demon",
+    "descriptionHtml": "<ul><li><img></img><a>Shadow Poison</a>is no longer dispellable</li><li><img></img><a>Demonic Purge</a>Scepter upgrade debuff now ends when a new one is cast (deals damage relative to how long it lasted)</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Demonic Purge<ul><li>Allows Demonic Purge to be cast on allies, continuously dispelling them and healing them at the end instead of damaging them.</li><li>Does not slow allies.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/7/79/Shadow_Demon_Large.png/80px-Shadow_Demon_Large.png"
+  },
+  {
+    "id": "7.28_hero_Shadow-Fiend",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Shadow Fiend",
+    "descriptionHtml": "<ul><li><img></img><a>Shadowraze</a>manacost reduced from 90 to 75/80/85/90</li><li><img></img>Level 10 Talent increased from +15 Attack Speed to +20</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Necromastery</a><ul><li>Necromastery now provides 0.75% Spell Amp per Soul</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Shadow_Fiend_Large.png/80px-Shadow_Fiend_Large.png"
+  },
+  {
+    "id": "7.28_hero_Shadow-Shaman",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Shadow Shaman",
+    "descriptionHtml": "<ul><li><img></img><a>Mass Serpent Ward</a>damage increased from 50/80/110 to 50/85/120</li><li><img></img>Level 15 Talent increased from -4.5s Hex Cooldown to -5</li><li><img></img>Level 25 Talent reduced from +30 Wards Attack Damage to +25</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Shackles</a><ul><li>Shackles creates 4 Serpent Wards that attack the target while you channel.</li><li>Increases Shackle range by 150. Wards last 8 seconds.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/d/d8/Shadow_Shaman_Large.png/80px-Shadow_Shaman_Large.png"
+  },
+  {
+    "id": "7.28_hero_Silencer",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Silencer",
+    "descriptionHtml": "<ul><li><img></img><a>Last Word</a>Scepter radius increased from 600 to 650</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Glaives of Wisdom</a><ul><li>Causes Glaives to bounce once towards the closest enemy unit, dealing 50% of your attack damage.</li><li>Bounce range is 600 unit to unit.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/9/98/Silencer_Large.png/80px-Silencer_Large.png"
+  },
+  {
+    "id": "7.28_hero_Skywrath-Mage",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Skywrath Mage",
+    "descriptionHtml": "<ul><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Ancient Seal</a><ul><li>Ancient Seal debuff now causes other debuffs applied to last 40% longer</li><li>Grants vision over the target.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Skywrath_Mage_Large.png/80px-Skywrath_Mage_Large.png"
+  },
+  {
+    "id": "7.28_hero_Slardar",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Slardar",
+    "descriptionHtml": "<ul><li><img></img><a>Guardian Sprint</a>movement speed reduced from 18/26/34/42% to 16/24/32/40%</li><li><img></img>Guardian Sprint river speed rescaled from 7/19/31/43 to 10/20/30/40%</li><li><img></img><a>Slithereen Crush</a>manacost increased from 80/95/105/115 to 90/100/110/120</li><li><img></img>Scepter hp regen reduced from 35 to 30</li><li><img></img>Scepter armor bonus reduced from 12 to 10</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Corrosive Haze</a><ul><li>Causes Corrosive Haze to be applied for 5 seconds to units hit with Slithereen Crush.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/4/41/Slardar_Large.png/80px-Slardar_Large.png"
+  },
+  {
+    "id": "7.28_hero_Slark",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Slark",
+    "descriptionHtml": "<ul><li><img></img><a>Shadow Dance</a>cooldown reduced from 80/70/60 to 80/65/50</li><li><img></img><a>Pounce</a>scepter range increased from 1100 to 1200</li><li><img></img>Level 10 Talent increased from +6 Agility to +7</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Fish Bait</a><ul><li>Can throw it on enemies to reduce their movement speed by 30% and grant you truesight over them for 4 seconds.</li><li>If you pounce an enemy during that time, you will be rewarded with 50 attack speed for the duration of Pounce.</li><li>Cast range: 1100. Manacost: 100. Cooldown: 20.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Slark_Large.png/80px-Slark_Large.png"
+  },
+  {
+    "id": "7.28_hero_Snapfire",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Snapfire",
+    "descriptionHtml": "<ul><li><img></img><a>Firesnap Cookie</a>manacost increased from 100 to 110</li><li><img></img><a>Lil&apos; Shredder</a>manacost reduced from 90 to 75/80/85/90</li><li><img></img><a>Gobble Up</a>now has a 150 Manacost</li><li><img></img>Gobble Up&apos;s<a>Spit Out</a>no longer has a 150 manacost</li><li><img></img>Gobble Up can now target special units like Golems, Spirit Bear, etc</li><li><img></img>Gobble Up impact damage changed from 400 to match the current Glob values on your ultimate (160/240/320)</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Scatterblast</a><ul><li>Units in the point blank range of Scatterblast will be knocked back 250 units, take 125 extra damage and be stunned for 1.5 seconds.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a4/Snapfire_Large.png/80px-Snapfire_Large.png"
+  },
+  {
+    "id": "7.28_hero_Sniper",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Sniper",
+    "descriptionHtml": "<ul><li><img></img>Strength gain increased from 1.7 to 2.0</li><li><img></img>Agility gain reduced from 3.4 to 3.2</li><li><img></img>Base agility increased from 21 to 27 (base damage unchanged)</li><li><img></img><a>Shrapnel</a>charge replenish time reduced from 40 to 35 seconds</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Concussive Grenade</a><ul><li>Knocks enemies back 425 units, slowing them by 50% and disarming them for 3 seconds.</li><li>Radius: 375. Cast Range: 550. Cooldown: 20. Manacost: 75</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a2/Sniper_Large.png/80px-Sniper_Large.png"
+  },
+  {
+    "id": "7.28_hero_Spectre",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Spectre",
+    "descriptionHtml": "<ul><li><img></img>Base attack speed reduced from 100 to 90</li><li><img></img><a>Dispersion</a>rescaled from 7/12/17/22% to 8/12/16/20%</li><li><img></img><a>Spectral Dagger</a>cooldown increased from 16 to 22/20/18/16</li><li><img></img>Spectral Dagger manacost increased from 100/120/140/160 to 130/140/150/160</li><li><img></img><a>Shadow Step</a>scepter ability now also casts a Spectral Dagger on its target</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Dispersion<ul><li>Can activate Dispersion to spawn a Haunt Illusion to attack the most recent hero that damaged you in the last 5 seconds.</li><li>Illusion lasts 5 seconds. Cooldown: 25. Manacost: 150</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0a/Spectre_Large.png/80px-Spectre_Large.png"
+  },
+  {
+    "id": "7.28_hero_Spirit-Breaker",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Spirit Breaker",
+    "descriptionHtml": "<ul><li><img></img><a>Nether Strike</a>cooldown reduced from 100/80/60 to 90/70/50</li><li><img></img><a>Charge of Darkness</a>scepter cooldown increased from 6 to 7</li><li><img></img>Charge of Darkness scepter movement bonus increased from +100 to +175</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Nether Strike<ul><li>Causes Nether Strike to have a cast delay rather than a cast time, deal 200 extra damage and apply Break for 4 seconds.</li><li>You are Spell Immune during the cast delay.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f6/Spirit_Breaker_Large.png/80px-Spirit_Breaker_Large.png"
+  },
+  {
+    "id": "7.28_hero_Storm-Spirit",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Storm Spirit",
+    "descriptionHtml": "<ul><li><img></img>Level 15 Talent increased from +325 Health to +375</li><li><img></img>Level 25 Talent changed from<a>Overload</a>Pierces Immunity to +2 Overload Bounce (Causes your attack to bounce up to 2 times at random enemies, can bounce back if there are only 2 enemies)</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Electric Rave</a><ul><li>Gives you and allied heroes within 750 AoE of you 3 Overload charges.</li><li>Lasts up to 12 seconds or until the charges are depleted.</li><li>Cooldown: 30. Manacost: 150.</li><li>Passively provides 40 Attack Speed to Storm Spirit.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0c/Storm_Spirit_Large.png/80px-Storm_Spirit_Large.png"
+  },
+  {
+    "id": "7.28_hero_Sven",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Sven",
+    "descriptionHtml": "<ul><li><img></img><a>God&apos;s Strength</a>reduced from 110/160/210% to 100/150/180%</li><li><img></img><a>Storm Hammer</a>scepter no longer applies attacks on impact</li><li><img></img>Storm Hammer scepter bonus range reduced from +500 to +350</li><li><img></img>Level 15 Talent changed from Storm Hammer Dispels Enemies to +4s<a>Warcry</a>Duration</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Storm Hammer<ul><li>Storm Hammer now applies a dispel on enemies.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f2/Sven_Large.png/80px-Sven_Large.png"
+  },
+  {
+    "id": "7.28_hero_Techies",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Techies",
+    "descriptionHtml": "<ul><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Blast Off!</a><ul><li>Increases Blast Off! cast range by 600 and applies a 1.5 second stun to enemies within 200 AoE (half the primary radius).</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a7/Techies_Large.png/80px-Techies_Large.png"
+  },
+  {
+    "id": "7.28_hero_Templar-Assassin",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Templar Assassin",
+    "descriptionHtml": "<ul><li><img></img>Base strength increased from 19 to 21</li><li><img></img>Base attack range increased from 140 to 160</li><li><img></img><a>Psi Blades</a>attack range bonus rescaled from 60/120/180/240 to 80/130/180/230</li><li><img></img>Psi Blades Spill range is now 2x your attack range</li><li><img></img>Level 10 Talent increased from +15 Movement Speed to +20</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Psionic Trap</a><ul><li>Causes Psionic Trap to silence enemies for up to 2.5 seconds based on how long the trap has been charged. Minimum 0.5 duration.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/5/50/Templar_Assassin_Large.png/80px-Templar_Assassin_Large.png"
+  },
+  {
+    "id": "7.28_hero_Terrorblade",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Terrorblade",
+    "descriptionHtml": "<ul><li><img></img><a>Reflection</a>duration increased from 2.5/3.5/4.5/5.5 to 3.25/4/4.75/5.5</li><li><img></img><a>Terror Wave</a>ability is now gained when equipping Scepter, rather than after<a>Metamorphosis</a>cast</li><li><img></img>Terror Wave fear duration reduced from 3.75 to 2.5</li><li><img></img>Terror Wave fear now sends units away from you rather than towards the fountain</li><li><img></img>Terror Wave scepter ability now grants you Metamorphosis for 10 seconds. If Metamorphosis is already active, it extends it by 10 seconds instead.</li><li><img></img>Level 25 Talent increased from -32s<a>Sunder</a>Cooldown to -34</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Demon Zeal</a><ul><li>Costs 25% of your Current HP to cast, providing you +25% Movement and +50 Attack Speed for 6 seconds.</li><li>Provides 50% more bonus while melee. Cooldown: 14.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b5/Terrorblade_Large.png/80px-Terrorblade_Large.png"
+  },
+  {
+    "id": "7.28_hero_Tidehunter",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Tidehunter",
+    "descriptionHtml": "<ul><li><img></img><a>Kraken Shell</a>damage block increased from 14/26/38/50 to 18/30/42/54</li><li><img></img>Level 10 Talent increased from +15 Movement Speed to +20</li><li><img></img>Level 10 Talent changed from +80<a>Gush</a>Damage to +1.75 Mana Regen</li><li><img></img>Level 15 Talent changed from +3 Mana regen to +120 Gush Damage</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Anchor Smash</a><ul><li>Increases Anchor Smash damage by +90 and causes it to affect buildings.</li><li>Reduces cooldown by 1 second.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/d/de/Tidehunter_Large.png/80px-Tidehunter_Large.png"
+  },
+  {
+    "id": "7.28_hero_Timbersaw",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Timbersaw",
+    "descriptionHtml": "<ul><li><img></img>Level 10 Talent increased from +175 Health to +200</li><li><img></img><a>Whirling Death</a>base damage from 90/120/150/180 to 80/120/160/200</li><li><img></img>Whirling Death range increased from 300 to 325</li><li><img></img><a>Timber Chain</a>speed increased from 1600/2000/2400/2800 to 1900/2200/2500/2800</li><li><img></img><a>Chakram</a>scepter slow now stacks independently from the primary Chakram</li><li><img></img>Chakram cast animation reduced from 0.3 to 0.15 (affects his scepter as well)</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Flamethrower</a><ul><li>Releases a flame in the direction you are facing. Lasts 7 seconds.</li><li>Applies a debuff that deals 75 DPS and slows by 20% for 3 seconds.</li><li>Sets trees on fire that eventually die after 5 seconds. Cooldown: 15. Manacost: 100.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Timbersaw_Large.png/80px-Timbersaw_Large.png"
+  },
+  {
+    "id": "7.28_hero_Tinker",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Tinker",
+    "descriptionHtml": "<ul><li><img></img>Reworked Aghanim&apos;s Scepter<ul><li>Upgrades your laser into a Shrink Ray, causing it to have +400 cast range and reduces the enemy model size and current health values by 20% (stacks).</li><li>Laser bounces once on the furthest target up to 700 range from the primary target (prioritizes heroes).</li></ul></li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Defense Matrix</a><ul><li>Targets an allied unit, applying a barrier to them that blocks the next 200 damage and provides 40% status resistance.</li><li>Barrier lasts up to 10 seconds or until the damage shield is consumed.</li><li>Cast Range: 400. Cooldown: 30. Manacost: 100.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c0/Tinker_Large.png/80px-Tinker_Large.png"
+  },
+  {
+    "id": "7.28_hero_Tiny",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Tiny",
+    "descriptionHtml": "<ul><li><img></img><a>Tree Grab</a>cooldown reduced from 25/20/15/10 to 16/14/12/10</li><li><img></img><a>Avalanche</a>now deals 2.5x damage to tossed units, rather than 3x</li><li><img></img><a>Grow</a>damage increased from 25/50/75 to 30/70/110</li><li><img></img>Level 15 Talent increased from +3 Tree Grab Attack Charges to +5</li><li><img></img>Level 25 Talent increased from -7s Avalanche Cooldown to -8s</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Craggy Exterior</a><ul><li>Provides a 20% chance to stun the enemy for 1 second and deal 100 damage when a physical attack impacts your hero.</li><li>Works against enemies within 400 range. Procs after an attack impacts, and does not affect Spell Immune enemies.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Tiny_Large.png/80px-Tiny_Large.png"
+  },
+  {
+    "id": "7.28_hero_Treant-Protector",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Treant Protector",
+    "descriptionHtml": "<ul><li><img></img><a>Overgrowth</a>now interrupts targets again</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Nature&apos;s Guise</a><ul><li>Causes Nature&apos;s Guise to root enemies upon attacking. Roots them for 1 second and deals a total of 200 damage.</li><li>Lasts an extra second when attacking near a tree. Cooldown: 10</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7a/Treant_Protector_Large.png/80px-Treant_Protector_Large.png"
+  },
+  {
+    "id": "7.28_hero_Troll-Warlord",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Troll Warlord",
+    "descriptionHtml": "<ul><li><img></img><a>Berserker&apos;s Rage</a>movement bonus increased from 10/20/30/40 to 15/25/35/45</li><li><img></img>Level 25 Talent changed from -5s Whirling Axes Cooldown to +2s<a>Battle Trance</a>Duration</li><li><img></img>Reworked Aghanim&apos;s Scepter<ul><li>Causes Ranged Axes to dispel enemies, and melee axes to dispel yourself.</li><li>Reduces cooldown from 9 to 4 and manacost by half.</li></ul></li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Battle Trance<ul><li>Casting Battle Trance now gives you a global aura that gives allied heroes (including yourself) +60 Attack Speed.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Troll_Warlord_Large.png/80px-Troll_Warlord_Large.png"
+  },
+  {
+    "id": "7.28_hero_Tusk",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Tusk",
+    "descriptionHtml": "<ul><li><img></img><a>Walrus Kick</a>now targets a direction, and kicks the closest enemy unit to you within 250 radius. Prioritizes heroes.</li><li><img></img>Level 25 Talent increased from -8s<a>Snowball</a>Cooldown to -10s</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Frozen Sigil</a><ul><li>Summons a flying Sigil that slows enemy attack by -30 and movement speed by -20% for enemies within 650 radius.</li><li>Lasts 25 seconds. Cooldown: 30. Manacost: 100.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Tusk_Large.png/80px-Tusk_Large.png"
+  },
+  {
+    "id": "7.28_hero_Underlord",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Underlord",
+    "descriptionHtml": "<ul><li><img></img>Level 10 Talent changed from +12% Magic Resistance to +2<a>Firestorm</a>Wave Count</li><li><img></img>Reworked Aghanim&apos;s Scepter<ul><li><a>Dark Rift</a>can now be cast on allied heroes.</li><li>Reduces cast delay by 1 second and cooldown by 50 seconds.</li></ul></li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Firestorm<ul><li>Firestorm can be self targeted. When used that way, the Firestorm follows you around.</li><li>Also causes Firestorm to heal you for 15% of the damage values. Reduces cast point by half.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/9/9e/Underlord_Large.png/80px-Underlord_Large.png"
+  },
+  {
+    "id": "7.28_hero_Undying",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Undying",
+    "descriptionHtml": "<ul><li><img></img><a>Decay</a>manacost increased from 70/85/100/115 to 85/95/105/115</li><li><img></img><a>Soul Rip</a>Damage/Heal per unit reduced from 22/29/36/43 to 19/26/33/40</li><li><img></img>Level 10 Talent changed from +5 Health Regen to +40 Decay Duration</li><li><img></img>Level 15 Talent changed from +40s Decay Duration to +10 Soul Rip Damage/Heal</li><li><img></img>Level 20 Talent changed from +4s<a>Tombstone</a>Attacks to Destroy to -1.5s Decay Cooldown</li><li><img></img>Level 25 Talent changed from -2s Decay Cooldown to +6 Tombstone Attacks to Destroy</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Decay<ul><li>Increases Decay radius by 100 and spawns a zombie around each hero target.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6b/Undying_Large.png/80px-Undying_Large.png"
+  },
+  {
+    "id": "7.28_hero_Ursa",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Ursa",
+    "descriptionHtml": "<ul><li><img></img><a>Overpower</a>cooldown reduced from 15/13/11/9 to 12/11/10/9</li><li><img></img>Overpower manacost reduced from 40/50/60/70 to 30/40/50/60</li><li><img></img><a>Earthshock</a>slow increased from 10/20/30/40% to 16/24/32/40%</li><li><img></img>Level 15 Talent increased from +300 Health to +350</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Fury Swipes</a><ul><li>Every 6th Fury Swipes on a single target causes Ursa to get Enraged for 1 seconds.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/2/27/Ursa_Large.png/80px-Ursa_Large.png"
+  },
+  {
+    "id": "7.28_hero_Vengeful-Spirit",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Vengeful Spirit",
+    "descriptionHtml": "<ul><li><img></img>Base intelligence increased from 17 to 19</li><li><img></img><a>Magic Missile</a>cast range increased from 550 to 575/600/625/650</li><li><img></img>Magic Missile projectile speed increased from 900 to 1350</li><li><img></img><a>Vengeance Aura</a>no longer increases attack range or primary attribute</li><li><img></img>Vengeance Aura no longer has a illusion/death mechanics</li><li><img></img>Vengeance Aura now increases base attack damage by 8/16/24/32%</li><li><img></img>Reworked Aghanim&apos;s Scepter<ul><li>Upon death, creates a strong-illusion of you that can cast all your spells and deals 100% damage and takes 100% damage.</li><li>Illusion has 30% movement speed bonus. If the illusion is alive when you respawn, you will take its place.</li><li>XP earned by your illusion is given to your hero.</li></ul></li><li><img></img><a>Nether Swap</a>no longer has charges</li><li><img></img>Nether Swap cooldown reduced from 90/80/70 to 60/45/30</li><li><img></img>Nether Swap cast range increased from 700/850/1000 to 800/950/1100</li><li><img></img>Level 20 Talent changed from +100 Vengeance Aura Attack Range to +125 Cast Range</li><li><img></img>Level 25 Talent changed from Vengeance Aura Illusion Casts Spells to +16% Vengeance Aura Base Damage</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Wave of Terror</a><ul><li>Wave of Terror now steals 25% of enemy hero base damage and grants it to you as base damage for the debuff duration.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c9/Vengeful_Spirit_Large.png/80px-Vengeful_Spirit_Large.png"
+  },
+  {
+    "id": "7.28_hero_Venomancer",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Venomancer",
+    "descriptionHtml": "<ul><li><img></img><a>Venomous Gale</a>initial damage increase from 25/50/75/100 to 50/75/100/125</li><li><img></img>Level 15 Talent changed from Gale Hero Impact Summons 2 Wards to +100 Attack Range</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Venomous Gale<ul><li>Causes Venomous Gale to summon two<a>Plague Ward</a>when it impacts an enemy hero. Increases travel distance by 400.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/3/39/Venomancer_Large.png/80px-Venomancer_Large.png"
+  },
+  {
+    "id": "7.28_hero_Viper",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Viper",
+    "descriptionHtml": "<ul><li><img></img><a>Nethertoxin</a>manacost rescaled from 70/80/90/100 to 85</li><li><img></img>Level 25 Talent changed from Nethertoxin Silences to -11s Nethertoxin Cooldown</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Poison Attack</a><ul><li>Poison Attacks now also lower armor by 1.5 per stack. Increases max stacks by 2.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Viper_Large.png/80px-Viper_Large.png"
+  },
+  {
+    "id": "7.28_hero_Visage",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Visage",
+    "descriptionHtml": "<ul><li><img></img>Attack projectile speed increased from 1000 to 1400</li><li><img></img><a>Summon Familiars</a>base attack time increased from 0.4 to 0.5</li><li><img></img>Summon Familiars damage increased from 20/40/60 to 25/50/75</li><li><img></img>Reworked Aghanim&apos;s Scepter<ul><li>Grants<a>Silent as the Grave</a><ul><li>Turns you and familiars invisible and +20% movement speed, as well as upgrading your movement type to flying.</li><li>When you or your familiars exit invisibility, you deal 30% bonus damage for 4 seconds.</li><li>Lasts 35 seconds. Cooldown: 45. Manacost: 100</li></ul></li></ul></li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Gravekeeper&apos;s Cloak</a><ul><li>Allows you to cast Gravekeeper&apos;s Cloak to turn into Stone Form.</li><li>Restores up to 25% of your health. Cooldown: 60. Manacost: 300.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f8/Visage_Large.png/80px-Visage_Large.png"
+  },
+  {
+    "id": "7.28_hero_Void-Spirit",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Void Spirit",
+    "descriptionHtml": "<ul><li><img></img>Level 20 Talent reduced from -5.5<a>Astral Step</a>Charge Restore Time to -5</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Dissimilate</a><ul><li>Adds a partial outer ring to Dissimilate. Increases damage by 125.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/1/16/Void_Spirit_Large.png/80px-Void_Spirit_Large.png"
+  },
+  {
+    "id": "7.28_hero_Warlock",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Warlock",
+    "descriptionHtml": "<ul><li><img></img>Level 20 Talent increased from +300<a>Shadow Word</a>AoE to +500</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Shadow Word<ul><li>Shadow Word now provides +20/-20% movement speed on allies/enemies.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b9/Warlock_Large.png/80px-Warlock_Large.png"
+  },
+  {
+    "id": "7.28_hero_Weaver",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Weaver",
+    "descriptionHtml": "<ul><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>The Swarm</a><ul><li>Causes The Swarm to latch onto and reveal invisible units.</li><li>Causes<a>Geminate Attack</a>to also launch an extra attack onto other enemies within 1200 range of the attack target that have Beetles attached to them.</li><li>Reduces The Swarm cooldown by 4 seconds.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/5/59/Weaver_Large.png/80px-Weaver_Large.png"
+  },
+  {
+    "id": "7.28_hero_Windranger",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Windranger",
+    "descriptionHtml": "<ul><li><img></img><a>Windrun</a>scepter movement speed reduced from 45% to 40%</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Powershot</a><ul><li>Powershot now becomes global, but after reaching its default range, it only affects heroes (max 1 hero).</li><li>Impacted heroes will be killed if they are under 13% health after taking the impact damage.</li><li>Kill threshold scales based on powershot channel duration.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Windranger_Large.png/80px-Windranger_Large.png"
+  },
+  {
+    "id": "7.28_hero_Winter-Wyvern",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Winter Wyvern",
+    "descriptionHtml": "<ul><li><img></img>Base damage increased by 2</li><li><img></img><a>Cold Embrace</a>base heal per second increased from 20/26/32/38 to 30/35/40/45</li><li><img></img><a>Arctic Burn</a>scepter mana cost reduced from 30 to 20</li><li><img></img>Arctic Burn scepter upgrade also increases your movement speed by 25%</li><li><img></img>Level 25 Talent increased from +1.2s<a>Winter&apos;s Curse</a>Duration to +1.5</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Cold Embrace<ul><li>When Cold Embrace ends, a<a>Splinter Blast</a>goes off at that location, hitting enemies within 1200 range.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c7/Winter_Wyvern_Large.png/80px-Winter_Wyvern_Large.png"
+  },
+  {
+    "id": "7.28_hero_Witch-Doctor",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Witch Doctor",
+    "descriptionHtml": "<ul><li><img></img>Added Aghanim&apos;s Shard<ul><li>Grants<a>Voodoo Switcheroo</a><ul><li>Turns you into a<a>Death Ward</a>for 2 seconds.</li><li>Death Ward has -30 Attack Speed.</li><li>You are hidden/invulnerable during this time. Cooldown: 70. Manacost: 250.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b0/Witch_Doctor_Large.png/80px-Witch_Doctor_Large.png"
+  },
+  {
+    "id": "7.28_hero_Wraith-King",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Wraith King",
+    "descriptionHtml": "<ul><li><img></img>Reworked<a>Mortal Strike</a>. It is now a passive cooldown critical strike ability. Crit: 150/190/230/270%. Cooldown: 4</li><li><img></img>Reworked Vampiric Aura. Now called<a>Vampiric Spirit</a>. Provides you with 10/18/26/34% Lifesteal. Can be activated to summon skeletons (same numbers as when it was on Mortal Strike). Skeletons also have the Vampiric Spirit ability.</li><li><img></img>Scepter upgrade now buffs Wraith units with +75 Attack Speed and +25% Movement Speed</li><li><img></img>Level 20 Talent changed from No<a>Reincarnation</a>Mana Cost to +30 Movement Speed</li><li><img></img>Level 25 Talent changed from +20% Vampiric Aura to -2s Mortal Strike Cooldown</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades Reincarnation<ul><li>Causes Reincarnation to not have a mana cost and spawns three skeletons to attack each nearby enemy hero when Reincarnation is triggered.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6e/Wraith_King_Large.png/80px-Wraith_King_Large.png"
+  },
+  {
+    "id": "7.28_hero_Zeus",
+    "version": "7.28",
+    "category": "hero",
+    "label": "Zeus",
+    "descriptionHtml": "<ul><li><img></img><a>Thundergod&apos;s Wrath</a>manacost increased from 250/350/450 to 300/400/500</li><li><img></img>Thundergod&apos;s Wrath cooldown increased from 120 to 130/125/120</li><li><img></img>Level 10 Talent reduced from +1.5 Mana Regen to 1.25</li><li><img></img>Level 20 Talent changed from +12% Cooldown Reduction to +100 Thundergod&apos;s Wrath Damage</li><li><img></img>Level 25 Talent reduced from +115<a>Arc Lightning</a>Damage to +100</li><li><img></img>Added Aghanim&apos;s Shard<ul><li>Upgrades<a>Static Field</a><ul><li>Static Field can be cast to perform a Heavenly Jump, shocking the closest visible enemy (hero priority) within 2000 range, dealing Static Field damage to them and reducing their movement speed by 100% for 2.5 seconds.</li><li>If you were moving forward, you will jump towards that direction 450 distance. Cooldown: 14. Manacost: 100.</li></ul></li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/9/91/Zeus_Large.png/80px-Zeus_Large.png"
+  },
+  {
+    "id": "7.28_item_New-Items",
+    "version": "7.28",
+    "category": "item",
+    "label": "New Items",
+    "descriptionHtml": "<ul><li>Costs 250 gold</li><li>Grants 125 Health</li></ul>"
+  },
+  {
+    "id": "7.28_item_Balance-Changes",
+    "version": "7.28",
+    "category": "item",
+    "label": "Balance Changes",
+    "descriptionHtml": "<ul><li>Mana reduced from 450 to 300</li></ul>"
+  },
+  {
+    "id": "7.28_neutral-item_New-Items",
+    "version": "7.28",
+    "category": "neutral-item",
+    "label": "New Items",
+    "descriptionHtml": "<ul><li>+100 Health, +5% Spell Amp. Reduces manacosts by 5%</li></ul>"
+  },
+  {
+    "id": "7.28_neutral-item_Cycled-out",
+    "version": "7.28",
+    "category": "neutral-item",
+    "label": "Cycled out",
+    "descriptionHtml": "<ul><li>Removed</li></ul>"
+  },
+  {
+    "id": "7.28_neutral-item_Balance-changes",
+    "version": "7.28",
+    "category": "neutral-item",
+    "label": "Balance changes",
+    "descriptionHtml": "<ul><li>Cooldown increased from 40 to 45</li></ul>"
+  }
+]

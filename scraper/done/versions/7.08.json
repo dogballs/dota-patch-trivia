@@ -1,0 +1,281 @@
+[
+  {
+    "id": "7.08_general_General-updates",
+    "version": "7.08",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Wards</a>now require a constant 2 hits to kill (both Observer and Sentry Wards)</li><li>Tier 1<a>Tower</a>armor aura increased from 1 to 2</li><li><a>Roshan</a>now has 25% Status Resistance</li><li><a>All Pick</a>: Drafting time per hero selection reduced from 30 to 25 seconds</li></ul>"
+  },
+  {
+    "id": "7.08_item_Aeon-Disk",
+    "version": "7.08",
+    "category": "item",
+    "label": "Aeon Disk",
+    "descriptionHtml": "<ul><li>Health threshold reduced from 80% to 70%</li></ul>",
+    "imageSrc": "/commons/images/0/0a/Aeon_Disk.png"
+  },
+  {
+    "id": "7.08_item_Battle-Fury",
+    "version": "7.08",
+    "category": "item",
+    "label": "Battle Fury",
+    "descriptionHtml": "<ul><li>Creep Bonus damage reduced from 60% to 50%</li><li>Creep Bonus no longer works with illusions</li></ul>",
+    "imageSrc": "/commons/images/a/a5/Battle_Fury.png"
+  },
+  {
+    "id": "7.08_item_Black-King-Bar",
+    "version": "7.08",
+    "category": "item",
+    "label": "Black King Bar",
+    "descriptionHtml": "<ul><li>Cooldown rescaled from 80/75/70/65/60/55 to 70</li></ul>",
+    "imageSrc": "/commons/images/8/85/Black_King_Bar.png"
+  },
+  {
+    "id": "7.08_item_Blink-Dagger",
+    "version": "7.08",
+    "category": "item",
+    "label": "Blink Dagger",
+    "descriptionHtml": "<ul><li>Cooldown increased from 12 to 14</li></ul>",
+    "imageSrc": "/commons/images/0/00/Blink_Dagger.png"
+  },
+  {
+    "id": "7.08_item_Enchanted-Mango",
+    "version": "7.08",
+    "category": "item",
+    "label": "Enchanted Mango",
+    "descriptionHtml": "<ul><li>Mana restore increased from 150 to 175</li></ul>",
+    "imageSrc": "/commons/images/2/23/Enchanted_Mango.png"
+  },
+  {
+    "id": "7.08_item_Faerie-Fire",
+    "version": "7.08",
+    "category": "item",
+    "label": "Faerie Fire",
+    "descriptionHtml": "<ul><li>Heal increased from 75 to 85</li></ul>",
+    "imageSrc": "/commons/images/f/fe/Faerie_Fire.png"
+  },
+  {
+    "id": "7.08_item_Force-Staff",
+    "version": "7.08",
+    "category": "item",
+    "label": "Force Staff",
+    "descriptionHtml": "<ul><li>Time it takes for the full distance to be traveled increased from 0.4 to 0.5</li></ul>",
+    "imageSrc": "/commons/images/9/9f/Force_Staff.png"
+  },
+  {
+    "id": "7.08_item_Hurricane-Pike",
+    "version": "7.08",
+    "category": "item",
+    "label": "Hurricane Pike",
+    "descriptionHtml": "<ul><li>Time it takes for the full distance to be traveled increased from 0.4 to 0.5</li><li>Cooldown increased from 18 to 23</li></ul>",
+    "imageSrc": "/commons/images/7/78/Hurricane_Pike.png"
+  },
+  {
+    "id": "7.08_item_Meteor-Hammer",
+    "version": "7.08",
+    "category": "item",
+    "label": "Meteor Hammer",
+    "descriptionHtml": "<ul><li>Cooldown reduced from 40 to 28</li></ul>",
+    "imageSrc": "/commons/images/a/a4/Meteor_Hammer.png"
+  },
+  {
+    "id": "7.08_item_Soul-Ring",
+    "version": "7.08",
+    "category": "item",
+    "label": "Soul Ring",
+    "descriptionHtml": "<ul><li>Recipe increased from 185 to 200</li></ul>",
+    "imageSrc": "/commons/images/d/d4/Soul_Ring.png"
+  },
+  {
+    "id": "7.08_item_Spirit-Vessel",
+    "version": "7.08",
+    "category": "item",
+    "label": "Spirit Vessel",
+    "descriptionHtml": "<ul><li>Recipe cost increased from 600 to 750</li></ul>",
+    "imageSrc": "/commons/images/9/92/Spirit_Vessel.png"
+  },
+  {
+    "id": "7.08_hero_Alchemist",
+    "version": "7.08",
+    "category": "hero",
+    "label": "Alchemist",
+    "descriptionHtml": "<ul><li><a>Chemical Rage</a>base attack time improved from 1.4/1.2/1 to 1.3/1.15/1</li><li>Level 10 Talent increased from -5s Unstable Concoction Cooldown to -8s</li><li>Level 15 Talent increased from +350 Health to +400</li><li>Level 20 Talent increased from +360 Unstable Concoction to +400</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/11/Alchemist_Large.png/80px-Alchemist_Large.png"
+  },
+  {
+    "id": "7.08_hero_Ember-Spirit",
+    "version": "7.08",
+    "category": "hero",
+    "label": "Ember Spirit",
+    "descriptionHtml": "<ul><li><a>Sleight of Fist</a>Hero Damage increased from 20/40/60/80 to 25/50/75/100</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/98/Ember_Spirit_Large.png/80px-Ember_Spirit_Large.png"
+  },
+  {
+    "id": "7.08_hero_Enchantress",
+    "version": "7.08",
+    "category": "hero",
+    "label": "Enchantress",
+    "descriptionHtml": "<ul><li>Base damage reduced by 3</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/57/Enchantress_Large.png/80px-Enchantress_Large.png"
+  },
+  {
+    "id": "7.08_hero_Jakiro",
+    "version": "7.08",
+    "category": "hero",
+    "label": "Jakiro",
+    "descriptionHtml": "<ul><li>Reduced attack backswing from 0.5 to 0.3</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4d/Jakiro_Large.png/80px-Jakiro_Large.png"
+  },
+  {
+    "id": "7.08_hero_Juggernaut",
+    "version": "7.08",
+    "category": "hero",
+    "label": "Juggernaut",
+    "descriptionHtml": "<ul><li><a>Blade Dance</a>damage reduced from 200% to 180%</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c8/Juggernaut_Large.png/80px-Juggernaut_Large.png"
+  },
+  {
+    "id": "7.08_hero_Leshrac",
+    "version": "7.08",
+    "category": "hero",
+    "label": "Leshrac",
+    "descriptionHtml": "<ul><li><a>Split Earth</a>mana cost reduced from 100/125/140/160 to 80/100/120/140</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f6/Leshrac_Large.png/80px-Leshrac_Large.png"
+  },
+  {
+    "id": "7.08_hero_Lina",
+    "version": "7.08",
+    "category": "hero",
+    "label": "Lina",
+    "descriptionHtml": "<ul><li>Base intelligence increased by 3</li><li>Base damage random variance reduced from 18 min/max damage spread to 12</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/46/Lina_Large.png/80px-Lina_Large.png"
+  },
+  {
+    "id": "7.08_hero_Lion",
+    "version": "7.08",
+    "category": "hero",
+    "label": "Lion",
+    "descriptionHtml": "<ul><li><a>Mana Drain</a>now slows the target by 14/16/18/20%</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/8d/Lion_Large.png/80px-Lion_Large.png"
+  },
+  {
+    "id": "7.08_hero_Lycan",
+    "version": "7.08",
+    "category": "hero",
+    "label": "Lycan",
+    "descriptionHtml": "<ul><li><a>Shapeshift</a>cooldown increased from 120/90/60 to 130/105/80</li><li>Base armor reduced by 1</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Lycan_Large.png/80px-Lycan_Large.png"
+  },
+  {
+    "id": "7.08_hero_Medusa",
+    "version": "7.08",
+    "category": "hero",
+    "label": "Medusa",
+    "descriptionHtml": "<ul><li><a>Mystic Snake</a>cast range reduced from 800 to 700</li><li>Level 10 Talent increased from 12% Evasion to 15%</li><li>Level 15 Talent increased from +15% Mystic Snake Mana Steal to +20%</li><li>Level 20 Talent reduced from +800 Mana to +700</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/38/Medusa_Large.png/80px-Medusa_Large.png"
+  },
+  {
+    "id": "7.08_hero_Morphling",
+    "version": "7.08",
+    "category": "hero",
+    "label": "Morphling",
+    "descriptionHtml": "<ul><li><a>Morph</a>cast range increased from 600 to 1000</li><li>Morph mana cost reduced from 75/100/125 to 50</li><li><a>Morph Replicate</a>cast point removed</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c7/Morphling_Large.png/80px-Morphling_Large.png"
+  },
+  {
+    "id": "7.08_hero_Nature's-Prophet",
+    "version": "7.08",
+    "category": "hero",
+    "label": "Nature's Prophet",
+    "descriptionHtml": "<ul><li><a>Wrath of Nature</a>cooldown reduced from 90/75/60 to 70/65/60</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/16/Natures_Prophet_Large.png/80px-Natures_Prophet_Large.png"
+  },
+  {
+    "id": "7.08_hero_Omniknight",
+    "version": "7.08",
+    "category": "hero",
+    "label": "Omniknight",
+    "descriptionHtml": "<ul><li><a>Degen Aura</a>range reduced from 300 to 275</li><li><a>Purification</a>cast range reduced from 450 to 400</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Omniknight_Large.png/80px-Omniknight_Large.png"
+  },
+  {
+    "id": "7.08_hero_Oracle",
+    "version": "7.08",
+    "category": "hero",
+    "label": "Oracle",
+    "descriptionHtml": "<ul><li><a>Fortune&apos;s End</a>mana cost reduced from 110 to 75</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fc/Oracle_Large.png/80px-Oracle_Large.png"
+  },
+  {
+    "id": "7.08_hero_Pangolier",
+    "version": "7.08",
+    "category": "hero",
+    "label": "Pangolier",
+    "descriptionHtml": "<ul><li><a>Rolling Thunder</a>cooldown increased from 50/45/40 to 70/65/60</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a3/Pangolier_Large.png/80px-Pangolier_Large.png"
+  },
+  {
+    "id": "7.08_hero_Pudge",
+    "version": "7.08",
+    "category": "hero",
+    "label": "Pudge",
+    "descriptionHtml": "<ul><li><a>Rot</a>slow rescaled from 30% to 20/24/28/32%</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dd/Pudge_Large.png/80px-Pudge_Large.png"
+  },
+  {
+    "id": "7.08_hero_Pugna",
+    "version": "7.08",
+    "category": "hero",
+    "label": "Pugna",
+    "descriptionHtml": "<ul><li>Level 15 Talent increased from +1 Nether Ward Health to +2</li><li><a>Life Drain</a>damage increased from 150/200/250 to 150/225/300 (Scepter now only removes cooldown)</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/24/Pugna_Large.png/80px-Pugna_Large.png"
+  },
+  {
+    "id": "7.08_hero_Shadow-Fiend",
+    "version": "7.08",
+    "category": "hero",
+    "label": "Shadow Fiend",
+    "descriptionHtml": "<ul><li><a>Necromastery</a>max souls reduced from 18/24/30/36 to 12/20/28/36</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Shadow_Fiend_Large.png/80px-Shadow_Fiend_Large.png"
+  },
+  {
+    "id": "7.08_hero_Shadow-Shaman",
+    "version": "7.08",
+    "category": "hero",
+    "label": "Shadow Shaman",
+    "descriptionHtml": "<ul><li><a>Ether Shock</a>cooldown increased from 8 to 14/12/10/8</li><li><a>Shackles</a>total damage reduced from 120/200/280/360 to 60/160/260/360</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/d8/Shadow_Shaman_Large.png/80px-Shadow_Shaman_Large.png"
+  },
+  {
+    "id": "7.08_hero_Tinker",
+    "version": "7.08",
+    "category": "hero",
+    "label": "Tinker",
+    "descriptionHtml": "<ul><li>Base movement speed reduced from 305 to 290</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c0/Tinker_Large.png/80px-Tinker_Large.png"
+  },
+  {
+    "id": "7.08_hero_Tiny",
+    "version": "7.08",
+    "category": "hero",
+    "label": "Tiny",
+    "descriptionHtml": "<ul><li><a>Toss</a>cooldown increased from 8 to 11</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Tiny_Large.png/80px-Tiny_Large.png"
+  },
+  {
+    "id": "7.08_hero_Tusk",
+    "version": "7.08",
+    "category": "hero",
+    "label": "Tusk",
+    "descriptionHtml": "<ul><li><a>Snowball</a>can no longer be cast while rooted</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Tusk_Large.png/80px-Tusk_Large.png"
+  },
+  {
+    "id": "7.08_hero_Windranger",
+    "version": "7.08",
+    "category": "hero",
+    "label": "Windranger",
+    "descriptionHtml": "<ul><li><a>Windrun</a>mana cost reduced from 60 to 50</li><li>Level 20 Talent changed from +1 Shackleshot Target to +0.5s Shackleshot Duration</li><li>Level 25 Talent from +30% Ministun Focus Fire to +35%</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Windranger_Large.png/80px-Windranger_Large.png"
+  }
+]

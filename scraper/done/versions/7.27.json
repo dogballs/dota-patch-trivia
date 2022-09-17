@@ -1,0 +1,777 @@
+[
+  {
+    "id": "7.27_general_General-updates",
+    "version": "7.27",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Hero kills base XP increased from 40 to 100</li><li>Hero kill last hit gold increased from 99 + 7.2 * Level to 120 + 8 * Level</li><li>Assist gold rescaled from 45 + 0.033*NW to 30 + 0.038*NW</li><li>Passive gold income increased from 85 to 95</li><li>Bounty Runes are now reliable gold</li><li>Tower last hit bounty from 180 for T1/2/3/4 to 120/140/160/180</li><li>Neutral stacking support bounty increased from 35% to 40%</li></ul>"
+  },
+  {
+    "id": "7.27_item_Necronomicon",
+    "version": "7.27",
+    "category": "item",
+    "label": "Necronomicon",
+    "descriptionHtml": "<ul><li>No longer provides Archer Aura (movement/attack speed of necro units increased with the same amount as the aura provided)</li><li>Attack damage type changed from Piercing to Hero and damage amount adjusted such that the net effect is -57% vs creeps, -10% vs buildings and +26% vs heroes</li><li>Mana regen reduced from 3/3.5/4 to 2/3/4</li><li>Last Will no longer deals damage through Spell Immunity</li></ul>",
+    "imageSrc": "/commons/images/5/51/Necronomicon_1.png"
+  },
+  {
+    "id": "7.27_item_Helm-of-the-Dominator",
+    "version": "7.27",
+    "category": "item",
+    "label": "Helm of the Dominator",
+    "descriptionHtml": "<ul><li>No longer provides a damage and regen aura</li><li>Dominate now also gives the creep a buff that provides +40 Base Damage, +12 HP Regen and +4 MP Regen</li><li>Cooldown reduced from 60 to 45</li><li>Recipe is now Helm of Iron Will, Crown and a 725 gold recipe</li><li>Passive bonuses are now +6 Armor, +6 HP Regen and +6 All Stats</li></ul>",
+    "imageSrc": "/commons/images/6/61/Helm_of_the_Dominator.png"
+  },
+  {
+    "id": "7.27_item_Vladmir's-Offering",
+    "version": "7.27",
+    "category": "item",
+    "label": "Vladmir's Offering",
+    "descriptionHtml": "<ul><li>Now requires a Mask of Death, Blades of Attack, Ring of Basilius and a 600 gold recipe (total cost from 2300 to 2375)</li><li>No longer provides +3 Armor Aura</li><li>No longer provides +5 All Stats</li><li>Lifesteal Aura reduced from 20% to 15%</li><li>Now provides +18% Damage Aura</li><li>Mana regen increased from 1.5 to 2</li></ul>",
+    "imageSrc": "/commons/images/f/f5/Vladmirs_Offering.png"
+  },
+  {
+    "id": "7.27_item_Drum-of-Endurance",
+    "version": "7.27",
+    "category": "item",
+    "label": "Drum of Endurance",
+    "descriptionHtml": "<ul><li>Now requires Crown, Sage&apos;s Mask, Windlace and 600 gold recipe</li><li>No longer provides a 20 Attack Speed Aura</li><li>Now provides +6 All Attributes, +1.5 Mana Regen and +20 Movement Speed Bonus</li><li>Attack speed bonus increased from +35 to +45</li><li>Active movement speed increased from 12% to 13%</li></ul>",
+    "imageSrc": "/commons/images/a/a9/Drum_of_Endurance.png"
+  },
+  {
+    "id": "7.27_item_Buckler",
+    "version": "7.27",
+    "category": "item",
+    "label": "Buckler",
+    "descriptionHtml": "<ul><li>Armor aura reduced from 2.5 to 2</li><li>Recipe cost reduced from 225 to 200 (total price remains 375)</li></ul>",
+    "imageSrc": "/commons/images/7/74/Buckler.png"
+  },
+  {
+    "id": "7.27_item_Mekansm",
+    "version": "7.27",
+    "category": "item",
+    "label": "Mekansm",
+    "descriptionHtml": "<ul><li>Now requires Buckler instead of Chainmail (total cost remains same)</li><li>Now Provides +3 Armor Aura</li><li>Self armor reduced from +6 to +4</li><li>No longer provides +4 All stats</li></ul>",
+    "imageSrc": "/commons/images/b/b8/Mekansm.png"
+  },
+  {
+    "id": "7.27_item_Guardian-Greaves",
+    "version": "7.27",
+    "category": "item",
+    "label": "Guardian Greaves",
+    "descriptionHtml": "<ul><li>Now provides +3 Armor Aura</li><li>No longer provides +5 All stats</li><li>Self armor reduced from +6 to +4</li></ul>",
+    "imageSrc": "/commons/images/5/57/Guardian_Greaves.png"
+  },
+  {
+    "id": "7.27_item_Crimson-Guard",
+    "version": "7.27",
+    "category": "item",
+    "label": "Crimson Guard",
+    "descriptionHtml": "<ul><li>No longer provides +3 All Stats</li><li>Cooldown reduced from 46 to 40</li></ul>",
+    "imageSrc": "/commons/images/1/17/Crimson_Guard.png"
+  },
+  {
+    "id": "7.27_item_Blade-Mail",
+    "version": "7.27",
+    "category": "item",
+    "label": "Blade Mail",
+    "descriptionHtml": "<ul><li>Now has a 500 gold recipe instead of using Robe of the Magi</li><li>No longer grants +8<a><img></img></a><a><font><b>Intelligence</b></font></a></li><li>Armor bonus increased from 6 to 7</li><li>Now has a passive component that returns 20 + 20% of the attack damage</li><li>Active return damage reduced from 100% to 80%</li></ul>",
+    "imageSrc": "/commons/images/4/47/Blade_Mail.png"
+  },
+  {
+    "id": "7.27_item_Blitz-Knuckles",
+    "version": "7.27",
+    "category": "item",
+    "label": "Blitz Knuckles",
+    "descriptionHtml": "<ul><li>New basic item. Costs 1000 gold and provides +35 Attack Speed.</li></ul>",
+    "imageSrc": "/commons/images/d/d9/Blitz_Knuckles.png"
+  },
+  {
+    "id": "7.27_item_Monkey-King-Bar",
+    "version": "7.27",
+    "category": "item",
+    "label": "Monkey King Bar",
+    "descriptionHtml": "<ul><li>Now requires Blitz Knuckles instead of Quarterstaff</li><li>Damage reduced from 52 to 42</li><li>Attack speed increased from +10 to +35</li></ul>",
+    "imageSrc": "/commons/images/0/0a/Monkey_King_Bar.png"
+  },
+  {
+    "id": "7.27_item_Oblivion-Staff",
+    "version": "7.27",
+    "category": "item",
+    "label": "Oblivion Staff",
+    "descriptionHtml": "<ul><li>Bonus damage increased from 10 to 15</li></ul>",
+    "imageSrc": "/commons/images/1/1c/Oblivion_Staff.png"
+  },
+  {
+    "id": "7.27_item_Orchid-Malevolence",
+    "version": "7.27",
+    "category": "item",
+    "label": "Orchid Malevolence",
+    "descriptionHtml": "<ul><li>Mana regen reduced from 5.5 to 4</li><li><a><img></img></a><a><font><b>Intelligence</b></font></a>reduced from 25 to 20</li><li>Recipe cost reduced from 775 to 475 (total cost reduced from 3875 to 3475)</li></ul>",
+    "imageSrc": "/commons/images/e/e5/Orchid_Malevolence.png"
+  },
+  {
+    "id": "7.27_item_Shadow-Amulet",
+    "version": "7.27",
+    "category": "item",
+    "label": "Shadow Amulet",
+    "descriptionHtml": "<ul><li>Cost reduced from 1400 to 1000</li></ul>",
+    "imageSrc": "/commons/images/d/dd/Shadow_Amulet.png"
+  },
+  {
+    "id": "7.27_item_Glimmer-Cape",
+    "version": "7.27",
+    "category": "item",
+    "label": "Glimmer Cape",
+    "descriptionHtml": "<ul><li>Now combines from Shadow Amulet, Cloak and Gloves of Haste</li></ul>",
+    "imageSrc": "/commons/images/a/ae/Glimmer_Cape.png"
+  },
+  {
+    "id": "7.27_item_Shadow-Blade",
+    "version": "7.27",
+    "category": "item",
+    "label": "Shadow Blade",
+    "descriptionHtml": "<ul><li>Now combines from Shadow Amulet, Blitz Knuckles and Broadsword</li><li>Attack Speed increased from 30 to 35</li><li>Damage reduced from 27 to 25</li></ul>",
+    "imageSrc": "/commons/images/4/4a/Shadow_Blade.png"
+  },
+  {
+    "id": "7.27_item_Echo-Sabre",
+    "version": "7.27",
+    "category": "item",
+    "label": "Echo Sabre",
+    "descriptionHtml": "<ul><li>Slow is now only applied by real heroes</li></ul>",
+    "imageSrc": "/commons/images/2/26/Echo_Sabre.png"
+  },
+  {
+    "id": "7.27_item_Silver-Edge",
+    "version": "7.27",
+    "category": "item",
+    "label": "Silver Edge",
+    "descriptionHtml": "<ul><li>Now requires Echo Sabre instead of Ultimate Orb</li><li>Now provides +40 Damage, +35 Attack Speed, +12<a><img></img></a><a><font><b>Strength</b></font></a>, +10<a><img></img></a><a><font><b>Intelligence</b></font></a>and +1.5 Mana Regen (keeps the other benefits from components)</li></ul>",
+    "imageSrc": "/commons/images/4/4a/Silver_Edge.png"
+  },
+  {
+    "id": "7.27_item_Bracer",
+    "version": "7.27",
+    "category": "item",
+    "label": "Bracer",
+    "descriptionHtml": "<ul><li><a><img></img></a><a><font><b>Strength</b></font></a>/<a><img></img></a><a><font><b>Intelligence</b></font></a>/<a><img></img></a><a><font><b>Agility</b></font></a>reduced from 6/3/3 to 5/2/2</li><li>No longer grants +4% Magic Resistance</li><li>Now grants +3 Damage and +0.75 HP Regen</li></ul>",
+    "imageSrc": "/commons/images/7/7c/Bracer.png"
+  },
+  {
+    "id": "7.27_item_Wraith-Band",
+    "version": "7.27",
+    "category": "item",
+    "label": "Wraith Band",
+    "descriptionHtml": "<ul><li><a><img></img></a><a><font><b>Strength</b></font></a>/<a><img></img></a><a><font><b>Intelligence</b></font></a>/<a><img></img></a><a><font><b>Agility</b></font></a>reduced from 3/3/6 to 2/2/5</li><li>Now grants +1.5 Armor and +5 Attack Speed</li></ul>",
+    "imageSrc": "/commons/images/6/62/Wraith_Band.png"
+  },
+  {
+    "id": "7.27_item_Null-Talisman",
+    "version": "7.27",
+    "category": "item",
+    "label": "Null Talisman",
+    "descriptionHtml": "<ul><li><a><img></img></a><a><font><b>Strength</b></font></a>/<a><img></img></a><a><font><b>Intelligence</b></font></a>/<a><img></img></a><a><font><b>Agility</b></font></a>reduced from 3/6/3 to 2/5/2</li><li>Now grants +0.6 Mana Regen and +3% Spell Amp</li></ul>",
+    "imageSrc": "/commons/images/a/a8/Null_Talisman.png"
+  },
+  {
+    "id": "7.27_item_Ring-of-Regen",
+    "version": "7.27",
+    "category": "item",
+    "label": "Ring of Regen",
+    "descriptionHtml": "<ul><li>Health regen reduced from 1.75 to 1.5</li><li>Cost reduced from 225 to 175</li></ul>",
+    "imageSrc": "/commons/images/2/28/Ring_of_Regen.png"
+  },
+  {
+    "id": "7.27_item_Sage's-Mask",
+    "version": "7.27",
+    "category": "item",
+    "label": "Sage's Mask",
+    "descriptionHtml": "<ul><li>Mana regen reduced from 1 to 0.6</li><li>Cost reduced from 225 to 175</li></ul>",
+    "imageSrc": "/commons/images/2/2b/Sages_Mask.png"
+  },
+  {
+    "id": "7.27_item_Ring-of-Protection",
+    "version": "7.27",
+    "category": "item",
+    "label": "Ring of Protection",
+    "descriptionHtml": "<ul><li>Cost increased from 150 to 175</li></ul>",
+    "imageSrc": "/commons/images/2/2f/Ring_of_Protection.png"
+  },
+  {
+    "id": "7.27_item_Ring-of-Basilius",
+    "version": "7.27",
+    "category": "item",
+    "label": "Ring of Basilius",
+    "descriptionHtml": "<ul><li>Recipe cost increased from 200 to 250 (total price remains 425)</li></ul>",
+    "imageSrc": "/commons/images/a/a4/Ring_of_Basilius.png"
+  },
+  {
+    "id": "7.27_item_Headdress",
+    "version": "7.27",
+    "category": "item",
+    "label": "Headdress",
+    "descriptionHtml": "<ul><li>Recipe cost increased from 200 to 250 (total price remains 425)</li></ul>",
+    "imageSrc": "/commons/images/e/ea/Headdress.png"
+  },
+  {
+    "id": "7.27_item_Urn-of-Shadows",
+    "version": "7.27",
+    "category": "item",
+    "label": "Urn of Shadows",
+    "descriptionHtml": "<ul><li>Recipe cost increased from 310 to 335 (total price remains 840)</li></ul>",
+    "imageSrc": "/commons/images/7/78/Urn_of_Shadows.png"
+  },
+  {
+    "id": "7.27_item_Pipe-of-Insight",
+    "version": "7.27",
+    "category": "item",
+    "label": "Pipe of Insight",
+    "descriptionHtml": "<ul><li>Recipe cost increased from 1200 to 1250 (total cost remains 3425)</li></ul>",
+    "imageSrc": "/commons/images/1/1e/Pipe_of_Insight.png"
+  },
+  {
+    "id": "7.27_item_Tranquil-Boots",
+    "version": "7.27",
+    "category": "item",
+    "label": "Tranquil Boots",
+    "descriptionHtml": "<ul><li>Unbroken speed reduced from 75 to 70 (total cost was reduced from 975 to 925)</li><li>Broken speed reduced from 50 to 45 (total cost was reduced from 975 to 925)</li></ul>",
+    "imageSrc": "/commons/images/2/22/Tranquil_Boots.png"
+  },
+  {
+    "id": "7.27_item_Kaya",
+    "version": "7.27",
+    "category": "item",
+    "label": "Kaya",
+    "descriptionHtml": "<ul><li>No longer provides +12% Mana Loss Reduction</li><li>Now provides +24% Mana Regen Amplification</li><li>Now provides 24% Spell Lifesteal Amplification</li></ul>",
+    "imageSrc": "/commons/images/9/97/Kaya.png"
+  },
+  {
+    "id": "7.27_item_Yasha-and-Kaya",
+    "version": "7.27",
+    "category": "item",
+    "label": "Yasha and Kaya",
+    "descriptionHtml": "<ul><li>No longer provides +18% Mana Loss Reduction</li><li>Now provides +30% Mana Regen Amplification</li><li>Spell Amp increased from 14% to 16%</li><li>Now provides 30% Spell Lifesteal Amplification</li></ul>",
+    "imageSrc": "/commons/images/0/00/Yasha_and_Kaya.png"
+  },
+  {
+    "id": "7.27_item_Kaya-and-Sange",
+    "version": "7.27",
+    "category": "item",
+    "label": "Kaya and Sange",
+    "descriptionHtml": "<ul><li>No longer provides +18% Mana Loss Reduction</li><li>Now provides +30% Mana Regen Amplification</li><li>Spell Amp increased from 14% to 16%</li><li>Now provides 30% Spell Lifesteal Amplification</li></ul>",
+    "imageSrc": "/commons/images/0/0e/Kaya_and_Sange.png"
+  },
+  {
+    "id": "7.27_item_BloodStone",
+    "version": "7.27",
+    "category": "item",
+    "label": "BloodStone",
+    "descriptionHtml": "<ul><li>No longer provides +12% Mana Loss Reduction</li><li>Now provides 30% Spell Lifesteal Amplification</li><li>Now provides +10% Magic Resistance</li><li>Cooldown reduced from 250 to 85</li></ul>",
+    "imageSrc": "/commons/images/0/00/Bloodstone.png"
+  },
+  {
+    "id": "7.27_item_Sange",
+    "version": "7.27",
+    "category": "item",
+    "label": "Sange",
+    "descriptionHtml": "<ul><li>No longer provides Spell Lifesteal Amplification (same for its upgrades)</li></ul>",
+    "imageSrc": "/commons/images/c/ca/Sange.png"
+  },
+  {
+    "id": "7.27_item_Soul-Booster",
+    "version": "7.27",
+    "category": "item",
+    "label": "Soul Booster",
+    "descriptionHtml": "<ul><li>Now provides +10% Magic Resistance</li></ul>",
+    "imageSrc": "/commons/images/a/a5/Soul_Booster.png"
+  },
+  {
+    "id": "7.27_item_Octarine-Core",
+    "version": "7.27",
+    "category": "item",
+    "label": "Octarine Core",
+    "descriptionHtml": "<ul><li>Now provides +10% Magic Resistance</li><li>Now requires Soul Booster, Voodoo Mask and 900 recipe cost (Total cost reduced from 5900 to 5000)</li><li>No longer provides bonus<a><img></img></a><a><font><b>Intelligence</b></font></a></li></ul>",
+    "imageSrc": "/commons/images/2/2e/Octarine_Core.png"
+  },
+  {
+    "id": "7.27_item_Voodoo-Mask",
+    "version": "7.27",
+    "category": "item",
+    "label": "Voodoo Mask",
+    "descriptionHtml": "<ul><li>New base item. Grants +12% Spell Lifesteal (2.5% against creeps). Costs 900 Gold.</li></ul>",
+    "imageSrc": "/commons/images/f/f1/Voodoo_Mask.png"
+  },
+  {
+    "id": "7.27_item_Veil-of-Discord",
+    "version": "7.27",
+    "category": "item",
+    "label": "Veil of Discord",
+    "descriptionHtml": "<ul><li>Attributes reduced from +9 to +4</li><li>Recipe cost reduced from 1150 to 650</li><li>Cooldown increased from 20 to 25</li><li>Spell amplification reduced from 20% to 18%</li></ul>",
+    "imageSrc": "/commons/images/f/f0/Veil_of_Discord.png"
+  },
+  {
+    "id": "7.27_item_Holy-Locket",
+    "version": "7.27",
+    "category": "item",
+    "label": "Holy Locket",
+    "descriptionHtml": "<ul><li>Can now target allied units with the magic stick active. Cast Range 500</li></ul>",
+    "imageSrc": "/commons/images/e/ec/Holy_Locket.png"
+  },
+  {
+    "id": "7.27_item_Soul-Ring",
+    "version": "7.27",
+    "category": "item",
+    "label": "Soul Ring",
+    "descriptionHtml": "<ul><li>Now requires 2x Gauntlet, Ring of Protection, and a 350 gold recipe (same total cost)</li><li>Now provides +6<a><img></img></a><a><font><b>Strength</b></font></a>and +2 Armor</li><li>No longer provides +2.25 HP Regen</li></ul>",
+    "imageSrc": "/commons/images/d/d4/Soul_Ring.png"
+  },
+  {
+    "id": "7.27_item_Hyperstone",
+    "version": "7.27",
+    "category": "item",
+    "label": "Hyperstone",
+    "descriptionHtml": "<ul><li>Attack speed bonus increased from 55 to 60</li></ul>",
+    "imageSrc": "/commons/images/c/c1/Hyperstone.png"
+  },
+  {
+    "id": "7.27_item_Assault-Cuirass",
+    "version": "7.27",
+    "category": "item",
+    "label": "Assault Cuirass",
+    "descriptionHtml": "<ul><li>Attack speed aura bonus increased from +25 to +30</li><li>No longer provides +5 All Stats</li></ul>",
+    "imageSrc": "/commons/images/4/40/Assault_Cuirass.png"
+  },
+  {
+    "id": "7.27_item_Bloodthorn",
+    "version": "7.27",
+    "category": "item",
+    "label": "Bloodthorn",
+    "descriptionHtml": "<ul><li>Attack speed increased from 85 to 90</li></ul>",
+    "imageSrc": "/commons/images/3/38/Bloodthorn.png"
+  },
+  {
+    "id": "7.27_item_Battle-Fury",
+    "version": "7.27",
+    "category": "item",
+    "label": "Battle Fury",
+    "descriptionHtml": "<ul><li>Now requires Claymore instead of Mithril Hammer</li><li>Damage reduced from 60 to 55</li><li>Mana regen reduced from 3.75 to 3.25</li></ul>",
+    "imageSrc": "/commons/images/a/a5/Battle_Fury.png"
+  },
+  {
+    "id": "7.27_item_Broadsword",
+    "version": "7.27",
+    "category": "item",
+    "label": "Broadsword",
+    "descriptionHtml": "<ul><li>Damage reduced from 16 to 15</li></ul>",
+    "imageSrc": "/commons/images/8/87/Broadsword.png"
+  },
+  {
+    "id": "7.27_item_Crystalys",
+    "version": "7.27",
+    "category": "item",
+    "label": "Crystalys",
+    "descriptionHtml": "<ul><li>Damage reduced from 34 to 32</li><li>Recipe cost reduced from 700 to 500</li></ul>",
+    "imageSrc": "/commons/images/c/c6/Crystalys.png"
+  },
+  {
+    "id": "7.27_item_Cloak",
+    "version": "7.27",
+    "category": "item",
+    "label": "Cloak",
+    "descriptionHtml": "<ul><li>Cost reduced from 550 to 450</li></ul>",
+    "imageSrc": "/commons/images/2/2b/Cloak_dota2.png"
+  },
+  {
+    "id": "7.27_item_Hood-of-Defiance",
+    "version": "7.27",
+    "category": "item",
+    "label": "Hood of Defiance",
+    "descriptionHtml": "<ul><li>Recipe cost increased from 200 to 300 (total cost remains the same)</li></ul>",
+    "imageSrc": "/commons/images/b/b3/Hood_of_Defiance.png"
+  },
+  {
+    "id": "7.27_item_Satanic",
+    "version": "7.27",
+    "category": "item",
+    "label": "Satanic",
+    "descriptionHtml": "<ul><li>Now has a 500 gold recipe</li></ul>",
+    "imageSrc": "/commons/images/0/0e/Satanic.png"
+  },
+  {
+    "id": "7.27_item_Meteor-Hammer",
+    "version": "7.27",
+    "category": "item",
+    "label": "Meteor Hammer",
+    "descriptionHtml": "<ul><li>Cooldown reduced from 28 to 24</li><li>Stun duration reduced from 2 to 1.75</li><li>Recipe now Perseverance, Crown and 200 gold recipe</li><li>Now provides +8 All Stats, +6.5 Health Regen and +2.5 Mana Regen</li></ul>",
+    "imageSrc": "/commons/images/a/a4/Meteor_Hammer.png"
+  },
+  {
+    "id": "7.27_item_Spirit-Vessel",
+    "version": "7.27",
+    "category": "item",
+    "label": "Spirit Vessel",
+    "descriptionHtml": "<ul><li>No longer has a heal reduction aura</li><li>Soul Release regen increased from 30 to 40</li><li>Soul Release dps increased from 25 to 35</li><li>Enemy HP regen reduction increased from -35% to -45%</li></ul>",
+    "imageSrc": "/commons/images/9/92/Spirit_Vessel.png"
+  },
+  {
+    "id": "7.27_item_Shiva's-Guard",
+    "version": "7.27",
+    "category": "item",
+    "label": "Shiva's Guard",
+    "descriptionHtml": "<ul><li>Freezing Aura now also applies a 25% heal reduction in the area</li><li>Recipe cost increased from 650 to 750</li></ul>",
+    "imageSrc": "/commons/images/8/89/Shivas_Guard.png"
+  },
+  {
+    "id": "7.27_item_Dagon",
+    "version": "7.27",
+    "category": "item",
+    "label": "Dagon",
+    "descriptionHtml": "<ul><li>Recipe now Belt of Strength, Band of Elvenskin, Robe of the Magi and 1300 recipe</li><li>Now provides +6/8/10/12/14 All Attributes</li><li>Recipe cost increased from 1250 to 1300</li></ul>",
+    "imageSrc": "/commons/images/c/c3/Dagon.png"
+  },
+  {
+    "id": "7.27_item_Heart-of-Tarrasque",
+    "version": "7.27",
+    "category": "item",
+    "label": "Heart of Tarrasque",
+    "descriptionHtml": "<ul><li>No longer provides +10 Health Regen nor heal/regen amplification</li><li>Now passively provides 1% health regeneration</li><li>While out of combat, provides +50% health regen amplification</li><li><a><img></img></a><a><font><b>Strength</b></font></a>reduced from +45 to +40</li><li>Recipe cost increased from 400 to 650</li></ul>",
+    "imageSrc": "/commons/images/a/a6/Heart_of_Tarrasque.png"
+  },
+  {
+    "id": "7.27_item_Eye-of-Skadi",
+    "version": "7.27",
+    "category": "item",
+    "label": "Eye of Skadi",
+    "descriptionHtml": "<ul><li>Heal reduction increased from 35% to 40%</li><li>Slow from 20/45 to 25/50</li></ul>",
+    "imageSrc": "/commons/images/6/64/Eye_of_Skadi.png"
+  },
+  {
+    "id": "7.27_item_Quelling-Blade",
+    "version": "7.27",
+    "category": "item",
+    "label": "Quelling Blade",
+    "descriptionHtml": "<ul><li>Cost reduced from 150 to 130</li><li>Melee bonus damage reduced from 18 to 15</li><li>Range bonus damage increased from 5 to 6</li></ul>",
+    "imageSrc": "/commons/images/4/43/Quelling_Blade.png"
+  },
+  {
+    "id": "7.27_item_Linken's-Sphere",
+    "version": "7.27",
+    "category": "item",
+    "label": "Linken's Sphere",
+    "descriptionHtml": "<ul><li>Recipe cost reduced from 1200 to 900</li></ul>",
+    "imageSrc": "/commons/images/3/3c/Linkens_Sphere.png"
+  },
+  {
+    "id": "7.27_item_Abyssal-Blade",
+    "version": "7.27",
+    "category": "item",
+    "label": "Abyssal Blade",
+    "descriptionHtml": "<ul><li>Cast range reduced from 600 to 550</li></ul>",
+    "imageSrc": "/commons/images/7/70/Abyssal_Blade.png"
+  },
+  {
+    "id": "7.27_item_Heaven's-Halberd",
+    "version": "7.27",
+    "category": "item",
+    "label": "Heaven's Halberd",
+    "descriptionHtml": "<ul><li>Evasion reduced from 25% to 20%</li></ul>",
+    "imageSrc": "/commons/images/0/0a/Heavens_Halberd.png"
+  },
+  {
+    "id": "7.27_item_Dragon-Lance",
+    "version": "7.27",
+    "category": "item",
+    "label": "Dragon Lance",
+    "descriptionHtml": "<ul><li><a><img></img></a><a><font><b>Agility</b></font></a>increased from 12 to 14</li></ul>",
+    "imageSrc": "/commons/images/1/18/Dragon_Lance.png"
+  },
+  {
+    "id": "7.27_item_Hand-of-Midas",
+    "version": "7.27",
+    "category": "item",
+    "label": "Hand of Midas",
+    "descriptionHtml": "<ul><li>XP multiplier increased from 185% to 210%</li></ul>",
+    "imageSrc": "/commons/images/1/1a/Hand_of_Midas.png"
+  },
+  {
+    "id": "7.27_item_Refresher-Orb",
+    "version": "7.27",
+    "category": "item",
+    "label": "Refresher Orb",
+    "descriptionHtml": "<ul><li>Cooldown reduced from 195 to 180</li></ul>",
+    "imageSrc": "/commons/images/a/a2/Refresher_Orb.png"
+  },
+  {
+    "id": "7.27_item_Ultimate-Orb",
+    "version": "7.27",
+    "category": "item",
+    "label": "Ultimate Orb",
+    "descriptionHtml": "<ul><li>Cost reduced from 2150 to 2050</li></ul>",
+    "imageSrc": "/commons/images/0/07/Ultimate_Orb.png"
+  },
+  {
+    "id": "7.27_item_Infused-Raindrops",
+    "version": "7.27",
+    "category": "item",
+    "label": "Infused Raindrops",
+    "descriptionHtml": "<ul><li>Mana regen reduced from 0.9 to 0.8</li></ul>",
+    "imageSrc": "/commons/images/1/10/Infused_Raindrop.png"
+  },
+  {
+    "id": "7.27_item_Nullifier",
+    "version": "7.27",
+    "category": "item",
+    "label": "Nullifier",
+    "descriptionHtml": "<ul><li>Projectile speed increased from 750 to 1000</li></ul>",
+    "imageSrc": "/commons/images/4/41/Nullifier.png"
+  },
+  {
+    "id": "7.27_item_Aghanim's-Blessing",
+    "version": "7.27",
+    "category": "item",
+    "label": "Aghanim's Blessing",
+    "descriptionHtml": "<ul><li>Recipe cost reduced from 1800 to 1600</li></ul>",
+    "imageSrc": "/commons/images/d/da/Aghanims_Scepter.png"
+  },
+  {
+    "id": "7.27_item_Aether-Lens",
+    "version": "7.27",
+    "category": "item",
+    "label": "Aether Lens",
+    "descriptionHtml": "<ul><li>Recipe cost reduced from 600 to 550</li></ul>",
+    "imageSrc": "/commons/images/e/ee/Aether_Lens.png"
+  },
+  {
+    "id": "7.27_item_Boots-of-Travel",
+    "version": "7.27",
+    "category": "item",
+    "label": "Boots of Travel",
+    "descriptionHtml": "<ul><li>Reduces the cooldown from 40 to 30</li></ul>",
+    "imageSrc": "/commons/images/7/78/Boots_of_Travel2.png"
+  },
+  {
+    "id": "7.27_item_Smoke-of-Deceit",
+    "version": "7.27",
+    "category": "item",
+    "label": "Smoke of Deceit",
+    "descriptionHtml": "<ul><li>Cost reduced from 80 to 50</li></ul>",
+    "imageSrc": "/commons/images/b/b4/Smoke_of_Deceit.png"
+  },
+  {
+    "id": "7.27_item_Sentry-Ward",
+    "version": "7.27",
+    "category": "item",
+    "label": "Sentry Ward",
+    "descriptionHtml": "<ul><li>Replenish cooldown reduced from 90 to 85</li></ul>",
+    "imageSrc": "/commons/images/5/53/Sentry_Ward.png"
+  },
+  {
+    "id": "7.27_item_Tome-of-Knowledge",
+    "version": "7.27",
+    "category": "item",
+    "label": "Tome of Knowledge",
+    "descriptionHtml": "<ul><li>Cost reduced from 150 to 75</li></ul>",
+    "imageSrc": "/commons/images/4/4c/Tome_of_Knowledge.png"
+  },
+  {
+    "id": "7.27_item_Gloves-of-Haste",
+    "version": "7.27",
+    "category": "item",
+    "label": "Gloves of Haste",
+    "descriptionHtml": "<ul><li>Moved from Miscellaneous shop category to Equipment with the other attack speed items</li></ul>",
+    "imageSrc": "/commons/images/0/0d/Gloves_of_Haste.png"
+  },
+  {
+    "id": "7.27_item_Mango-Tree",
+    "version": "7.27",
+    "category": "item",
+    "label": "Mango Tree",
+    "descriptionHtml": "<ul><li>Pickup range for mangoes is changed from the default 150 to 300</li><li>Now has a minimap icon</li><li>No longer drops if another consumable item has dropped in the same tier</li></ul>",
+    "imageSrc": "/commons/images/7/7e/Mango_Tree.png"
+  },
+  {
+    "id": "7.27_item_Iron-Talon",
+    "version": "7.27",
+    "category": "item",
+    "label": "Iron Talon",
+    "descriptionHtml": "<ul><li>Active damage reduced from 50% to 40%</li></ul>",
+    "imageSrc": "/commons/images/5/5b/Iron_Talon.png"
+  },
+  {
+    "id": "7.27_item_Royal-Jelly",
+    "version": "7.27",
+    "category": "item",
+    "label": "Royal Jelly",
+    "descriptionHtml": "<ul><li>No longer drops if another consumable item has dropped in the same tier</li></ul>",
+    "imageSrc": "/commons/images/9/9f/Royal_Jelly.png"
+  },
+  {
+    "id": "7.27_item_Broom-Handle",
+    "version": "7.27",
+    "category": "item",
+    "label": "Broom Handle",
+    "descriptionHtml": "<ul><li>Attack range increased from +35 to +50</li></ul>",
+    "imageSrc": "/commons/images/8/87/Broom_Handle.png"
+  },
+  {
+    "id": "7.27_item_Faded-Broach",
+    "version": "7.27",
+    "category": "item",
+    "label": "Faded Broach",
+    "descriptionHtml": "<ul><li>Movement speed reduced from 25 to 20</li></ul>",
+    "imageSrc": "/commons/images/2/23/Faded_Broach.png"
+  },
+  {
+    "id": "7.27_item_Arcane-Ring",
+    "version": "7.27",
+    "category": "item",
+    "label": "Arcane Ring",
+    "descriptionHtml": "<ul><li>Armor reduced from +3 to +2</li></ul>",
+    "imageSrc": "/commons/images/6/62/Arcane_Ring.png"
+  },
+  {
+    "id": "7.27_item_Vampire-Fangs",
+    "version": "7.27",
+    "category": "item",
+    "label": "Vampire Fangs",
+    "descriptionHtml": "<ul><li>Night vision increased from 250 to 300</li></ul>",
+    "imageSrc": "/commons/images/0/01/Vampire_Fangs.png"
+  },
+  {
+    "id": "7.27_item_Philosopher's-Stone",
+    "version": "7.27",
+    "category": "item",
+    "label": "Philosopher's Stone",
+    "descriptionHtml": "<ul><li>Damage reduction reduced from -35 to -30</li></ul>",
+    "imageSrc": "/commons/images/b/b9/Philosopher%27s_Stone.png"
+  },
+  {
+    "id": "7.27_item_Essence-Ring",
+    "version": "7.27",
+    "category": "item",
+    "label": "Essence Ring",
+    "descriptionHtml": "<ul><li>Cooldown increased from 20 to 25</li></ul>",
+    "imageSrc": "/commons/images/6/6f/Essence_Ring.png"
+  },
+  {
+    "id": "7.27_item_Clumsy-Net",
+    "version": "7.27",
+    "category": "item",
+    "label": "Clumsy Net",
+    "descriptionHtml": "<ul><li>Cast range reduced from 650 to 600</li><li>+6 All Stats to +5</li></ul>",
+    "imageSrc": "/commons/images/7/7c/Clumsy_Net.png"
+  },
+  {
+    "id": "7.27_item_Greater-Faerie-Fire",
+    "version": "7.27",
+    "category": "item",
+    "label": "Greater Faerie Fire",
+    "descriptionHtml": "<ul><li>No longer drops if another consumable item has dropped in the same tier</li><li>Damage increased from 35 to 40</li></ul>",
+    "imageSrc": "/commons/images/d/da/Greater_Faerie_Fire.png"
+  },
+  {
+    "id": "7.27_item_Repair-Kit",
+    "version": "7.27",
+    "category": "item",
+    "label": "Repair Kit",
+    "descriptionHtml": "<ul><li>No longer drops if another consumable item has dropped in the same tier</li><li>Now has a 60 second cooldown</li><li>Health regen increased from +20 to +25</li></ul>",
+    "imageSrc": "/commons/images/8/84/Repair_Kit.png"
+  },
+  {
+    "id": "7.27_item_Spider-Legs",
+    "version": "7.27",
+    "category": "item",
+    "label": "Spider Legs",
+    "descriptionHtml": "<ul><li>Cooldown increased from 10 to 12</li></ul>",
+    "imageSrc": "/commons/images/f/f3/Spider_Legs.png"
+  },
+  {
+    "id": "7.27_item_Enchanted-Quiver",
+    "version": "7.27",
+    "category": "item",
+    "label": "Enchanted Quiver",
+    "descriptionHtml": "<ul><li>Fixed it granting a permanent +400 range for Tempest Double</li><li>Cooldown reduced from 6 to 5</li></ul>",
+    "imageSrc": "/commons/images/b/ba/Enchanted_Quiver.png"
+  },
+  {
+    "id": "7.27_item_Orb-of-Destruction",
+    "version": "7.27",
+    "category": "item",
+    "label": "Orb of Destruction",
+    "descriptionHtml": "<ul><li>Armor reduction from -5 to -4</li><li>Slow from 20/10% to 25/15%</li></ul>",
+    "imageSrc": "/commons/images/e/e2/Orb_of_Destruction.png"
+  },
+  {
+    "id": "7.27_item_Mind-Breaker",
+    "version": "7.27",
+    "category": "item",
+    "label": "Mind Breaker",
+    "descriptionHtml": "<ul><li>Cooldown reduced from 20 to 15</li></ul>",
+    "imageSrc": "/commons/images/c/c1/Mind_Breaker.png"
+  },
+  {
+    "id": "7.27_item_Titan-Sliver",
+    "version": "7.27",
+    "category": "item",
+    "label": "Titan Sliver",
+    "descriptionHtml": "<ul><li>Base damage increased from +16% to +20%</li><li>Status Resistance reduced from +16% to +12%</li></ul>",
+    "imageSrc": "/commons/images/9/98/Titan_Sliver.png"
+  },
+  {
+    "id": "7.27_item_Paladin-Sword",
+    "version": "7.27",
+    "category": "item",
+    "label": "Paladin Sword",
+    "descriptionHtml": "<ul><li>Damage increased from 17 to 20</li><li>Lifesteal reduced from 17% to 16%</li><li>Greater Healing amplifications reduced from 17% to 14%</li></ul>",
+    "imageSrc": "/commons/images/c/cd/Paladin_Sword.png"
+  },
+  {
+    "id": "7.27_item_Prince's-Knife",
+    "version": "7.27",
+    "category": "item",
+    "label": "Prince's Knife",
+    "descriptionHtml": "<ul><li>Cooldown reduced from 12 to 10</li></ul>",
+    "imageSrc": "/commons/images/e/e0/Prince%27s_Knife.png"
+  },
+  {
+    "id": "7.27_item_Flicker",
+    "version": "7.27",
+    "category": "item",
+    "label": "Flicker",
+    "descriptionHtml": "<ul><li>Now has a minimum 200 range blink</li><li>Max range reduced from 450 to 400</li></ul>",
+    "imageSrc": "/commons/images/1/1e/Flicker.png"
+  },
+  {
+    "id": "7.27_item_Illusionist's-Cape",
+    "version": "7.27",
+    "category": "item",
+    "label": "Illusionist's Cape",
+    "descriptionHtml": "<ul><li>Illusion incoming damage increased from 150% to 200%</li></ul>",
+    "imageSrc": "/commons/images/7/74/Illusionist%27s_Cape.png"
+  },
+  {
+    "id": "7.27_item_Havoc-Hammer",
+    "version": "7.27",
+    "category": "item",
+    "label": "Havoc Hammer",
+    "descriptionHtml": "<ul><li>Impact radius increased from 350 to 400</li><li>Impact base damage increased from 225 to 275</li></ul>",
+    "imageSrc": "/commons/images/2/2e/Havoc_Hammer.png"
+  },
+  {
+    "id": "7.27_item_Magic-Lamp",
+    "version": "7.27",
+    "category": "item",
+    "label": "Magic Lamp",
+    "descriptionHtml": "<ul><li>Heal increased from 300 to 400</li></ul>",
+    "imageSrc": "/commons/images/3/3b/Magic_Lamp.png"
+  },
+  {
+    "id": "7.27_item_Pirate-Hat",
+    "version": "7.27",
+    "category": "item",
+    "label": "Pirate Hat",
+    "descriptionHtml": "<ul><li>No longer steals gold on kills</li><li>Can be activated to dig for bounty runes with 100% success rate. Cooldown 40</li></ul>",
+    "imageSrc": "/commons/images/0/04/Pirate_Hat.png"
+  }
+]

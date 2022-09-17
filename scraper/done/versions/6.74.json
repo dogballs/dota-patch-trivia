@@ -1,0 +1,464 @@
+[
+  {
+    "id": "6.74_hero_Alchemist",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Alchemist",
+    "descriptionHtml": "<ul><li>Armor increased by 1</li><li><a>Unstable Concoction</a>max damage increased from 120/180/240/300 to 130/200/270/340</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/11/Alchemist_Large.png/80px-Alchemist_Large.png"
+  },
+  {
+    "id": "6.74_hero_Batrider",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Batrider",
+    "descriptionHtml": "<ul><li><a>Flamebreak</a>is now a targeted AoE spell<ul><li>It no longer explodes on the first unit in a path</li><li>It travels towards the targeted destination and does its effect there</li><li>Projectile speed 900 (instead of 750)</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c1/Batrider_Large.png/80px-Batrider_Large.png"
+  },
+  {
+    "id": "6.74_hero_Bristleback",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Bristleback",
+    "descriptionHtml": "<ul><li><a>Quill Spray</a>damage cap increased from 180 to 220</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f9/Bristleback_Large.png/80px-Bristleback_Large.png"
+  },
+  {
+    "id": "6.74_hero_Centaur-Warrunner",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Centaur Warrunner",
+    "descriptionHtml": "<ul><li><a>Great Fortitude</a>strength bonus increased from 12/24/36 to 15/30/45</li><li><a>Return</a>base damage increased from 16 to 16/18/20/22</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Centaur_Warrunner_Large.png/80px-Centaur_Warrunner_Large.png"
+  },
+  {
+    "id": "6.74_hero_Clinkz",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Clinkz",
+    "descriptionHtml": "<ul><li><a>Death Pact</a>damage bonus increased from 4/6/8% to 5/6.5/8%</li><li>Death Pact hp bonus increased from 50/60/70% to 50/65/80%</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4d/Clinkz_Large.png/80px-Clinkz_Large.png"
+  },
+  {
+    "id": "6.74_hero_Clockwerk",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Clockwerk",
+    "descriptionHtml": "<ul><li><a>Power Cogs</a>HP/Mana drain increased from 55/70/85/100 to 60/90/120/150</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b8/Clockwerk_Large.png/80px-Clockwerk_Large.png"
+  },
+  {
+    "id": "6.74_hero_Crystal-Maiden",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Crystal Maiden",
+    "descriptionHtml": "<ul><li><a>Freezing Field</a>AoE increased by 100 (Explosion AoE adjusted to keep damage probabilities equivalent)</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dc/Crystal_Maiden_Large.png/80px-Crystal_Maiden_Large.png"
+  },
+  {
+    "id": "6.74_hero_Dark-Seer",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Dark Seer",
+    "descriptionHtml": "<ul><li><a>Wall of Replica</a>illusions take 300% damage (up from 250%)</li><li>Wall of Replica Aghanim bonus no longer creates allied illusions</li><li>Wall of Replica Aghanim bonus now increases illusion damage from 70/80/90 to 100/120/140% instead</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6f/Dark_Seer_Large.png/80px-Dark_Seer_Large.png"
+  },
+  {
+    "id": "6.74_hero_Doom",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Doom",
+    "descriptionHtml": "<ul><li><a>Level Death</a>bonus damage increased from 250 to 275</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/19/Doom_Large.png/80px-Doom_Large.png"
+  },
+  {
+    "id": "6.74_hero_Drow-Ranger",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Drow Ranger",
+    "descriptionHtml": "<ul><li><a>Silence</a>AoE increased from 275 to 300</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7e/Drow_Ranger_Large.png/80px-Drow_Ranger_Large.png"
+  },
+  {
+    "id": "6.74_hero_Ember-Spirit",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Ember Spirit",
+    "descriptionHtml": "<ul><li>Armor reduced by 1</li><li>Base Strength decreased from 21 to 19</li><li><a>Flame Guard</a>health barrier reduced from 100/250/400/550 to 50/200/350/500</li><li><a>Fire Remnant</a>damage decreased from 140/180/220 to 120/160/200</li><li><a>Searing Chains</a>targets decreased from 3 to 2 random units</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/98/Ember_Spirit_Large.png/80px-Ember_Spirit_Large.png"
+  },
+  {
+    "id": "6.74_hero_Enigma",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Enigma",
+    "descriptionHtml": "<ul><li><a>Black Hole</a>now prevents heroes being Forced out with Force Staff</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/43/Enigma_Large.png/80px-Enigma_Large.png"
+  },
+  {
+    "id": "6.74_hero_Gyrocopter",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Gyrocopter",
+    "descriptionHtml": "<ul><li><a>Homing Missile</a>maximum damage (at 2k range) increased from 100/200/300/400 to 110/220/330/440</li><li><a>Rocket Barrage</a>damage increased from 10/13/16/19 to 11/14/17/20</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e1/Gyrocopter_Large.png/80px-Gyrocopter_Large.png"
+  },
+  {
+    "id": "6.74_hero_Invoker",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Invoker",
+    "descriptionHtml": "<ul><li><a>Chaos Meteor</a>damage increased from 80+Exort*30 to 80+Exort*35</li><li>Chaos Meteor land time decreased from 1.5 to 1.3</li><li><a>EMP</a>can no longer hit Invulnerable/Tornadoed units</li><li>EMP cooldown increased from 25 to 30 seconds</li><li><a>Sun Strike</a>damage type changed from Magical to Pure</li><li>Sun Strike now reveals the area it will hit before the damage impact</li><li><a>Tornado</a>cooldown increased from 25 to 30 seconds</li><li>Tornado Damage decreased from 77.5+(Wex+Quas)×23 to 70+(Wex+Quas)×20</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5b/Invoker_Large.png/80px-Invoker_Large.png"
+  },
+  {
+    "id": "6.74_hero_Juggernaut",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Juggernaut",
+    "descriptionHtml": "<ul><li><a>Omnislash</a>now gives Juggernaut 200<a>flying vision</a>during its duration</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c8/Juggernaut_Large.png/80px-Juggernaut_Large.png"
+  },
+  {
+    "id": "6.74_hero_Keeper-of-the-Light",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Keeper of the Light",
+    "descriptionHtml": "<ul><li><a>Mana Leak</a>stun duration increased from 1.25/1.5/1.75/2 to 1.3/1.6/1.9/2.2</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/bc/Keeper_of_the_Light_Large.png/80px-Keeper_of_the_Light_Large.png"
+  },
+  {
+    "id": "6.74_hero_Kunkka",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Kunkka",
+    "descriptionHtml": "<ul><li><a>Torrent</a>AOE increased from 200 to 215</li><li><a>X Marks The Spot</a>cooldown decreased from 20 to 16 seconds</li><li><a>Ghost Ship</a>stun duration increased from 1.2 to 1.4</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/3a/Kunkka_Large.png/80px-Kunkka_Large.png"
+  },
+  {
+    "id": "6.74_hero_Legion-Commander",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Legion Commander",
+    "descriptionHtml": "<ul><li><a>Moment of Courage</a>cooldown increased from 0.9 to 1.2</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0a/Legion_Commander_Large.png/80px-Legion_Commander_Large.png"
+  },
+  {
+    "id": "6.74_hero_Lina",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Lina",
+    "descriptionHtml": "<ul><li><a>Fiery Soul</a>attack speed bonus increased from 30/40/50/60 to 40/50/60/70</li><li>Fiery Soul movement speed bonus increased from 3/4/5/6 to 4/5/6/7%</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/46/Lina_Large.png/80px-Lina_Large.png"
+  },
+  {
+    "id": "6.74_hero_Lion",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Lion",
+    "descriptionHtml": "<ul><li><a>Voodoo</a>cooldown increased from 13 to 15</li><li>Voodoo mana cost increased from 110/140/170/200 to 125/150/175/200</li><li>Voodoo duration increased from 1.25/2/2.75/3.5 to 1.75/2.5/3.25/4</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/8d/Lion_Large.png/80px-Lion_Large.png"
+  },
+  {
+    "id": "6.74_hero_Luna",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Luna",
+    "descriptionHtml": "<ul><li><a>Moon Glaive</a>damage decrease per bounce decreased from 35% to 30%</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e2/Luna_Large.png/80px-Luna_Large.png"
+  },
+  {
+    "id": "6.74_hero_Magnus",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Magnus",
+    "descriptionHtml": "<ul><li><a>Skewer</a>will now cast in the direction you targeted if you cast it beyond the max range</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/67/Magnus_Large.png/80px-Magnus_Large.png"
+  },
+  {
+    "id": "6.74_hero_Medusa",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Medusa",
+    "descriptionHtml": "<ul><li><a>Split Shot</a>now shoots 5 arrows instead of 4</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/38/Medusa_Large.png/80px-Medusa_Large.png"
+  },
+  {
+    "id": "6.74_hero_Mirana",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Mirana",
+    "descriptionHtml": "<ul><li><a>Moonlight Shadow</a>cooldown decreased from 180/160/140 to 160/140/120</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/1f/Mirana_Large.png/80px-Mirana_Large.png"
+  },
+  {
+    "id": "6.74_hero_Morphling",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Morphling",
+    "descriptionHtml": "<ul><li><a>Morph</a>passively grants 3/4/5/6 agility and strength</li><li><a>Waveform</a>now properly dodges projectiles</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c7/Morphling_Large.png/80px-Morphling_Large.png"
+  },
+  {
+    "id": "6.74_hero_Naga-Siren",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Naga Siren",
+    "descriptionHtml": "<ul><li>Changed<a>Rip Tide</a>cast mechanism<ul><li>Rip Tide now casts in a 450 aoe around Naga and all of her illusions</li><li>Enemies can be fully affected by the Illusion&apos;s aoe</li><li>The effect does not stack</li><li>No longer uses cast point</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Naga_Siren_Large.png/80px-Naga_Siren_Large.png"
+  },
+  {
+    "id": "6.74_hero_Nature's-Prophet",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Nature's Prophet",
+    "descriptionHtml": "<ul><li><a>Wrath of Nature</a>mana cost increased from 150/175/200 to 150/200/250</li><li><a>Teleportation</a>mana cost no longer decreases per level (constant 50)</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/16/Natures_Prophet_Large.png/80px-Natures_Prophet_Large.png"
+  },
+  {
+    "id": "6.74_hero_Nyx-Assassin",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Nyx Assassin",
+    "descriptionHtml": "<ul><li><a>Urna Swarm</a>replaced with a new spell<ul><li>Urna Swarm will be reused for a future hero</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c4/Nyx_Assassin_Large.png/80px-Nyx_Assassin_Large.png"
+  },
+  {
+    "id": "6.74_hero_Necrophos",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Necrophos",
+    "descriptionHtml": "<ul><li><a>Heartstopper</a>damage increased from 0.5/0.7/0.9/1.1 to 0.6/0.8/1/1.2</li><li><a>Sadist</a>level 4 mana regen increased from 48 to 60</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0e/Necrophos_Large.png/80px-Necrophos_Large.png"
+  },
+  {
+    "id": "6.74_hero_Ogre-Magi",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Ogre Magi",
+    "descriptionHtml": "<ul><li>Added Aghanim&apos;s Scepter<ul><li>Gives his other head the ability to cast a more primitive version of Fireblast</li><li>It has a constant (not modified by ultimate/level) 275 damage, 1.5 second stun, 20 cooldown, 400 mana cost</li><li>It can trigger multicast</li><li>This is an independent 5th skill added to his ability card</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Ogre_Magi_Large.png/80px-Ogre_Magi_Large.png"
+  },
+  {
+    "id": "6.74_hero_Phantom-Assassin",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Phantom Assassin",
+    "descriptionHtml": "<ul><li><a>Phantom Strike</a>cast range increased from 700/800/900/1000 to 1000</li><li>Phantom Strike cooldown rescaled from 20/15/10/5 to 14/11/8/5</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/2e/Phantom_Assassin_Large.png/80px-Phantom_Assassin_Large.png"
+  },
+  {
+    "id": "6.74_hero_Puck",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Puck",
+    "descriptionHtml": "<ul><li><a>Ethereal Jaunt</a>now dodges projectiles</li><li><a>Phase Shift</a>autocast removed</li><li>Phase Shift mana cost removed</li><li>Phase Shift level 4 duration increased from 3 to 3.25 seconds</li><li>Aghanim Upgraded<a>Dream Coil</a>no longer increases the mana cost from the base spell</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/3a/Puck_Large.png/80px-Puck_Large.png"
+  },
+  {
+    "id": "6.74_hero_Pugna",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Pugna",
+    "descriptionHtml": "<ul><li><a>Decrepify</a>cast range increased from 550/600/650/700 to 700</li><li><a>Life Drain</a>damage increased from 100/150/200 to 120/160/200 (with Aghanim&apos;s from 175/225/275 to 180/240/300)</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/24/Pugna_Large.png/80px-Pugna_Large.png"
+  },
+  {
+    "id": "6.74_hero_Queen-of-Pain",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Queen of Pain",
+    "descriptionHtml": "<ul><li><a>Shadow Strike</a>initial damage increased from 50/70/70/100 to 50/75/100/125</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/62/Queen_of_Pain_Large.png/80px-Queen_of_Pain_Large.png"
+  },
+  {
+    "id": "6.74_hero_Razor",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Razor",
+    "descriptionHtml": "<ul><li><a>Unstable Current</a>damage increased from 40/60/80/100 to 40/70/100/130</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Razor_Large.png/80px-Razor_Large.png"
+  },
+  {
+    "id": "6.74_hero_Shadow-Fiend",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Shadow Fiend",
+    "descriptionHtml": "<ul><li><a>Necromastery</a>now gives 6 souls for killing a hero (instead of 1)</li><li>Necromastery soul count increased from 8/16/24/32 to 12/20/28/36</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Shadow_Fiend_Large.png/80px-Shadow_Fiend_Large.png"
+  },
+  {
+    "id": "6.74_hero_Skywrath-Mage",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Skywrath Mage",
+    "descriptionHtml": "<ul><li>Base Intelligence increased by 3</li><li><a>Arcane Bolt</a>bonus intelligence damage increased from 1.5x to 1.6x</li><li>Arcane Bolt mana cost decreased from 90 to 70</li><li><a>Concussive Shot</a>cooldown now scales from 20 to 20/19/18/17</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Skywrath_Mage_Large.png/80px-Skywrath_Mage_Large.png"
+  },
+  {
+    "id": "6.74_hero_Sniper",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Sniper",
+    "descriptionHtml": "<ul><li><a>Headshot</a>damage increased from 30/30/40/50 to 30/40/50/60</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a2/Sniper_Large.png/80px-Sniper_Large.png"
+  },
+  {
+    "id": "6.74_hero_Storm-Spirit",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Storm Spirit",
+    "descriptionHtml": "<ul><li><a>Ball Lightning</a>now properly dodges projectiles</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0c/Storm_Spirit_Large.png/80px-Storm_Spirit_Large.png"
+  },
+  {
+    "id": "6.74_hero_Techies",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Techies",
+    "descriptionHtml": "<ul><li>Attack range increased from 650 to 700</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a7/Techies_Large.png/80px-Techies_Large.png"
+  },
+  {
+    "id": "6.74_hero_Templar-Assassin",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Templar Assassin",
+    "descriptionHtml": "<ul><li><a>Psi Blades</a>bonus range increased from 40/100/160/220 to 60/120/180/240</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/50/Templar_Assassin_Large.png/80px-Templar_Assassin_Large.png"
+  },
+  {
+    "id": "6.74_hero_Timbersaw",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Timbersaw",
+    "descriptionHtml": "<ul><li><a>Timber Chain</a>damage increased from 80/120/160/200 to 100/140/180/220</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Timbersaw_Large.png/80px-Timbersaw_Large.png"
+  },
+  {
+    "id": "6.74_hero_Tinker",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Tinker",
+    "descriptionHtml": "<ul><li><a>March of the Machines</a>duration increased from 5 to 6 seconds</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c0/Tinker_Large.png/80px-Tinker_Large.png"
+  },
+  {
+    "id": "6.74_hero_Troll-Warlord",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Troll Warlord",
+    "descriptionHtml": "<ul><li><a>Battle Trance</a>attack speed bonus increased from 60/100/140 to 60/120/180</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Troll_Warlord_Large.png/80px-Troll_Warlord_Large.png"
+  },
+  {
+    "id": "6.74_hero_Viper",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Viper",
+    "descriptionHtml": "<ul><li><a>Poison Attack</a>damage increased from 6/12/18/24 to 10/16/22/28</li><li>Fixed Poison Attack damage not being lethal</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Viper_Large.png/80px-Viper_Large.png"
+  },
+  {
+    "id": "6.74_hero_Visage",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Visage",
+    "descriptionHtml": "<ul><li><a>Familiar</a>&apos;s armor increased from 0 to 0/1/2</li><li><a>Gravekeeper&apos;s Cloak</a>recovery time decreased from 14/12/10/8 to 12/10/8/6</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f8/Visage_Large.png/80px-Visage_Large.png"
+  },
+  {
+    "id": "6.74_hero_Warlock",
+    "version": "6.74",
+    "category": "hero",
+    "label": "Warlock",
+    "descriptionHtml": "<ul><li><a>Infernal</a>&apos;s<a>Permanent Immolation</a>damage increased from 20/30/40 to 30/40/50 per second</li><li><a>Shadow Word</a>duration increased from 8 to 9 seconds</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b9/Warlock_Large.png/80px-Warlock_Large.png"
+  },
+  {
+    "id": "6.74_item_Animal-Courier",
+    "version": "6.74",
+    "category": "item",
+    "label": "Animal Courier",
+    "descriptionHtml": "<ul><li>Courier cost decreased from 170 to 150</li></ul>",
+    "imageSrc": "/commons/images/c/cd/Animal_Courier.png"
+  },
+  {
+    "id": "6.74_item_Bloodstone",
+    "version": "6.74",
+    "category": "item",
+    "label": "Bloodstone",
+    "descriptionHtml": "<ul><li>HP regen increased by 1 to equal the sum of its parts</li></ul>",
+    "imageSrc": "/commons/images/0/00/Bloodstone.png"
+  },
+  {
+    "id": "6.74_item_Ethereal-Blade",
+    "version": "6.74",
+    "category": "item",
+    "label": "Ethereal Blade",
+    "descriptionHtml": "<ul><li><a>Ether Blast</a>slow increased from 60% to 80%</li></ul>",
+    "imageSrc": "/commons/images/c/c9/Ethereal_Blade.png"
+  },
+  {
+    "id": "6.74_item_Eye-of-Skadi",
+    "version": "6.74",
+    "category": "item",
+    "label": "Eye of Skadi",
+    "descriptionHtml": "<ul><li><a>Cold Attack</a>slow duration increased from 2/4 (range/melee) to 3/5</li></ul>",
+    "imageSrc": "/commons/images/6/64/Eye_of_Skadi.png"
+  },
+  {
+    "id": "6.74_item_Flying-Courier",
+    "version": "6.74",
+    "category": "item",
+    "label": "Flying Courier",
+    "descriptionHtml": "<ul><li>Flying Courier cost increased from 200 to 220</li></ul>",
+    "imageSrc": "/commons/images/7/75/Flying_Courier.png"
+  },
+  {
+    "id": "6.74_item_Mjollnir",
+    "version": "6.74",
+    "category": "item",
+    "label": "Mjollnir",
+    "descriptionHtml": "<ul><li>Mjollnir&apos;s<a>Static Shock</a>can now be cast on non-hero units as well (like Infernals)</li></ul>",
+    "imageSrc": "/commons/images/b/b7/Mjollnir.png"
+  },
+  {
+    "id": "6.74_item_Tranquil-Boots",
+    "version": "6.74",
+    "category": "item",
+    "label": "Tranquil Boots",
+    "descriptionHtml": "<ul><li>Can now be<a>disassembled</a></li><li>Damage instances before breaking increased from 3 to 4</li><li><a>Rejuvenate</a>heal increased from 150 to 170</li></ul>",
+    "imageSrc": "/commons/images/2/22/Tranquil_Boots.png"
+  },
+  {
+    "id": "6.74_item_Sange-and-Yasha",
+    "version": "6.74",
+    "category": "item",
+    "label": "Sange and Yasha",
+    "descriptionHtml": "<ul><li>Sange and Yasha can now be<a>disassembled</a></li></ul>",
+    "imageSrc": "/commons/images/1/1c/Sange_and_Yasha.png"
+  },
+  {
+    "id": "6.74_item_Veil-of-Discord",
+    "version": "6.74",
+    "category": "item",
+    "label": "Veil of Discord",
+    "descriptionHtml": "<ul><li><a>Discord</a>duration increased from 15 to 20 seconds</li></ul>",
+    "imageSrc": "/commons/images/f/f0/Veil_of_Discord.png"
+  },
+  {
+    "id": "6.74_general_General-updates",
+    "version": "6.74",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added<a>Wisp</a>,<a>Disruptor</a>, and<a>Rubick</a>to<a>Captains Mode</a></li></ul>"
+  },
+  {
+    "id": "6.74_bug-fix_Bug-fixes",
+    "version": "6.74",
+    "category": "bug-fix",
+    "label": "Bug fixes",
+    "descriptionHtml": "<ul><li>Fixed a bug with Fire Remnant targeting and Essence Aura</li><li>Fixed Moment of Courage not having a learn hotkey</li><li>Fixed a fatal error possible with Tether</li><li>Fixed a bug with Fire Remnant when cast on self</li><li>Fixed Psi Blades not affecting a very small area right behind the initial target</li><li>Fixed Forged Spirits dying instantly when affected by Smoke of Deceit</li></ul>"
+  }
+]

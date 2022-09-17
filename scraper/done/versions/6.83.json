@@ -1,0 +1,752 @@
+[
+  {
+    "id": "6.83_general_General-updates",
+    "version": "6.83",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Ranked All Pick</a>initial planning phase reduced from 40 to 30 seconds</li><li>Private Lobby games now use the<a>Captains Mode</a>creep spawn timer when in All Pick</li></ul>"
+  },
+  {
+    "id": "6.83_general_General-updates",
+    "version": "6.83",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Maximum<a>Attack Speed</a>increased from 500 to 600 (the primary impact of this is on abilities like<a>Windranger</a>&apos;s<a>Focus Fire</a>and<a>Ursa</a>&apos;s<a>Overpower</a>)</li></ul>"
+  },
+  {
+    "id": "6.83_hero_Abaddon",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Abaddon",
+    "descriptionHtml": "<ul><li><a>Borrowed Time</a>duration increased from 3/4/5 to 4/5/6</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Abaddon_Large.png/80px-Abaddon_Large.png"
+  },
+  {
+    "id": "6.83_hero_Alchemist",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Alchemist",
+    "descriptionHtml": "<ul><li><a>Greevil&apos;s Greed</a>base bonus gold increased from 4/6/8/10 to 6/8/10/12</li><li>Greevil&apos;s Greed extra bonus gold per stack from 1/2/3/4 to 3</li><li>Greevil&apos;s Greed max bonus gold from 30 to 12/20/28/36</li><li>Greevil&apos;s Greed recent kill window duration increased from 25 to 30</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/11/Alchemist_Large.png/80px-Alchemist_Large.png"
+  },
+  {
+    "id": "6.83_hero_Axe",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Axe",
+    "descriptionHtml": "<ul><li><a>Battle Hunger</a>duration from 10/12/14/16 to 10</li><li>Battle Hunger damage from 15/20/25/30 to 16/24/32/40<ul><li>Total damage from 150/240/350/480 over 10/12/14/16 seconds to 160/240/320/400 over 10 seconds</li></ul></li><li>Battle Hunger cast range from 900 to 750</li><li>Battle Hunger movement and slow from 10 to 12%</li><li>Battle Hunger mana cost from 75/85/95/105 to 75</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a1/Axe_Large.png/80px-Axe_Large.png"
+  },
+  {
+    "id": "6.83_hero_Bane",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Bane",
+    "descriptionHtml": "<ul><li><a>Nightmare</a>cooldown from 15 to 16/15/14/13</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/72/Bane_Large.png/80px-Bane_Large.png"
+  },
+  {
+    "id": "6.83_hero_Beastmaster",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Beastmaster",
+    "descriptionHtml": "<ul><li><a>Call of the Wild</a>now always provides a Hawk and a Boar at each level, and each now scales per level</li><li><a>Hawk</a>health from 50/50/100/100 to 40/60/80/100</li><li>Hawk movement speed from 270/270/400/400 to 250/300/350/400</li><li>Hawk day sight from 500/500/1600/1600 to 700/1000/1300/1600</li><li>Hawk night sight from 500/500/1200/1200 to 700/800/900/1000</li><li>Hawk kill bounty from 30/30/65/65 to 30/40/50/60</li><li><a>Boar</a>health from 0/400/400/500 to 200/300/400/500</li><li>Boar base damage from 0/26/26/46 to 15/30/45/60</li><li>Boar base attack time from 0/1.5/1.5/1 to 1.25</li><li>Boar poison slow from 0/20/20/35% to 10/20/30/40%</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/19/Beastmaster_Large.png/80px-Beastmaster_Large.png"
+  },
+  {
+    "id": "6.83_hero_Bloodseeker",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Bloodseeker",
+    "descriptionHtml": "<ul><li>Added to<a>Captains Mode</a><ul><li>Will be enabled next week</li></ul></li><li><a>Bloodrage</a>no longer amplifies outgoing damage if the damage has the no-reflection flag<ul><li>This is similar to how<a>Blademail</a>,<a>Spiked Carapace</a>,<a>Fatal Bonds</a>, etc. work</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a6/Bloodseeker_Large.png/80px-Bloodseeker_Large.png"
+  },
+  {
+    "id": "6.83_hero_Bounty-Hunter",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Bounty Hunter",
+    "descriptionHtml": "<ul><li><a>Track</a>bonus gold for self increased from 150/200/250 to 200/275/350</li><li>Track cooldown reduced from 10/7/5 to 4</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/86/Bounty_Hunter_Large.png/80px-Bounty_Hunter_Large.png"
+  },
+  {
+    "id": "6.83_hero_Brewmaster",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Brewmaster",
+    "descriptionHtml": "<ul><li>Base<a>Armor</a>reduced from 4 to 2</li><li><a>Thunder Clap</a>hero slow duration from 4.25 to 4</li><li>Thunder Clap cooldown from 12 to 13</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0b/Brewmaster_Large.png/80px-Brewmaster_Large.png"
+  },
+  {
+    "id": "6.83_hero_Bristleback",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Bristleback",
+    "descriptionHtml": "<ul><li><a>Quill Spray</a>stack damage increased from 30 to 30/32/34/36</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f9/Bristleback_Large.png/80px-Bristleback_Large.png"
+  },
+  {
+    "id": "6.83_hero_Broodmother",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Broodmother",
+    "descriptionHtml": "<ul><li><a>Spiderlings</a>&apos; day vision reduced from 1400 to 1100</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0c/Broodmother_Large.png/80px-Broodmother_Large.png"
+  },
+  {
+    "id": "6.83_hero_Chaos-Knight",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Chaos Knight",
+    "descriptionHtml": "<ul><li><a>Reality Rift</a>damage increased from 25/50/75/100 to 60/80/100/120</li><li>Reality Rift mana cost from 70 to 50</li><li><a>Phantasm</a>illusion duration increased from 34 to 42</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/46/Chaos_Knight_Large.png/80px-Chaos_Knight_Large.png"
+  },
+  {
+    "id": "6.83_hero_Chen",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Chen",
+    "descriptionHtml": "<ul><li><a>Test of Faith</a>now teleports all of your units to you when cast on yourself<ul><li>Has the same delay as when cast on allied heroes</li></ul></li><li><a>Holy Persuasion</a>max units increased from 1/1/2/3 to 1/2/3/4</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7d/Chen_Large.png/80px-Chen_Large.png"
+  },
+  {
+    "id": "6.83_hero_Clinkz",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Clinkz",
+    "descriptionHtml": "<ul><li>Base<a>attack range</a>increased from 600 to 630</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4d/Clinkz_Large.png/80px-Clinkz_Large.png"
+  },
+  {
+    "id": "6.83_hero_Clockwerk",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Clockwerk",
+    "descriptionHtml": "<ul><li><a>Battery Assault</a>damage increased from 15/35/55/75 to 20/40/60/80</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b8/Clockwerk_Large.png/80px-Clockwerk_Large.png"
+  },
+  {
+    "id": "6.83_hero_Crystal-Maiden",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Crystal Maiden",
+    "descriptionHtml": "<ul><li><a>Crystal Nova</a>attack speed slow from 20 to 30</li><li><a>Frostbite</a>cooldown from 10 to 10/9/8/7</li><li><a>Freezing Field</a>duration increased from 7 to 10 seconds</li><li>Freezing Field explosion spawn radius and slow radius increased by 150</li><li>Freezing Field explosion damage radius increased by 50</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dc/Crystal_Maiden_Large.png/80px-Crystal_Maiden_Large.png"
+  },
+  {
+    "id": "6.83_hero_Dark-Seer",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Dark Seer",
+    "descriptionHtml": "<ul><li>Base armor increased by 1</li><li><a>Vacuum</a>pull duration increased from 0.4 to 0.5</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6f/Dark_Seer_Large.png/80px-Dark_Seer_Large.png"
+  },
+  {
+    "id": "6.83_hero_Dazzle",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Dazzle",
+    "descriptionHtml": "<ul><li>Base attack range increased from 500 to 550</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e3/Dazzle_Large.png/80px-Dazzle_Large.png"
+  },
+  {
+    "id": "6.83_hero_Death-Prophet",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Death Prophet",
+    "descriptionHtml": "<ul><li><a>Strength</a>growth reduced from 2.2 to 1.9</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/80/Death_Prophet_Large.png/80px-Death_Prophet_Large.png"
+  },
+  {
+    "id": "6.83_hero_Disruptor",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Disruptor",
+    "descriptionHtml": "<ul><li><a>Glimpse</a>mana cost rescaled from 160/130/100/70 to 100</li><li>Glimpse cooldown reduced from 65/50/35/20 to 60/46/32/18</li><li><a>Kinetic Field</a>cooldown reduced from 14/13/12/11 to 13/12/11/10</li><li><a>Static Storm</a>cooldown from 85 to 90/80/70</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b7/Disruptor_Large.png/80px-Disruptor_Large.png"
+  },
+  {
+    "id": "6.83_hero_Dragon-Knight",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Dragon Knight",
+    "descriptionHtml": "<ul><li><a>Elder Dragon Form</a>level 3 now maintains the<a>Corrosive Breath</a>ability from levels 1 and 2</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/da/Dragon_Knight_Large.png/80px-Dragon_Knight_Large.png"
+  },
+  {
+    "id": "6.83_hero_Drow-Ranger",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Drow Ranger",
+    "descriptionHtml": "<ul><li>Illusions now benefit from the<a>Marksmanship</a>bonus<ul><li>Illusions will still lose the bonus if an enemy is nearby</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7e/Drow_Ranger_Large.png/80px-Drow_Ranger_Large.png"
+  },
+  {
+    "id": "6.83_hero_Earth-Spirit",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Earth Spirit",
+    "descriptionHtml": "<ul><li><a>Rolling Boulder</a>no longer reduces attack speed by 80 for 2 seconds</li><li>Rolling Boulder no longer does an additional 45 damage when used with a stone remnant</li><li>Rolling Boulder base damage increased from 90 to 100</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/2b/Earth_Spirit_Large.png/80px-Earth_Spirit_Large.png"
+  },
+  {
+    "id": "6.83_hero_Earthshaker",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Earthshaker",
+    "descriptionHtml": "<ul><li><a>Enchant Totem</a>mana cost reduced from 50 to 20/30/40/50</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/8f/Earthshaker_Large.png/80px-Earthshaker_Large.png"
+  },
+  {
+    "id": "6.83_hero_Elder-Titan",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Elder Titan",
+    "descriptionHtml": "<ul><li><a>Astral Spirit</a>damage reduced from 60/100/140/180 to 60/90/120/150</li><li>Fixed a few cases where Elder Titan could move his Astral Spirit while casting<a>Echo Stomp</a></li></ul>",
+    "imageSrc": "/commons/images/thumb/b/bc/Elder_Titan_Large.png/80px-Elder_Titan_Large.png"
+  },
+  {
+    "id": "6.83_hero_Enchantress",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Enchantress",
+    "descriptionHtml": "<ul><li>Base<a>movement speed</a>increased from 315 to 335</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/57/Enchantress_Large.png/80px-Enchantress_Large.png"
+  },
+  {
+    "id": "6.83_hero_Faceless-Void",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Faceless Void",
+    "descriptionHtml": "<ul><li><a>Time Walk</a>no longer slows attack speed</li><li><a>Chronosphere</a>cooldown increased from 130/110/90 to 130/115/100</li><li><a>Ward</a>unit types are no longer able to attack while inside the Chronosphere</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Faceless_Void_Large.png/80px-Faceless_Void_Large.png"
+  },
+  {
+    "id": "6.83_hero_Gyrocopter",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Gyrocopter",
+    "descriptionHtml": "<ul><li><a>Call Down</a>area of effect increased from 450 to 600</li><li>Call Down missile one slow amount reduced from 50% to 30%</li><li>Call Down missile two slow amount increased from 20% to 60%</li><li><a>Force Staff</a>can now be used on<a>Homing Missile</a></li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e1/Gyrocopter_Large.png/80px-Gyrocopter_Large.png"
+  },
+  {
+    "id": "6.83_hero_Huskar",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Huskar",
+    "descriptionHtml": "<ul><li><a>Inner Vitality</a>base health regen from 2/4/6/8 to 10</li><li>Inner Vitality regen bonus when hurt form 30/45/60/75% to 20/40/60/80%</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f1/Huskar_Large.png/80px-Huskar_Large.png"
+  },
+  {
+    "id": "6.83_hero_Io",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Io",
+    "descriptionHtml": "<ul><li>No longer requires<a>turning</a>to perform any actions</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/ad/Io_Large.png/80px-Io_Large.png"
+  },
+  {
+    "id": "6.83_hero_Jakiro",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Jakiro",
+    "descriptionHtml": "<ul><li><a>Liquid Fire</a>damage reduced from 15/20/25/30 to 12/16/20/24</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4d/Jakiro_Large.png/80px-Jakiro_Large.png"
+  },
+  {
+    "id": "6.83_hero_Juggernaut",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Juggernaut",
+    "descriptionHtml": "<ul><li>Base<a>agility</a>increased from 20 to 26</li><li><a>Blade Dance</a>critical strike chance rescaled from 15/20/25/35% to 20/25/30/35%</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c8/Juggernaut_Large.png/80px-Juggernaut_Large.png"
+  },
+  {
+    "id": "6.83_hero_Keeper-of-the-Light",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Keeper of the Light",
+    "descriptionHtml": "<ul><li><a>Chakra Magic</a>mana cost from 25/45/65/85 to 25/35/45/55</li><li><a>Blinding Light</a>blind duration increased from 3/4/5 to 4/5/6</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/bc/Keeper_of_the_Light_Large.png/80px-Keeper_of_the_Light_Large.png"
+  },
+  {
+    "id": "6.83_hero_Kunkka",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Kunkka",
+    "descriptionHtml": "<ul><li><a>X Marks the Spot</a>enemy delay from 1/2/3/4 to 4, and allied delay from 2/4/6/8 to 8</li><li>X Marks the Spot cast range from 500/650/800/950 to 350/550/750/1000</li><li>X Marks the Spot cooldown from 14/13/12/11 to 19/16/13/10</li><li><a>X Marks the Spot Return</a>mana cost reduced from 50 to 0</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/3a/Kunkka_Large.png/80px-Kunkka_Large.png"
+  },
+  {
+    "id": "6.83_hero_Leshrac",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Leshrac",
+    "descriptionHtml": "<ul><li><a>Diabolic Edict</a>duration increased from 8 to 10 seconds</li><li><a>Lightning Storm</a>slow duration increased from 0.5 to 0.75</li><li>Lightning Storm cast range increased from 700 to 800</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f6/Leshrac_Large.png/80px-Leshrac_Large.png"
+  },
+  {
+    "id": "6.83_hero_Lich",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Lich",
+    "descriptionHtml": "<ul><li><a>Chain Frost</a>cooldown from 145/115/60 to 120/90/60</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/35/Lich_Large.png/80px-Lich_Large.png"
+  },
+  {
+    "id": "6.83_hero_Lifestealer",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Lifestealer",
+    "descriptionHtml": "<ul><li><b><a>Infest</a>now allows you to control the unit you are in using a sub-ability</b><ul><li>Allows you to take control of the unit you are infesting, including their abilities</li><li>If you take control of a unit, it will maintain its cover, however it will become attackable by your enemy</li><li>Controlled units share Lifestealer&apos;s movement speed</li><li>Cannot be used on heroes</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/8/85/Lifestealer_Large.png/80px-Lifestealer_Large.png"
+  },
+  {
+    "id": "6.83_hero_Lina",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Lina",
+    "descriptionHtml": "<ul><li>Attack projectile speed from 900 to 1000</li><li><a>Dragon Slave</a>damage increased from 100/170/230/280 to 110/180/250/320</li><li>Dragon Slave mana cost increased from 90/105/125/140 to 100/115/130/145</li><li><a>Light Strike Array</a>damage rescaled from 90/150/210/280 to 120/160/200/240</li><li>Light Strike Array mana cost increased from 90/100/110/125 to 100/110/120/130</li><li>Light Strike Array stun duration increased from 1.6/1.8/2/2.2 to 1.6/1.9/2.2/2.5</li><li><a>Fiery Soul</a>duration increased from 9 to 10</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/46/Lina_Large.png/80px-Lina_Large.png"
+  },
+  {
+    "id": "6.83_hero_Lion",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Lion",
+    "descriptionHtml": "<ul><li>Base attack damage increased by 7</li><li><a>Mana Drain</a>drain interval from 0.25 to 0.1<ul><li>Kills illusions on the first tick</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/8/8d/Lion_Large.png/80px-Lion_Large.png"
+  },
+  {
+    "id": "6.83_hero_Lone-Druid",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Lone Druid",
+    "descriptionHtml": "<ul><li>Removed the cast time on<a>Spirit Bear</a>&apos;s<a>Return</a></li><li><a>Battle Cry</a>cooldown increased from 30 to 60</li><li>Battle Cry duration reduced from 8 to 6</li><li>Battle Cry bonus damage increased from 20/40/60 to 50/75/100</li><li>Battle Cry bonus armor increased from 2/4/6 to 5/10/15</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e2/Lone_Druid_Large.png/80px-Lone_Druid_Large.png"
+  },
+  {
+    "id": "6.83_hero_Luna",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Luna",
+    "descriptionHtml": "<ul><li><a>Moon Glaive</a>level 4 bounces increased from 5 to 6</li><li><a>Eclipse</a>beam count increased from 4/7/10 to 5/8/11 (<a>Scepter</a>increased from 4/8/12 to 6/10/14)</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e2/Luna_Large.png/80px-Luna_Large.png"
+  },
+  {
+    "id": "6.83_hero_Meepo",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Meepo",
+    "descriptionHtml": "<ul><li><a>Divided We Stand</a>respawn time reduction now 20% instead of 10/20/30%</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/97/Meepo_Large.png/80px-Meepo_Large.png"
+  },
+  {
+    "id": "6.83_hero_Morphling",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Morphling",
+    "descriptionHtml": "<ul><li><a>Adaptive Strike</a>stun max duration increased from 0.75/1.5/2.25/3 to 1.25/2.25/3.25/4.25</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c7/Morphling_Large.png/80px-Morphling_Large.png"
+  },
+  {
+    "id": "6.83_hero_Night-Stalker",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Night Stalker",
+    "descriptionHtml": "<ul><li>Base attack damage increased by 4</li><li><a>Crippling Fear</a>mana cost reduced from 90 to 50</li><li><a>Darkness</a>now sets all enemy vision to a maximum of 675, instead of reducing it by 25%<ul><li>This includes Wards, Buildings, etc.</li></ul></li><li>Darkness no longer pauses the day/night timer</li><li>Darkness duration from 40/60/80 to 50</li><li>Darkness cooldown reduced from 180/150/120 to 160/120/80</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c4/Night_Stalker_Large.png/80px-Night_Stalker_Large.png"
+  },
+  {
+    "id": "6.83_hero_Ogre-Magi",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Ogre Magi",
+    "descriptionHtml": "<ul><li><a>Fireblast</a>damage reduced from 60/120/180/240 to 55/110/165/220</li><li>Fireblast cast range reduced from 600 to 475</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Ogre_Magi_Large.png/80px-Ogre_Magi_Large.png"
+  },
+  {
+    "id": "6.83_hero_Outworld-Devourer",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Outworld Devourer",
+    "descriptionHtml": "<ul><li><a>Astral Imprisonment</a>intelligence steal increased from 4/6/8/10 to 4/7/10/13</li><li>Astral Imprisonment intelligence steal duration reduced from 60 to 50</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Outworld_Destroyer_Large.png/80px-Outworld_Destroyer_Large.png"
+  },
+  {
+    "id": "6.83_hero_Phantom-Assassin",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Phantom Assassin",
+    "descriptionHtml": "<ul><li><a>Coup de Grace</a>critical strike damage from 250/350/450% to 230/340/450%</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/2e/Phantom_Assassin_Large.png/80px-Phantom_Assassin_Large.png"
+  },
+  {
+    "id": "6.83_hero_Phoenix",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Phoenix",
+    "descriptionHtml": "<ul><li><a>Supernova</a>attacks required to destroy increased from 5/7/10 to 5/8/11</li><li>Fixed<a>Stop Icarus Dive</a>ability sometimes being interrupted by auto-attacks</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Phoenix_Large.png/80px-Phoenix_Large.png"
+  },
+  {
+    "id": "6.83_hero_Pudge",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Pudge",
+    "descriptionHtml": "<ul><li><a>Meat Hook</a>range increased from 700/900/1100/1300 to 1000/1100/1200/1300</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dd/Pudge_Large.png/80px-Pudge_Large.png"
+  },
+  {
+    "id": "6.83_hero_Pugna",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Pugna",
+    "descriptionHtml": "<ul><li><a>Decrepify</a>movement slow on allies reduced from 50% to 25%</li><li><a>Nether Ward</a>attacks required to destroy increased from 3 to 4</li><li><a>Blademail</a>no longer reflects Nether Ward damage onto Pugna</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/24/Pugna_Large.png/80px-Pugna_Large.png"
+  },
+  {
+    "id": "6.83_hero_Queen-of-Pain",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Queen of Pain",
+    "descriptionHtml": "<ul><li><a>Blink</a>range increased from 700/850/1000/1150 to 1300</li><li>Blink cooldown from 12/10/8/6 to 15/12/9/6</li><li><a>Sonic Wave</a>now does<a>Pure</a>Damage and affects<a>Spell Immune</a></li><li>Sonic Wave damage reduced from 350/475/600 to 290/390/490 (<a>Scepter</a>reduced from 350/530/725 to 325/450/575)</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/62/Queen_of_Pain_Large.png/80px-Queen_of_Pain_Large.png"
+  },
+  {
+    "id": "6.83_hero_Riki",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Riki",
+    "descriptionHtml": "<ul><li><a>Blink Strike</a>max charges increased from 3/4/5 to 4/5/6</li><li>Blink Strike charge restore time increased from 30 to 35</li><li>Blink Strike bonus damage from 50/70/90 to 40/70/100</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a3/Riki_Large.png/80px-Riki_Large.png"
+  },
+  {
+    "id": "6.83_hero_Rubick",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Rubick",
+    "descriptionHtml": "<ul><li><a>Fade Bolt</a>mana cost from 150 to 120/130/140/150</li><li><a>Scepter</a><a>Spell Steal</a>cooldown reduced from 5 to 2</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/57/Rubick_Large.png/80px-Rubick_Large.png"
+  },
+  {
+    "id": "6.83_hero_Shadow-Fiend",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Shadow Fiend",
+    "descriptionHtml": "<ul><li><a>Shadowraze</a>damage increased from 75/150/225/300 to 100/175/250/325</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Shadow_Fiend_Large.png/80px-Shadow_Fiend_Large.png"
+  },
+  {
+    "id": "6.83_hero_Silencer",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Silencer",
+    "descriptionHtml": "<ul><li><a>Glaives of Wisdom</a>intelligence into damage bonus from 30/48/66/84% to 30/50/70/90%</li><li><a>Last Word</a>cooldown reduced from 36/28/20/12 to 30/24/18/12</li><li><a>Scepter</a><a>Global Silence</a>no longer increases duration by 1 second</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/98/Silencer_Large.png/80px-Silencer_Large.png"
+  },
+  {
+    "id": "6.83_hero_Skywrath-Mage",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Skywrath Mage",
+    "descriptionHtml": "<ul><li>Base<a>agility</a>reduced from 18 to 13</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Skywrath_Mage_Large.png/80px-Skywrath_Mage_Large.png"
+  },
+  {
+    "id": "6.83_hero_Slardar",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Slardar",
+    "descriptionHtml": "<ul><li><a>Sprint</a>duration reduced from 20 to 16</li><li>Sprint cooldown reduced from 28 to 23</li><li><a>Amplify Damage</a>cooldown reduced from 10 to 5</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/41/Slardar_Large.png/80px-Slardar_Large.png"
+  },
+  {
+    "id": "6.83_hero_Slark",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Slark",
+    "descriptionHtml": "<ul><li><a>Pounce</a>damage reduced from 60/120/180/240 to 55/110/165/220</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Slark_Large.png/80px-Slark_Large.png"
+  },
+  {
+    "id": "6.83_hero_Sniper",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Sniper",
+    "descriptionHtml": "<ul><li><a>Shrapnel</a>no longer does damage to buildings</li><li>Shrapnel now has 3 charges with a 40 second replenish time<ul><li>Shrapnel&apos;s slow and damage does not stack with itself</li></ul></li><li>Shrapnel mana cost reduced from 120 to 50</li><li>Shrapnel duration increased from 9 to 10</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a2/Sniper_Large.png/80px-Sniper_Large.png"
+  },
+  {
+    "id": "6.83_hero_Spirit-Breaker",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Spirit Breaker",
+    "descriptionHtml": "<ul><li><a>Empowering Haste</a>cooldown from 20 to 16</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f6/Spirit_Breaker_Large.png/80px-Spirit_Breaker_Large.png"
+  },
+  {
+    "id": "6.83_hero_Storm-Spirit",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Storm Spirit",
+    "descriptionHtml": "<ul><li><a>Turn Rate</a>improved from 0.6 to 0.8</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0c/Storm_Spirit_Large.png/80px-Storm_Spirit_Large.png"
+  },
+  {
+    "id": "6.83_hero_Sven",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Sven",
+    "descriptionHtml": "<ul><li><a>Warcry</a>duration increased from 7 to 8 seconds</li><li><a>Scepter</a><a>God&apos;s Strength</a>ally bonus damage from 40/60/80% to 50/75/100%</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f2/Sven_Large.png/80px-Sven_Large.png"
+  },
+  {
+    "id": "6.83_hero_Techies",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Techies",
+    "descriptionHtml": "<ul><li>Added to<a>Captains Mode</a><ul><li>Will be enabled next week</li></ul></li><li><a>Land Mines</a>damage increased from 225/300/375/450 to 300/375/450/525</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a7/Techies_Large.png/80px-Techies_Large.png"
+  },
+  {
+    "id": "6.83_hero_Terrorblade",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Terrorblade",
+    "descriptionHtml": "<ul><li><a>Reflection</a>cast point reduced from 0.5 to 0.3</li><li><a>Sunder</a>minimum HP from 25/20/15% to 20%</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b5/Terrorblade_Large.png/80px-Terrorblade_Large.png"
+  },
+  {
+    "id": "6.83_hero_Tidehunter",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Tidehunter",
+    "descriptionHtml": "<ul><li>Base<a>movement</a>speed reduced by 5</li><li><a>Ravage</a>damage reduced from 200/325/450 to 200/290/380</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/de/Tidehunter_Large.png/80px-Tidehunter_Large.png"
+  },
+  {
+    "id": "6.83_hero_Tinker",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Tinker",
+    "descriptionHtml": "<ul><li><a>Heat-Seeking Missile</a>damage increased from 100/175/250/325 to 125/200/275/350</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c0/Tinker_Large.png/80px-Tinker_Large.png"
+  },
+  {
+    "id": "6.83_hero_Tiny",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Tiny",
+    "descriptionHtml": "<ul><li><a>Toss</a>duration increased from 1 to 1.3 seconds</li><li><a>Grow</a>move speed bonus rescaled from 20/40/60 to 40/50/60</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Tiny_Large.png/80px-Tiny_Large.png"
+  },
+  {
+    "id": "6.83_hero_Treant-Protector",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Treant Protector",
+    "descriptionHtml": "<ul><li><a>Eyes In The Forest</a>&apos;s<a>Overgrowth</a>damage increased from 135 to 175 per second</li><li>Eyes In The Forest cooldown reduced from 55 to 25</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7a/Treant_Protector_Large.png/80px-Treant_Protector_Large.png"
+  },
+  {
+    "id": "6.83_hero_Troll-Warlord",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Troll Warlord",
+    "descriptionHtml": "<ul><li>Fixed<a>Fervor</a>stack count being 1 stack too slow</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Troll_Warlord_Large.png/80px-Troll_Warlord_Large.png"
+  },
+  {
+    "id": "6.83_hero_Tusk",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Tusk",
+    "descriptionHtml": "<ul><li><a>Ice Shards</a>projectile speed from 900 to 1100</li><li>Ice Shards shard duration from 5 to 7 seconds</li><li><a>Walrus PUNCH!</a>is now an enemy target ability, and is auto-castable</li><li>Walrus PUNCH! cooldown reduced from 25/20/15 to 20/16/12</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Tusk_Large.png/80px-Tusk_Large.png"
+  },
+  {
+    "id": "6.83_hero_Undying",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Undying",
+    "descriptionHtml": "<ul><li><a>Soul Rip</a>max units from 5/10/15/20 to 10/12/14/16</li><li>Soul Rip damage/heal per unit from 25 to 18/22/26/30</li><li><a>Tombstone</a>armor increased by 1</li><li><a>Flesh Golem</a>max slow increased from 15 to 20%</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6b/Undying_Large.png/80px-Undying_Large.png"
+  },
+  {
+    "id": "6.83_hero_Vengeful-Spirit",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Vengeful Spirit",
+    "descriptionHtml": "<ul><li><a>Wave of Terror</a>cooldown increased from 15 to 20</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c9/Vengeful_Spirit_Large.png/80px-Vengeful_Spirit_Large.png"
+  },
+  {
+    "id": "6.83_hero_Visage",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Visage",
+    "descriptionHtml": "<ul><li><a>Gravekeeper&apos;s Cloak</a>recovery time from 12/10/8/6 to 6</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f8/Visage_Large.png/80px-Visage_Large.png"
+  },
+  {
+    "id": "6.83_hero_Warlock",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Warlock",
+    "descriptionHtml": "<ul><li><a>Fatal Bonds</a>cast range increased from 800 to 900</li><li>Fatal Bonds radius increased from 575 to 700</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b9/Warlock_Large.png/80px-Warlock_Large.png"
+  },
+  {
+    "id": "6.83_hero_Windranger",
+    "version": "6.83",
+    "category": "hero",
+    "label": "Windranger",
+    "descriptionHtml": "<ul><li><a>Powershot</a>travel range increased from 1825 to 2600</li><li>Powershot max damage is now dealt after 1 second channel instead of 0.7<ul><li>It always channeled to 1 previously</li></ul></li><li>Powershot cast point improved from 0.3 to 0</li><li>Reduced the area of the lingering vision at the end of Powershot from 800 to 400</li><li><a>Focus Fire</a>attack speed bonus increased from 400 to 500</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Windranger_Large.png/80px-Windranger_Large.png"
+  },
+  {
+    "id": "6.83_item_Animal-Courier",
+    "version": "6.83",
+    "category": "item",
+    "label": "Animal Courier",
+    "descriptionHtml": "<ul><li>Cost reduced from 150 to 120</li></ul>",
+    "imageSrc": "/commons/images/c/cd/Animal_Courier.png"
+  },
+  {
+    "id": "6.83_item_Armlet-of-Mordiggian",
+    "version": "6.83",
+    "category": "item",
+    "label": "Armlet of Mordiggian",
+    "descriptionHtml": "<ul><li><a>Recipe</a>cost reduced from 600 to 500</li></ul>",
+    "imageSrc": "/commons/images/a/a2/Armlet_of_Mordiggian.png"
+  },
+  {
+    "id": "6.83_item_Blink-Dagger",
+    "version": "6.83",
+    "category": "item",
+    "label": "Blink Dagger",
+    "descriptionHtml": "<ul><li><a>Blink</a>is no longer disabled if you take no damage (e.g.<a>Spiked Carapace</a>,<a>Refraction</a>, etc.)</li></ul>",
+    "imageSrc": "/commons/images/0/00/Blink_Dagger.png"
+  },
+  {
+    "id": "6.83_item_Bottle",
+    "version": "6.83",
+    "category": "item",
+    "label": "Bottle",
+    "descriptionHtml": "<ul><li>A<a>courier</a>carrying a non-full bottle will always be slowed<ul><li>Instead of only slowing when carrying an empty bottle</li></ul></li></ul>",
+    "imageSrc": "/commons/images/5/5d/Bottle.png"
+  },
+  {
+    "id": "6.83_item_Broadsword",
+    "version": "6.83",
+    "category": "item",
+    "label": "Broadsword",
+    "descriptionHtml": "<ul><li>Replaced<a>Talisman of Evasion</a>with<a>Broadsword</a>in the<a>Side Shop</a></li></ul>",
+    "imageSrc": "/commons/images/8/87/Broadsword.png"
+  },
+  {
+    "id": "6.83_item_Circlet",
+    "version": "6.83",
+    "category": "item",
+    "label": "Circlet",
+    "descriptionHtml": "<ul><li>Cost reduced from 185 to 165 (<a>Null Talisman</a>,<a>Wraith Band</a>, and<a>Bracer</a>Recipe costs increased by 20)</li></ul>",
+    "imageSrc": "/commons/images/5/50/Circlet.png"
+  },
+  {
+    "id": "6.83_item_Clarity",
+    "version": "6.83",
+    "category": "item",
+    "label": "Clarity",
+    "descriptionHtml": "<ul><li><a>Mana</a>restore increased from 135 to 150</li></ul>",
+    "imageSrc": "/commons/images/d/d7/Clarity.png"
+  },
+  {
+    "id": "6.83_item_Crimson-Guard",
+    "version": "6.83",
+    "category": "item",
+    "label": "Crimson Guard",
+    "descriptionHtml": "<ul><li><a>Guard</a>duration increased from 9 to 10</li></ul>",
+    "imageSrc": "/commons/images/1/17/Crimson_Guard.png"
+  },
+  {
+    "id": "6.83_item_Diffusal-Blade",
+    "version": "6.83",
+    "category": "item",
+    "label": "Diffusal Blade",
+    "descriptionHtml": "<ul><li>Diffusal Blade is no longer a<a>Unique Attack Modifier</a></li><li>Multiple<a>Mana Break</a>type abilities do not stack</li></ul>",
+    "imageSrc": "/commons/images/a/a4/Diffusal_Blade.png"
+  },
+  {
+    "id": "6.83_item_Drum-of-Endurance",
+    "version": "6.83",
+    "category": "item",
+    "label": "Drum of Endurance",
+    "descriptionHtml": "<ul><li><a>Endurance</a>charges increased from 5 to 6</li></ul>",
+    "imageSrc": "/commons/images/a/a9/Drum_of_Endurance.png"
+  },
+  {
+    "id": "6.83_item_Eul's-Scepter-of-Divinity",
+    "version": "6.83",
+    "category": "item",
+    "label": "Eul's Scepter of Divinity",
+    "descriptionHtml": "<ul><li>Recipe cost increased from 500 to 650</li></ul>",
+    "imageSrc": "/commons/images/2/2e/Euls_Scepter_of_Divinity.png"
+  },
+  {
+    "id": "6.83_item_Healing-Salve",
+    "version": "6.83",
+    "category": "item",
+    "label": "Healing Salve",
+    "descriptionHtml": "<ul><li>Cost reduced from 115 to 110</li></ul>",
+    "imageSrc": "/commons/images/9/9c/Healing_Salve.png"
+  },
+  {
+    "id": "6.83_item_Helm-of-the-Dominator",
+    "version": "6.83",
+    "category": "item",
+    "label": "Helm of the Dominator",
+    "descriptionHtml": "<ul><li><a>Dominated</a>unit bonus health increased from 250 to 500</li></ul>",
+    "imageSrc": "/commons/images/6/61/Helm_of_the_Dominator.png"
+  },
+  {
+    "id": "6.83_item_Magic-Wand",
+    "version": "6.83",
+    "category": "item",
+    "label": "Magic Wand",
+    "descriptionHtml": "<ul><li>Max charges increased from 15 to 17</li></ul>",
+    "imageSrc": "/commons/images/b/bc/Magic_Wand.png"
+  },
+  {
+    "id": "6.83_item_Medallion-of-Courage",
+    "version": "6.83",
+    "category": "item",
+    "label": "Medallion of Courage",
+    "descriptionHtml": "<ul><li>Recipe cost increased from 200 to 325</li><li><a>Valor</a>can now be cast on allies to give them armor</li><li>Passive armor and exchange armor increased from 6 to 7</li></ul>",
+    "imageSrc": "/commons/images/6/62/Medallion_of_Courage.png"
+  },
+  {
+    "id": "6.83_item_Pipe-of-Insight",
+    "version": "6.83",
+    "category": "item",
+    "label": "Pipe of Insight",
+    "descriptionHtml": "<ul><li>Recipe cost reduced from 900 to 800</li><li><a>Barrier</a>duration increased from 10 to 12</li></ul>",
+    "imageSrc": "/commons/images/1/1e/Pipe_of_Insight.png"
+  },
+  {
+    "id": "6.83_item_Refresher-Orb",
+    "version": "6.83",
+    "category": "item",
+    "label": "Refresher Orb",
+    "descriptionHtml": "<ul><li>Cooldown increased from 185 to 195</li></ul>",
+    "imageSrc": "/commons/images/a/a2/Refresher_Orb.png"
+  },
+  {
+    "id": "6.83_item_Shadow-Amulet",
+    "version": "6.83",
+    "category": "item",
+    "label": "Shadow Amulet",
+    "descriptionHtml": "<ul><li>Cost reduced from 1600 to 1400</li><li>Your movement is now only interrupted when the invisibility starts rather than when you cast it</li></ul>",
+    "imageSrc": "/commons/images/d/dd/Shadow_Amulet.png"
+  }
+]

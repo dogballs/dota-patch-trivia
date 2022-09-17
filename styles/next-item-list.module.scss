@@ -1,4 +1,4 @@
-@import "./variables.scss";
+@import './variables.scss';
 
 .container {
   display: flex;
@@ -8,7 +8,7 @@
 
   .wrapper {
     padding-left: 20px;
-    width: 192px;
+    width: 242px;
     position: relative;
     border: 1px dashed $dashes;
     border-radius: 5px;

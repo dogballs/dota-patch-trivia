@@ -1,8 +1,9 @@
-import axios from 'axios';
 import fs from 'fs/promises';
 import path from 'path';
 
-async function fetchVersions() {}
+import axios from 'axios';
+
+import { COMMON_HEADERS } from './headers';
 
 async function fetchVersion(version: string) {
   const filePath = path.resolve(__dirname, `raw/versions/${version}.json`);
@@ -24,8 +25,7 @@ async function fetchVersion(version: string) {
     transformResponse: (res) => res,
     headers: {
       'Accept-Encoding': 'gzip',
-      'User-Agent':
-        'dota-patch-trivia/0.1 (https://github.com/dogballs/; mradionov.oss@gmail.com)',
+      ...COMMON_HEADERS,
     },
   });
 
@@ -38,6 +38,4 @@ async function fetchVersion(version: string) {
   await fs.writeFile(filePath, text, 'utf8');
 }
 
-async function fetchImages() {}
-
-fetchVersion('7.30c');
+fetchVersion('7.32');

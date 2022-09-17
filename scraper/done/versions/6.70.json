@@ -1,0 +1,473 @@
+[
+  {
+    "id": "6.70_new-hero_Ymir,-the-Tusk",
+    "version": "6.70",
+    "category": "new-hero",
+    "label": "Ymir, the Tusk",
+    "descriptionHtml": "",
+    "imageSrc": "/commons/images/thumb/6/61/Tusk_Large.png/128px-Tusk_Large.png"
+  },
+  {
+    "id": "6.70_new-hero_Phoenix",
+    "version": "6.70",
+    "category": "new-hero",
+    "label": "Phoenix",
+    "descriptionHtml": "",
+    "imageSrc": "/commons/images/thumb/6/61/Phoenix_Large.png/128px-Phoenix_Large.png"
+  },
+  {
+    "id": "6.70_general_General-updates",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new loadscreen by Kunkka</li><li>Reworked Tavern Layout</li><li>Added a 4 minute cooldown to Buyback</li><li>Updated hero icon representation on the minimap</li><li>Creep vision decreased from 1100 to 850</li><li>Consumable Items no longer automatically fuse with ones you don&apos;t own (except for wards)<ul><li>Example: You can now have a courier carry 2 separate TP scrolls for different players</li></ul></li><li>Added<a>Gyro</a>,<a>Weaver</a>,<a>Clinkz</a>, and<a>Ancient Apparition</a>to<a>CM</a></li><li>Fixed default selection order for Necronomicon (Manaburn unit first)</li><li>Fixed default selection order for Panda&apos;s Split Earth units (Earth → Storm → Fire)</li><li>Added a new model for Furion</li><li>Restored Lina&apos;s old projectile</li><li>Added various Christmas themed visuals<ul><li>Added Santa hats for couriers, roshan, and aegis holder</li><li>Replaced Cheese with candy cane (appears on your hero visually as well)</li><li>Ironwood branch model to christmas present</li><li>Secret Shop is now Santa</li><li>Added some other misc christmas doodads</li></ul></li><li>Added a visual effect for Furion&apos;s Aghanim Scepter</li><li>Added an Aghanim visual effect for Chen</li><li>Minor increase to Metamorphosis model size</li><li>Removed Courier Upgrade button from courier</li><li>Fixed Flying shadow for Obsidian Destroyer, Visage and Viper</li><li>Improved Double Edge visual effect</li><li>Added an ally only visual effect for a hero carrying Gem</li><li>Added a -bounty command to see the total gold gain by Track</li><li>Improved the quality of the following item icons: Mjollnir, Platemail, Chainmail, Helm of the Dominator, Boots of Travel, Blademail, Assault Cuirass, Monkey King Bar, Sentry Wards, Diffusal Blade, Guinsoo, and Desolator</li><li>Added a new icon for level 2 Diffusal Blade</li><li>Added a new icon for Skeleton King&apos;s Critical Strike</li><li>Improved the quality of the following ability icons: Surge and Naga Siren&apos;s Mirror Image</li><li>Added a new icon for Empower</li><li>Added a new icon for Skewer</li><li>Added a new icon for Reverse Polarity</li></ul>"
+  },
+  {
+    "id": "6.70_hero_Abaddon",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Abaddon",
+    "descriptionHtml": "<ul><li><a>Curse of Avernus</a>bonus movement speed increased from 10% to 15%</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Abaddon_Large.png/80px-Abaddon_Large.png"
+  },
+  {
+    "id": "6.70_hero_Anti-Mage",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Anti-Mage",
+    "descriptionHtml": "<ul><li><a>Spell Shield</a>magic resistance increased from 15/25/35/45% to 26/34/42/50%</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/70/Anti-Mage_Large.png/80px-Anti-Mage_Large.png"
+  },
+  {
+    "id": "6.70_hero_Axe",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Axe",
+    "descriptionHtml": "<ul><li><a>Berserker&apos;s Call</a>bonus armor increased from 5/10/15/20 to a constant 30</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a1/Axe_Large.png/80px-Axe_Large.png"
+  },
+  {
+    "id": "6.70_hero_Bane",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Bane",
+    "descriptionHtml": "<ul><li><a>Fiend&apos;s Grip</a>cooldown reduced from 120 to 100</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/72/Bane_Large.png/80px-Bane_Large.png"
+  },
+  {
+    "id": "6.70_hero_Bounty-Hunter",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Bounty Hunter",
+    "descriptionHtml": "<ul><li><a>Track</a>movement bonus AoE increased from 800 to 900</li><li>Increased base armor by 2</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/86/Bounty_Hunter_Large.png/80px-Bounty_Hunter_Large.png"
+  },
+  {
+    "id": "6.70_hero_Brewmaster",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Brewmaster",
+    "descriptionHtml": "<ul><li><a>Drunken Brawler</a>crit chance increased from 5/10/15/20% to 10/15/20/25%</li><li>Drunken Brawler evasion chance increased from 6/12/18/24% to 10/15/20/25%</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0b/Brewmaster_Large.png/80px-Brewmaster_Large.png"
+  },
+  {
+    "id": "6.70_hero_Centaur-Warrunner",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Centaur Warrunner",
+    "descriptionHtml": "<ul><li><a>Hoof Stomp</a>stun duration increased from 1.25/1.75/2.25/2.75 to 2/2.25/2.5/2.75</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Centaur_Warrunner_Large.png/80px-Centaur_Warrunner_Large.png"
+  },
+  {
+    "id": "6.70_hero_Chen",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Chen",
+    "descriptionHtml": "<ul><li><a>Holy Persuasion</a>cooldown reduced from 30 to 30/26/22/18</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7d/Chen_Large.png/80px-Chen_Large.png"
+  },
+  {
+    "id": "6.70_hero_Dazzle",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Dazzle",
+    "descriptionHtml": "<ul><li><a>Shadow Wave</a>damage AoE increased from 155 to 170</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e3/Dazzle_Large.png/80px-Dazzle_Large.png"
+  },
+  {
+    "id": "6.70_hero_Death-Prophet",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Death Prophet",
+    "descriptionHtml": "<ul><li>Increased base damage by 5</li><li>Removed healing cap (was 1000) on<a>Exorcism</a></li><li>Strength gain increased from 1.8 to 2.2</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/80/Death_Prophet_Large.png/80px-Death_Prophet_Large.png"
+  },
+  {
+    "id": "6.70_hero_Disruptor",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Disruptor",
+    "descriptionHtml": "<ul><li><a>Thunder Strike</a>mana cost increased from 100/110/120/130 to 130</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b7/Disruptor_Large.png/80px-Disruptor_Large.png"
+  },
+  {
+    "id": "6.70_hero_Doom",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Doom",
+    "descriptionHtml": "<ul><li><a>Scorched Earth</a>damage and health regeneration reduced from 15/20/25/30 to 12/16/20/24</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/19/Doom_Large.png/80px-Doom_Large.png"
+  },
+  {
+    "id": "6.70_hero_Invoker",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Invoker",
+    "descriptionHtml": "<ul><li><a>Sun Strike</a>kills now give<a>XP</a>to Invoker</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5b/Invoker_Large.png/80px-Invoker_Large.png"
+  },
+  {
+    "id": "6.70_hero_Jakiro",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Jakiro",
+    "descriptionHtml": "<ul><li>Rebalanced base damage from 42-54 to 46-54</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4d/Jakiro_Large.png/80px-Jakiro_Large.png"
+  },
+  {
+    "id": "6.70_hero_Juggernaut",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Juggernaut",
+    "descriptionHtml": "<ul><li><a>Healing Ward</a>movement speed increased from 150 to 300</li><li><a>Banished</a>units are no longer immune to<a>Blade Fury</a></li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c8/Juggernaut_Large.png/80px-Juggernaut_Large.png"
+  },
+  {
+    "id": "6.70_hero_Keeper-of-the-Light",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Keeper of the Light",
+    "descriptionHtml": "<ul><li><a>Blinding Light</a>cast range increased from 600 to 900</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/bc/Keeper_of_the_Light_Large.png/80px-Keeper_of_the_Light_Large.png"
+  },
+  {
+    "id": "6.70_hero_Leshrac",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Leshrac",
+    "descriptionHtml": "<ul><li><a>Split Earth</a>damage increased from 70/140/210/290 to 120/180/240/300</li><li><a>Lightning Storm</a>cooldown reduced from 6 to 5.5</li><li><a>Diabolic Edict</a>no longer uses a cast point</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f6/Leshrac_Large.png/80px-Leshrac_Large.png"
+  },
+  {
+    "id": "6.70_hero_Lich",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Lich",
+    "descriptionHtml": "<ul><li><a>Dark Ritual</a>cooldown reduced from 55/50/45/40 to 30/27/24/21</li><li><a>Frost Armor</a>mana cost increased from 25 to 50</li><li>Frost Armor armor reduced from 3/6/9/12 to 3/5/7/9</li><li><a>Frost Nova</a>primary target damage increased from 50/100/125/175 to 50/100/150/200</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/35/Lich_Large.png/80px-Lich_Large.png"
+  },
+  {
+    "id": "6.70_hero_Lifestealer",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Lifestealer",
+    "descriptionHtml": "<ul><li><a>Open Wounds</a>team lifesteal increased from 10/15/20/25% to 15/20/25/30%</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/85/Lifestealer_Large.png/80px-Lifestealer_Large.png"
+  },
+  {
+    "id": "6.70_hero_Lycan",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Lycan",
+    "descriptionHtml": "<ul><li><a>Shapeshift</a>form critical strike improved from 1.5× to 1.7×</li><li><a>Lycan Wolves</a>critical strike improved from 1.5× to 1.7×</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Lycan_Large.png/80px-Lycan_Large.png"
+  },
+  {
+    "id": "6.70_hero_Meepo",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Meepo",
+    "descriptionHtml": "<ul><li><a>Poof</a>cooldown decreased from 16/14/12/10 to 14/12/10/8</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/97/Meepo_Large.png/80px-Meepo_Large.png"
+  },
+  {
+    "id": "6.70_hero_Naga-Siren",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Naga Siren",
+    "descriptionHtml": "<ul><li>Base damage increased by 5</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Naga_Siren_Large.png/80px-Naga_Siren_Large.png"
+  },
+  {
+    "id": "6.70_hero_Nature's-Prophet",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Nature's Prophet",
+    "descriptionHtml": "<ul><li>Improved base attack damage by 6</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/16/Natures_Prophet_Large.png/80px-Natures_Prophet_Large.png"
+  },
+  {
+    "id": "6.70_hero_Omniknight",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Omniknight",
+    "descriptionHtml": "<ul><li><a>Degen Aura</a>now also reduces attack speed (same values as the movement speed reduction)</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Omniknight_Large.png/80px-Omniknight_Large.png"
+  },
+  {
+    "id": "6.70_hero_Phantom-Assassin",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Phantom Assassin",
+    "descriptionHtml": "<ul><li><a>Blur</a>evasion increased from 15/20/25/30% to 20/25/30/35%</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/2e/Phantom_Assassin_Large.png/80px-Phantom_Assassin_Large.png"
+  },
+  {
+    "id": "6.70_hero_Puck",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Puck",
+    "descriptionHtml": "<ul><li><a>Waning Rift</a>cooldown from 20 to 16</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/3a/Puck_Large.png/80px-Puck_Large.png"
+  },
+  {
+    "id": "6.70_hero_Razor",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Razor",
+    "descriptionHtml": "<ul><li><a>Eye of the Storm</a>can now target<a>Ancients</a>(not<a>Roshan</a>)</li><li>Eye of the Storm no longer ignores magic immune units</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Razor_Large.png/80px-Razor_Large.png"
+  },
+  {
+    "id": "6.70_hero_Sand-King",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Sand King",
+    "descriptionHtml": "<ul><li>Strength gain increased from 2.3 to 2.6</li><li><a>Caustic Finale</a>buff duration increased from 0.25 to 2 seconds</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e5/Sand_King_Large.png/80px-Sand_King_Large.png"
+  },
+  {
+    "id": "6.70_hero_Shadow-Shaman",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Shadow Shaman",
+    "descriptionHtml": "<ul><li><a>Ether Shock</a>cooldown from 10 to 8</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/d8/Shadow_Shaman_Large.png/80px-Shadow_Shaman_Large.png"
+  },
+  {
+    "id": "6.70_hero_Silencer",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Silencer",
+    "descriptionHtml": "<ul><li>Increased<a>Glaives of Wisdom</a>damage from 15/30/45/60 to 30/40/50/60</li><li>Glaives of Wisdom cooldown from 3/2/1/0 to 2/0/0/0</li><li>Rebalanced cooldown on<a>Curse of the Silent</a>from 14 to 20/18/16/14</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/98/Silencer_Large.png/80px-Silencer_Large.png"
+  },
+  {
+    "id": "6.70_hero_Slardar",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Slardar",
+    "descriptionHtml": "<ul><li>Increased agility gain from 1.9 to 2.4</li><li>Increased base armor from 4 to 5</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/41/Slardar_Large.png/80px-Slardar_Large.png"
+  },
+  {
+    "id": "6.70_hero_Slark",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Slark",
+    "descriptionHtml": "<ul><li>Adjusted the timing on<a>Dark Pact</a><ul><li>Instead of starting after 2 seconds and pulsing (damage and buff removal) over 0.5 seconds, it now starts after 1.5 seconds and pulses over 1 second</li><li>Same overall damage but now has a longer duration for the buff removal period</li></ul></li><li>Dark Pact self damage is now dealt to himself as he deals it to the area around him instead of at cast time</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Slark_Large.png/80px-Slark_Large.png"
+  },
+  {
+    "id": "6.70_hero_Spectre",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Spectre",
+    "descriptionHtml": "<ul><li>Reworked<a>Dispersion</a><ul><li>The damage now scales based on distance</li></ul></li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0a/Spectre_Large.png/80px-Spectre_Large.png"
+  },
+  {
+    "id": "6.70_hero_Storm-Spirit",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Storm Spirit",
+    "descriptionHtml": "<ul><li>Intelligence gain increased from 2.2 to 2.6</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0c/Storm_Spirit_Large.png/80px-Storm_Spirit_Large.png"
+  },
+  {
+    "id": "6.70_hero_Templar-Assassin",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Templar Assassin",
+    "descriptionHtml": "<ul><li>Base damage increased from 45-55 to 53-59</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/50/Templar_Assassin_Large.png/80px-Templar_Assassin_Large.png"
+  },
+  {
+    "id": "6.70_hero_Tiny",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Tiny",
+    "descriptionHtml": "<ul><li><a>Grow</a>bonus movement speed increased from 10 to 20 per level</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Tiny_Large.png/80px-Tiny_Large.png"
+  },
+  {
+    "id": "6.70_hero_Treant-Protector",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Treant Protector",
+    "descriptionHtml": "<ul><li><a>Living Armor</a>regeneration from 1/2/3/4 to 2/3/4/5</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7a/Treant_Protector_Large.png/80px-Treant_Protector_Large.png"
+  },
+  {
+    "id": "6.70_hero_Undying",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Undying",
+    "descriptionHtml": "<ul><li><a>Decay</a>damage from 30/60/90/120 to 40/80/120/160</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6b/Undying_Large.png/80px-Undying_Large.png"
+  },
+  {
+    "id": "6.70_hero_Warlock",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Warlock",
+    "descriptionHtml": "<ul><li><a>Fatal Bonds</a>damage from 15% to 20%</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b9/Warlock_Large.png/80px-Warlock_Large.png"
+  },
+  {
+    "id": "6.70_hero_Weaver",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Weaver",
+    "descriptionHtml": "<ul><li>Minor increase to visibility around<a>The Swarm</a>units when they are attached to someone</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/59/Weaver_Large.png/80px-Weaver_Large.png"
+  },
+  {
+    "id": "6.70_hero_Zeus",
+    "version": "6.70",
+    "category": "hero",
+    "label": "Zeus",
+    "descriptionHtml": "<ul><li><a>Lightning Bolt</a>cooldown from 7 to 6.5</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/91/Zeus_Large.png/80px-Zeus_Large.png"
+  },
+  {
+    "id": "6.70_new-item_Drum-of-Endurance",
+    "version": "6.70",
+    "category": "new-item",
+    "label": "Drum of Endurance",
+    "descriptionHtml": "<ul><li>Requires:<ul><li><a>Bracer</a>(525)</li><li><a>Robe of the Magi</a>(450)</li><li><a>Recipe</a>(750)</li></ul></li></ul>",
+    "imageSrc": "/commons/images/a/a9/Drum_of_Endurance.png"
+  },
+  {
+    "id": "6.70_new-item_Medallion-of-Courage",
+    "version": "6.70",
+    "category": "new-item",
+    "label": "Medallion of Courage",
+    "descriptionHtml": "<ul><li>Requires:<ul><li><a>Chainmail</a></li><li><a>Sage&apos;s Mask</a></li><li><a>Recipe</a>(200)</li></ul></li></ul>",
+    "imageSrc": "/commons/images/6/62/Medallion_of_Courage.png"
+  },
+  {
+    "id": "6.70_new-item_Smoke-of-Deceit",
+    "version": "6.70",
+    "category": "new-item",
+    "label": "Smoke of Deceit",
+    "descriptionHtml": "<ul><li>Consumable<ul><li>Cost: 100</li><li>Charges: 1</li><li>Stackable in inventory</li></ul></li></ul>",
+    "imageSrc": "/commons/images/b/b4/Smoke_of_Deceit.png"
+  },
+  {
+    "id": "6.70_item_Blade-Mail",
+    "version": "6.70",
+    "category": "item",
+    "label": "Blade Mail",
+    "descriptionHtml": "<ul><li>Cooldown from 25 to 22</li></ul>",
+    "imageSrc": "/commons/images/4/47/Blade_Mail.png"
+  },
+  {
+    "id": "6.70_item_Bloodstone",
+    "version": "6.70",
+    "category": "item",
+    "label": "Bloodstone",
+    "descriptionHtml": "<ul><li>Mana regeneration increased from 150% to 200%</li><li>HP regeneration increased from 6 to 8</li></ul>",
+    "imageSrc": "/commons/images/0/00/Bloodstone.png"
+  },
+  {
+    "id": "6.70_item_Chainmail",
+    "version": "6.70",
+    "category": "item",
+    "label": "Chainmail",
+    "descriptionHtml": "<ul><li>Added to<a>side shop</a></li></ul>",
+    "imageSrc": "/commons/images/e/e5/Chainmail.png"
+  },
+  {
+    "id": "6.70_item_Cloak",
+    "version": "6.70",
+    "category": "item",
+    "label": "Cloak",
+    "descriptionHtml": "<ul><li>Cost increased from 500 to 550 gold</li></ul>",
+    "imageSrc": "/commons/images/2/2b/Cloak_dota2.png"
+  },
+  {
+    "id": "6.70_item_Crystalys",
+    "version": "6.70",
+    "category": "item",
+    "label": "Crystalys",
+    "descriptionHtml": "<ul><li>Chance to land a Critical Strike increased from 10% to 15%</li></ul>",
+    "imageSrc": "/commons/images/c/c6/Crystalys.png"
+  },
+  {
+    "id": "6.70_item_Mask-of-Madness",
+    "version": "6.70",
+    "category": "item",
+    "label": "Mask of Madness",
+    "descriptionHtml": "<ul><li>Lifesteal increased from 10% to 15%</li></ul>",
+    "imageSrc": "/commons/images/3/3e/Mask_of_Madness.png"
+  },
+  {
+    "id": "6.70_item_Necronomicon",
+    "version": "6.70",
+    "category": "item",
+    "label": "Necronomicon",
+    "descriptionHtml": "<ul><li>Bonus strength increased from 6/10/14 to 8/12/16</li><li><a>Mana Burn</a>cooldown reduced to 20 seconds</li></ul>",
+    "imageSrc": "/commons/images/5/51/Necronomicon_1.png"
+  },
+  {
+    "id": "6.70_item_Orb-of-Venom",
+    "version": "6.70",
+    "category": "item",
+    "label": "Orb of Venom",
+    "descriptionHtml": "<ul><li>Cost reduced from 550 to 500</li></ul>",
+    "imageSrc": "/commons/images/a/a2/Orb_of_Venom.png"
+  },
+  {
+    "id": "6.70_item_Orchid-Malevolence",
+    "version": "6.70",
+    "category": "item",
+    "label": "Orchid Malevolence",
+    "descriptionHtml": "<ul><li>Cooldown reduced from 25 to 18</li></ul>",
+    "imageSrc": "/commons/images/e/e5/Orchid_Malevolence.png"
+  },
+  {
+    "id": "6.70_item_Pipe-of-Insight",
+    "version": "6.70",
+    "category": "item",
+    "label": "Pipe of Insight",
+    "descriptionHtml": "<ul><li>Recipe cost reduced from 1000 to 900</li></ul>",
+    "imageSrc": "/commons/images/1/1e/Pipe_of_Insight.png"
+  },
+  {
+    "id": "6.70_item_Quelling-Blade",
+    "version": "6.70",
+    "category": "item",
+    "label": "Quelling Blade",
+    "descriptionHtml": "<ul><li>Cooldown reduced from 10 to 5 seconds</li></ul>",
+    "imageSrc": "/commons/images/4/43/Quelling_Blade.png"
+  },
+  {
+    "id": "6.70_item_Soul-Booster",
+    "version": "6.70",
+    "category": "item",
+    "label": "Soul Booster",
+    "descriptionHtml": "<ul><li>Mana increased regeneration from 50% to 100%</li><li>HP increased regeneration from 2 to 4</li></ul>",
+    "imageSrc": "/commons/images/a/a5/Soul_Booster.png"
+  }
+]

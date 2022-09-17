@@ -1,0 +1,498 @@
+[
+  {
+    "id": "7.18_item_Aeon-Disk",
+    "version": "7.18",
+    "category": "item",
+    "label": "Aeon Disk",
+    "descriptionHtml": "<ul><li>Cooldown increased from 90 to 115</li></ul>",
+    "imageSrc": "/commons/images/0/0a/Aeon_Disk.png"
+  },
+  {
+    "id": "7.18_item_Echo-Sabre",
+    "version": "7.18",
+    "category": "item",
+    "label": "Echo Sabre",
+    "descriptionHtml": "<ul><li>Strength bonus increased from 10 to 12</li><li>Damage bonus reduced from 15 to 12</li><li>Slow duration increased from 0.7 to 0.8</li></ul>",
+    "imageSrc": "/commons/images/2/26/Echo_Sabre.png"
+  },
+  {
+    "id": "7.18_item_Hand-of-Midas",
+    "version": "7.18",
+    "category": "item",
+    "label": "Hand of Midas",
+    "descriptionHtml": "<ul><li>Cooldown reduced from 95 to 90</li></ul>",
+    "imageSrc": "/commons/images/1/1a/Hand_of_Midas.png"
+  },
+  {
+    "id": "7.18_item_Orb-of-Venom",
+    "version": "7.18",
+    "category": "item",
+    "label": "Orb of Venom",
+    "descriptionHtml": "<ul><li>Damage per second reduced from 5 to 3 on ranged heroes</li></ul>",
+    "imageSrc": "/commons/images/a/a2/Orb_of_Venom.png"
+  },
+  {
+    "id": "7.18_item_Maelstrom",
+    "version": "7.18",
+    "category": "item",
+    "label": "Maelstrom",
+    "descriptionHtml": "<ul><li><a>Chain Lightning</a>damage reduced from 170 to 160</li></ul>",
+    "imageSrc": "/commons/images/1/14/Maelstrom.png"
+  },
+  {
+    "id": "7.18_hero_Abaddon",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Abaddon",
+    "descriptionHtml": "<ul><li>Base﻿ movement speed increased from 305 to 310</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Abaddon_Large.png/80px-Abaddon_Large.png"
+  },
+  {
+    "id": "7.18_hero_Alchemist",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Alchemist",
+    "descriptionHtml": "<ul><li><a>Greevil&apos;s Greed</a>Gold Bonus Cap increased from 16/20/24/28 to 20/24/28/32</li><li>Greevil&apos;s Greed Stack Duration increased from 30 to 40</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/11/Alchemist_Large.png/80px-Alchemist_Large.png"
+  },
+  {
+    "id": "7.18_hero_Ancient-Apparition",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Ancient Apparition",
+    "descriptionHtml": "<ul><li><a>Ice Blast</a>duration increased from 8/9/10 to 9/10/11</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5d/Ancient_Apparition_Large.png/80px-Ancient_Apparition_Large.png"
+  },
+  {
+    "id": "7.18_hero_Bane",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Bane",
+    "descriptionHtml": "<ul><li><a>Fiend&apos;s Grip</a>cooldown increased from 100 to 120/110/100</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/72/Bane_Large.png/80px-Bane_Large.png"
+  },
+  {
+    "id": "7.18_hero_Beastmaster",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Beastmaster",
+    "descriptionHtml": "<ul><li><a>Wild Axes</a>mana cost increased from 80 to 80/85/90/95</li><li><a>Primal Roar</a>cooldown increased from 80/75/70 to 90/80/70</li><li>Level 10 Talent reduced from +25 Movement Speed to +20</li><li>Level 15 Talent reduced from +7 Armor to +6</li><li>Level 20 Talent reduced from +100 Wild Axes Damage to +80</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/19/Beastmaster_Large.png/80px-Beastmaster_Large.png"
+  },
+  {
+    "id": "7.18_hero_Bloodseeker",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Bloodseeker",
+    "descriptionHtml": "<ul><li>Level 10 Talent reduced from +8 Armor to +6</li><li>Level 15 Talent reduced from +300 Health to +275</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a6/Bloodseeker_Large.png/80px-Bloodseeker_Large.png"
+  },
+  {
+    "id": "7.18_hero_Centaur-Warrunner",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Centaur Warrunner",
+    "descriptionHtml": "<ul><li>Base strength increased by 2</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Centaur_Warrunner_Large.png/80px-Centaur_Warrunner_Large.png"
+  },
+  {
+    "id": "7.18_hero_Chen",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Chen",
+    "descriptionHtml": "<ul><li><a>Holy Persuasion</a>cast range reduced from 900 to 600</li><li>Holy Persuasion send back delay rescaled from 6/5/4/3 to 6</li><li>Holy Persuasion cooldown increased from 10 to 32/24/18/10</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7d/Chen_Large.png/80px-Chen_Large.png"
+  },
+  {
+    "id": "7.18_hero_Clinkz",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Clinkz",
+    "descriptionHtml": "<ul><li><a>Strafe</a>cooldown reduced from 45/35/25/15 to 30/25/20/15</li><li>Strafe mana cost reduced from 90 to 75/80/85/90</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4d/Clinkz_Large.png/80px-Clinkz_Large.png"
+  },
+  {
+    "id": "7.18_hero_Clockwerk",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Clockwerk",
+    "descriptionHtml": "<ul><li><a>Power Cogs</a>burn/damage reduced from 80/120/160/200 to 50/100/150/200</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b8/Clockwerk_Large.png/80px-Clockwerk_Large.png"
+  },
+  {
+    "id": "7.18_hero_Crystal-Maiden",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Crystal Maiden",
+    "descriptionHtml": "<ul><li><a>Crystal Nova</a>damage increased from 100/150/200/250 to 130/170/210/260</li><li><a>Arcane Aura</a>self mana regen increased from 1.6/2.4/3.2/4 to 1.8/2.6/3.4/4.2</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dc/Crystal_Maiden_Large.png/80px-Crystal_Maiden_Large.png"
+  },
+  {
+    "id": "7.18_hero_Dark-Willow",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Dark Willow",
+    "descriptionHtml": "<ul><li><a>Bramble Maze</a>total damage increased from 100/150/200/250 to 140/180/220/260</li><li><a>Cursed Crown</a>mana cost reduced from 100/120/140/160 to 80/100/120/140</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5e/Dark_Willow_Large.png/80px-Dark_Willow_Large.png"
+  },
+  {
+    "id": "7.18_hero_Dazzle",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Dazzle",
+    "descriptionHtml": "<ul><li>Base damage spread reduced from 41-59 to 47-53</li><li><a>Poison Touch</a>damage rescaled from 10/24/38/52 to 16/28/40/52</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e3/Dazzle_Large.png/80px-Dazzle_Large.png"
+  },
+  {
+    "id": "7.18_hero_Death-Prophet",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Death Prophet",
+    "descriptionHtml": "<ul><li>Base armor reduced by 1</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/80/Death_Prophet_Large.png/80px-Death_Prophet_Large.png"
+  },
+  {
+    "id": "7.18_hero_Doom",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Doom",
+    "descriptionHtml": "<ul><li>Base movement speed reduced from 285 to 280</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/19/Doom_Large.png/80px-Doom_Large.png"
+  },
+  {
+    "id": "7.18_hero_Dragon-Knight",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Dragon Knight",
+    "descriptionHtml": "<ul><li>Level 15 Talent reduced from +35 Damage to +30</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/da/Dragon_Knight_Large.png/80px-Dragon_Knight_Large.png"
+  },
+  {
+    "id": "7.18_hero_Earthshaker",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Earthshaker",
+    "descriptionHtml": "<ul><li>Base HP regen increased from 2 to 2.5</li><li>Base movement speed increased from 305 to 310</li><li><a>Enchant Totem</a>Scepter cast range increased from 900 to 1100</li><li><a>Echo Slam</a>Echo damage increased from 60/85/110 to 70/90/110</li><li>Echo Slam waves are no longer disjointable</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/8f/Earthshaker_Large.png/80px-Earthshaker_Large.png"
+  },
+  {
+    "id": "7.18_hero_Earth-Spirit",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Earth Spirit",
+    "descriptionHtml": "<ul><li>Strength gain increased from 3.2 to 3.5</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/2b/Earth_Spirit_Large.png/80px-Earth_Spirit_Large.png"
+  },
+  {
+    "id": "7.18_hero_Ember-Spirit",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Ember Spirit",
+    "descriptionHtml": "<ul><li><a>Fire Remnant</a>charge restore time increased from 35 to 38</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/98/Ember_Spirit_Large.png/80px-Ember_Spirit_Large.png"
+  },
+  {
+    "id": "7.18_hero_Enchantress",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Enchantress",
+    "descriptionHtml": "<ul><li>Attack range increased from 550 to 575</li><li><a>Untouchable</a>attack slow increased from -20/60/100/140 to -20/70/120/170</li><li><a>Impetus</a>damage increased from 14/18/22% to 16/20/24%</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/57/Enchantress_Large.png/80px-Enchantress_Large.png"
+  },
+  {
+    "id": "7.18_hero_Enigma",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Enigma",
+    "descriptionHtml": "<ul><li><a>Midnight Pulse</a>damage increased from 3/3.75/4.5/5.25% to 3.75/4.﻿25/4.75/5.2﻿5%</li><li>Midnight Pulse duration rescaled from 11 to 9/10/11/12</li><li>Midnight Pulse cooldown rescaled from 35 to 50/45/40/35</li><li>Midnight Pulse mana cost rescaled from 95/110/125/140 to 75/95/115/135</li><li>Level 15 Talent increased from +120 Gold/Min to +150</li><li>Level 20 Talent increased from +400 Health to +500 Health</li><li>Level 25 Talent increased from +4 Malefice Instance to +5</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/43/Enigma_Large.png/80px-Enigma_Large.png"
+  },
+  {
+    "id": "7.18_hero_Invoker",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Invoker",
+    "descriptionHtml": "<ul><li>Level 10 Talent increased from +0.5s Tornado Lift Time to +1.25s</li><li>Level 15 Talent changed from +2.5s Cold Snap Duration to -12s Cold Snap Cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5b/Invoker_Large.png/80px-Invoker_Large.png"
+  },
+  {
+    "id": "7.18_hero_Io",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Io",
+    "descriptionHtml": "<ul><li><a>Relocate</a>now has channel time instead of a cast delay</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/ad/Io_Large.png/80px-Io_Large.png"
+  },
+  {
+    "id": "7.18_hero_Legion-Commander",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Legion Commander",
+    "descriptionHtml": "<ul><li><a>Duel</a>bonus damage increased from 10/14/18 to 10/18/26</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0a/Legion_Commander_Large.png/80px-Legion_Commander_Large.png"
+  },
+  {
+    "id": "7.18_hero_Leshrac",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Leshrac",
+    "descriptionHtml": "<ul><li><a>Split Earth</a>cast range reduced from 750 to 650</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f6/Leshrac_Large.png/80px-Leshrac_Large.png"
+  },
+  {
+    "id": "7.18_hero_Lich",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Lich",
+    "descriptionHtml": "<ul><li><a>Sacrifice</a>25 mana cost removed</li><li><a>Ice Armor</a>increased from 3/5/7/9 to 4/6/8/10</li><li><a>Chain Frost</a>cast point reduced from 0.4 to 0.3</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/35/Lich_Large.png/80px-Lich_Large.png"
+  },
+  {
+    "id": "7.18_hero_Lycan",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Lycan",
+    "descriptionHtml": "<ul><li>Base armor reduced by 2</li><li>Base damage reduced by 3</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Lycan_Large.png/80px-Lycan_Large.png"
+  },
+  {
+    "id": "7.18_hero_Meepo",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Meepo",
+    "descriptionHtml": "<ul><li>Base armor increased by 2</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/97/Meepo_Large.png/80px-Meepo_Large.png"
+  },
+  {
+    "id": "7.18_hero_Mirana",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Mirana",
+    "descriptionHtml": "<ul><li>Level 10 Talent reduced from +20 Damage to +15</li><li>Level 25 Talent reduced from -75s Moonlight Shadow Cooldown to -70s</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/1f/Mirana_Large.png/80px-Mirana_Large.png"
+  },
+  {
+    "id": "7.18_hero_Morphling",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Morphling",
+    "descriptionHtml": "<ul><li><a>Waveform</a>cooldown increased from 11 to 14/13/12/11</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c7/Morphling_Large.png/80px-Morphling_Large.png"
+  },
+  {
+    "id": "7.18_hero_Naga-Siren",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Naga Siren",
+    "descriptionHtml": "<ul><li><a>Rip Tide</a>damage reduced from 120/160/200/240 to 80/130/180/230</li><li><a>Ensnare</a>cooldown increased from 12 to 14</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Naga_Siren_Large.png/80px-Naga_Siren_Large.png"
+  },
+  {
+    "id": "7.18_hero_Nature's-Prophet",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Nature's Prophet",
+    "descriptionHtml": "<ul><li>Agility gain increased from 1.9 to 2.4</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/16/Natures_Prophet_Large.png/80px-Natures_Prophet_Large.png"
+  },
+  {
+    "id": "7.18_hero_Necrophos",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Necrophos",
+    "descriptionHtml": "<ul><li><a>Death Pulse</a>damage increased from 80/120/160/200 to 100/140/180/220</li><li>Death Pulse unit kill regen duration increased from 6 to 7</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0e/Necrophos_Large.png/80px-Necrophos_Large.png"
+  },
+  {
+    "id": "7.18_hero_Night-Stalker",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Night Stalker",
+    "descriptionHtml": "<ul><li><a>Void</a>now deals half damage during day</li><li>Base movement speed reduced from 290 to 285</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c4/Night_Stalker_Large.png/80px-Night_Stalker_Large.png"
+  },
+  {
+    "id": "7.18_hero_Nyx-Assassin",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Nyx Assassin",
+    "descriptionHtml": "<ul><li><a>Vendetta</a>mana cost decreased from 160/210/260 to 140/200/260</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c4/Nyx_Assassin_Large.png/80px-Nyx_Assassin_Large.png"
+  },
+  {
+    "id": "7.18_hero_Oracle",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Oracle",
+    "descriptionHtml": "<ul><li>Intelligence growth increased from 3.2 to 3.5</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fc/Oracle_Large.png/80px-Oracle_Large.png"
+  },
+  {
+    "id": "7.18_hero_Phantom-Lancer",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Phantom Lancer",
+    "descriptionHtml": "<ul><li>Base strength reduced by 3</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/1e/Phantom_Lancer_Large.png/80px-Phantom_Lancer_Large.png"
+  },
+  {
+    "id": "7.18_hero_Pudge",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Pudge",
+    "descriptionHtml": "<ul><li><a>Meat Hook</a>cast range increased from 1000/1100/1200/1300 to 1300</li><li><a>Flesh Heap</a>magic resistance increased from 6/8/10/12% to 8/10/12/14%</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dd/Pudge_Large.png/80px-Pudge_Large.png"
+  },
+  {
+    "id": "7.18_hero_Riki",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Riki",
+    "descriptionHtml": "<ul><li>Base damage increased by 3</li><li><a>Blink Strike</a>damage rescaled from 55/70/85/100 to 100</li><li>Blink Strike cast range rescaled from 800 to 500/600/700/800</li><li><a>Smoke Screen</a>AoE increased from 250/275/300/325 to 325</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a3/Riki_Large.png/80px-Riki_Large.png"
+  },
+  {
+    "id": "7.18_hero_Sand-King",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Sand King",
+    "descriptionHtml": "<ul><li><a>Burrowstrike</a>cooldown increased from 11 to 14/13/12/11</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e5/Sand_King_Large.png/80px-Sand_King_Large.png"
+  },
+  {
+    "id": "7.18_hero_Shadow-Shaman",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Shadow Shaman",
+    "descriptionHtml": "<ul><li><a>Mass Serpent Ward</a>damage increased from 40/70/100 to 50/75/100</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/d8/Shadow_Shaman_Large.png/80px-Shadow_Shaman_Large.png"
+  },
+  {
+    "id": "7.18_hero_Skywrath-Mage",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Skywrath Mage",
+    "descriptionHtml": "<ul><li><a>Arcane Bolt</a>mana cost increased from 70 to 90</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Skywrath_Mage_Large.png/80px-Skywrath_Mage_Large.png"
+  },
+  {
+    "id": "7.18_hero_Slark",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Slark",
+    "descriptionHtml": "<ul><li>Level 10 Talent reduced from +10 Agility to +8</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Slark_Large.png/80px-Slark_Large.png"
+  },
+  {
+    "id": "7.18_hero_Sniper",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Sniper",
+    "descriptionHtml": "<ul><li><a>Headshot</a>physical damage no longer ignores Spell Immune units</li><li>Headshot damage increased from 15/40/65/90 to 20/50/80/110</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a2/Sniper_Large.png/80px-Sniper_Large.png"
+  },
+  {
+    "id": "7.18_hero_Sven",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Sven",
+    "descriptionHtml": "<ul><li><a>Great Cleave</a>damage increased from 30/42/54/66 to 40/50/60/70</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f2/Sven_Large.png/80px-Sven_Large.png"
+  },
+  {
+    "id": "7.18_hero_Templar-Assassin",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Templar Assassin",
+    "descriptionHtml": "<ul><li><a>Psionic Trap</a>bounty increased from 1 to 25</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/50/Templar_Assassin_Large.png/80px-Templar_Assassin_Large.png"
+  },
+  {
+    "id": "7.18_hero_Terrorblade",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Terrorblade",
+    "descriptionHtml": "<ul><li>Agility gain increased from 3.7 to 4.2</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b5/Terrorblade_Large.png/80px-Terrorblade_Large.png"
+  },
+  {
+    "id": "7.18_hero_Tidehunter",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Tidehunter",
+    "descriptionHtml": "<ul><li><a>Gush</a>armor reduction increased from 3/4/5/6 to 4/5/6/7</li><li><a>Ravage</a>duration increased from 2/2.4/2.8 to 2.4/2.6/2.8</li><li>Level 20 Talent increased from -4 Gush Armor to -5</li><li>Level 20 Talent increased from +24 Kraken Shell Damage Block to +30</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/de/Tidehunter_Large.png/80px-Tidehunter_Large.png"
+  },
+  {
+    "id": "7.18_hero_Timbersaw",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Timbersaw",
+    "descriptionHtml": "<ul><li><a>Whirling Death</a>stat loss percentage increased from 13% to 15%</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Timbersaw_Large.png/80px-Timbersaw_Large.png"
+  },
+  {
+    "id": "7.18_hero_Tiny",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Tiny",
+    "descriptionHtml": "<ul><li>Strength growth increased from 3.3 to 3.6</li><li><a>Tree Grab</a>unit attack damage bonus increased from 10/20/30/40% to 25/30/35/40%</li><li>Tree Grab building attack damage rescaled from 90/120/150/180% to 80/120/160/200%</li><li><a>Toss</a>damage increased from 75/150/225/300 to 90/160/230/300</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Tiny_Large.png/80px-Tiny_Large.png"
+  },
+  {
+    "id": "7.18_hero_Ursa",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Ursa",
+    "descriptionHtml": "<ul><li><a>Overpower</a>attack count increased from 3/4/5/6 to 4/5/6/7</li><li>Level 20 Talent increased from +12 Fury Swipes Damage to +16</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/27/Ursa_Large.png/80px-Ursa_Large.png"
+  },
+  {
+    "id": "7.18_hero_Vengeful-Spirit",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Vengeful Spirit",
+    "descriptionHtml": "<ul><li><a>Wave of Terror</a>damage rescaled from 45/70/95/120 to 60/80/100/120</li><li><a>Magic Missile</a>stun duration rescaled from 1.2/1.4/1.6/1.8 to 1.5/1.6/1.7/1.8</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c9/Vengeful_Spirit_Large.png/80px-Vengeful_Spirit_Large.png"
+  },
+  {
+    "id": "7.18_hero_Warlock",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Warlock",
+    "descriptionHtml": "<ul><li><a>Shadow Word</a>mana cost increased from 90/110/130/150 to 120/130/140/150</li><li>Shadow Word cast range reduced from 525/600/675/750 to 450/550/650/750</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b9/Warlock_Large.png/80px-Warlock_Large.png"
+  },
+  {
+    "id": "7.18_hero_Weaver",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Weaver",
+    "descriptionHtml": "<ul><li>Agility gain increased from 2.8 to 3.1</li><li><a>Shukuchi</a>damage increased from 80/110/140/170 to 100/125/150/175</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/59/Weaver_Large.png/80px-Weaver_Large.png"
+  },
+  {
+    "id": "7.18_hero_Windranger",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Windranger",
+    "descriptionHtml": "<ul><li>Intelligence reduced by 2</li><li><a>Powershot</a>reduced from 180/270/360/450 to 150/250/350/450</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Windranger_Large.png/80px-Windranger_Large.png"
+  },
+  {
+    "id": "7.18_hero_Witch-Doctor",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Witch Doctor",
+    "descriptionHtml": "<ul><li><a>Voodoo Restoration</a>activation cost increased from 20/30/40/50 to 35/40/45/50</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b0/Witch_Doctor_Large.png/80px-Witch_Doctor_Large.png"
+  },
+  {
+    "id": "7.18_hero_Wraith-King",
+    "version": "7.18",
+    "category": "hero",
+    "label": "Wraith King",
+    "descriptionHtml": "<ul><li><a>Mortal Strike</a>skeletons magic resistance increased from 30% to 50%</li><li><a>Vampiric Aura</a>increased from 15/20/25/30% to 18/22/26/30%</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6e/Wraith_King_Large.png/80px-Wraith_King_Large.png"
+  }
+]

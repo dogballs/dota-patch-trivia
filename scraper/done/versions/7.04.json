@@ -1,0 +1,218 @@
+[
+  {
+    "id": "7.04_item_Ghost-Scepter",
+    "version": "7.04",
+    "category": "item",
+    "label": "Ghost Scepter",
+    "descriptionHtml": "<ul><li>Ghost Scepter cooldown reduced from 25 to 20</li></ul>",
+    "imageSrc": "/commons/images/2/29/Ghost_Scepter.png"
+  },
+  {
+    "id": "7.04_item_Heaven's-Halberd",
+    "version": "7.04",
+    "category": "item",
+    "label": "Heaven's Halberd",
+    "descriptionHtml": "<ul><li>Heaven&apos;s Halberd cooldown reduced from 22 to 18</li></ul>",
+    "imageSrc": "/commons/images/0/0a/Heavens_Halberd.png"
+  },
+  {
+    "id": "7.04_item_Hurricane-Pike",
+    "version": "7.04",
+    "category": "item",
+    "label": "Hurricane Pike",
+    "descriptionHtml": "<ul><li>Hurricane Pike recipe increased from 250 to 500</li></ul>",
+    "imageSrc": "/commons/images/7/78/Hurricane_Pike.png"
+  },
+  {
+    "id": "7.04_item_Sange-and-Yasha",
+    "version": "7.04",
+    "category": "item",
+    "label": "Sange and Yasha",
+    "descriptionHtml": "<ul><li>Sange and Yasha proc chance increased from 35% to 40%</li></ul>",
+    "imageSrc": "/commons/images/1/1c/Sange_and_Yasha.png"
+  },
+  {
+    "id": "7.04_item_Silver-Edge",
+    "version": "7.04",
+    "category": "item",
+    "label": "Silver Edge",
+    "descriptionHtml": "<ul><li>Silver Edge recipe increased from 300 to 500</li></ul>",
+    "imageSrc": "/commons/images/4/4a/Silver_Edge.png"
+  },
+  {
+    "id": "7.04_item_Slippers-of-Agility",
+    "version": "7.04",
+    "category": "item",
+    "label": "Slippers of Agility",
+    "descriptionHtml": "<ul><li>Slippers of Agility are no longer available in the<a>Side Shop</a></li></ul>",
+    "imageSrc": "/commons/images/c/c6/Slippers_of_Agility.png"
+  },
+  {
+    "id": "7.04_hero_Abaddon",
+    "version": "7.04",
+    "category": "hero",
+    "label": "Abaddon",
+    "descriptionHtml": "<ul><li>Strength gain reduced from 2.7 to 2.5</li><li><a>Mist Coil</a>projectile speed reduced from 2000 to 1600</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Abaddon_Large.png/80px-Abaddon_Large.png"
+  },
+  {
+    "id": "7.04_hero_Ancient-Apparition",
+    "version": "7.04",
+    "category": "hero",
+    "label": "Ancient Apparition",
+    "descriptionHtml": "<ul><li><a>Cold Feet</a>mana cost reduced from 150 to 125</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5d/Ancient_Apparition_Large.png/80px-Ancient_Apparition_Large.png"
+  },
+  {
+    "id": "7.04_hero_Arc-Warden",
+    "version": "7.04",
+    "category": "hero",
+    "label": "Arc Warden",
+    "descriptionHtml": "<ul><li>Strength gain increased from 2.3 to 2.7</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Arc_Warden_Large.png/80px-Arc_Warden_Large.png"
+  },
+  {
+    "id": "7.04_hero_Brewmaster",
+    "version": "7.04",
+    "category": "hero",
+    "label": "Brewmaster",
+    "descriptionHtml": "<ul><li><a>Drunken Brawler</a>cooldown reduced from 16/14/12/10 to 13/12/11/10</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0b/Brewmaster_Large.png/80px-Brewmaster_Large.png"
+  },
+  {
+    "id": "7.04_hero_Bristleback",
+    "version": "7.04",
+    "category": "hero",
+    "label": "Bristleback",
+    "descriptionHtml": "<ul><li><a>Quill Spray</a>AoE increased from 625 to 650</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f9/Bristleback_Large.png/80px-Bristleback_Large.png"
+  },
+  {
+    "id": "7.04_hero_Broodmother",
+    "version": "7.04",
+    "category": "hero",
+    "label": "Broodmother",
+    "descriptionHtml": "<ul><li><a>Insatiable Hunger</a>lifesteal increased from 60/90/120% to 60/100/140%</li><li>Insatiable Hunger damage increased from 60/90/120 to 60/100/140</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0c/Broodmother_Large.png/80px-Broodmother_Large.png"
+  },
+  {
+    "id": "7.04_hero_Centaur-Warrunner",
+    "version": "7.04",
+    "category": "hero",
+    "label": "Centaur Warrunner",
+    "descriptionHtml": "<ul><li><a>Stampede</a>Scepter damage reduction reduced from 50% to 40%</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Centaur_Warrunner_Large.png/80px-Centaur_Warrunner_Large.png"
+  },
+  {
+    "id": "7.04_hero_Death-Prophet",
+    "version": "7.04",
+    "category": "hero",
+    "label": "Death Prophet",
+    "descriptionHtml": "<ul><li>Level 10 Talent increased from +10% Magic Resistance to +12%</li><li><a>Exorcism</a>spirit damage increased from 55 to 58</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/80/Death_Prophet_Large.png/80px-Death_Prophet_Large.png"
+  },
+  {
+    "id": "7.04_hero_Keeper-of-the-Light",
+    "version": "7.04",
+    "category": "hero",
+    "label": "Keeper of the Light",
+    "descriptionHtml": "<ul><li>Base damage reduced from 43-57 to 43-50</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/bc/Keeper_of_the_Light_Large.png/80px-Keeper_of_the_Light_Large.png"
+  },
+  {
+    "id": "7.04_hero_Kunkka",
+    "version": "7.04",
+    "category": "hero",
+    "label": "Kunkka",
+    "descriptionHtml": "<ul><li>Level 10 Talent increased from +25 Damage to +30</li><li>Level 15 Talent increased from +20 Movement Speed to +30</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/3a/Kunkka_Large.png/80px-Kunkka_Large.png"
+  },
+  {
+    "id": "7.04_hero_Lich",
+    "version": "7.04",
+    "category": "hero",
+    "label": "Lich",
+    "descriptionHtml": "<ul><li><a>Chain Frost</a>cooldown reduced from 120/90/60 to 100/80/60</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/35/Lich_Large.png/80px-Lich_Large.png"
+  },
+  {
+    "id": "7.04_hero_Lifestealer",
+    "version": "7.04",
+    "category": "hero",
+    "label": "Lifestealer",
+    "descriptionHtml": "<ul><li>Base damage reduced by 2</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/85/Lifestealer_Large.png/80px-Lifestealer_Large.png"
+  },
+  {
+    "id": "7.04_hero_Lone-Druid",
+    "version": "7.04",
+    "category": "hero",
+    "label": "Lone Druid",
+    "descriptionHtml": "<ul><li>Level 15 Talent increased from +30 Spirit Bear Damage to +50</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e2/Lone_Druid_Large.png/80px-Lone_Druid_Large.png"
+  },
+  {
+    "id": "7.04_hero_Lycan",
+    "version": "7.04",
+    "category": "hero",
+    "label": "Lycan",
+    "descriptionHtml": "<ul><li>Base strength increased by 3</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Lycan_Large.png/80px-Lycan_Large.png"
+  },
+  {
+    "id": "7.04_hero_Magnus",
+    "version": "7.04",
+    "category": "hero",
+    "label": "Magnus",
+    "descriptionHtml": "<ul><li>Base attack time increased from 1.7 to 1.8</li><li><a>Reverse Polarity</a>cooldown increased from 120/110/100 to 120</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/67/Magnus_Large.png/80px-Magnus_Large.png"
+  },
+  {
+    "id": "7.04_hero_Monkey-King",
+    "version": "7.04",
+    "category": "hero",
+    "label": "Monkey King",
+    "descriptionHtml": "<ul><li><a>Primal Spring</a>slow rescaled from 40/50/60/70% to 30/45/60/75%</li><li>Spring winding up sound effect can be heard by nearby enemies</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4e/Monkey_King_Large.png/80px-Monkey_King_Large.png"
+  },
+  {
+    "id": "7.04_hero_Nature's-Prophet",
+    "version": "7.04",
+    "category": "hero",
+    "label": "Nature's Prophet",
+    "descriptionHtml": "<ul><li>Level 10 Talent increased from +225 Health to +250</li><li>Level 15 Talent changed from +35 Movement Speed to +4 Treants Summoned</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/16/Natures_Prophet_Large.png/80px-Natures_Prophet_Large.png"
+  },
+  {
+    "id": "7.04_hero_Phoenix",
+    "version": "7.04",
+    "category": "hero",
+    "label": "Phoenix",
+    "descriptionHtml": "<ul><li>Level 15 Talent increased from +120 Gold/Min to 150</li><li>Level 15 Talent increased from +50 Fire Spirits DPS to +65</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Phoenix_Large.png/80px-Phoenix_Large.png"
+  },
+  {
+    "id": "7.04_hero_Puck",
+    "version": "7.04",
+    "category": "hero",
+    "label": "Puck",
+    "descriptionHtml": "<ul><li>Base damage increased by 3</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/3a/Puck_Large.png/80px-Puck_Large.png"
+  },
+  {
+    "id": "7.04_hero_Queen-of-Pain",
+    "version": "7.04",
+    "category": "hero",
+    "label": "Queen of Pain",
+    "descriptionHtml": "<ul><li><a>Shadow Strike</a>cast point reduced from 0.452 to 0.4</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/62/Queen_of_Pain_Large.png/80px-Queen_of_Pain_Large.png"
+  },
+  {
+    "id": "7.04_hero_Razor",
+    "version": "7.04",
+    "category": "hero",
+    "label": "Razor",
+    "descriptionHtml": "<ul><li>Level 20 Talent increased from +30 Attack Speed to +40</li><li>Level 20 Talent increased from +275 Health to +325</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Razor_Large.png/80px-Razor_Large.png"
+  }
+]

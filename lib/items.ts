@@ -1,48 +1,42 @@
-import { Item, PlayedItem } from "../types/item";
-import { createWikimediaImage } from "./image";
+import { Item, PlayedItem, Category } from '../types/item';
 
 export function getRandomItem(deck: Item[], played: Item[]): Item {
-  const periods: [number, number][] = [
-    [-100000, 1000],
-    [1000, 1800],
-    [1800, 2020],
-  ];
-  const [fromYear, toYear] =
-    periods[Math.floor(Math.random() * periods.length)];
-  const avoidPeople = Math.random() > 0.5;
-  const candidates = deck.filter((candidate) => {
-    if (avoidPeople && candidate.instance_of.includes("human")) {
-      return false;
-    }
-    if (candidate.year < fromYear || candidate.year > toYear) {
-      return false;
-    }
-    if (tooClose(candidate, played)) {
-      return false;
-    }
-    return true;
+  const playedVersions = played.map((item) => item.version);
+
+  const nonPlayed = deck.filter((item) => {
+    return !playedVersions.includes(item.version);
   });
 
-  if (candidates.length > 0) {
-    return candidates[Math.floor(Math.random() * candidates.length)];
+  let item = nonPlayed[Math.floor(Math.random() * nonPlayed.length)];
+
+  for (let i = 0; i < 5; i++) {
+    if (tooClose(item, played)) {
+      item = nonPlayed[Math.floor(Math.random() * nonPlayed.length)];
+    } else {
+      break;
+    }
   }
-  return deck[Math.floor(Math.random() * deck.length)];
+
+  return item;
 }
 
 function tooClose(item: Item, played: Item[]) {
-  let distance = (played.length < 40) ? 5 : 1;
-  if (played.length < 11)
-    distance = 110 - 10 * played.length;
+  return false;
 
-  return played.some((p) => Math.abs(item.year - p.year) < distance);
+  // let distance = played.length < 10 ? 0.3 : 0.1;
+  // if (played.length < 11) distance = 110 - 10 * played.length;
+
+  // return played.some((p) => Math.abs(item.year - p.year) < distance);
 }
 
 export function checkCorrect(
   played: PlayedItem[],
   item: Item,
-  index: number
+  index: number,
 ): { correct: boolean; delta: number } {
-  const sorted = [...played, item].sort((a, b) => a.year - b.year);
+  const sorted = [...played, item].sort((a, b) =>
+    compareVersions(a.version, b.version),
+  );
   const correctIndex = sorted.findIndex((i) => {
     return i.id === item.id;
   });
@@ -54,8 +48,59 @@ export function checkCorrect(
   return { correct: true, delta: 0 };
 }
 
-export function preloadImage(url: string): HTMLImageElement {
+function compareVersions(v1: string, v2: string) {
+  const p1 = parseVersion(v1);
+  const p2 = parseVersion(v2);
+
+  if (p1.major < p2.major) return -1;
+  if (p1.major > p2.major) return 1;
+
+  if (p1.minor < p2.minor) return -1;
+  if (p1.minor > p2.minor) return 1;
+
+  if (p1.patch < p2.patch) return -1;
+  if (p1.patch > p2.patch) return 1;
+
+  return 0;
+}
+
+function parseVersion(version: string) {
+  const parts = version.split('.');
+
+  const major = Number(parts[0]);
+  const minor = parseInt(parts[1], 10);
+
+  // Empty string if no patch, it will be less than a character when comparing
+  // ('' < 'a') // true
+  const patch = version.replace(`${major}.${minor}`, '');
+
+  return {
+    major,
+    minor,
+    patch,
+  };
+}
+
+export function createId(version: string, category: Category, label: string) {
+  return `${version}_${category}_${label}`.replace(/\s+/g, '-');
+}
+
+export function flattenImageSrc(imageSrc: string) {
+  return imageSrc.replace(/\//g, '_');
+}
+
+export function createImageUrl(imageSrc: string) {
+  const flatName = flattenImageSrc(imageSrc);
+  return `/fetched/${flatName}`;
+}
+
+export function preloadImage(
+  imageSrc: string | undefined,
+): HTMLImageElement | undefined {
+  if (imageSrc === undefined) {
+    return undefined;
+  }
   const img = new Image();
-  img.src = createWikimediaImage(url);
+  img.src = createImageUrl(imageSrc);
   return img;
 }

@@ -1,0 +1,1025 @@
+[
+  {
+    "id": "7.02_general_General-updates",
+    "version": "7.02",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Shrines</a>are now vulnerable after a T3 tower dies (same as the Shrines inside the base), rather than after all T2 towers die</li></ul>"
+  },
+  {
+    "id": "7.02_item_Helm-of-the-Dominator",
+    "version": "7.02",
+    "category": "item",
+    "label": "Helm of the Dominator",
+    "descriptionHtml": "<ul><li>Helm of the Dominator All Stats from 6 to 4</li><li>Helm of the Dominator creeps now give a constant 125 gold bounty</li></ul>",
+    "imageSrc": "/commons/images/6/61/Helm_of_the_Dominator.png"
+  },
+  {
+    "id": "7.02_item_Silver-Edge",
+    "version": "7.02",
+    "category": "item",
+    "label": "Silver Edge",
+    "descriptionHtml": "<ul><li>Shadow Walk damage for Silver Edge from 225 to 200</li></ul>",
+    "imageSrc": "/commons/images/4/4a/Silver_Edge.png"
+  },
+  {
+    "id": "7.02_item_Tome-of-Knowledge",
+    "version": "7.02",
+    "category": "item",
+    "label": "Tome of Knowledge",
+    "descriptionHtml": "<ul><li>Tome of Knowledge additional XP per used Tome from 100 to 135</li></ul>",
+    "imageSrc": "/commons/images/4/4c/Tome_of_Knowledge.png"
+  },
+  {
+    "id": "7.02_item_Blademail",
+    "version": "7.02",
+    "category": "item",
+    "label": "Blademail",
+    "descriptionHtml": "<ul><li>Blademail damage return no longer spell lifesteals off of returned damage</li></ul>",
+    "imageSrc": "/commons/images/4/47/Blade_Mail.png"
+  },
+  {
+    "id": "7.02_item_Dragon-Lance",
+    "version": "7.02",
+    "category": "item",
+    "label": "Dragon Lance",
+    "descriptionHtml": "<ul><li>Dragon Lance agility from 14 to 13</li></ul>",
+    "imageSrc": "/commons/images/1/18/Dragon_Lance.png"
+  },
+  {
+    "id": "7.02_item_Battle-Fury",
+    "version": "7.02",
+    "category": "item",
+    "label": "Battle Fury",
+    "descriptionHtml": "<ul><li>Battle Fury Radius from 280 to 300</li><li>Battle Fury Distance from 520 to 570</li></ul>",
+    "imageSrc": "/commons/images/a/a5/Battle_Fury.png"
+  },
+  {
+    "id": "7.02_item_Bloodthorn",
+    "version": "7.02",
+    "category": "item",
+    "label": "Bloodthorn",
+    "descriptionHtml": "<ul><li>Bloodthorn cooldown from 11 to 13</li></ul>",
+    "imageSrc": "/commons/images/3/38/Bloodthorn.png"
+  },
+  {
+    "id": "7.02_item_Solar-Crest",
+    "version": "7.02",
+    "category": "item",
+    "label": "Solar Crest",
+    "descriptionHtml": "<ul><li>Solar Crest Armor from 10 to 12 (same for transferring to Ally/Enemy)</li></ul>",
+    "imageSrc": "/commons/images/5/59/Solar_Crest.png"
+  },
+  {
+    "id": "7.02_item_Sange",
+    "version": "7.02",
+    "category": "item",
+    "label": "Sange",
+    "descriptionHtml": "<ul><li>Sange maim chance from 24% to 30%</li></ul>",
+    "imageSrc": "/commons/images/c/ca/Sange.png"
+  },
+  {
+    "id": "7.02_item_Sange-and-Yasha",
+    "version": "7.02",
+    "category": "item",
+    "label": "Sange and Yasha",
+    "descriptionHtml": "<ul><li>Sange and Yasha Greater Maim chance from 30% to 35%</li></ul>",
+    "imageSrc": "/commons/images/1/1c/Sange_and_Yasha.png"
+  },
+  {
+    "id": "7.02_item_Heaven's-Halberd",
+    "version": "7.02",
+    "category": "item",
+    "label": "Heaven's Halberd",
+    "descriptionHtml": "<ul><li>Heaven&apos;s Halberd maim chance from 24% to 35%</li><li>Heaven&apos;s Halberd cooldown from 30 to 22</li></ul>",
+    "imageSrc": "/commons/images/0/0a/Heavens_Halberd.png"
+  },
+  {
+    "id": "7.02_item_Sentry-Ward",
+    "version": "7.02",
+    "category": "item",
+    "label": "Sentry Ward",
+    "descriptionHtml": "<ul><li>Sentry Wards now come in packs of 1 for 100 gold (instead of 2 for 200)</li></ul>",
+    "imageSrc": "/commons/images/5/53/Sentry_Ward.png"
+  },
+  {
+    "id": "7.02_item_Observer-Ward",
+    "version": "7.02",
+    "category": "item",
+    "label": "Observer Ward",
+    "descriptionHtml": "<ul><li>Observer Wards now have a Fog of War simulator to show you the area the ward will reveal (taking into account trees and terrain height)</li></ul>",
+    "imageSrc": "/commons/images/6/69/Observer_Ward.png"
+  },
+  {
+    "id": "7.02_item_Aegis",
+    "version": "7.02",
+    "category": "item",
+    "label": "Aegis",
+    "descriptionHtml": "<ul><li>Aegis expiration regen now has the same damage dispel rules as<a>Healing Salve</a></li></ul>",
+    "imageSrc": "/commons/images/3/36/Aegis_of_the_Immortal.png"
+  },
+  {
+    "id": "7.02_hero_Abaddon",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Abaddon",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +15% XP Gain to +20%</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Abaddon_Large.png/80px-Abaddon_Large.png"
+  },
+  {
+    "id": "7.02_hero_Alchemist",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Alchemist",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +15 Movement Speed to +80 Unstable Concoction Damage</li><li>Level 25 Talent from -4 Acid Spray Armor to -5</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/11/Alchemist_Large.png/80px-Alchemist_Large.png"
+  },
+  {
+    "id": "7.02_hero_Ancient-Apparition",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Ancient Apparition",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +25 Health Regen to +30</li><li>Level 15 Talent from +15 Intelligence to -1s Ice Vortex Cooldown</li><li>Level 20 Talent from -30s Respawn Time to -35s</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5d/Ancient_Apparition_Large.png/80px-Ancient_Apparition_Large.png"
+  },
+  {
+    "id": "7.02_hero_Anti-Mage",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Anti-Mage",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +6 Strength to +150 Health</li><li>Level 15 Talent from +250 Health to -1s Blink Cooldown</li><li>Level 25 Talent from -2s Blink Cooldown to -50s Mana Void Cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/70/Anti-Mage_Large.png/80px-Anti-Mage_Large.png"
+  },
+  {
+    "id": "7.02_hero_Arc-Warden",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Arc Warden",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +125 Health to +20 Flux DPS</li><li>Level 15 Talent from +8 Strength to +200 Health</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Arc_Warden_Large.png/80px-Arc_Warden_Large.png"
+  },
+  {
+    "id": "7.02_hero_Axe",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Axe",
+    "descriptionHtml": "<ul><li>Level 20 Talent from +30 Movement Speed to +35</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a1/Axe_Large.png/80px-Axe_Large.png"
+  },
+  {
+    "id": "7.02_hero_Bane",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Bane",
+    "descriptionHtml": "<ul><li>Level 20 Talent from +35 Movement Speed to +75 Enfeeble Damage Reduction</li><li>Level 25 Talent from +120 Enfeeble Damage Reduction to +75 Movement Speed</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/72/Bane_Large.png/80px-Bane_Large.png"
+  },
+  {
+    "id": "7.02_hero_Batrider",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Batrider",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +175 Health to +200</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c1/Batrider_Large.png/80px-Batrider_Large.png"
+  },
+  {
+    "id": "7.02_hero_Beastmaster",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Beastmaster",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +15% XP Gain to +20%</li><li>Level 15 Talent from -30s Respawn Time to -35s</li><li>Level 20 Talent from +300 Health to +350</li><li>Level 25 Talent from +175 Wild Axes Damage to +250</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/19/Beastmaster_Large.png/80px-Beastmaster_Large.png"
+  },
+  {
+    "id": "7.02_hero_Bloodseeker",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Bloodseeker",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +5 Armor to +200 Health</li><li>Level 15 Talent from +250 Health to +75 Blood Rite Damage</li><li>Level 20 Talent from -30s Respawn Time to +14% Rupture Damage</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a6/Bloodseeker_Large.png/80px-Bloodseeker_Large.png"
+  },
+  {
+    "id": "7.02_hero_Bounty-Hunter",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Bounty Hunter",
+    "descriptionHtml": "<ul><li>Scepter now also increases<a>Shuriken Toss</a>ministun duration from 0.1 to 0.75</li><li>Level 10 Talent from +15% XP Gain to +20%</li><li>Level 20 Talent from +100 Damage to +120 Damage</li><li>Level 20 Talent from 8% Spell Amplification to +75 Shuriken Toss Damage</li><li>Level 25 Talent from +20% Evasion to +25%</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/86/Bounty_Hunter_Large.png/80px-Bounty_Hunter_Large.png"
+  },
+  {
+    "id": "7.02_hero_Brewmaster",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Brewmaster",
+    "descriptionHtml": "<ul><li><a>Fire</a>Spirit now has phasing movement</li><li>Level 10 Talent from +25 Attack Speed to +30</li><li>Level 15 Talent from +20 Movement Speed to +75 Thunder Clap Damage</li><li>Level 20 Talent from -25s Respawn Time to -35s</li><li>Level 25 Talent from 14 Primal Split Unit Armor to +20</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0b/Brewmaster_Large.png/80px-Brewmaster_Large.png"
+  },
+  {
+    "id": "7.02_hero_Bristleback",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Bristleback",
+    "descriptionHtml": "<ul><li><a>Quill Spray</a>Max damage from 450 to 550</li><li><a>Viscous Nasal Goo</a>Scepter range from 700 to 750</li><li>Level 15 Talent from +20 Movement Speed to +4 Max Goo Stacks</li><li>Level 20 Talent from -30s Respawn Time to -35s</li><li>Level 25 Talent from +4 Max Goo Stacks to +20 Quill Stack Damage</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f9/Bristleback_Large.png/80px-Bristleback_Large.png"
+  },
+  {
+    "id": "7.02_hero_Broodmother",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Broodmother",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +15% XP Gain to +25%</li><li>Level 10 Talent from +10 Agility to +60 Spawn Spiderling Damage</li><li>Level 15 Talent from +7 Armor to +250 Health</li><li>Level 20 Talent from +300 Health to +8 Spiders Attack Damage</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0c/Broodmother_Large.png/80px-Broodmother_Large.png"
+  },
+  {
+    "id": "7.02_hero_Centaur-Warrunner",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Centaur Warrunner",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +30 Damage to +35</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Centaur_Warrunner_Large.png/80px-Centaur_Warrunner_Large.png"
+  },
+  {
+    "id": "7.02_hero_Chaos-Knight",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Chaos Knight",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +7 Intelligence to +8</li><li>Level 15 Talent from +15 Movement Speed to +20</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/46/Chaos_Knight_Large.png/80px-Chaos_Knight_Large.png"
+  },
+  {
+    "id": "7.02_hero_Chen",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Chen",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +15 Movement Speed to +25</li><li>Level 15 Talent from +25% Spell Amplification to -10s Test of Faith Cooldown</li><li>Level 15 Talent from +200 Health to +250</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7d/Chen_Large.png/80px-Chen_Large.png"
+  },
+  {
+    "id": "7.02_hero_Clinkz",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Clinkz",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +12 Strength to +15</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4d/Clinkz_Large.png/80px-Clinkz_Large.png"
+  },
+  {
+    "id": "7.02_hero_Clockwerk",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Clockwerk",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +40 Damage to +50</li><li>Level 15 Talent from +15 Movement Speed to +75 Rocket Flare Damage</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b8/Clockwerk_Large.png/80px-Clockwerk_Large.png"
+  },
+  {
+    "id": "7.02_hero_Crystal-Maiden",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Crystal Maiden",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +50 Damage to +60</li><li>Level 15 Talent from +200 Health to +250</li><li>Level 25 Talent from +200 Crystal Nova Damage to +250</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dc/Crystal_Maiden_Large.png/80px-Crystal_Maiden_Large.png"
+  },
+  {
+    "id": "7.02_hero_Dark-Seer",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Dark Seer",
+    "descriptionHtml": "<ul><li>Movement speed reduced from 300 to 295</li><li><a>Ion Shell</a>mana cost from 70/90/110/130 to 100/110/120/130</li><li>Level 15 Talent from +90 Damage to +120</li><li>Level 20 Talent from +25 Intelligence to +75 Vacuum AoE</li><li>Level 20 Talent from +12 Strength to +10% Cooldown Reduction</li><li>Level 25 Talent from +12% Cooldown Reduction to +25 Strength</li><li>Level 25 Talent from +70 Ion Shell Damage to +80</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6f/Dark_Seer_Large.png/80px-Dark_Seer_Large.png"
+  },
+  {
+    "id": "7.02_hero_Dazzle",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Dazzle",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +40 Damage to +60</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e3/Dazzle_Large.png/80px-Dazzle_Large.png"
+  },
+  {
+    "id": "7.02_hero_Death-Prophet",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Death Prophet",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +7 Strength to +8% Magic Resistance</li><li>Level 15 Talent from +8% Magic Resistance to -1s Crypt Swarm Cooldown</li><li>Level 15 Talent from +75 Cast Range to +100</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/80/Death_Prophet_Large.png/80px-Death_Prophet_Large.png"
+  },
+  {
+    "id": "7.02_hero_Disruptor",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Disruptor",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +200 Health to -3s Kinetic Field Cooldown</li><li>Level 20 Talent from 15% Cooldown Reduction to +400 Health</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b7/Disruptor_Large.png/80px-Disruptor_Large.png"
+  },
+  {
+    "id": "7.02_hero_Doom",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Doom",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +8 Intelligence to +80 Devour Bonus Gold</li><li>Level 10 Talent from +150 Health to +250</li><li>Level 15 Talent from +6 Armor to +15 Scorched Earth Damage/Heal</li><li>Level 15 Talent from +15 Movement Speed to +20</li><li>Level 20 Talent from +65 Damage to +35 Doom DPS</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/19/Doom_Large.png/80px-Doom_Large.png"
+  },
+  {
+    "id": "7.02_hero_Dragon-Knight",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Dragon Knight",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +6 Strength to 7</li><li>Level 15 Talent from +25% XP Gain to +35%</li><li>Level 25 Talent from +50 Movement Speed to +60</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/da/Dragon_Knight_Large.png/80px-Dragon_Knight_Large.png"
+  },
+  {
+    "id": "7.02_hero_Drow-Ranger",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Drow Ranger",
+    "descriptionHtml": "<ul><li>Level 25 Talent from +350 Gust Distance/Knockback to +400</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7e/Drow_Ranger_Large.png/80px-Drow_Ranger_Large.png"
+  },
+  {
+    "id": "7.02_hero_Earth-Spirit",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Earth Spirit",
+    "descriptionHtml": "<ul><li>Level 25 Talent from -35s Respawn Time to -45s</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/2b/Earth_Spirit_Large.png/80px-Earth_Spirit_Large.png"
+  },
+  {
+    "id": "7.02_hero_Earthshaker",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Earthshaker",
+    "descriptionHtml": "<ul><li>Base HP regen from 0.25 to 0.75</li><li>Level 20 Talent from +10% Spell Amplification to +40 Echo Damage</li><li>Level 25 Talent from +500 Health to +600 Health</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/8f/Earthshaker_Large.png/80px-Earthshaker_Large.png"
+  },
+  {
+    "id": "7.02_hero_Elder-Titan",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Elder Titan",
+    "descriptionHtml": "<ul><li><a>Natural Order</a>AoE from 325 to 350</li><li>Level 15 Talent from +25% XP Gain to +30 Echo Stomp Damage</li><li>Level 25 Talent from +80 Astral Spirit Hero Attack to +100</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/bc/Elder_Titan_Large.png/80px-Elder_Titan_Large.png"
+  },
+  {
+    "id": "7.02_hero_Ember-Spirit",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Ember Spirit",
+    "descriptionHtml": "<ul><li><a>Root</a>now disables<a>Activate Fire Remnant</a></li><li>Level 10 Talent from 15% Spell Amplification to 12%</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/98/Ember_Spirit_Large.png/80px-Ember_Spirit_Large.png"
+  },
+  {
+    "id": "7.02_hero_Enchantress",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Enchantress",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +5 All Stats to +6</li><li>Level 10 Talent from +20 Movement Speed to +25</li><li>Level 15 Talent from +40 Damage to +50</li><li>Level 15 Talent from +8s Nature&apos;s Attendants Duration to +10</li><li>Level 20 Talent from -30s Respawn Time to +60 Untouchable Slow</li><li>Level 25 Talent from +25 Intelligence to -50 Respawn Time</li><li>Level 25 Talent from +10 Nature&apos;s Attendants Wisps to +12</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/57/Enchantress_Large.png/80px-Enchantress_Large.png"
+  },
+  {
+    "id": "7.02_hero_Enigma",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Enigma",
+    "descriptionHtml": "<ul><li>Level 20 Talent from -30s Respawn Time to -40s</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/43/Enigma_Large.png/80px-Enigma_Large.png"
+  },
+  {
+    "id": "7.02_hero_Faceless-Void",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Faceless Void",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +5 Strength to +7</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Faceless_Void_Large.png/80px-Faceless_Void_Large.png"
+  },
+  {
+    "id": "7.02_hero_Gyrocopter",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Gyrocopter",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +150 Health to +200</li><li>Level 15 Talent from +10% Magic Resistance to +12%</li><li>Level 20 Talent from +25 Movement Speed to +35</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e1/Gyrocopter_Large.png/80px-Gyrocopter_Large.png"
+  },
+  {
+    "id": "7.02_hero_Huskar",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Huskar",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +15 Movement Speed to +5 Burning Spears DPS</li><li>Level 10 Talent from +150 Health to +175</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f1/Huskar_Large.png/80px-Huskar_Large.png"
+  },
+  {
+    "id": "7.02_hero_Invoker",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Invoker",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +25% XP Gain to +30%</li><li>Level 25 Talent from -15s Tornado Cooldown to -18s</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/5b/Invoker_Large.png/80px-Invoker_Large.png"
+  },
+  {
+    "id": "7.02_hero_Io",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Io",
+    "descriptionHtml": "<ul><li>Level 25 Talent from -40s Respawn Time to -50s</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/ad/Io_Large.png/80px-Io_Large.png"
+  },
+  {
+    "id": "7.02_hero_Jakiro",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Jakiro",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +15% XP Gain to +20%</li><li>Level 15 Talent from +250 Health to +25 Dual Breath Burn Damage</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4d/Jakiro_Large.png/80px-Jakiro_Large.png"
+  },
+  {
+    "id": "7.02_hero_Juggernaut",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Juggernaut",
+    "descriptionHtml": "<ul><li><a>Healing Ward</a>now has a 25 gold bounty</li><li>Level 10 Talent from +150 Health to +175 Health</li><li>Level 15 Talent from +6 Armor to 7</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c8/Juggernaut_Large.png/80px-Juggernaut_Large.png"
+  },
+  {
+    "id": "7.02_hero_Keeper-of-the-Light",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Keeper of the Light",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +6 Strength to +7</li><li>Level 25 Talent from +300 Cast Range to +400</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/bc/Keeper_of_the_Light_Large.png/80px-Keeper_of_the_Light_Large.png"
+  },
+  {
+    "id": "7.02_hero_Kunkka",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Kunkka",
+    "descriptionHtml": "<ul><li><a>Tidebringer</a>Cleave Distance from 675/750/825/900 to 650/800/950/1100</li><li>Tidebringer Cleave Radius from 450/500/550/600 to 500/550/600/650</li><li>Level 10 Talent from +150 Mana to +40 Torrent Damage</li><li>Level 10 Talent from +20 Damage to +25</li><li>Level 25 Talent from +25% Magic Resistance to +35%</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/3a/Kunkka_Large.png/80px-Kunkka_Large.png"
+  },
+  {
+    "id": "7.02_hero_Legion-Commander",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Legion Commander",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +15% XP Gain to +20%</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0a/Legion_Commander_Large.png/80px-Legion_Commander_Large.png"
+  },
+  {
+    "id": "7.02_hero_Leshrac",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Leshrac",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +8% Magic Resistance to +10%</li><li>Level 20 Talent from +12 Strength to +15</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f6/Leshrac_Large.png/80px-Leshrac_Large.png"
+  },
+  {
+    "id": "7.02_hero_Lich",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Lich",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +100 Cast Range to +125</li><li>Level 15 Talent from +5 All Stats to -3s Frost Blast Cooldown</li><li>Level 25 Talent from +25 Frost Armor Structure Armor to +35</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/35/Lich_Large.png/80px-Lich_Large.png"
+  },
+  {
+    "id": "7.02_hero_Lifestealer",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Lifestealer",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +200 Health to +250</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/85/Lifestealer_Large.png/80px-Lifestealer_Large.png"
+  },
+  {
+    "id": "7.02_hero_Lina",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Lina",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +20 Damage to -25s Respawn Time</li><li>Level 10 Talent from +250 Mana to +60 Light Strike Array Damage</li><li>Level 15 Talent from -30s Respawn Time to +40 Damage</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/46/Lina_Large.png/80px-Lina_Large.png"
+  },
+  {
+    "id": "7.02_hero_Lion",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Lion",
+    "descriptionHtml": "<ul><li>Level 10 Talent from 175 Health to -25s Respawn Time</li><li>Level 15 Talent from -30s Respawn Time to +80 Earth Spike Damage</li></ul>",
+    "imageSrc": "/commons/images/thumb/8/8d/Lion_Large.png/80px-Lion_Large.png"
+  },
+  {
+    "id": "7.02_hero_Lone-Druid",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Lone Druid",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +200 Attack Range to +175</li><li>Level 15 Talent from +65 Damage to +55</li><li>Level 20 Talent from +7 Spirit Bear Armor to +12</li><li>Level 20 Talent from -50s Respawn Time to -40s</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e2/Lone_Druid_Large.png/80px-Lone_Druid_Large.png"
+  },
+  {
+    "id": "7.02_hero_Luna",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Luna",
+    "descriptionHtml": "<ul><li>Base attack damage reduced by 6</li><li><a>Lunar Blessing</a>Night Vision bonus from 1000 to 250/500/750/1000</li><li>Level 10 Talent from +4 Armor to +15 Movement Speed</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e2/Luna_Large.png/80px-Luna_Large.png"
+  },
+  {
+    "id": "7.02_hero_Lycan",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Lycan",
+    "descriptionHtml": "<ul><li>Added to CM</li><li>Agility gain from 1.5 to 1</li><li><a>Howl</a>mana cost from 30 to 40</li><li>Level 15 Talent from -20s Respawn Time to -25s</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Lycan_Large.png/80px-Lycan_Large.png"
+  },
+  {
+    "id": "7.02_hero_Magnus",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Magnus",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +50 Damage to +12 Strength</li><li>Level 20 Talent from +15 Strength to +15% Empower Damage/Cleave</li><li>Level 20 Talent from +20 Movement to +40</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/67/Magnus_Large.png/80px-Magnus_Large.png"
+  },
+  {
+    "id": "7.02_hero_Medusa",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Medusa",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +10 Intelligence to +12</li><li>Level 15 Talent from 10% Evasion to 15%</li><li>Level 20 Talent from +15 Agility to +1 Split Shot target</li><li>Level 20 Talent from +500 Mana to +600</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/38/Medusa_Large.png/80px-Medusa_Large.png"
+  },
+  {
+    "id": "7.02_hero_Meepo",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Meepo",
+    "descriptionHtml": "<ul><li>Base armor reduced by 2</li><li>Level 15 Talent from +20 Movement Speed to +25</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/97/Meepo_Large.png/80px-Meepo_Large.png"
+  },
+  {
+    "id": "7.02_hero_Mirana",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Mirana",
+    "descriptionHtml": "<ul><li>Level 20 Talent from +8 Armor to -4s Sacred Arrow cooldown</li><li>Level 20 Talent from +40 Damage to +50 Damage</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/1f/Mirana_Large.png/80px-Mirana_Large.png"
+  },
+  {
+    "id": "7.02_hero_Monkey-King",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Monkey King",
+    "descriptionHtml": "<ul><li>Base armor reduced by 3</li><li><a>Jingu Mastery</a>bonus damage from 80/120/160/200 to 75/100/125/150</li><li>Jingu Mastery lifesteal from 20/30/40/50% to 15/30/45/60%</li><li><a>Wukong&apos;s Command</a>no longer continues while reincarnating</li><li>Level 15 Talent from +20 Movement Speed to +75 Jingu Mastery Damage</li><li>Level 20 Talent from +15 Strength to 20% Magic Resistance</li><li>Level 25 Talent from +25% Magic Resistance to +25 Strength</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/4e/Monkey_King_Large.png/80px-Monkey_King_Large.png"
+  },
+  {
+    "id": "7.02_hero_Morphling",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Morphling",
+    "descriptionHtml": "<ul><li>Level 25 Talent from +30% Replicate Damage to +50%</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c7/Morphling_Large.png/80px-Morphling_Large.png"
+  },
+  {
+    "id": "7.02_hero_Naga-Siren",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Naga Siren",
+    "descriptionHtml": "<ul><li>Level 15 Talent from 15% Evasion to -3s Ensnare Cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Naga_Siren_Large.png/80px-Naga_Siren_Large.png"
+  },
+  {
+    "id": "7.02_hero_Nature's-Prophet",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Nature's Prophet",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +20 Damage to +30</li><li>Level 10 Talent from +175 Health to +225 Health</li><li>Level 20 Talent from +8 Armor to +10</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/16/Natures_Prophet_Large.png/80px-Natures_Prophet_Large.png"
+  },
+  {
+    "id": "7.02_hero_Necrophos",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Necrophos",
+    "descriptionHtml": "<ul><li>Agility gain from 1.7 to 1.2</li><li>Movement speed from 290 to 285</li><li>Level 15 Talent from +15 Movement Speed to +20</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0e/Necrophos_Large.png/80px-Necrophos_Large.png"
+  },
+  {
+    "id": "7.02_hero_Night-Stalker",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Night Stalker",
+    "descriptionHtml": "<ul><li>Level 25 Talent from -6s Crippling Fear Cooldown to -8s</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c4/Night_Stalker_Large.png/80px-Night_Stalker_Large.png"
+  },
+  {
+    "id": "7.02_hero_Nyx-Assassin",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Nyx Assassin",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +10 Strength to +50 Impale Damage</li><li>Level 15 Talent from +25 Agility to +12% Magic Resistance</li><li>Level 20 Talent from +15% Magic Resistance to +40 Agility</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c4/Nyx_Assassin_Large.png/80px-Nyx_Assassin_Large.png"
+  },
+  {
+    "id": "7.02_hero_Ogre-Magi",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Ogre Magi",
+    "descriptionHtml": "<ul><li>Intelligence growth from 2.4 to 2</li><li>Level 15 Talent from +40 Damage to +50</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Ogre_Magi_Large.png/80px-Ogre_Magi_Large.png"
+  },
+  {
+    "id": "7.02_hero_Omniknight",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Omniknight",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +15% XP Gain to +20%</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Omniknight_Large.png/80px-Omniknight_Large.png"
+  },
+  {
+    "id": "7.02_hero_Oracle",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Oracle",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +15% XP Gain to +20%</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fc/Oracle_Large.png/80px-Oracle_Large.png"
+  },
+  {
+    "id": "7.02_hero_Outworld-Devourer",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Outworld Devourer",
+    "descriptionHtml": "<ul><li>Level 20 Talent from +250 Health to +275 Health</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/ca/Outworld_Destroyer_Large.png/80px-Outworld_Destroyer_Large.png"
+  },
+  {
+    "id": "7.02_hero_Phantom-Assassin",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Phantom Assassin",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +15 Movement Speed to +20</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/2e/Phantom_Assassin_Large.png/80px-Phantom_Assassin_Large.png"
+  },
+  {
+    "id": "7.02_hero_Phantom-Lancer",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Phantom Lancer",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +150 Health to +75 Spirit Lance Damage</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/1e/Phantom_Lancer_Large.png/80px-Phantom_Lancer_Large.png"
+  },
+  {
+    "id": "7.02_hero_Phoenix",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Phoenix",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +12 Strength to +50 Fire Spirits DPS</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Phoenix_Large.png/80px-Phoenix_Large.png"
+  },
+  {
+    "id": "7.02_hero_Puck",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Puck",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +150 Health to +175</li><li>Level 15 Talent from +20 Movement Speed to +15% Magic Resistance</li><li>Level 20 Talent from +20% Magic Resistance to -3s Waning Rift Cooldown</li><li>Level 20 Talent from +8% Spell Amplification to +10%</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/3a/Puck_Large.png/80px-Puck_Large.png"
+  },
+  {
+    "id": "7.02_hero_Pudge",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Pudge",
+    "descriptionHtml": "<ul><li>Movement Speed reduced from 285 to 280</li><li>Fixed<a>Meat Hook</a>sometimes landing the target behind your hero (requiring you to sometimes turn to dismember)</li><li>Level 20 Talent from -35s Respawn Time to -40s</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/dd/Pudge_Large.png/80px-Pudge_Large.png"
+  },
+  {
+    "id": "7.02_hero_Pugna",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Pugna",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +10 Strength to +12</li><li>Level 20 Talent from +10 All Stats to +0.5 Netherward Damage Per Mana</li><li>Level 20 Talent from +100 Cast Range to +150</li><li>Level 25 Talent from +100 Nether Blast Damage to +125</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/24/Pugna_Large.png/80px-Pugna_Large.png"
+  },
+  {
+    "id": "7.02_hero_Queen-of-Pain",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Queen of Pain",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +5 Strength to +6</li><li>Level 25 Talent from +35 Intelligence to -3s Shadow Strike Cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/62/Queen_of_Pain_Large.png/80px-Queen_of_Pain_Large.png"
+  },
+  {
+    "id": "7.02_hero_Razor",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Razor",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +5 Armor to +130 Unstable Current Damage</li><li>Level 20 Talent from +250 Health to +275</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/30/Razor_Large.png/80px-Razor_Large.png"
+  },
+  {
+    "id": "7.02_hero_Riki",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Riki",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +20% XP Gain to +30%</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a3/Riki_Large.png/80px-Riki_Large.png"
+  },
+  {
+    "id": "7.02_hero_Rubick",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Rubick",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +50 Damage to +60</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/57/Rubick_Large.png/80px-Rubick_Large.png"
+  },
+  {
+    "id": "7.02_hero_Sand-King",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Sand King",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +200 Mana to +10% Magic Resistance</li><li>Level 15 Talent from +12% Magic Resistance to +50 Sand Storm DPS</li><li>Level 15 Talent from +15 Movement Speed to -30s Respawn Time</li></ul>",
+    "imageSrc": "/commons/images/thumb/e/e5/Sand_King_Large.png/80px-Sand_King_Large.png"
+  },
+  {
+    "id": "7.02_hero_Shadow-Demon",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Shadow Demon",
+    "descriptionHtml": "<ul><li><a>Disruption</a>illusion damage taken from 200% to 300%</li><li>Level 25 Talent from -1s Shadow Poison Cooldown to -6s Soul Catcher Cooldown</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/79/Shadow_Demon_Large.png/80px-Shadow_Demon_Large.png"
+  },
+  {
+    "id": "7.02_hero_Shadow-Fiend",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Shadow Fiend",
+    "descriptionHtml": "<ul><li>Level 20 Talent from 15% Evasion to 15% Lifesteal</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Shadow_Fiend_Large.png/80px-Shadow_Fiend_Large.png"
+  },
+  {
+    "id": "7.02_hero_Shadow-Shaman",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Shadow Shaman",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +20% XP Gain to 30%</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/d8/Shadow_Shaman_Large.png/80px-Shadow_Shaman_Large.png"
+  },
+  {
+    "id": "7.02_hero_Silencer",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Silencer",
+    "descriptionHtml": "<ul><li>Level 25 Talent from +20% Curse Slow to +25%</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/98/Silencer_Large.png/80px-Silencer_Large.png"
+  },
+  {
+    "id": "7.02_hero_Skywrath-Mage",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Skywrath Mage",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +50 Damage to +75</li><li>Level 15 Talent from +60 Gold/Min to +90</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/54/Skywrath_Mage_Large.png/80px-Skywrath_Mage_Large.png"
+  },
+  {
+    "id": "7.02_hero_Slardar",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Slardar",
+    "descriptionHtml": "<ul><li><a>Slithereen Crush</a>stun duration from 1.6/1.9/2.2/2.5 to 1.5/1.75/2/2.25</li><li>Level 15 Talent from +200 Health to +225</li></ul>",
+    "imageSrc": "/commons/images/thumb/4/41/Slardar_Large.png/80px-Slardar_Large.png"
+  },
+  {
+    "id": "7.02_hero_Slark",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Slark",
+    "descriptionHtml": "<ul><li>Movement speed reduced from 305 to 300</li><li>Level 15 Talent from +10 Strength to +15</li><li>Level 20 Talent from +250 Health to +10% Cooldown Reduction</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/fa/Slark_Large.png/80px-Slark_Large.png"
+  },
+  {
+    "id": "7.02_hero_Sniper",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Sniper",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +4 Mana Regen to +5</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a2/Sniper_Large.png/80px-Sniper_Large.png"
+  },
+  {
+    "id": "7.02_hero_Spectre",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Spectre",
+    "descriptionHtml": "<ul><li>Level 20 Talent from +12 Strength to +15</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0a/Spectre_Large.png/80px-Spectre_Large.png"
+  },
+  {
+    "id": "7.02_hero_Spirit-Breaker",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Spirit Breaker",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +15 Movement Speed to +20</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f6/Spirit_Breaker_Large.png/80px-Spirit_Breaker_Large.png"
+  },
+  {
+    "id": "7.02_hero_Storm-Spirit",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Storm Spirit",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +175 Health to +200</li><li>Level 20 Talent from +7 Armor to +8</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/0c/Storm_Spirit_Large.png/80px-Storm_Spirit_Large.png"
+  },
+  {
+    "id": "7.02_hero_Sven",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Sven",
+    "descriptionHtml": "<ul><li>Level 25 Talent from -5s Storm Hammer Cooldown to -6s</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f2/Sven_Large.png/80px-Sven_Large.png"
+  },
+  {
+    "id": "7.02_hero_Techies",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Techies",
+    "descriptionHtml": "<ul><li><a>Proximity Mines</a>bounty increased from 30 to 50</li><li>Level 15 Talent from +25% XP Gain to +30%</li><li>Level 25 Talent from +25% Cooldown Reduction to +20%</li></ul>",
+    "imageSrc": "/commons/images/thumb/a/a7/Techies_Large.png/80px-Techies_Large.png"
+  },
+  {
+    "id": "7.02_hero_Templar-Assassin",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Templar Assassin",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +15 Movement Speed to +20</li><li>Level 20 Talent from +250 Health to +275</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/50/Templar_Assassin_Large.png/80px-Templar_Assassin_Large.png"
+  },
+  {
+    "id": "7.02_hero_Terrorblade",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Terrorblade",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +175 Health to +200</li><li>Level 20 Talent from +15 Movement Speed to +25</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b5/Terrorblade_Large.png/80px-Terrorblade_Large.png"
+  },
+  {
+    "id": "7.02_hero_Tidehunter",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Tidehunter",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +30% XP Gain to +35%</li><li>Level 25 Talent from -5 Gush Armor to -6</li></ul>",
+    "imageSrc": "/commons/images/thumb/d/de/Tidehunter_Large.png/80px-Tidehunter_Large.png"
+  },
+  {
+    "id": "7.02_hero_Timbersaw",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Timbersaw",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +10% XP Gain to +20%</li><li>Level 15 Talent from +15 Intelligence to +20</li><li>Level 20 Talent from +125 Cast Range to +150</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/60/Timbersaw_Large.png/80px-Timbersaw_Large.png"
+  },
+  {
+    "id": "7.02_hero_Tinker",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Tinker",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +5 Armor to +6</li><li>Level 15 Talent from +200 Health to +225 Health</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c0/Tinker_Large.png/80px-Tinker_Large.png"
+  },
+  {
+    "id": "7.02_hero_Tiny",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Tiny",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +10 Intelligence to +12</li><li>Level 15 Talent from +15 Movement Speed to +20</li></ul>",
+    "imageSrc": "/commons/images/thumb/1/12/Tiny_Large.png/80px-Tiny_Large.png"
+  },
+  {
+    "id": "7.02_hero_Treant-Protector",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Treant Protector",
+    "descriptionHtml": "<ul><li><a>Leech Seed</a>slow from 28% to 22/24/26/28%</li><li><a>Nature&apos;s Guise</a>Bash duration from 0.7/1.2/1.7/2.2 to 0.4/1/1.6/2.2</li><li>Nature&apos;s Guise movement bonus from 16/22/28/34% to 10/18/26/34%</li><li>Level 20 Talent from +65 Damage to +90</li></ul>",
+    "imageSrc": "/commons/images/thumb/7/7a/Treant_Protector_Large.png/80px-Treant_Protector_Large.png"
+  },
+  {
+    "id": "7.02_hero_Troll-Warlord",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Troll Warlord",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +6 Strength to +7</li><li>Level 20 Talent from +300 Health to +350</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Troll_Warlord_Large.png/80px-Troll_Warlord_Large.png"
+  },
+  {
+    "id": "7.02_hero_Tusk",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Tusk",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +20% XP Gain to +35%</li><li>Level 10 Talent from +30 Damage to +35</li><li>Level 15 Talent from +15 Strength to +150 Snowball Damage</li><li>Level 20 Talent from +10% Magic Resistance to +12%</li><li>Level 25 Talent from +500 Health to +700</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Tusk_Large.png/80px-Tusk_Large.png"
+  },
+  {
+    "id": "7.02_hero_Underlord",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Underlord",
+    "descriptionHtml": "<ul><li>Movement speed reduced from 305 to 290</li><li><a>Atrophy Aura</a>Damage Reduction from 10/20/30/40% to 4/16/28/40%</li><li>Level 15 Talent from +200 Health to +35 Movement Speed</li><li>Level 20 Talent from +100 Cast Range to +125</li><li>Level 20 Talent from +50 Attack Speed to +60</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/9e/Underlord_Large.png/80px-Underlord_Large.png"
+  },
+  {
+    "id": "7.02_hero_Undying",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Undying",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +30% XP Gain to +35%</li><li>Level 20 Talent from +20 Movement Speed to +25</li><li>Level 20 Talent from +10 All Stats to +50 Tombstone Zombie Damage</li><li>Level 25 Talent from +40 Tombstone Zombie Damage to -2s Decay Cooldown</li><li>Level 25 Talent from +12 Armor to +15</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6b/Undying_Large.png/80px-Undying_Large.png"
+  },
+  {
+    "id": "7.02_hero_Ursa",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Ursa",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +8% Magic Resistance to +10%</li></ul>",
+    "imageSrc": "/commons/images/thumb/2/27/Ursa_Large.png/80px-Ursa_Large.png"
+  },
+  {
+    "id": "7.02_hero_Vengeful-Spirit",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Vengeful Spirit",
+    "descriptionHtml": "<ul><li>Level 20 Talent from +20 Movement Speed to +35</li><li>Level 20 Talent from +50 Damage to +65</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c9/Vengeful_Spirit_Large.png/80px-Vengeful_Spirit_Large.png"
+  },
+  {
+    "id": "7.02_hero_Venomancer",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Venomancer",
+    "descriptionHtml": "<ul><li>Level 15 Talent from +175 Health to +200</li></ul>",
+    "imageSrc": "/commons/images/thumb/3/39/Venomancer_Large.png/80px-Venomancer_Large.png"
+  },
+  {
+    "id": "7.02_hero_Viper",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Viper",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +125 Health to +150</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/61/Viper_Large.png/80px-Viper_Large.png"
+  },
+  {
+    "id": "7.02_hero_Visage",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Visage",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +15% XP Gain to +25%</li><li>Level 10 Talent from +60 Gold/Min to +90</li><li>Level 20 Talent from -30s Respawn Time to -40s</li><li>Level 20 Talent from +250 Health to +300</li></ul>",
+    "imageSrc": "/commons/images/thumb/f/f8/Visage_Large.png/80px-Visage_Large.png"
+  },
+  {
+    "id": "7.02_hero_Warlock",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Warlock",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +15% XP Gain to +20%</li><li>Level 15 Talent from +20 Movement Speed to -4s Shadow Word Cooldown</li><li>Level 15 Talent from +125 Cast Range to +150</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b9/Warlock_Large.png/80px-Warlock_Large.png"
+  },
+  {
+    "id": "7.02_hero_Weaver",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Weaver",
+    "descriptionHtml": "<ul><li>Base damage reduced by 2</li><li><a>The Swarm</a>damage from 20 to 14/16/18/20</li><li>Level 25 Talent from +20% Magic Resistance to +25%</li></ul>",
+    "imageSrc": "/commons/images/thumb/5/59/Weaver_Large.png/80px-Weaver_Large.png"
+  },
+  {
+    "id": "7.02_hero_Windranger",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Windranger",
+    "descriptionHtml": "<ul><li><a>Powershot</a>damage from 120/220/320/420 to 180/260/340/420</li><li>Powershot cooldown from 9 to 12/11/10/9</li><li><a>Windrun</a>slow AoE from 300 to 325</li><li>Windrun mana cost from 100 to 75</li><li>Level 10 Talent from +15 Damage to +25% Windrun Slow</li><li>Level 15 Talent from +16 Intelligence to +20 Intelligence</li><li>Level 15 Talent from +200 Health to +40 Movement Speed</li><li>Level 20 Talent from +12% Magic Resistance to +20%</li><li>Level 20 Talent from +12% Spell Amplification to +15%</li><li>Level 25 Talent from -5s Powershot Cooldown to -6s</li></ul>",
+    "imageSrc": "/commons/images/thumb/0/02/Windranger_Large.png/80px-Windranger_Large.png"
+  },
+  {
+    "id": "7.02_hero_Winter-Wyvern",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Winter Wyvern",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +5 Strength to +6</li></ul>",
+    "imageSrc": "/commons/images/thumb/c/c7/Winter_Wyvern_Large.png/80px-Winter_Wyvern_Large.png"
+  },
+  {
+    "id": "7.02_hero_Witch-Doctor",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Witch Doctor",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +20% XP Gain to +25%</li><li>Level 15 Talent from +75 Damage to +90</li><li>Level 15 Talent from -35s Respawn Time to -40s</li></ul>",
+    "imageSrc": "/commons/images/thumb/b/b0/Witch_Doctor_Large.png/80px-Witch_Doctor_Large.png"
+  },
+  {
+    "id": "7.02_hero_Wraith-King",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Wraith King",
+    "descriptionHtml": "<ul><li>Level 10 Talent from +8 Intelligence to +10</li><li>Level 15 Talent from +200 Health to +50 Wraithfire Blast DPS</li></ul>",
+    "imageSrc": "/commons/images/thumb/6/6e/Wraith_King_Large.png/80px-Wraith_King_Large.png"
+  },
+  {
+    "id": "7.02_hero_Zeus",
+    "version": "7.02",
+    "category": "hero",
+    "label": "Zeus",
+    "descriptionHtml": "<ul><li>Scepter strike interval from 2.5 to 2.25</li><li>Scepter cooldown from 50 to 40 seconds</li><li>Scepter duration from 50 to 40 seconds</li><li>Level 10 Talent from +150 Health to +175</li></ul>",
+    "imageSrc": "/commons/images/thumb/9/91/Zeus_Large.png/80px-Zeus_Large.png"
+  }
+]
