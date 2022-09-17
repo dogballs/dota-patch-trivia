@@ -1,8 +1,8 @@
-# Wiki Trivia
+# Dota 2 Trivia
 
 This is the source code for the web app at https://wikitrivia.tomjwatson.com.
 
-The repository for the scraper can be found [here](https://github.com/tom-james-watson/wikitrivia-scraper).
+Inspired by https://github.com/tom-james-watson/wikitrivia
 
 ## Usage
 
@@ -38,10 +38,4 @@ npm start
 
 ### Where does the data come from?
 
-The data is all sourced from [wikidata](https://www.wikidata.org).
-
-### I was played a card that doesn't make sense - what gives?
-
-There are some cards that unfortunately don't quite make sense or have bad data. These need to be removed from the game and, ideally, to have their underlying wikidata entry fixed.
-
-Please report any bad cards here: https://github.com/tom-james-watson/wikitrivia/discussions/2.
+The data is all sourced from [Liquipedia](https://liquipedia.net/dota2).
