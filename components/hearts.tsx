@@ -1,6 +1,6 @@
-import { useSpring, animated } from "react-spring";
-import React from "react";
-import styles from "../styles/hearts.module.scss";
+import { useSpring, animated } from 'react-spring';
+import React from 'react';
+import styles from '../styles/hearts.module.scss';
 
 interface HeartProps {
   have: boolean;
@@ -22,7 +22,7 @@ function Heart(props: HeartProps) {
     <animated.img
       className={styles.heart}
       style={{ opacity, scale }}
-      src="/images/heart.svg"
+      src="images/heart.svg"
     />
   );
 }
