@@ -18,20 +18,9 @@ export default function Game() {
     const fetchGameData = async () => {
       const res = await axios.get<Item[]>('/combined.json');
       const responseItems = res.data;
-      const filteredItems = responseItems
-        // Filter out questions which give away their answers
-        // .filter<Item>((item) => !item.label.includes(String(item.year)))
-        // .filter((item) => !item.description.includes(String(item.year)))
-        // .filter(
-        //   (item) =>
-        //     !item.description.includes(
-        //       String('st century' || 'nd century' || 'th century'),
-        //     ),
-        // )
-        // Filter cards which have bad data as submitted in https://github.com/tom-james-watson/wikitrivia/discussions/2
-        .filter((item) => {
-          return !badCards.includes(item.id);
-        });
+      const filteredItems = responseItems.filter((item) => {
+        return !badCards.includes(item.id);
+      });
       setItems(filteredItems);
     };
 
