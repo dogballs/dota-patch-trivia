@@ -5,4 +5,6 @@ const badCards: string[] = [
   '7.32_hero_Articles',
 ];
 
+export const goodCards: string[] = [];
+
 export default badCards;

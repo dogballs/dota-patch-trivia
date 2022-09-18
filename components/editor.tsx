@@ -3,7 +3,7 @@ import axios from 'axios';
 
 import { PlainItemCard } from './item-card';
 import { Item } from '../types/item';
-import badCards from '../lib/bad-cards';
+import whitelistJSON from '../lib/whitelist.json';
 
 export default function Editor() {
   const [allItems, setAllItems] = React.useState<Item[]>([]);
@@ -11,7 +11,7 @@ export default function Editor() {
   const [selectedVersion, setSelectedVersion] = React.useState<
     string | undefined
   >(undefined);
-  const [blacklist, setBlacklist] = React.useState<string[]>(badCards);
+  const [whitelist, setWhitelist] = React.useState<string[]>(whitelistJSON);
 
   React.useEffect(() => {
     const fetchData = async () => {
@@ -36,16 +36,16 @@ export default function Editor() {
     fetchData();
   }, []);
 
-  const toggleBlacklist = React.useCallback(
+  const toggleWhitelist = React.useCallback(
     (itemId: string) => {
-      const index = blacklist.indexOf(itemId);
+      const index = whitelist.indexOf(itemId);
       if (index === -1) {
-        setBlacklist([...blacklist, itemId]);
+        setWhitelist([...whitelist, itemId]);
       } else {
-        setBlacklist(blacklist.filter((id) => id !== itemId));
+        setWhitelist(whitelist.filter((id) => id !== itemId));
       }
     },
-    [blacklist],
+    [whitelist],
   );
 
   const versionItems = React.useMemo(() => {
@@ -59,10 +59,10 @@ export default function Editor() {
     <div>
       <button
         onClick={() => {
-          console.log(blacklist.slice().sort());
+          console.log(whitelist.slice().sort());
         }}
       >
-        Log blacklist
+        Log whitelist
       </button>
       <VersionSelector
         versions={allVersions}
@@ -72,9 +72,9 @@ export default function Editor() {
       <div>
         {versionItems.map((item, index) => (
           <RemoveOverlay
-            active={blacklist.includes(item.id)}
+            active={whitelist.includes(item.id)}
             onClick={() => {
-              toggleBlacklist(item.id);
+              toggleWhitelist(item.id);
             }}
             key={item.id}
           >
@@ -110,7 +110,7 @@ function RemoveOverlay({
         <div
           style={{
             position: 'absolute',
-            background: 'red',
+            background: 'green',
             opacity: 0.5,
             top: 20,
             bottom: 20,
@@ -122,7 +122,7 @@ function RemoveOverlay({
             justifyContent: 'center',
           }}
         >
-          ❌
+          ✓
         </div>
       )}
     </span>
