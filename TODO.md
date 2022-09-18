@@ -1,11 +1,9 @@
 - change favicon
-- image fetching?
-- change link to GH pages and stars
-- attributions
-  - data source Liquipedia
-  - Wikitrivia repo
-  - issues link
-
+- new hero
+  - vs, snap 7.23
+  - hoodwink 7.28
+  - dawn 7.29
+  - primal 7.31
 
 scrap
 

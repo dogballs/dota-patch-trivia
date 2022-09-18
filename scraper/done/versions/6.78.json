@@ -16,11 +16,249 @@
     "imageSrc": "/commons/images/thumb/f/fc/Oracle_Large.png/128px-Oracle_Large.png"
   },
   {
-    "id": "6.78_general_General-updates",
+    "id": "6.78_general_General-updates_0",
     "version": "6.78",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li>Bans changed from 2/3 to 2/2/1</li><li>Picks changed from 3/2 to 2/2/1</li><li>Adjusted ban/pick/reserve times</li></ul>"
+    "descriptionHtml": "<ul><li>Bans changed from 2/3 to 2/2/1</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_1",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Picks changed from 3/2 to 2/2/1</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_2",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted ban/pick/reserve times</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_3",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added<a>Centaur Warrunner</a>,<a>Ember Spirit</a>, and<a>Legion Commander</a>to Captains Mode</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_4",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed<a>Huskar</a>and<a>Medusa</a>from Captains Mode</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_5",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Deny XP and Bonus XP/Gold AoE is now the same as regular XP AoE (1000➜1200)</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_6",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>4 hero XP bonus changed from 15+6×Level to 20+5×Level</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_7",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>5 hero XP bonus changed from 10+5×Level to 15+4×Level</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_8",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Level 11 XP requirements reduced from 6500 to 6000</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_9",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Level 12 XP requirements increased from 7700 to 8200</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_10",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Gold for ending a spree changed from 50➜400 (3×➜10×) to 75➜600</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_11",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Buyback</a>cooldown increased from 5 to 6 minutes</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_12",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Level 1 and Level 2 towers armor increased from 18 to 20</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_13",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Towers no longer have separate bounty values when creeps or allies get the last hit<ul><li>It now gives the same reliable bounty to all players as if a creep killed it</li></ul></li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_14",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Hero getting last hit on tower gives 100-200 bonus gold<ul><li>Does not affect team bounty in any way</li></ul></li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_15",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Backdoor protection</a>now also reduces incoming damage by 25%</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_16",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Siege units HP increased from 500 to 550<ul><li>Now always requires 4 hits from tier 1 towers instead of sometimes 3 and sometimes 4</li></ul></li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_17",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Repicking a randomed hero now re-adds the hero to the pool</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_18",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Swapping a hero that you randomed now costs you 100 gold</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_19",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed a bug with Call Down slow sometimes lasting too long</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_20",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed Call Down inaccurate tooltip</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_21",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed Echo Stomp stun sometimes ending too early</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_22",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed Ancients not having backdoor protection</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_23",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed the left range rax not upgrading the siege units properly for the Sentinel</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_24",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed the active component of Tranquil Boots being enabled on Illusions</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_25",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed an inconsistency with mana sharing on Tether</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_26",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed an issue with Primal Split&apos;s Level 2 Storm interaction with Smoke</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_27",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed Shadow Amulet not working when you are Magic Immune</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_28",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed Rod of Atos sell price</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_29",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed Smoke of Deceit not working on Familiars</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_30",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed suicides causing AoE bonus XP to be given out</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_31",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed attack speed with Armlet on Spirit Bear</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_32",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed level 3 Skeleton King Reincarnation scoreboard</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_33",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed Rupture sometimes remaining on you when you revive</li></ul>"
+  },
+  {
+    "id": "6.78_general_General-updates_34",
+    "version": "6.78",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed a very minor damage inaccuracy with Eye of the Storm</li></ul>"
   },
   {
     "id": "6.78_hero_Abaddon",

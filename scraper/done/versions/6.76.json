@@ -456,11 +456,18 @@
     "imageSrc": "/commons/images/d/dd/Shadow_Amulet.png"
   },
   {
-    "id": "6.76_general_General-updates",
+    "id": "6.76_general_General-updates_0",
     "version": "6.76",
     "category": "general",
     "label": "General updates",
     "descriptionHtml": "<ul><li>Added a new game mode -TagTeam (-tt)</li></ul>"
+  },
+  {
+    "id": "6.76_general_General-updates_1",
+    "version": "6.76",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed some residual caster unit vision from various misc abilities</li></ul>"
   },
   {
     "id": "6.76_bug-fix_Bug-fixes",

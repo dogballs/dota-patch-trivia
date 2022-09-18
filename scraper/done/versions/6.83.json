@@ -1,17 +1,108 @@
 [
   {
-    "id": "6.83_general_General-updates",
+    "id": "6.83_general_General-updates_0",
     "version": "6.83",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li><a>Ranked All Pick</a>initial planning phase reduced from 40 to 30 seconds</li><li>Private Lobby games now use the<a>Captains Mode</a>creep spawn timer when in All Pick</li></ul>"
+    "descriptionHtml": "<ul><li><a>Ranked All Pick</a>initial planning phase reduced from 40 to 30 seconds</li></ul>"
   },
   {
-    "id": "6.83_general_General-updates",
+    "id": "6.83_general_General-updates_1",
+    "version": "6.83",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Private Lobby games now use the<a>Captains Mode</a>creep spawn timer when in All Pick</li></ul>"
+  },
+  {
+    "id": "6.83_general_General-updates_2",
+    "version": "6.83",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>First rune spawns are now both<a>Bounty Runes</a>that are twice as effective (50/50 gold/xp to 100/100)</li></ul>"
+  },
+  {
+    "id": "6.83_general_General-updates_3",
+    "version": "6.83",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>All<a>Illusions</a>now deal 25% less damage to structures</li></ul>"
+  },
+  {
+    "id": "6.83_general_General-updates_4",
+    "version": "6.83",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Melee and Ranged<a>Barracks</a>bounty reduced from 352-370 to 100-150</li></ul>"
+  },
+  {
+    "id": "6.83_general_General-updates_5",
+    "version": "6.83",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Melee and Ranged Barracks now give 125 and 75 gold to each player, respectively</li></ul>"
+  },
+  {
+    "id": "6.83_general_General-updates_6",
+    "version": "6.83",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Ward</a>location to the right of<a>Roshan</a>is now pathable</li></ul>"
+  },
+  {
+    "id": "6.83_general_General-updates_7",
+    "version": "6.83",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed a ward location near the Dire ancients that could not be easily seen</li></ul>"
+  },
+  {
+    "id": "6.83_general_General-updates_8",
+    "version": "6.83",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a<a>tree</a>in the river to the left of the Roshan pit entrance</li></ul>"
+  },
+  {
+    "id": "6.83_general_General-updates_9",
+    "version": "6.83",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ancient Granite Golem health reduced from 2000 to 1700</li></ul>"
+  },
+  {
+    "id": "6.83_general_General-updates_10",
+    "version": "6.83",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ancient Granite Golem now has an aura which grants 15% bonus health to its allies</li></ul>"
+  },
+  {
+    "id": "6.83_general_General-updates_11",
     "version": "6.83",
     "category": "general",
     "label": "General updates",
     "descriptionHtml": "<ul><li>Maximum<a>Attack Speed</a>increased from 500 to 600 (the primary impact of this is on abilities like<a>Windranger</a>&apos;s<a>Focus Fire</a>and<a>Ursa</a>&apos;s<a>Overpower</a>)</li></ul>"
+  },
+  {
+    "id": "6.83_general_General-updates_12",
+    "version": "6.83",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>The following abilities no longer have restrictions when cast on Spell Immune Allies:<a>Kunkka</a>&apos;s<a>X Marks The Spot</a>,<a>Magnus</a>&apos;s<a>Empower</a>,<a>Treant Protector</a>&apos;s<a>Living Armor</a>, and<a>Warlock</a>&apos;s<a>Shadow Word</a></li></ul>"
+  },
+  {
+    "id": "6.83_general_General-updates_13",
+    "version": "6.83",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>The tooltips for<a>Vanguard</a>,<a>Stout Shield</a>,<a>Poor Man&apos;s Shield</a>and<a>Crimson Guard</a>now reflect their internal proc chance instead of their legacy representation (no actual balance change)</li></ul>"
+  },
+  {
+    "id": "6.83_general_General-updates_14",
+    "version": "6.83",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Vision and Fog of War can now be any numerical value, rather than specific intervals (previously it was 0, 64, 192, 320, 448, 576, 704, 800, 832, 960, 1088, 1216, 1344, 1472, 1600, 1728)<ul><li>Previously if you had a vision between the fixed intervals, it would clamp to a fixed value</li></ul></li></ul>"
   },
   {
     "id": "6.83_hero_Abaddon",

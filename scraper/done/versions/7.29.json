@@ -1,10 +1,276 @@
 [
   {
-    "id": "7.29_general_General-updates",
+    "id": "7.29_general_General-updates_0",
     "version": "7.29",
     "category": "general",
     "label": "General updates",
     "descriptionHtml": "<ul><li>Terrain updated with various changes</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_1",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added<a>Water Power Rune</a>. Spawns at both Power Rune locations only at minute 2 and 4. Instantly restores 100 health and 80 mana when used. Can be used to fill bottles. Starting at 6 minutes, Power Runes spawn as usual on one side.</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_2",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added +2 Attributes leveling for up to 7 times (for the 7 empty levels from 1-26), and can be leveled in any order (via clicking on the talent tree circle). They will automatically be leveled if there are no other options available.</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_3",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Level 30 no longer grants all remaining talents. Instead level 27/28/29/30 will grant you the remaining level 10/15/20/25 talents</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_4",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Outposts</a>no longer give XP at the 10/20/30/etc minute mark</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_5",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Outposts now provide XPM while controlled (XP = 2*Minute). No extra XP granted when controlling two outposts, similar to the existing rules.</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_6",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Notes:<ul><li>Compared to the previous version at 10/20/30/40 minutes, total XP given per player changed from 150/500/1050/1800 to 110/420/930/1640.</li><li>The XP is provided on the minute mark</li><li>The amount you get for each minute at the start is 2/4/6/8/10/12/14/16/18/20 for minutes 1 through 10</li></ul></li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_7",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Bounty Runes</a>after the initial set are reduced by 10%</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_8",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Bounty Runes no longer spawn in the river. The amount these runes gave is now provided automatically over time through GPM.</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_9",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Bounty Runes now spawn every 3 minutes in the respective jungle area (total rune count reduced from 4 to 2)</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_10",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Bounty Runes no longer disappear when new ones spawn, they now spawn alongside the previous one if it isn&apos;t picked up</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_11",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>At minute 0, Bounty Runes spawn in the jungle and at the power rune locations (4 total at the start of the game)</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_12",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Various cast ranges and movement speed talents/items/abilities have been replaced or toned down (these are included in-line with the item and hero sections below)</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_13",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Hero kill assist gold now adjusted based on the relative NW difference between the two teams. For example, if your team is down 5,000 gold and the enemy has 50,000 total net worth, your assist gold will be worth 10% more.</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_14",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Heroes now start the game with 1<a>TP scroll</a>rather than 3</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_15",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Heroes now gain 1 TP scroll on death</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_16",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>TP Scroll cost increased from 90 to 100</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_17",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Heroes with 1.0 turn rate now have 0.9 turn rate</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_18",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Heroes with 0.5 turn rate now have 0.6 turn rate</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_19",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Turn rate effect on time to turn improved by 20%</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_20",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Aghanim&apos;s Scepter</a>: Roshan drop now requires you to activate it to consume it (has no effect until consumed)</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_21",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Aghanim&apos;s Shard</a>: Now drops on the second Roshan kill, and only that one (has same activation mechanics as the Scepter drop)</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_22",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Increase building teleportation range from 575 to 800 (affects TP scrolls and Boots of Travel)</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_23",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Outpost teleport base channel time reduced from 6 to 5 seconds</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_24",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Outpost vision reduced from 700 to 500</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_25",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Captains Mode initial picking phase changed from 1st-2nd-1st-2nd to 1st-2nd-2nd-1st</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_26",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a><img></img></a><a>Hoodwink</a>added to Captains Mode</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_27",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Couriers no longer have vision when inside Roshan&apos;s pit</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_28",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Wards can now be denied from full health by any allied player if the ward is placed in a spawn camp box</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_29",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ancient neutral creeps armor increased by 1 (except for the Ancient Golems)</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_30",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral Items now fly towards the killing hero, rather than spawning under the dead unit</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_31",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Hero ban count for matchmaking increased by 6 (still chance-based)</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_32",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Buyback cost reduced from 200 + NetWorth/12 to 200 + NetWorth/13</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_33",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Courier respawn time reduced from 60 + 7*Level to 60 + 6*Level</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_34",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Backdoor protection damage reduction increased from 40% to 50%</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_35",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Hero-to-hero item transfer range increased from 150 to 300</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_36",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tree respawn interval reduced from 5 to 3 minutes</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_37",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>The following abilities no longer destroy trees: Earth Splitter, Mortimer Kisses, Meteor Hammer, Macropyre.</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_38",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reduced the radius of tree destruction on the following abilities: Wild Axes, Gust, Power Cogs, Vacuum, Fire Remnant, Relocate, Tether, Blinding Light, Skewer, Doppelganger, Telekinesis, Firesnap Cookie, Spit Out, Spider Legs, Blast Off!, Toss, Snowball, Powershot, Will-O-Wisp.</li></ul>"
   },
   {
     "id": "7.29_item_Tango",
@@ -1815,10 +2081,178 @@
     "imageSrc": "/commons/images/thumb/9/91/Zeus_Large.png/80px-Zeus_Large.png"
   },
   {
-    "id": "7.29_general_General-updates",
+    "id": "7.29_general_General-updates_39",
     "version": "7.29",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li><img></img>Strength gain increased from 3.2 to 3.8</li><li><img></img>Base armor increased by 2</li><li><img></img>Starbreaker self stun at the end reduced from 0.3 to 0.2</li><li><img></img>Celestial Hammer Trail burn damage increased from 20 to 20/30/40/50</li><li><img></img>Luminosity healing from heroes increased from 25/30/35/40% to 30/40/50/60%</li><li><img></img>Solar Guardian heal per pulse increased from 40/55/70 to 45/70/95</li><li><img></img>Solar Guardian radius increased from 400 to 500</li><li><img></img>Solar Guardian stun duration increased from 1.1/1.3/1.5 to 1.5/1.75/2</li></ul>"
+    "descriptionHtml": "<ul><li><img></img>Strength gain increased from 3.2 to 3.8</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_40",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><img></img>Base armor increased by 2</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_41",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><img></img>Starbreaker self stun at the end reduced from 0.3 to 0.2</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_42",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><img></img>Celestial Hammer Trail burn damage increased from 20 to 20/30/40/50</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_43",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><img></img>Luminosity healing from heroes increased from 25/30/35/40% to 30/40/50/60%</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_44",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><img></img>Solar Guardian heal per pulse increased from 40/55/70 to 45/70/95</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_45",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><img></img>Solar Guardian radius increased from 400 to 500</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_46",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><img></img>Solar Guardian stun duration increased from 1.1/1.3/1.5 to 1.5/1.75/2</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_47",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><img></img>Bottle now only refills 2 charges when capturing Water or Bounty Runes</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_48",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><img></img>Solar Guardian pulse damage now affects Ancient Creeps</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_49",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><img></img>Solar Guardian land damage/stun are no longer interrupted by stuns</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_50",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><img></img>Starbreaker cannot be cast while rooted (fixed being casted and going on cooldown immediately)</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_51",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><img></img>Converge now cannot be cast while rooted</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_52",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><img></img>Converge no longer procs Magic Stick</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_53",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Activating Water and Bounty Runes no longer removes a charge from a full Bottle.</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_54",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>The Right-Click to Force Attack option no longer applies to allied Wards.</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_55",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><img></img>Strength gain decreased from 3.8 to 3.6</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_56",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><img></img>Base damage decreased by 5</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_57",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><img></img>Movement speed decreased from 315 to 310</li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_58",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><i><a>THE DAWNBREAKER &amp; 7.29 GAMEPLAY UPDATE</a></i></li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_59",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><i><a>Gameplay Update 2021-04-10</a></i></li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_60",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><i><a>Gameplay Update 2021-04-12</a></i></li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_61",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><i><a>Gameplay Update 2021-04-13</a></i></li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_62",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><i><a>Gameplay Update 2021-04-14</a></i></li></ul>"
+  },
+  {
+    "id": "7.29_general_General-updates_63",
+    "version": "7.29",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><i><a>Gameplay Update 2021-04-15</a></i></li></ul>"
   }
 ]

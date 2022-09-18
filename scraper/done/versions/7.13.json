@@ -1,9 +1,128 @@
 [
   {
-    "id": "7.13_general_General-updates",
+    "id": "7.13_general_General-updates_0",
     "version": "7.13",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li><span><a><img></img></a></span>&amp;#160;<span><a><font><b>Aegis of the Immortal</b></font></a></span>now has an alt tooltip that explains how to pronounce the item (&quot;<i>ayy jis</i>&quot;)</li></ul>"
+    "descriptionHtml": "<ul><li><span><a><img></img></a></span><span><a><font><b>Aegis of the Immortal</b></font></a></span>now has an alt tooltip that explains how to pronounce the item (&quot;<i>ayy jis</i>&quot;)</li></ul>"
+  },
+  {
+    "id": "7.13_general_General-updates_1",
+    "version": "7.13",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 1 Tower Team Bounty reduced from 120 to 100</li></ul>"
+  },
+  {
+    "id": "7.13_general_General-updates_2",
+    "version": "7.13",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 2 Tower Team Bounty reduced from 200 to 120</li></ul>"
+  },
+  {
+    "id": "7.13_general_General-updates_3",
+    "version": "7.13",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 3 Tower Team Bounty reduced from 200 to 140</li></ul>"
+  },
+  {
+    "id": "7.13_general_General-updates_4",
+    "version": "7.13",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 4 Tower Team Bounty reduced from 200 to 160</li></ul>"
+  },
+  {
+    "id": "7.13_general_General-updates_5",
+    "version": "7.13",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ranged Barracks team bounty reduced from 150 to 100</li></ul>"
+  },
+  {
+    "id": "7.13_general_General-updates_6",
+    "version": "7.13",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Filler buildings gold bounty from 125 to 75</li></ul>"
+  },
+  {
+    "id": "7.13_general_General-updates_7",
+    "version": "7.13",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Glyph</a>duration increased from 5 to 6</li></ul>"
+  },
+  {
+    "id": "7.13_general_General-updates_8",
+    "version": "7.13",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Melee Barracks HP increased from 1500 to 1800</li></ul>"
+  },
+  {
+    "id": "7.13_general_General-updates_9",
+    "version": "7.13",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Shrines HP increased from 1500 to 1750</li></ul>"
+  },
+  {
+    "id": "7.13_general_General-updates_10",
+    "version": "7.13",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Shrines now have 5 HP regen</li></ul>"
+  },
+  {
+    "id": "7.13_general_General-updates_11",
+    "version": "7.13",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Ranged creep</a>average gold bounty reduced from 57 to 54</li></ul>"
+  },
+  {
+    "id": "7.13_general_General-updates_12",
+    "version": "7.13",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Rescaled Level 12➜25<a>respawn time</a>curve to be slightly less early and the same later on</li></ul>"
+  },
+  {
+    "id": "7.13_general_General-updates_13",
+    "version": "7.13",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed hero class specific perks, the bonuses now affect all classes</li></ul>"
+  },
+  {
+    "id": "7.13_general_General-updates_14",
+    "version": "7.13",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed<a>Status Resistance</a>as a Strength based attribute bonus</li></ul>"
+  },
+  {
+    "id": "7.13_general_General-updates_15",
+    "version": "7.13",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Rebalanced str/int/agi bonuses below (they still provide +1 bonus damage to primary attribute holders)</li></ul>"
+  },
+  {
+    "id": "7.13_general_General-updates_16",
+    "version": "7.13",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Primary Attribute now provides +25% more benefit to the bonuses it provides</li></ul>"
+  },
+  {
+    "id": "7.13_general_General-updates_17",
+    "version": "7.13",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a><i>Dota 2 Update - April 12th, 2018</i></a></li></ul>"
   }
 ]

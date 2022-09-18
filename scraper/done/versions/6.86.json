@@ -1,10 +1,549 @@
 [
   {
-    "id": "6.86_general_General-updates",
+    "id": "6.86_general_General-updates_0",
     "version": "6.86",
     "category": "general",
     "label": "General updates",
     "descriptionHtml": "<ul><li>Added<a>Arcane Rune</a><ul><li>Causes all spell cooldowns to be reduced by 30% and mana costs to be reduced by 50%</li><li>Lasts 50 seconds</li></ul></li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_1",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Random Draft</a>hero pool increased from 24 to 50</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_2",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added Random Draft to<a>Ranked Matchmaking</a></li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_3",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Random Draft now uses the same picking mechanics as Ranked All Pick</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_4",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ranked<a>All Pick</a>initial pre-picking time reduced from 15 to 5</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_5",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Creep bounty increases by 1 gold per normal upgrade cycle<ul><li>I.e. every 7 minutes 30 seconds</li></ul></li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_6",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Creeps now arrive slightly closer to the top Dire tower and bottom Radiant tower</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_7",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Centaur Courser</a>now has a stacking magic resistance aura (20% for units, 5% for heroes)</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_8",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Hellbear</a>now has a stacking magic resistance aura (20% for units, 5% for heroes)</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_9",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Dragonhide Aura</a>&apos;s stackable armor increased from 2 to 3</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_10",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Ancient Dragons</a>armor reduced by 1</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_11",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Ancient neutrals</a>now behave like normal neutrals and split experience with all heroes in the AoE</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_12",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new ability to<a>Ancient Black Dragon</a>,<a>Fireball</a></li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_13",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Ancient Thunderhide</a>&apos;s<a>Frenzy</a>is now unit targetable</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_14",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Hill Troll Priest</a>&apos;s<a>Mana Aura</a>increased from 2 to 3</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_15",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Satyr Banisher</a>&apos;s<a>Purge</a>cooldown reduced from 5 to 3 seconds</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_16",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Satyr Tormenter</a>&apos;s<a>Unholy Aura</a>HP regen increased from 4 to 6</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_17",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Satyr Tormenter&apos;s<a>Shockwave</a>distance increased from 800 to 1200</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_18",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Satyr Tormenter&apos;s Shockwave speed reduced from 1050 to 900</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_19",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Satyr Tormenter&apos;s Shockwave damage increased 125 to 160</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_20",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Dark Troll Summoner</a>&apos;s and<a>Hill Troll</a>&apos;s attack range reduced from 500 to 400</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_21",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Dark Troll Summoner&apos;s attack damage increased by 6</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_22",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Roshan</a>&apos;s base armor increased by 1</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_23",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Roshan&apos;s<a>Base Attack Time</a>increased from 1 to 2</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_24",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Roshan now has +100 Attack Speed<ul><li>He still attacks at the same rate, but is affected less by negative attack speed</li></ul></li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_25",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a<a>Patrol</a>command</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_26",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>You are now able to bring up the targeting cursor when silenced, and instead get the error upon targeting rather than clicking the button</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_27",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Single Target spells with AoE effects now have a new targeting UI<ul><li>Abilities like<a>Frost Nova</a>,<a>Storm Bolt</a>, etc.</li></ul></li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_28",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Siege damage</a>against heroes increased from 75% to 85%<ul><li>Towers and Siege units do approximately 13% more damage to heroes</li><li>E.g. Level 1 tower damage against heroes effectively increased from 82.5 to 93.5</li></ul></li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_29",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Towers no longer have a very minor experience bounty (previously was 25 XP that split evenly in an area)</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_30",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Hero base HP increased from 150 to 180</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_31",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Simplified some minor damage and armor types</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_32",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new neutral hard camp for each team, near their respective Secret Shops</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_33",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a small ramp from the Radiant Secret Shop to the ward spot right above it</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_34",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Moved the Radiant hard camp closer to the Dire offlane</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_35",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Swapped Medium and Hard camp in Radiant Jungle</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_36",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new pathway from Radiant mid to Radiant jungle</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_37",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a ramp connecting the Radiant jungle to the area near Roshan</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_38",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Created a walkable pathway to the Radiant rune ward</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_39",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Created a new juke spot behind the Dire Secret Shop</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_40",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Expanded Terrain around the top Tier 2 Radiant tower</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_41",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Moved the bottom rune up a little bit</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_42",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Radiant middle tier 1 tower has been moved back</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_43",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted Radiant small camp spawn box</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_44",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new ward spot near the Radiant ancients (does not reveal top rune)</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_45",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Created a new pathway leading to the wardspot below the Radiant Secret Shop</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_46",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Moved the Radiant ramp leading to the top rune further away from the rune (slightly closer to mid lane)</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_47",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Moved the Dire ramp leading to the top rune closer up</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_48",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted the terrain and the ramp going down from the Radiant Ancients slightly</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_49",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Improved jukability in the terrain around the Dire side shop</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_50",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a path through the trees at Radiant offlane sideshop moving south and added juke paths</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_51",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new ward spot to the right of the top tier 1 Radiant tower</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_52",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a couple of trees to right of the ramp leading down from the Radiant ancients (covering some vision to the left of it)</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_53",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Dire is now able to enter the jungle through the middle Radiant ramp and walk to the side without being in range to dispel their smoke</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_54",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new pathway above the top Dire side shop</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_55",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Created a new pathway in the middle of the long column of trees at the bottom Radiant Tier 2 area</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_56",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a walkable path to the ward spot near bottom rune</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_57",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reduced the size of the pull camp box on the Dire safelane hard camp</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_58",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a pathable walkway from the cliff above the top rune to the Dire area to the right of it</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_59",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new pathway to the south of the bottom side shop</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_60",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a couple of trees in the Dire base between the mid and top towers along the ledge</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_61",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted juke paths near the Radiant ward spot near the hard camp</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_62",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new juke spot to the south of the bottom Radiant hard camp</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_63",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a hiding spot in the Dire middle lane near the edge of the Secret Shop</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_64",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added some trees below the top Radiant T2 tower</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_65",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted trees to the left of the Dire offlane (affecting visibility of heroes coming from the left)</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_66",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a pathway above the Radiant Ancient (leading up to the new ward spot)</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_67",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted Dire secret shop location slightly</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_68",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted the terrain pathing a little bit around the loop where the Radiant bottom left ward spot is</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_69",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted tree layout of the high ground to the right of the Radiant middle camp</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_70",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Moved Radiant ramp to the bottom rune back a little bit</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_71",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added hiding spots in the clump of trees above the formerly Radiant hard camp (now the Radiant medium camp)</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_72",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Nudged the Radiant small camp down very slightly</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_73",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Moved the Radiant mid medium camp down slightly and adjusted nearby trees</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_74",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new hiding spot on the Dire bottom lane, in the area higher ground to the right of the Dire Ancients</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_75",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted the position of the Radiant middle ramp slightly</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_76",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new juke spot to the terrain to the right of the Radiant small camp</li></ul>"
+  },
+  {
+    "id": "6.86_general_General-updates_77",
+    "version": "6.86",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted tree pathway and added a couple of hiding spots above the top Dire T2 tower</li></ul>"
   },
   {
     "id": "6.86_hero_Alchemist",

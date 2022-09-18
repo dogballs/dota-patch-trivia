@@ -1,10 +1,45 @@
 [
   {
-    "id": "6.80_general_General-updates",
+    "id": "6.80_general_General-updates_0",
     "version": "6.80",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li>You now lose one gold per second if you haven&apos;t picked a hero after the selection timer runs out in<a>All Pick</a></li><li>All Pick selection time increased from 60 to 75</li><li>All Pick pre-creep time reduced from 90 to 75</li></ul>"
+    "descriptionHtml": "<ul><li>You now lose one gold per second if you haven&apos;t picked a hero after the selection timer runs out in<a>All Pick</a></li></ul>"
+  },
+  {
+    "id": "6.80_general_General-updates_1",
+    "version": "6.80",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>All Pick selection time increased from 60 to 75</li></ul>"
+  },
+  {
+    "id": "6.80_general_General-updates_2",
+    "version": "6.80",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>All Pick pre-creep time reduced from 90 to 75</li></ul>"
+  },
+  {
+    "id": "6.80_general_General-updates_3",
+    "version": "6.80",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Roshan</a>no longer stops upgrading his hp/damage/armor at 45 minutes</li></ul>"
+  },
+  {
+    "id": "6.80_general_General-updates_4",
+    "version": "6.80",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Roshan upgrade rate increased by 20%</li></ul>"
+  },
+  {
+    "id": "6.80_general_General-updates_5",
+    "version": "6.80",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Roshan bounty rescaled from 105-600 to 150-400</li></ul>"
   },
   {
     "id": "6.80_hero_Alchemist",

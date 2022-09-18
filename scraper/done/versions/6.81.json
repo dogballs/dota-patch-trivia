@@ -1,10 +1,52 @@
 [
   {
-    "id": "6.81_general_General-updates",
+    "id": "6.81_general_General-updates_0",
     "version": "6.81",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li><a>Roshan</a>base armor increased by 1</li><li><a>Attack Speed</a>now always continually adjusts based on the latest modifications applied to the unit</li><li>Melee illusions created by a<a>Rune of Illusion</a>take 200% instead of 300% damage</li><li><a>Random Draft</a>hero selection pool increased from 22 to 24</li><li><a>Captains Draft</a>hero selection pool increased from 24 to 27 (8 per type to 9)</li><li>Captains Draft hero bans increased from 4 to 6</li><li><a>Meepo</a>is no longer available in<a>Ability Draft</a></li></ul>"
+    "descriptionHtml": "<ul><li><a>Roshan</a>base armor increased by 1</li></ul>"
+  },
+  {
+    "id": "6.81_general_General-updates_1",
+    "version": "6.81",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Attack Speed</a>now always continually adjusts based on the latest modifications applied to the unit</li></ul>"
+  },
+  {
+    "id": "6.81_general_General-updates_2",
+    "version": "6.81",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Melee illusions created by a<a>Rune of Illusion</a>take 200% instead of 300% damage</li></ul>"
+  },
+  {
+    "id": "6.81_general_General-updates_3",
+    "version": "6.81",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Random Draft</a>hero selection pool increased from 22 to 24</li></ul>"
+  },
+  {
+    "id": "6.81_general_General-updates_4",
+    "version": "6.81",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Captains Draft</a>hero selection pool increased from 24 to 27 (8 per type to 9)</li></ul>"
+  },
+  {
+    "id": "6.81_general_General-updates_5",
+    "version": "6.81",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Captains Draft hero bans increased from 4 to 6</li></ul>"
+  },
+  {
+    "id": "6.81_general_General-updates_6",
+    "version": "6.81",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Meepo</a>is no longer available in<a>Ability Draft</a></li></ul>"
   },
   {
     "id": "6.81_hero_Abaddon",
@@ -579,7 +621,7 @@
     "version": "6.81",
     "category": "hero",
     "label": "Undying",
-    "descriptionHtml": "<ul><li><a>Soul Rip</a>area of effect increased from 975 to 1300</li><li><a>Tombstone</a><a>Zombie</a><a>Deathlust</a>&apos;s Max&amp;#160;% health threshold increased from 5/10/15/20% to 20/25/30/35%</li><li>Tombstone Zombies no longer give any<a>experience</a>or<a>gold</a><ul><li>Down from 25 experience and 5-7 gold</li></ul></li><li>Tombstone Bounty increased from 70/90/110/130 to 75/100/125/150</li><li><a>Flesh Golem</a>&apos;s Plague Aura now affects<a>magic immune</a>units</li></ul>",
+    "descriptionHtml": "<ul><li><a>Soul Rip</a>area of effect increased from 975 to 1300</li><li><a>Tombstone</a><a>Zombie</a><a>Deathlust</a>&apos;s Max% health threshold increased from 5/10/15/20% to 20/25/30/35%</li><li>Tombstone Zombies no longer give any<a>experience</a>or<a>gold</a><ul><li>Down from 25 experience and 5-7 gold</li></ul></li><li>Tombstone Bounty increased from 70/90/110/130 to 75/100/125/150</li><li><a>Flesh Golem</a>&apos;s Plague Aura now affects<a>magic immune</a>units</li></ul>",
     "imageSrc": "/commons/images/thumb/6/6b/Undying_Large.png/80px-Undying_Large.png"
   },
   {

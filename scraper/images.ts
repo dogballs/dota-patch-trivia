@@ -9,7 +9,7 @@ import { flattenImageSrc } from '../lib/items';
 import { Item } from '../types/item';
 import { COMMON_HEADERS } from './headers';
 
-const FETCH_DELAY = 30000; // 30 sec
+const FETCH_DELAY = 5000; // 30 sec
 
 async function fetchImagesForVersion(version: string) {
   const filePath = path.resolve(__dirname, `done/versions/${version}.json`);
@@ -74,4 +74,4 @@ async function delay(ms: number) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
-fetchImagesForVersion('7.32');
+fetchImagesForVersion('7.31');

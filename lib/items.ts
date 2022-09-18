@@ -86,12 +86,25 @@ function parseVersion(version: string) {
   };
 }
 
-export function createId(version: string, category: Category, label: string) {
-  return `${version}_${category}_${label}`.replace(/\s+/g, '-');
+export function createId(
+  version: string,
+  category: Category,
+  label: string,
+  index?: number,
+) {
+  const parts = [version, category, label];
+  if (index !== undefined) {
+    parts.push(index.toString());
+  }
+  return parts.join('_').replace(/\s+/g, '-');
 }
 
 export function flattenImageSrc(imageSrc: string) {
-  return imageSrc.replace(/\//g, '_');
+  return imageSrc
+    .replace(/\//g, '_')
+    .replaceAll('%27', "'")
+    .replaceAll('%28', '(')
+    .replaceAll('%29', ')');
 }
 
 export function createImageUrl(imageSrc: string) {

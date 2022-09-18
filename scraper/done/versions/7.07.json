@@ -16,28 +16,1001 @@
     "imageSrc": "/commons/images/thumb/5/5e/Dark_Willow_Large.png/128px-Dark_Willow_Large.png"
   },
   {
-    "id": "7.07_general_General-updates",
+    "id": "7.07_general_General-updates_0",
     "version": "7.07",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li><a>All Pick</a>drafting order is now: A-BB-AA-BB-AA-B</li><li>Each day 10 heroes are selected automatically as bonus heroes for the day<ul><li>Bonus heroes provide you with a free mango on selection (cannot be sold)</li></ul></li><li>Randoming no longer gives bonus gold<ul><li>It instead selects a hero from the set of bonus heroes and grants an extra iron branch (in addition to the mango)</li></ul></li><li>Removed repicking</li></ul>"
+    "descriptionHtml": "<ul><li><a>All Pick</a>drafting order is now: A-BB-AA-BB-AA-B</li></ul>"
   },
   {
-    "id": "7.07_general_General-updates",
+    "id": "7.07_general_General-updates_1",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Each day 10 heroes are selected automatically as bonus heroes for the day<ul><li>Bonus heroes provide you with a free mango on selection (cannot be sold)</li></ul></li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_2",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Randoming no longer gives bonus gold<ul><li>It instead selects a hero from the set of bonus heroes and grants an extra iron branch (in addition to the mango)</li></ul></li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_3",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed repicking</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_4",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Middle lane no longer has an additional melee creep</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_5",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Creeps now meet closer to each team&apos;s respective safelanes</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_6",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Denies XP granted to the enemy (the player being denied) reduced from 70% to 25%</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_7",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Denied XP gained by the denier reduced from 30% to 25%</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_8",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutrals killing lane creeps is now considered the same as the enemy creeps killing them—it&apos;s not a deny, and gives full XP (You must deny the creep yourself to deny its XP)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_9",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Total Wave XP (the 4 creeps) increased from 210 to 240</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_10",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Melee Creeps XP increased from 40 to 57</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_11",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Range Creeps XP reduced from 90 to 69 (result of both changes is 240)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_12",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Melee creep bounty increased by 4</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_13",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Range creep bounty increased by 12 (overall total gold per wave increased by 24)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_14",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>First neutral creep spawn changed from 30 seconds to 1 minute</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_15",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Base hero-kill XP bounty (non-assist portion) for level 1-5 reduced from 100/120/140/160/180 to 30/60/90/120/150 (You still get extra XP for hero kills from the assist formula)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_16",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>XP range increased from 1300 to 1500</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_17",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>XP required to go from level 1 to level 2 reduced from 240 to 200</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_18",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>XP required to go from level 2 to level 3 increased from 360 to 400</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_19",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 1 tower HP increased from 1400 to 1600</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_20",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Heroes now start with a<a>TP Scroll</a>(TP scrolls start on cooldown at the beginning of the game)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_21",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed<a>Shrines</a>from the base (replaced by filler buildings)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_22",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Glyph</a>now causes your creeps to be invulnerable for the glyph duration</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_23",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Extra siege creep now spawns at 30 minutes instead of 40 minutes</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_24",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Siege creep HP increased by 50</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_25",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed extra lane creeps spawning a minute too late (the ones at 15/30/40/45 minutes for melee/melee/range/melee)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_26",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Lane Creeps upgrade amount is now capped at Mega Creeps (previously, if a game went on for over ~4 hours, it was possible for creeps to be stronger than mega)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_27",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Armor formula adjusted from 0.06×Armor/(1+0.06×Armor) to 0.05×Armor/(1+0.05×Armor)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_28",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Armor per agility rescaled from 1/7 to 1/6</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_29",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 1 towers armor increased from 14 to 17</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_30",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 2 &amp; 3 towers armor increased from 16 to 19</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_31",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 4 towers armor increased from 24 to 29</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_32",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Roshan base armor increased from 15 to 18</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_33",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Filler building armor increased from 12 to 14</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_34",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Shrines building armor increased from 20 to 24</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_35",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ancient building armor increased from 15 to 18</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_36",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Melee barracks building armor increased from 15 to 18</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_37",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Range barracks building armor increased from 10 to 12 (these changes maintain parity with the overall damage reduction of structures before the above formula change)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_38",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed Tier 4 tower HP regen (previously had 3)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_39",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ancient HP regen increased from 3 to 8</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_40",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reworked midlane for Dire (both sides can now walk along the ledges without being hit)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_41",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted midlane ramps to be narrower</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_42",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Moved mid Shrines closer to the primary jungle area</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_43",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Swapped offlane Shrines and Bounty Runes</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_44",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted offlane terrain to be wider</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_45",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Moved primary jungle Bounty Runes closer to safelane camp area (close to the river ramps)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_46",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reworked Dire safelane jungle area</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_47",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Safelane hard camp adjusted (primarily pullable to the offlane, or to connect to the small camp)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_48",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed one of the ramps going down the jungle camp near each of the safelanes</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_49",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed the following ward spots: Radiant Ancient/Roshan, Bottom Radiant Rune, Dire Primary jungle (near Ancient camp)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_50",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Made multiple miscellaneous tree and line-of-sight adjustments</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_51",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Shifted bottom river Powerup Rune up the river slightly</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_52",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted ramp to Dire safelane jungle area to be narrower</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_53",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Swapped medium and hard camps in the primary jungle (hard camp is now the one closest to the mid tier 2)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_54",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted tree positions in front of the Radiant small camp pull</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_55",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Made minor adjustments to low-ground tree positions in front of the Radiant ramp leading to the Dire offlane (near the blue crystals — pathing around these trees is now possible)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_56",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reduced size of the ramp going to the Radiant safelane jungle from the Dire offlane side</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_57",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted position of Radiant safelane hard camp up slightly</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_58",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Slightly decreased size of ramp going below the Radiant Secret Shop</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_59",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Shifted the ramp on the Dire offlane (that connects to the Radiant safelane hard camp) slightly to the right</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_60",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Radiant hard camp (near the mid tier 2) is no longer in a pit</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_61",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Minor adjustments to tree layout, ramps and terrain above and around the Dire primary jungle</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_62",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted ramp going down from Radiant Ancient camp towards the top river</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_63",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Third<a>Roshan</a>kill now drops a single-use consumable<a>Refresher Shard</a>(Cooldown is independent from<a>Refresher Orb</a>)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_64",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Hero Respawn timer for level 1-5 rescaled from 8/10/12/14/16 to 5/7/9/13/16</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_65",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutrals now sleep at night (They have zero aggro range while sleeping)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_66",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed special neutral pull aggro exceptions for heroes (on Chaos Knight, Earth Spirit, Morphling, Pudge, Clockwerk, Rubick, and Tiny)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_67",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutrals lane creep aggro is now based on which neutral spawn area they&apos;re in (enabled for the traditional safelane/offlane pull camps)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_68",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Captains Mode</a>now has an extra ban in the first phase (6 bans total in the mode)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_69",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Illusions</a>now deal 80% less damage to Roshan rather than dying instantly when attacking him</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_70",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Illusions now benefit from Health and Mana regeneration</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_71",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Roshan</a>Slam damage increased from 70 + 5/Min to 70 + 8/Min</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_72",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Fountain</a>damage increased from 190-199 to 220-240</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_73",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fountain mana regen increased from 4% MP + 14 mana per second to 6%</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_74",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fountain HP regen increased from 4% to 5%</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_75",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Net Worth</a>Ranking Factor (how much the richest vs poorest heroes get from assist gold) changed from 0.75➜1.25 to 0.7➜1.3</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_76",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Hex</a>can no longer be dispelled</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_77",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added UI indication over inventory to show<a>Mute</a>state</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_78",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new option to require stop to interrupt your<a>channeling</a>abilities</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_79",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed the remaining Unique Attack Modifiers</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_80",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Lifesteal</a>is no longer a Unique Attack Modifier (stacks additively)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_81",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Arcane Orb</a>is no longer a Unique Attack Modifier</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_82",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Mana Break</a>is no longer a Unique Attack Modifier (does not stack with Diffusal Blade&apos;s Mana Break)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_83",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed cliffing restrictions for<a>Rubick</a>,<a>Magnus</a>,<a>Dark Seer</a>, etc.</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_84",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed<a>Pudge</a>and<a>Vengeful Spirit</a>&apos;s free pathing on terrain cliffs</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_85",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Roshan</a>now upgrades every minute rather than every 4 minutes (bonuses rescaled so its the same, just smoother)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_86",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed magic damage sources from attacks not being blocked by<a>Barrier</a>type abilities (Pipe, Hood, Flame Guard)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_87",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Improved stack count readability on buff icons</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_88",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Heroes with turn rates of 0.4 are improved to 0.5 (<a>Mirana</a>,<a>Puck</a>,<a>Razor</a>,<a>Shadow Shaman</a>,<a>Tidehunter</a>,<a>Witch Doctor</a>,<a>Warlock</a>,<a>Beastmaster</a>,<a>Venomancer</a>,<a>Wraith King</a>,<a>Viper</a>,<a>Clinkz</a>,<a>Enchantress</a>,<a>Spectre</a>,<a>Spirit Breaker</a>,<a>Lone Druid</a>,<a>Elder Titan</a>,<a>Oracle</a>, and<a>Winter Wyvern</a>)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_89",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>You can now see enemy mana regeneration values (previously could only see HP regen values)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_90",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Regeneration Rune</a>changed from 100/67 HP/MP to 6% Max HP/MP</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_91",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral<a>Centaur Conqueror</a><a>War Stomp</a>cast point reduced from 0.5 to 0.4</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_92",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral Centaur Conqueror War Stomp mana cost reduced from 100 to 50</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_93",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral<a>Hellbear Smasher</a><a>Thunder Clap</a>cast point reduced from 0.5 to 0.4</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_94",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral Hellbear Smasher Thunder Clap mana cost reduced from 100 to 50</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_95",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral<a>Wildwing Ripper</a><a>Tornado</a>cast point reduced from 0.75 to 0.4</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_96",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral<a>Satyr Mindstealer</a><a>Mana Burn</a>cast point reduced from 0.5 to 0.3</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_97",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral<a>Ancient Prowler Shaman</a><a>Desecrate</a>cast point reduced from 0.9 to 0.4</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_98",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral<a>Ancient Thunderhide</a><a>Slam</a>cast point increased from 0 to 0.3</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_99",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral<a>Dark Troll Summoner</a><a>Ensnare</a>cast point reduced from 0.5 to 0.3</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_100",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral Dark Troll Warlord Ensnare mana cost reduced from 150 to 75</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_101",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral Dark Troll Warlord<a>Raise Dead</a>cast point reduced from 0.5 to 0.3</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_102",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral<a>Harpy Stormcrafter</a><a>Chain Lightning</a>cast point reduced from 0.5 to 0.3</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_103",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a projectile for Dark Troll Warlord Ensnare</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_104",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral<a>Purge</a>now works on<a>cycloned</a>units</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_105",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral<a>Cloak Aura</a>on heroes increased from 5% to 10%</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_106",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Centaur Courser</a>movement speed reduced from 350 to 320</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_107",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Satyr Banisher</a>movement speed reduced from 330 to 300</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_108",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Satyr Banisher attack range reduced from 300 to 280</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_109",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Hill Troll</a>attack range reduced from 350 to 250</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_110",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Dark Troll Summoner</a>movement speed reduced from 320 to 300</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_111",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Dark Troll Summoner attack range reduced from 350 to 250</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_112",
     "version": "7.07",
     "category": "general",
     "label": "General updates",
     "descriptionHtml": "<ul><li>Health and mana regeneration formulas have been reworked<ul><li>For both health and mana, you gain a direct value</li><li>After that, Strength and Intelligence both amplify health and mana regenerations (Void Stone for example provides 1 mana regeneration, instead of 100%)</li></ul></li></ul>"
   },
   {
-    "id": "7.07_general_General-updates",
+    "id": "7.07_general_General-updates_113",
     "version": "7.07",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li>Intelligence mana increased from 11 to 12</li><li>All Agility heroes base movement speeds reduced by 5</li><li>Strength, Agility, and Intelligence attributes now give a unique perk to the hero if they are the respective hero type (in addition to the +1 damage)</li></ul>"
+    "descriptionHtml": "<ul><li>The stat tooltip area tells you how much HP/MP percentage increase is provided by your attributes, and what the absolute values of regen + Int/Str based bonus values are</li></ul>"
   },
   {
-    "id": "7.07_general_General-updates",
+    "id": "7.07_general_General-updates_114",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reworked mana regeneration formula to change percentage bonuses (like Void Stone, etc) to raw bonuses<ul><li>Each point of Intelligence amplifies mana regeneration by 2%</li></ul></li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_115",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Old: (0.01 + 0.04 × Int) × (1 + Percentages Bonuses) + Flat Bonuses</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_116",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>New: (Base + Flat Bonuses) and increases by 2% Per Intelligence</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_117",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Note 1: All heroes currently have 0.9 Base, but may be adjusted on case by case basis in the future (like base HP regen is now)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_118",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Note 2: Adjusted various mana regen items, talents, and skills (see lists below)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_119",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted Items<ul><li>In general items that gave 50% mana regen before, now give 0.5 mana regen, 100% gives 1, etc.</li><li>Other item values:<ul><li><a>Perseverance</a>: 1.5</li><li><a>Scythe of Vyse</a>: 2.25</li><li><a>Battle Fury</a>: 2.25</li><li><a>Orchid Malevolence</a>: 2.25</li><li><a>Bloodthorn</a>: 2.25</li><li><a>Eul&apos;s Scepter of Divinity</a>: 2.25</li><li><a>Linken&apos;s Sphere</a>: 2.25</li><li><a>Lotus Orb</a>: 1.75</li><li><a>Drum of Endurance</a>: 0.75</li><li><a>Solar Crest</a>: 1</li><li><a>Aether Lens</a>: 1.25</li><li><a>Infused Raindrops</a>: 0.5</li><li><a>Bloodstone</a>(per charge): 0.4</li><li><a>Clarity</a>: 3.2</li><li><a>Vladmir&apos;s Offering</a>: 0.65</li><li><a>Ring of Basilius</a>: 0.5</li><li><a>Ring of Aquila</a>: 0.5</li><li><a>Bottle</a>: 40</li></ul></li></ul></li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_120",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Talents have been rescaled to account for the new formula</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_121",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted Skills:<ul><li><a>Arcane Aura</a>on Allies rescaled from 1/1.5/2/3 to 0.8/1/1.2/1.4</li><li>Arcane Aura on Self rescaled from 2/3/4/8 to 1/2/3/4</li><li><a>Death Pulse</a>mana regen rescaled from 1/3/5/7 to 2/2.25/2.5/2.75</li></ul></li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_122",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Other Adjustments:<ul><li><a>Shrine</a>MP regen from 40 to 30</li><li>Shrines no longer increase their MP regen value as time elapses</li></ul></li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_123",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reworked Health Regeneration formula<ul><li>Each point of Strength amplifies regeneration by 0.7%</li></ul></li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_124",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Old: Base + 0.06 × Strength + Flat Bonuses</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_125",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>New: (Base + Flat Bonuses) and increases by 0.7% Per Strength</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_126",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Note 1: Base values increased by 1.5 for all heroes in the new formula</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_127",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Note 2: Adjusted various HP regen items, talents, and skills (see lists below)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_128",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted Items<ul><li><a>Ring of Health</a>: 5</li><li><a>Hood of Defiance</a>: 6.5</li><li><a>Perseverance</a>: 5.5</li><li><a>Force Staff</a>: 5</li><li><a>Vanguard</a>: 5.5</li><li><a>Abyssal Blade</a>: 7</li><li><a>Crimson Guard</a>: 6</li><li><a>Helm of the Dominator</a>: 8</li><li><a>Refresher Orb</a>: 11</li><li><a>Linken&apos;s Sphere</a>: 5.5</li><li><a>Lotus Orb</a>: 5.5</li><li><a>Pipe of Insight</a>: 6.5</li><li><a>Insight Aura</a>: 2</li><li><a>Guardian Aura</a>: 3.5</li><li>Guardian Aura (Critical Heal): 12</li><li><a>Regeneration Aura</a>: 2</li><li><a>Mekansm Aura</a>: 3.5</li><li><a>Tranquil Boots</a>: 12</li><li><a>Bloodstone</a>: 7</li><li><a>Armlet of Mordiggian</a>: 4</li><li><a>Soul Ring</a>: 2</li><li><a>Ring of Regen</a>: 1.5</li><li><a>Veil of Discord</a>: from 6 to 5</li><li><a>Hurricane Pike</a>: from 6 to 5.5</li><li><a>Vladmir&apos;s Offering</a>: 3 to 2.5</li><li><a>Unholy Strength</a>(life drain): from 45 to 54</li><li><a>Bottle</a>: 80</li><li><a>Urn of Shadows</a>: 35</li></ul></li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_129",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Talents have been rescaled to account for the new formula</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_130",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted Skills:<ul><li><a>Chemical Rage</a>HP regen rescaled from 50/75/100 to 40/48/56</li><li><a>Dragon Blood</a>rescaled from 3/6/9/12 to 4/6/8/10</li><li><a>Press The Attack</a>rescaled from 30/40/50/60 to 30/35/40/45</li><li><a>Feral Impulse</a>rescaled from 1/4/7/10 to 1/3/5/7</li><li><a>Reactive Armor</a>rescaled from 1/1.2/1.4/1.6 to 1/1.15/1.3/1.45</li><li><a>Satyr Tormenter</a><a>Unholy Aura</a>rescaled from 6 to 5.5</li><li><a>Inner Vitality</a>threshold heal factor rescaled from 20/40/60/80% to 22/30/38/46%</li><li>Inner Vitality normal heal factor rescaled from 5/10/15/20% to 6/8/10/12%</li><li><a>Death Pulse</a>kill HP regen multiplier rescaled from 10 to 6</li><li>Death Pulse kill HP regen duration rescaled from 7 to 6</li><li>Death Pulse HP regen rescaled from 1/3/5/7 to 2/3/4/5</li><li><a>Scorched Earth</a>heal rescaled from 16/24/32/40 to 12/18/24/30</li><li><a>Living Armor</a>rescaled from 4/8/12/16 to 4/7/10/13</li><li><a>Cold Embrace</a>base rescaled from 25 to 15</li></ul></li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_131",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Other Adjustments:<ul><li><a>Shrine</a>HP regen from 90 to 75</li><li>Shrines no longer increase their HP regen value as time elapses</li></ul></li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_132",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Intelligence mana increased from 11 to 12</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_133",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>All Agility heroes base movement speeds reduced by 5</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_134",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Strength, Agility, and Intelligence attributes now give a unique perk to the hero if they are the respective hero type (in addition to the +1 damage)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_135",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Strength gains +0.15% Status Resistance (Reduces the duration of effects like silence/stun/disarm/root/fear/etc. For DPS debuffs with slows, it instead just reduces the slow values to keep the damage amount unaffected)</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_136",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Agility gains +0.06% Movement Speed</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_137",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Intelligence gains +0.15% Magic Resistance</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_138",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>In the stat hover area, you can see the effect impact each of these perks has on a hero</li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_139",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Strength<ul><li>+20 Health</li><li>+0.7% HP Regen Amplification</li><li>Perk: +1 Damage</li><li>Perk: +0.15% Status Resistance</li></ul></li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_140",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Agility<ul><li>+1/6 Armor</li><li>+1 Attack Speed</li><li>Perk: +1 Damage</li><li>Perk: +0.06% Movement Speed</li></ul></li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_141",
+    "version": "7.07",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Intelligence<ul><li>+12 Mana</li><li>+2% Mana Regen Amplification</li><li>+0.07% Spell Amplification</li><li>Perk: +1 Damage</li><li>Perk: +0.15% Magic Resistance</li></ul></li></ul>"
+  },
+  {
+    "id": "7.07_general_General-updates_142",
     "version": "7.07",
     "category": "general",
     "label": "General updates",

@@ -312,10 +312,24 @@
     "imageSrc": "/commons/images/thumb/8/89/Shivas_Guard.png/70px-Shivas_Guard.png"
   },
   {
-    "id": "6.77_general_General-updates",
+    "id": "6.77_general_General-updates_0",
     "version": "6.77",
     "category": "general",
     "label": "General updates",
     "descriptionHtml": "<ul><li><a>Harpy</a>&apos;s<a>Chain Lightning</a>mana cost reduced from 90 to 50</li></ul>"
+  },
+  {
+    "id": "6.77_general_General-updates_1",
+    "version": "6.77",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a><i>Version 6.77 Changelog</i></a></li></ul>"
+  },
+  {
+    "id": "6.77_general_General-updates_2",
+    "version": "6.77",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a><i>Official DotA Map Archive</i></a></li></ul>"
   }
 ]

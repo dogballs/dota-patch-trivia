@@ -16,11 +16,284 @@
     "imageSrc": "/commons/images/thumb/6/61/Phoenix_Large.png/128px-Phoenix_Large.png"
   },
   {
-    "id": "6.70_general_General-updates",
+    "id": "6.70_general_General-updates_0",
     "version": "6.70",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li>Added a new loadscreen by Kunkka</li><li>Reworked Tavern Layout</li><li>Added a 4 minute cooldown to Buyback</li><li>Updated hero icon representation on the minimap</li><li>Creep vision decreased from 1100 to 850</li><li>Consumable Items no longer automatically fuse with ones you don&apos;t own (except for wards)<ul><li>Example: You can now have a courier carry 2 separate TP scrolls for different players</li></ul></li><li>Added<a>Gyro</a>,<a>Weaver</a>,<a>Clinkz</a>, and<a>Ancient Apparition</a>to<a>CM</a></li><li>Fixed default selection order for Necronomicon (Manaburn unit first)</li><li>Fixed default selection order for Panda&apos;s Split Earth units (Earth → Storm → Fire)</li><li>Added a new model for Furion</li><li>Restored Lina&apos;s old projectile</li><li>Added various Christmas themed visuals<ul><li>Added Santa hats for couriers, roshan, and aegis holder</li><li>Replaced Cheese with candy cane (appears on your hero visually as well)</li><li>Ironwood branch model to christmas present</li><li>Secret Shop is now Santa</li><li>Added some other misc christmas doodads</li></ul></li><li>Added a visual effect for Furion&apos;s Aghanim Scepter</li><li>Added an Aghanim visual effect for Chen</li><li>Minor increase to Metamorphosis model size</li><li>Removed Courier Upgrade button from courier</li><li>Fixed Flying shadow for Obsidian Destroyer, Visage and Viper</li><li>Improved Double Edge visual effect</li><li>Added an ally only visual effect for a hero carrying Gem</li><li>Added a -bounty command to see the total gold gain by Track</li><li>Improved the quality of the following item icons: Mjollnir, Platemail, Chainmail, Helm of the Dominator, Boots of Travel, Blademail, Assault Cuirass, Monkey King Bar, Sentry Wards, Diffusal Blade, Guinsoo, and Desolator</li><li>Added a new icon for level 2 Diffusal Blade</li><li>Added a new icon for Skeleton King&apos;s Critical Strike</li><li>Improved the quality of the following ability icons: Surge and Naga Siren&apos;s Mirror Image</li><li>Added a new icon for Empower</li><li>Added a new icon for Skewer</li><li>Added a new icon for Reverse Polarity</li></ul>"
+    "descriptionHtml": "<ul><li>Added a new loadscreen by Kunkka</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_1",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reworked Tavern Layout</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_2",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a 4 minute cooldown to Buyback</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_3",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Updated hero icon representation on the minimap</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_4",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Creep vision decreased from 1100 to 850</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_5",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Consumable Items no longer automatically fuse with ones you don&apos;t own (except for wards)<ul><li>Example: You can now have a courier carry 2 separate TP scrolls for different players</li></ul></li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_6",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added<a>Gyro</a>,<a>Weaver</a>,<a>Clinkz</a>, and<a>Ancient Apparition</a>to<a>CM</a></li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_7",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed default selection order for Necronomicon (Manaburn unit first)</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_8",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed default selection order for Panda&apos;s Split Earth units (Earth → Storm → Fire)</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_9",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new model for Furion</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_10",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Restored Lina&apos;s old projectile</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_11",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added various Christmas themed visuals<ul><li>Added Santa hats for couriers, roshan, and aegis holder</li><li>Replaced Cheese with candy cane (appears on your hero visually as well)</li><li>Ironwood branch model to christmas present</li><li>Secret Shop is now Santa</li><li>Added some other misc christmas doodads</li></ul></li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_12",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a visual effect for Furion&apos;s Aghanim Scepter</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_13",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added an Aghanim visual effect for Chen</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_14",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Minor increase to Metamorphosis model size</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_15",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed Courier Upgrade button from courier</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_16",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed Flying shadow for Obsidian Destroyer, Visage and Viper</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_17",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Improved Double Edge visual effect</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_18",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added an ally only visual effect for a hero carrying Gem</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_19",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a -bounty command to see the total gold gain by Track</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_20",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Improved the quality of the following item icons: Mjollnir, Platemail, Chainmail, Helm of the Dominator, Boots of Travel, Blademail, Assault Cuirass, Monkey King Bar, Sentry Wards, Diffusal Blade, Guinsoo, and Desolator</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_21",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new icon for level 2 Diffusal Blade</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_22",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new icon for Skeleton King&apos;s Critical Strike</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_23",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Improved the quality of the following ability icons: Surge and Naga Siren&apos;s Mirror Image</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_24",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new icon for Empower</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_25",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new icon for Skewer</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_26",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new icon for Reverse Polarity</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_27",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed Armlet triggering Last Word</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_28",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed Deafening Blast status icon</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_29",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed Rupture status buff icon sometimes lingering on you after you respawn (visual only)</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_30",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed a recent bug that caused Death Prophet&apos;s Ghosts to behave incorrectly with Stout Shield based items</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_31",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed rare cases where omnislash wouldn&apos;t ministun the target</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_32",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed a bug with the interaction of Call Down and Nether Blast</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_33",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed The Swarm units sometimes falling off the target</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_34",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed multiple Quelling Blade stacking bug</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_35",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed some silences not properly disabling Silencer&apos;s Last Word</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_36",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed a bug with Frostmourne bonus being given to attack attempts by the enemy heroes</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_37",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed Split Shot dispelling Curse of the Silent</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_38",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed a possible fatal error with Static Link when targeting ground in some areas</li></ul>"
+  },
+  {
+    "id": "6.70_general_General-updates_39",
+    "version": "6.70",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed Aghanim Echo Slam cooldown not appearing on the scoreboard</li></ul>"
   },
   {
     "id": "6.70_hero_Abaddon",

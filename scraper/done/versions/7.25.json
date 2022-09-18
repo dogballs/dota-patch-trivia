@@ -1,10 +1,108 @@
 [
   {
-    "id": "7.25_general_General-updates",
+    "id": "7.25_general_General-updates_0",
     "version": "7.25",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li>All Pick hero picking has been reworked. It now has 5 rounds, each round Radiant and Dire pick 1 hero each at the same time and the selections each team makes is hidden until the next round. If a duplicate pick occurs, the player who picked it second will be given some extra time to select another hero.</li><li>Reworked how hero banning works in All Pick. Previously half of the voted heroes would get banned. Now each ban has a 50% chance of succeeding. If there are less than 10 heroes banned, heroes will automatically roll for banning based on their ban rate at your MMR bracket.</li><li>Power Runes initially spawn at 4 minutes now (subsequent spawns are still every 2 minutes)</li><li>Power Runes no longer spawn on both sides of the map at 40 minutes</li><li>Removed the team based rubber band mechanic for hero kills</li><li>Hero kill sprees gold bounty increased from 60-&gt;480 to 200-&gt;690</li><li>Hero kill sprees xp bounty increased from 400-&gt;1800 to 500-&gt;2040</li><li>Captain&apos;s Mode now has ban counts per phase changed from 3/2/1 to 4/1/1</li><li>Random Draft hero pool reduced from 50 to 40</li><li>Radiant Ancient creeps are now easier to stack</li><li>Tier 1 neutral item drop rates increased from 10 to 14%</li><li>Fountain attack damage increased from 275 to 300</li><li>Neutral creep Frost Armor slow reduced from 30 to 25</li><li>Neutral Creep Frost Armor armor reduced from 6 to 5</li><li>Illusion rune now has similar cast mechanics as Manta (shuffle, dispel, dodge)</li></ul>"
+    "descriptionHtml": "<ul><li>All Pick hero picking has been reworked. It now has 5 rounds, each round Radiant and Dire pick 1 hero each at the same time and the selections each team makes is hidden until the next round. If a duplicate pick occurs, the player who picked it second will be given some extra time to select another hero.</li></ul>"
+  },
+  {
+    "id": "7.25_general_General-updates_1",
+    "version": "7.25",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reworked how hero banning works in All Pick. Previously half of the voted heroes would get banned. Now each ban has a 50% chance of succeeding. If there are less than 10 heroes banned, heroes will automatically roll for banning based on their ban rate at your MMR bracket.</li></ul>"
+  },
+  {
+    "id": "7.25_general_General-updates_2",
+    "version": "7.25",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Power Runes initially spawn at 4 minutes now (subsequent spawns are still every 2 minutes)</li></ul>"
+  },
+  {
+    "id": "7.25_general_General-updates_3",
+    "version": "7.25",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Power Runes no longer spawn on both sides of the map at 40 minutes</li></ul>"
+  },
+  {
+    "id": "7.25_general_General-updates_4",
+    "version": "7.25",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed the team based rubber band mechanic for hero kills</li></ul>"
+  },
+  {
+    "id": "7.25_general_General-updates_5",
+    "version": "7.25",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Hero kill sprees gold bounty increased from 60-&gt;480 to 200-&gt;690</li></ul>"
+  },
+  {
+    "id": "7.25_general_General-updates_6",
+    "version": "7.25",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Hero kill sprees xp bounty increased from 400-&gt;1800 to 500-&gt;2040</li></ul>"
+  },
+  {
+    "id": "7.25_general_General-updates_7",
+    "version": "7.25",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Captain&apos;s Mode now has ban counts per phase changed from 3/2/1 to 4/1/1</li></ul>"
+  },
+  {
+    "id": "7.25_general_General-updates_8",
+    "version": "7.25",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Random Draft hero pool reduced from 50 to 40</li></ul>"
+  },
+  {
+    "id": "7.25_general_General-updates_9",
+    "version": "7.25",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Radiant Ancient creeps are now easier to stack</li></ul>"
+  },
+  {
+    "id": "7.25_general_General-updates_10",
+    "version": "7.25",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 1 neutral item drop rates increased from 10 to 14%</li></ul>"
+  },
+  {
+    "id": "7.25_general_General-updates_11",
+    "version": "7.25",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fountain attack damage increased from 275 to 300</li></ul>"
+  },
+  {
+    "id": "7.25_general_General-updates_12",
+    "version": "7.25",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral creep Frost Armor slow reduced from 30 to 25</li></ul>"
+  },
+  {
+    "id": "7.25_general_General-updates_13",
+    "version": "7.25",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral Creep Frost Armor armor reduced from 6 to 5</li></ul>"
+  },
+  {
+    "id": "7.25_general_General-updates_14",
+    "version": "7.25",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Illusion rune now has similar cast mechanics as Manta (shuffle, dispel, dodge)</li></ul>"
   },
   {
     "id": "7.25_item_Faded-Broach",

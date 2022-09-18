@@ -432,11 +432,102 @@
     "imageSrc": "/commons/images/b/b4/Smoke_of_Deceit.png"
   },
   {
-    "id": "6.71_general_General-updates",
+    "id": "6.71_general_General-updates_0",
     "version": "6.71",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li>Allies are now notified when you purchase a Smoke of Deceit</li><li>Swapped the attack projectile of Thrall and Chen (280542)</li><li>Added a new visual effect for Omniknight&apos;s aura (393596)</li><li>Enigma model now shows team colors (395228)</li><li>Reduced Phoenix model size a little bit</li><li>Added a test mode command to respawn roshan (-roshan)</li><li>Added an ally only visual effect where Ghost Ship will land</li><li>Improved Dark Ritual mana text display so it is easier to read</li><li>Finger of Death and Laguna Blade no longer target magic immune (since they do 0 damage but waste spell)</li><li>Illusory Orb flashes right before it is about to expire</li><li>Added -disablehelp support for Disruption</li><li>Some map size reductions (Unexpect3D)</li><li>Medallion visual effect is played on the caster now as well</li><li>Added a status buff icon for Shallow Grave (251251)</li></ul>"
+    "descriptionHtml": "<ul><li>Allies are now notified when you purchase a Smoke of Deceit</li></ul>"
+  },
+  {
+    "id": "6.71_general_General-updates_1",
+    "version": "6.71",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Swapped the attack projectile of Thrall and Chen (280542)</li></ul>"
+  },
+  {
+    "id": "6.71_general_General-updates_2",
+    "version": "6.71",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new visual effect for Omniknight&apos;s aura (393596)</li></ul>"
+  },
+  {
+    "id": "6.71_general_General-updates_3",
+    "version": "6.71",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Enigma model now shows team colors (395228)</li></ul>"
+  },
+  {
+    "id": "6.71_general_General-updates_4",
+    "version": "6.71",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reduced Phoenix model size a little bit</li></ul>"
+  },
+  {
+    "id": "6.71_general_General-updates_5",
+    "version": "6.71",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a test mode command to respawn roshan (-roshan)</li></ul>"
+  },
+  {
+    "id": "6.71_general_General-updates_6",
+    "version": "6.71",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added an ally only visual effect where Ghost Ship will land</li></ul>"
+  },
+  {
+    "id": "6.71_general_General-updates_7",
+    "version": "6.71",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Improved Dark Ritual mana text display so it is easier to read</li></ul>"
+  },
+  {
+    "id": "6.71_general_General-updates_8",
+    "version": "6.71",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Finger of Death and Laguna Blade no longer target magic immune (since they do 0 damage but waste spell)</li></ul>"
+  },
+  {
+    "id": "6.71_general_General-updates_9",
+    "version": "6.71",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Illusory Orb flashes right before it is about to expire</li></ul>"
+  },
+  {
+    "id": "6.71_general_General-updates_10",
+    "version": "6.71",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added -disablehelp support for Disruption</li></ul>"
+  },
+  {
+    "id": "6.71_general_General-updates_11",
+    "version": "6.71",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Some map size reductions (Unexpect3D)</li></ul>"
+  },
+  {
+    "id": "6.71_general_General-updates_12",
+    "version": "6.71",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Medallion visual effect is played on the caster now as well</li></ul>"
+  },
+  {
+    "id": "6.71_general_General-updates_13",
+    "version": "6.71",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a status buff icon for Shallow Grave (251251)</li></ul>"
   },
   {
     "id": "6.71_bug-fix_Bug-fixes",

@@ -1,10 +1,472 @@
 [
   {
-    "id": "6.87_general_General-updates",
+    "id": "6.87_general_General-updates_0",
     "version": "6.87",
     "category": "general",
     "label": "General updates",
     "descriptionHtml": "<ul><li>Reworked<a>Ranked All Pick</a>. Before the picking phase begins, there is a 15 second voting phase to ban heroes. Each player votes for a different hero. Afterwards, half of the heroes that were voted on will be randomly selected and banned.</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_1",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Captains Mode</a>Pick time from 40 to 30 seconds</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_2",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Captains Mode Bonus time from 110 to 130 seconds</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_3",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Captains Mode: Adjusted the order of bans in the 2nd ban phase (from 1st/2nd/1st/2nd to 2nd/1st/2nd/1st)</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_4",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Captains Mode: Adjusted the order of picks in the final pick phase (from 2nd/1st to 1st/2nd)</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_5",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Captains Mode: The overall pick/ban order for the two teams is now:</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_6",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Each team now has a<a>Scan</a>ability, available on the minimap UI</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_7",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Starting HP increased from 180 to 200</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_8",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>HP per<a>strength</a>increased from 19 to 20</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_9",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Hero base mana increased from 0 to 50</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_10",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Mana per int reduced from 13 to 12</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_11",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Intelligence</a>now increases your spell damage by 1% per 16 Intelligence points</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_12",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Stats hover on your hero now shows you your total<a>Spell Amplification</a>, including Aether Lens</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_13",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Melee</a>hero attack range increased from 128 to 150</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_14",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Experience</a>required to get to level 8 and 9 rescaled from 600/1200 to 800/1000</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_15",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Ethereal</a>now blocks in-flight attack projectiles fully, rather than just ones launched before Ethereal</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_16",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Evasion</a>now uses<a>Pseudo-Random Distribution</a></li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_17",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Evasion is now calculated on impact rather than on launch</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_18",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>The following buffs are now purgeable:<a>Nightmare</a>,<a>Spawn Spiderlings</a>,<a>Malefice</a>,<a>Cold Snap</a>,<a>Corrosive Skin</a>, and<a>Leap</a>movement speed buff</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_19",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Minor adjustments to<a>cast range</a>mechanics to reduce overly long cast ranges when the target is moving quickly</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_20",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Illusions</a>now benefit from<a>Damage Block</a></li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_21",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed Strong armor type, and moved affected units to Soft type, which is now renamed to Basic type</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_22",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Roshan armor type from Basic to Hero</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_23",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Dark Troll Summoner attack type from Pierce to Hero</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_24",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Thunderhide attack type from Basic to Hero</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_25",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Initial<a>Bounty Rune</a>no longer gives experience</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_26",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Double Damage</a>and<a>Haste</a>no longer have special rules for being<a>dispelled</a>by<a>Spell Immunity</a></li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_27",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 2 towers damage now same as Tier 3</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_28",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Towers now grant an armor aura to allied heroes</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_29",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tower True Sight range reduced from 900 to 700</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_30",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Lane Creep health upgrade increased from 10 to 12 HP</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_31",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Lane Creep Aggro duration increased from 2 to 2.5</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_32",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Lane Creep Aggro cooldown increased from 2 to 2.5</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_33",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Melee Creep gold bounty reduced from 40 to 38</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_34",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Melee and Ranged Creep gold bounty upgrade over time increased from 1 to 2</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_35",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Melee creep experience reduced from 62 to 45</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_36",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ranged creep experience increased from 41 to 90</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_37",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Centaur Courser</a>health reduced from 550 to 350</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_38",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Centaur Courser armor reduced by 1</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_39",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>The large<a>Centaur camp</a>now spawns 2 Centaur Coursers instead of 1</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_40",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Dark Troll Summoner</a>damage reduced from 55-60 to 40-45</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_41",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Thunderhide</a>attack damage reduced from 71-78 to 60-65</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_42",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Harpy Stormcrafter</a>mana pool reduced from 540 to 400</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_43",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Satyr Tormenter</a>mana pool reduced from 600 to 400</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_44",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Roshan</a>Magic Resistance reduced from 75% to 55%</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_45",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Roshan HP increased from 7500 + 125/min to 8000 + 175/min</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_46",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Roshan experience bounty changed from 1789 to 750 + 20/min</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_47",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted the position of the bottom Radiant Tier 2 tower and nearby trees</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_48",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Moved the ramp between the Dire Secret Shop and the Dire ancients further back a bit and made it narrower</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_49",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Increased the width of the ramp behind the Radiant bottom Tier 2 tower</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_50",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new ramp to the left of the bottom Dire Tier 1 tower</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_51",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new ward spot in the middle of the Dire jungle</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_52",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted the spawn box of the right-most Radiant hard camp near the safe lane</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_53",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 3 Towers/Rax moved very slightly back away from the ramp</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_54",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted the juke path in the clump of trees to the left of the Dire Tier 1 mid tower in the area closest to the ramp</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_55",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a small hiding spot in the trees to the top left of the Radiant medium camp near middle</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_56",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Slightly reduced the spawn box of the Dire offlane Neutral camp</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_57",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added new paths to the trees on the left of the top Radiant Tier 1 tower</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_58",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added pathable areas in the trees below the bottom Tier 2 Radiant tower</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_59",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Spaced out Radiant Tier 4 towers slightly</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_60",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a small hiding spot to the trees above the bottom Radiant Tier 2 tower</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_61",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Moved Radiant mid creep spawn point back a little</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_62",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed the tree on the Dire cliff right above the top Rune</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_63",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added two extra trees in the Radiant middle lane to the upper right of the Tier 1 tower</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_64",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Rearranged the clump of trees below the far right Radiant hard camp to modify visibility lines for heroes nearby</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_65",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new hiding spot to the right of the Dire small camp</li></ul>"
+  },
+  {
+    "id": "6.87_general_General-updates_66",
+    "version": "6.87",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed Radiant offlane neutral camp units not always being visible with line of sight in front of them</li></ul>"
   },
   {
     "id": "6.87_new-item_Bloodthorn",

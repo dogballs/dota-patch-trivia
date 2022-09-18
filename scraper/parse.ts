@@ -7,6 +7,8 @@ import { Category, Item } from '../types/item';
 import { XMLNode } from '../types/fast-xml-parser';
 
 async function parseVersion(version: string) {
+  console.log('Parsing: ', version);
+
   const cards: Item[] = [];
 
   const jsonString = await fs.readFile(
@@ -29,6 +31,7 @@ async function parseVersion(version: string) {
   const $nodes = $tree[0].div;
 
   let i = 0;
+  let generalThruId = 0;
 
   let category: Category | 'initial' = 'initial';
 
@@ -72,44 +75,54 @@ async function parseVersion(version: string) {
         case 'genetal updates':
         case 'gameplay updates':
         case "aghanim's shards":
-        case 'neutral creep':
-          assert(['initial', 'new-hero', 'hero', 'item'].includes(category));
+          assert(
+            ['initial', 'new-hero', 'general', 'hero', 'item'].includes(
+              category,
+            ),
+          );
           category = 'general';
           break;
         case 'bug fixes':
         case 'fixed bugs':
-          assert(['initial', 'item', 'hero'].includes(category));
+          assert(['initial', 'general', 'item', 'hero'].includes(category));
           category = 'bug-fix';
           break;
         case 'items':
         case 'item additions':
         case 'item changes':
           assert(
-            ['initial', 'hero', 'item', 'new-item', 'neutral-item'].includes(
-              category,
-            ),
+            [
+              'initial',
+              'general',
+              'hero',
+              'item',
+              'new-item',
+              'neutral-item',
+            ].includes(category),
           );
           category = 'item';
           break;
         case 'neutral items':
-          assert(['initial', 'item'].includes(category));
+          assert(['initial', 'item', 'general'].includes(category));
           category = 'neutral-item';
           break;
         case 'heroes':
         case 'hero changes':
+        case 'neutral creep':
           assert(
             [
               'initial',
               'new-hero',
               'item',
               'new-item',
+              'general',
               'neutral-item',
             ].includes(category),
           );
           category = 'hero';
           break;
         case 'new items':
-          assert(['initial', 'hero', 'item'].includes(category));
+          assert(['initial', 'hero', 'item', 'general'].includes(category));
           category = 'new-item';
           break;
         case 'external links':
@@ -129,7 +142,7 @@ async function parseVersion(version: string) {
         category === 'new-item'
       ) {
         const $title = findDeepByKey($node, '#text');
-        const $list = findNext($nodes, 'ul', i);
+        const $list = findNext($nodes, ['ul', 'table'], i);
         const $img = findDeepByKey($node, 'img');
 
         let imageSrc: string | undefined;
@@ -142,12 +155,16 @@ async function parseVersion(version: string) {
 
         const label = $title['#text'];
 
+        const descriptionHtml = builder
+          .build([$list])
+          .replaceAll('&amp;#160;', '');
+
         cards.push({
           id: createId(version, category, label),
           version,
           category,
           label,
-          descriptionHtml: builder.build([$list]),
+          descriptionHtml,
           imageSrc,
         });
 
@@ -181,14 +198,22 @@ async function parseVersion(version: string) {
     if ($node.ul) {
       if (category === 'general') {
         const label = 'General updates';
-        cards.push({
-          id: createId(version, category, label),
-          version,
-          category,
-          label,
-          descriptionHtml: builder.build([$node]),
-        });
-        category = 'initial';
+        const $lis = $node.ul;
+
+        for (let i = 0; i < $lis.length; i++) {
+          const $li = $lis[i];
+          cards.push({
+            id: createId(version, category, label, generalThruId++),
+            version,
+            category,
+            label,
+            descriptionHtml: builder
+              .build([{ ul: [$li] }])
+              .replaceAll('&amp;#160;', ''),
+          });
+        }
+
+        // category = 'initial';
       } else if (category === 'bug-fix') {
         const label = 'Bug fixes';
         cards.push({
@@ -196,7 +221,7 @@ async function parseVersion(version: string) {
           version,
           category,
           label,
-          descriptionHtml: builder.build([$node]),
+          descriptionHtml: builder.build([$node]).replaceAll('&amp;#160;', ''),
         });
         category = 'initial';
       }
@@ -241,13 +266,13 @@ function findDeepByKey(
 
 function findNext(
   $nodes: XMLNode[],
-  findKeyName: string,
+  findKeyName: string[],
   fromIndex: number,
 ): XMLNode | undefined {
   for (let i = fromIndex; i < $nodes.length; i++) {
     const $node = $nodes[i];
     const keyName = Object.keys($node)[0];
-    if (keyName === findKeyName) {
+    if (findKeyName.includes(keyName)) {
       return $node;
     }
   }
@@ -273,6 +298,6 @@ async function parseAllFromRaw() {
   }
 }
 
-// parseAllFromRaw();
+parseAllFromRaw();
 
-parseVersion('7.32');
+// parseVersion('7.29');

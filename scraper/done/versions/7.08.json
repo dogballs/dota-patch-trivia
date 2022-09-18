@@ -1,10 +1,45 @@
 [
   {
-    "id": "7.08_general_General-updates",
+    "id": "7.08_general_General-updates_0",
     "version": "7.08",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li><a>Wards</a>now require a constant 2 hits to kill (both Observer and Sentry Wards)</li><li>Tier 1<a>Tower</a>armor aura increased from 1 to 2</li><li><a>Roshan</a>now has 25% Status Resistance</li><li><a>All Pick</a>: Drafting time per hero selection reduced from 30 to 25 seconds</li></ul>"
+    "descriptionHtml": "<ul><li><a>Wards</a>now require a constant 2 hits to kill (both Observer and Sentry Wards)</li></ul>"
+  },
+  {
+    "id": "7.08_general_General-updates_1",
+    "version": "7.08",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 1<a>Tower</a>armor aura increased from 1 to 2</li></ul>"
+  },
+  {
+    "id": "7.08_general_General-updates_2",
+    "version": "7.08",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Roshan</a>now has 25% Status Resistance</li></ul>"
+  },
+  {
+    "id": "7.08_general_General-updates_3",
+    "version": "7.08",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>All Pick</a>: Drafting time per hero selection reduced from 30 to 25 seconds</li></ul>"
+  },
+  {
+    "id": "7.08_general_General-updates_4",
+    "version": "7.08",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Base XP reduced from 25 to 0</li></ul>"
+  },
+  {
+    "id": "7.08_general_General-updates_5",
+    "version": "7.08",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Gold Growth increased from 2/min to 4/min</li></ul>"
   },
   {
     "id": "7.08_item_Aeon-Disk",

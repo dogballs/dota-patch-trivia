@@ -1,10 +1,108 @@
 [
   {
-    "id": "7.03_general_General-updates",
+    "id": "7.03_general_General-updates_0",
     "version": "7.03",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li>Reduced lane<a>melee creeps</a>base gold bounties by 2</li><li>Increased lane melee creeps gold bounty per upgrade cycle by 1</li><li>Reduced lane<a>range creeps</a>gold bounty per upgrade cycle by 1</li><li>Ranked<a>All Pick</a>hero selection time reduced from 35 seconds to 30 seconds</li></ul>"
+    "descriptionHtml": "<ul><li>Reduced lane<a>melee creeps</a>base gold bounties by 2</li></ul>"
+  },
+  {
+    "id": "7.03_general_General-updates_1",
+    "version": "7.03",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Increased lane melee creeps gold bounty per upgrade cycle by 1</li></ul>"
+  },
+  {
+    "id": "7.03_general_General-updates_2",
+    "version": "7.03",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reduced lane<a>range creeps</a>gold bounty per upgrade cycle by 1</li></ul>"
+  },
+  {
+    "id": "7.03_general_General-updates_3",
+    "version": "7.03",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ranked<a>All Pick</a>hero selection time reduced from 35 seconds to 30 seconds</li></ul>"
+  },
+  {
+    "id": "7.03_general_General-updates_4",
+    "version": "7.03",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Shrines</a>base HP regen reduced from 120 HP/sec to 100</li></ul>"
+  },
+  {
+    "id": "7.03_general_General-updates_5",
+    "version": "7.03",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Towers</a>base armor reduced by 4</li></ul>"
+  },
+  {
+    "id": "7.03_general_General-updates_6",
+    "version": "7.03",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Towers now gain 2 armor per nearby enemy player within 1200 AoE</li></ul>"
+  },
+  {
+    "id": "7.03_general_General-updates_7",
+    "version": "7.03",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 1 Tower HP increased from 1300 to 1400</li></ul>"
+  },
+  {
+    "id": "7.03_general_General-updates_8",
+    "version": "7.03",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 1 Team Bounty reduced from 160 to 120</li></ul>"
+  },
+  {
+    "id": "7.03_general_General-updates_9",
+    "version": "7.03",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Scan</a>cooldown reduced from 270 seconds to 210</li></ul>"
+  },
+  {
+    "id": "7.03_general_General-updates_10",
+    "version": "7.03",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added<a>Monkey King</a>to<a>CM</a></li></ul>"
+  },
+  {
+    "id": "7.03_general_General-updates_11",
+    "version": "7.03",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>XP</a>Required to go from level 1 to level 6 increased by 15%, 300 XP total</li></ul>"
+  },
+  {
+    "id": "7.03_general_General-updates_12",
+    "version": "7.03",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>XP Required to go from level 9 to 13 redistributed from 700/720/740/1200 to 800/820/840/900</li></ul>"
+  },
+  {
+    "id": "7.03_general_General-updates_13",
+    "version": "7.03",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>AoE hero kill Gold and XP bounties reduced by 10% (including comeback gold and XP)</li></ul>"
+  },
+  {
+    "id": "7.03_general_General-updates_14",
+    "version": "7.03",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Passive<a>gold</a>income reduced by 10%</li></ul>"
   },
   {
     "id": "7.03_item_Battle-Fury",

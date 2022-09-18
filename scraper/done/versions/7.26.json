@@ -1,9 +1,37 @@
 [
   {
-    "id": "7.26_general_General-updates",
+    "id": "7.26_general_General-updates_0",
     "version": "7.26",
     "category": "general",
     "label": "General updates",
     "descriptionHtml": "<ul><li>This release is focused only on the following systemic changes. Once these changes settle a bit, there will be follow up hero and item specific adjustments.</li></ul>"
+  },
+  {
+    "id": "7.26_general_General-updates_1",
+    "version": "7.26",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Attributes no longer provide<a>Magic Resistance</a>,<a>Spell Amplification</a>and<a>Movement Speed</a>for<a><img></img></a><a><font><b>Strength</b></font></a>,<a><img></img></a><a><font><b>Intelligence</b></font></a>and<a><img></img></a><a><font><b>Agility</b></font></a>respectively.</li></ul>"
+  },
+  {
+    "id": "7.26_general_General-updates_2",
+    "version": "7.26",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Gold bounties</a>reduced by 10% (affects buildings, lane creeps, neutrals and heroes)</li></ul>"
+  },
+  {
+    "id": "7.26_general_General-updates_3",
+    "version": "7.26",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Kill streak</a>gold is reduced by 50%</li></ul>"
+  },
+  {
+    "id": "7.26_general_General-updates_4",
+    "version": "7.26",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><i><a>GAMEPLAY UPDATE 7.26</a></i></li></ul>"
   }
 ]

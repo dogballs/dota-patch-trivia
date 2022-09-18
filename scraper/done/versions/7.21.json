@@ -1,10 +1,108 @@
 [
   {
-    "id": "7.21_general_General-updates",
+    "id": "7.21_general_General-updates_0",
     "version": "7.21",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li>Melee creeps average gold bounty reduced by 3</li><li>Range creeps upgrade cycle gold bounty increased from +3 to +6</li></ul>"
+    "descriptionHtml": "<ul><li>Melee creeps average gold bounty reduced by 3</li></ul>"
+  },
+  {
+    "id": "7.21_general_General-updates_1",
+    "version": "7.21",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Range creeps upgrade cycle gold bounty increased from +3 to +6</li></ul>"
+  },
+  {
+    "id": "7.21_general_General-updates_2",
+    "version": "7.21",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Replaced the primary jungle ancient camps with big camps</li></ul>"
+  },
+  {
+    "id": "7.21_general_General-updates_3",
+    "version": "7.21",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Heroes no longer gain 25% more benefit from their primary attributes (affects attributes from both items and the hero)</li></ul>"
+  },
+  {
+    "id": "7.21_general_General-updates_4",
+    "version": "7.21",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>All heroes have primary attribute growth values increased by 15%</li></ul>"
+  },
+  {
+    "id": "7.21_general_General-updates_5",
+    "version": "7.21",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Health per strength increased from 18 to 20</li></ul>"
+  },
+  {
+    "id": "7.21_general_General-updates_6",
+    "version": "7.21",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>XP required to reach level 7➜12 changed from 640/660/680/800/820/840 to 720/750/780/810/840/870<ul><li>(The difference is +80/90/100/10/20/30 XP)</li></ul></li></ul>"
+  },
+  {
+    "id": "7.21_general_General-updates_7",
+    "version": "7.21",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>The following melee heroes now have<b>+5 movement speed</b>:<ul><li><a><img></img></a>Naga Siren</li><li><a><img></img></a>Underlord</li><li><a><img></img></a>Monkey King</li><li><a><img></img></a>Nyx Assassin</li><li><a><img></img></a>Bloodseeker</li><li><a><img></img></a>Riki</li></ul></li></ul>"
+  },
+  {
+    "id": "7.21_general_General-updates_8",
+    "version": "7.21",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>The following melee heroes now have<b>+10 movement speed</b>:<ul><li><a><img></img></a>Alchemist</li><li><a><img></img></a>Dragon Knight</li><li><a><img></img></a>Meepo</li></ul></li></ul>"
+  },
+  {
+    "id": "7.21_general_General-updates_9",
+    "version": "7.21",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>The following melee heroes now have<b>+15 movement speed</b>:<ul><li><a><img></img></a>Legion Commander</li><li><a><img></img></a>Lifestealer</li><li><a><img></img></a>Lycan</li><li><a><img></img></a>Sven</li><li><a><img></img></a>Ursa</li><li><a><img></img></a>Wraith King</li></ul></li></ul>"
+  },
+  {
+    "id": "7.21_general_General-updates_10",
+    "version": "7.21",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ranged heroes with 295 movement speed and above now have 5 less movement speed</li></ul>"
+  },
+  {
+    "id": "7.21_general_General-updates_11",
+    "version": "7.21",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 2 tower armor increased from 14 to 15</li></ul>"
+  },
+  {
+    "id": "7.21_general_General-updates_12",
+    "version": "7.21",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 3 tower armor increased from 14 to 16</li></ul>"
+  },
+  {
+    "id": "7.21_general_General-updates_13",
+    "version": "7.21",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Melee Barracks armor increased from 13 to 15</li></ul>"
+  },
+  {
+    "id": "7.21_general_General-updates_14",
+    "version": "7.21",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tower Protection armor bonus for Tier 2/3/4 increased from 3 to 4</li></ul>"
   },
   {
     "id": "7.21_item_Animal-Courier",

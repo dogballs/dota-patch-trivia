@@ -1,10 +1,17 @@
 [
   {
-    "id": "7.12_general_General-updates",
+    "id": "7.12_general_General-updates_0",
     "version": "7.12",
     "category": "general",
     "label": "General updates",
     "descriptionHtml": "<ul><li>Enabled<a>Pangolier</a>in<a>Captains Mode</a></li></ul>"
+  },
+  {
+    "id": "7.12_general_General-updates_1",
+    "version": "7.12",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral Creep Stack bounty increased from 15% to 20%</li></ul>"
   },
   {
     "id": "7.12_item_Clarity",

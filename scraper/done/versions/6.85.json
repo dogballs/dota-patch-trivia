@@ -1,10 +1,52 @@
 [
   {
-    "id": "6.85_general_General-updates",
+    "id": "6.85_general_General-updates_0",
     "version": "6.85",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li><a>Purge</a>no longer deals bonus damage to<a>summoned</a>units</li><li>Fixed the following passive abilities not being disabled by<a>Break</a>:<a>Nethertoxin</a>,<a>Tidebringer</a>,<a>Essence Aura</a>,<a>Hunter in the Night</a>,<a>Poison Sting</a>, and<a>neutral</a>ability passives</li></ul>"
+    "descriptionHtml": "<ul><li><a>Purge</a>no longer deals bonus damage to<a>summoned</a>units</li></ul>"
+  },
+  {
+    "id": "6.85_general_General-updates_1",
+    "version": "6.85",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed the following passive abilities not being disabled by<a>Break</a>:<a>Nethertoxin</a>,<a>Tidebringer</a>,<a>Essence Aura</a>,<a>Hunter in the Night</a>,<a>Poison Sting</a>, and<a>neutral</a>ability passives</li></ul>"
+  },
+  {
+    "id": "6.85_general_General-updates_2",
+    "version": "6.85",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Siege Creeps</a>now behave like normal lane creeps for spell targeting rules</li></ul>"
+  },
+  {
+    "id": "6.85_general_General-updates_3",
+    "version": "6.85",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Siege Creeps now have 80%<a>Magic Resistance</a></li></ul>"
+  },
+  {
+    "id": "6.85_general_General-updates_4",
+    "version": "6.85",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Ancient Thunderhide</a>has a new ability:<a>War Drums Aura</a>- provides +15<a>Attack Speed</a>and +15% Attack Damage</li></ul>"
+  },
+  {
+    "id": "6.85_general_General-updates_5",
+    "version": "6.85",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Ancient Black Dragon</a>has a new ability:<a>Dragonhide Aura</a>- provides +2<a>Armor</a>, stackable</li></ul>"
+  },
+  {
+    "id": "6.85_general_General-updates_6",
+    "version": "6.85",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Ancient Dragon Camp</a>units now have 2 less armor</li></ul>"
   },
   {
     "id": "6.85_hero_Abaddon",

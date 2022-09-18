@@ -1,10 +1,178 @@
 [
   {
-    "id": "7.15_general_General-updates",
+    "id": "7.15_general_General-updates_0",
     "version": "7.15",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li>Now spawn every 5 minutes</li><li>Now grants gold to each player (40 + 3/min)</li><li>Now fully fills bottles</li></ul>"
+    "descriptionHtml": "<ul><li>Now spawn every 5 minutes</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_1",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Now grants gold to each player (40 + 3/min)</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_2",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Now fully fills bottles</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_3",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Melee Creeps base gold bounty reduced by 2</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_4",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Range Creeps base gold bounty reduced by 1</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_5",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Range Creeps gold bounty increase per upgrade changed from 1 to 3 (With these changes, the total gold difference on the map at 40 minutes is 2052 less gold)</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_6",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral camp stack bounty increased from 20% to 25%</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_7",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Roshan slam damage growth increased from 8 per minute to 10</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_8",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Roshan base damage increased from 65 to 75</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_9",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Roshan base health increased from 5500 to 6000</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_10",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Melee Barracks team bounty reduced from 225 to 175</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_11",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tower denies now remove all gold instead of just half (previously it gave 50/60/70/80 for tier 1/2/3/4 denies)</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_12",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ancient HP regen increased from 8 to 12</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_13",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed a tree to the bottom right of the dire mid lane, near the map ledge</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_14",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Minor adjustments to the position of the powerup runes</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_15",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reduced spawn box sizes for a few of Dire neutral spawns</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_16",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed a tree to the right of the bottom Radiant bounty rune</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_17",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Moved the bottom Dire T1 tower slightly down</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_18",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Moved the bottom Dire bounty rune slightly to the right</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_19",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Moved the bottom Dire shrine location slightly down</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_20",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Moved the top Dire T1 slightly to the right</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_21",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Slight adjustments to the line of sight and trees to the left of the mid Dire T1</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_22",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ranged creeps now always spawn behind the melee creeps</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_23",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Round time increased from 30 to 35</li></ul>"
+  },
+  {
+    "id": "7.15_general_General-updates_24",
+    "version": "7.15",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Second ban phase order changed from 2nd/1st/2nd/1st to 1st/2nd/1st/2nd</li></ul>"
   },
   {
     "id": "7.15_item_Animal-Courier",

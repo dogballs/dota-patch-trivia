@@ -1,10 +1,262 @@
 [
   {
-    "id": "7.22_general_General-updates",
+    "id": "7.22_general_General-updates_0",
     "version": "7.22",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li>Added new<a>Aghanim&apos;s Scepter</a>upgrades for all of the 24 remaining heroes without an upgrade</li><li>Updated various older Scepter upgrades</li><li>Scepter can now be consumed as a buff by purchasing a 2000 gold recipe upgrade<ul><li>Scepter buffs do not grant secondary stat bonuses</li></ul></li><li>Added a new visual effect under heroes that have a Scepter upgrade</li></ul>"
+    "descriptionHtml": "<ul><li>Added new<a>Aghanim&apos;s Scepter</a>upgrades for all of the 24 remaining heroes without an upgrade</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_1",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Updated various older Scepter upgrades</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_2",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Scepter can now be consumed as a buff by purchasing a 2000 gold recipe upgrade<ul><li>Scepter buffs do not grant secondary stat bonuses</li></ul></li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_3",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new visual effect under heroes that have a Scepter upgrade</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_4",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Roshan</a>now drops a consumable Scepter buff item<ul><li>The third Roshan will randomly drop either a consumable Scepter item or a<a>Refresher Shard</a></li><li>The fourth Roshan has both</li><li>You can select Roshan to see his inventory and find out what items will drop</li></ul></li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_5",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Base armor increased by 2</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_6",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Attack damage per minute increased from 4 to 6</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_7",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Last hit gold bounty range changed from 150-400 to 225-325 (average unchanged)</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_8",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Last hit XP bounty reduced from 750 to 400</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_9",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added<a><img></img></a><a>Mars</a>to Captains Mode</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_10",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added<a><img></img></a><a>Io</a>to Captains Mode</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_11",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>The timer that credits a player for a kill, when radiant/dire get the final hit, is increased from 20 to 30 seconds</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_12",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Deny</a>XP granted to the enemy (the player being denied) increased from 35% to 40%</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_13",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Death cost changed from 50 + NW/40 to NW/40</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_14",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Killstreak XP bounty increased from 200➜1250 to 400➜1800</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_15",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>XP requirement to reach level 5/6 reduced from 600/620 to 580/600</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_16",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>XP required to reach level 19+ increased by 100 each level</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_17",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ranged creeps XP now increases by 8 per upgrade cycle (every 7.5 minutes)</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_18",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Siege creeps</a>base attack time increased from 2.7 to 3</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_19",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Siege creeps now spawn two units at 35 minutes instead of 30 minutes</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_20",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Siege creeps can no longer be dominated, enchanted, or converted</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_21",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 3+ towers damage increased from 152 damage to 175</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_22",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 1 Tower Protection aura armor bonus increased from 2 to 3</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_23",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 2+ Tower Protection aura armor bonus increased from 4 to 5</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_24",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 2+ Towers now have a multishot attack when<a>glyph</a>is activated<ul><li>Attacks up to two additional targets</li><li>Prioritizes the closest units</li></ul></li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_25",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Slightly adjusted Radiant safelane hard camp position and the terrain nearby</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_26",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reduced the chase duration of the hard camp neutrals on the radiant safelane area</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_27",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Radiant middle tier 2 tower is now moved further to the left<ul><li>(No longer has vision over the big camp on the right)</li></ul></li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_28",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted tree line to the right of the radiant middle tier 2 tower</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_29",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>The Radiant mid lane medium camp now has 2 layers of trees behind it</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_30",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted various Dire neutral spawn boxes</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_31",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Illusions</a>can now<a>lifesteal</a></li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_32",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Lifesteal now works against enemy illusions<ul><li>(Calculated before illusion amplification)</li></ul></li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_33",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>The following items are no longer partially shareable:<ul><li><a>Ring of Regen</a></li><li><a>Ring of Tarrasque</a></li><li><a>Sage&apos;s Mask</a></li><li><a>Ring of Health</a></li><li><a>Void Stone</a></li><li><a>Perseverance</a></li></ul></li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_34",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Satyr Tormenter</a><a>Unholy Aura</a>hp regen reduced from 5.5 to 5</li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_35",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Heroes can now have non-standard initial attack speed values (previously 100 for all heroes)<ul><li><a><img></img></a><a>Abaddon</a>: Base attack speed increased from 100 to 115</li><li><a><img></img></a><a>Broodmother</a>: Base attack speed increased from 100 to 125</li><li><a><img></img></a><a>Crystal Maiden</a>: Base attack speed increased from 100 to 115</li><li><a><img></img></a><a>Gyrocopter</a>: Base attack speed increased from 100 to 125</li><li><a><img></img></a><a>Mirana</a>: Base attack speed increased from 100 to 115</li><li><a><img></img></a><a>Silencer</a>: Base attack speed increased from 100 to 115</li><li><a><img></img></a><a>Slark</a>: Base attack speed increased from 100 to 120</li><li><a><img></img></a><a>Venomancer</a>: Base attack speed increased from 100 to 115</li><li><a><img></img></a><a>Weaver</a>: Base attack speed increased from 100 to 120</li></ul></li></ul>"
+  },
+  {
+    "id": "7.22_general_General-updates_36",
+    "version": "7.22",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Heroes can now have non-standard base mana regen values<ul><li><a><img></img></a><a>Clinkz</a>: Now has 0.25 base mana regen</li><li><a><img></img></a><a>Lich</a>: Now has 0.75 base mana regen</li><li><a><img></img></a><a>Pugna</a>: Now has 0.5 base mana regen</li><li><a><img></img></a><a>Shadow Fiend</a>: Now has 0.3 mana regen</li><li><a><img></img></a><a>Techies</a>: Now has 1 base mana regen</li><li><a><img></img></a><a>Tinker</a>: Now has 0.25 base mana regen</li><li><a><img></img></a><a>Treant Protector</a>: Now has 0.5 base mana regen</li><li><a><img></img></a><a>Weaver</a>: Now has 0.4 base mana regen</li><li><a><img></img></a><a>Zeus</a>: Now has 0.25 base mana regen</li></ul></li></ul>"
   },
   {
     "id": "7.22_item_Bloodstone",

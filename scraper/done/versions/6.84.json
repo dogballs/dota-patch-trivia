@@ -1,10 +1,276 @@
 [
   {
-    "id": "6.84_general_General-updates",
+    "id": "6.84_general_General-updates_0",
     "version": "6.84",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li>AoE Bonus<a>Gold</a>component based on Team Net Worth difference reduced by 25%</li><li>AoE Bonus<a>XP</a>component based on Team XP difference reduced by 40%</li></ul>"
+    "descriptionHtml": "<ul><li>AoE Bonus<a>Gold</a>component based on Team Net Worth difference reduced by 25%</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_1",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>AoE Bonus<a>XP</a>component based on Team XP difference reduced by 40%</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_2",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Melee lane<a>creep</a>bounty reduced from 43 to 40 (-7%)</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_3",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Range lane creep bounty reduced from 48 to 45 (-6.25%)</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_4",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Hero kills (the non-net worth portions) are worth 10% more</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_5",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reduced the direct hero last hit bounty by 100 and redistributed that gold into AoE gold (in ratio of 100/75/40/25/20 for 1/2/3/4/5 heroes)<ul><li>If you are the only person contributing to a kill, you still get the same gold overall</li></ul></li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_6",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>AoE Bonus Gold is now distributed based on the relative net worth amongst the heroes involved in killing the hero by +/- 25%<ul><li>Example: If 3 heroes kill an enemy hero, and the extra AoE bounty would normally be 200 gold for each player, it is instead 200+25% for the poorest hero, 200 for the middle, and 200-25% for the richest</li></ul></li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_7",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>The amount of AoE Bonus Gold given is now increased/decreased by up to 20% based on the dying hero’s relative rank in net worth amongst all the enemies on that team.<ul><li>Example: If the total AoE gold would normally have been 600, if the hero dying is the lowest in net worth, the bounty is reduced by 20% giving only 480. If the dying hero is the highest, it is increased by 20%, giving 720</li></ul></li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_8",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Instead of<a>Buyback</a>temporarily preventing unreliable gold gain, it now reduces all gold gained (including hero and aoe gold) by 60%<ul><li>This means that if you buyback when the enemy is pushing and you get a few kills, the amount of gold you get for that, including the networth difference bonus, is reduced by 60%</li></ul></li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_9",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Melee<a>Barracks</a>team bounty increased from 175 to 275</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_10",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ranged Barracks team bounty increased from 100 to 225</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_11",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 2 and 3<a>towers</a>armor reduced from 25 to 22</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_12",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Extra melee creeps additions spawn time changed from 17:30/34:00/50:30 to 15:00/30:00/45:00<ul><li>This means that you will get an extra melee creep at 15 minutes instead of at 17:30</li></ul></li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_13",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Extra range/siege creep additions spawntime from 45:30 to 45:00</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_14",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Creeps now meet slightly closer to the Dire safelane</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_15",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Ancient Black Dragon</a>bounty reduced from 199 to 170</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_16",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Ancient Black Drake</a>bounty reduced from 50 to 40</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_17",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Ancient Rumblehide</a>bounty reduced from 83 to 65</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_18",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Satyr Tormenter</a>gold bounty reduced from 104 to 84</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_19",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Hellbear</a>health reduced from 950 to 700</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_20",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Hellbear bounty reduced from 65 to 50</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_21",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Ogre Frostmage</a>bounty reduced from 52 to 40</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_22",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reworked<a>Mud Golems</a>:<ul><li>Mud Golems no longer have<a>Spell Immunity</a></li><li>Mud Golems now have 50%<a>Magic Resistance</a></li><li>Mud Golems armor reduced from 2 to 0</li><li>Mud Golems now split into two smaller Mud Golems, called<a>Shard Golems</a>, when they die (they have 30% of the original units&apos; health and damage, and only live for 60 seconds)</li><li>Mud Golems movement speed increased from 270 to 310</li><li>Mud Golems (and also Shard Golems) have a new active ability:<a>Hurl Boulder</a>(0.6 second stun, 125 damage, 30 cooldown, 800 range) They do not automatically cast this</li><li>Gold/XP bounties rescaled so the total value for the camp remains the same (Mud Golems 32/42 Gold/XP each, Shard Golems 13/23 each)</li></ul></li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_23",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Hero kills achieved by units under your control now provide XP credit to your hero (Affects things like<a>Spirit Bear</a>,<a>Golems</a>,<a>Familiars</a>, etc. getting kills)</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_24",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Melee attacks now miss if the target is farther than 350 range more than their attack range</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_25",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reduced<a>All Pick</a>drafting time from 40 to 35 seconds per turn</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_26",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>The following abilities no longer ignore units classified as<a>Ancients</a>(Neutral Ancients, Warlock&apos;s Golem, etc.):<a>Ice Vortex</a>,<a>Mana Void</a>,<a>Berserker&apos;s Call</a>,<a>Blood Rite</a>,<a>Blade Fury</a>,<a>Omnislash</a>,<a>Torrent</a>,<a>Ghost Ship</a>,<a>Smoke Screen</a>,<a>Static Remnant</a>,<a>Primal Roar</a>,<a>Earth Spike</a>,<a>Heartstopper Aura</a>,<a>Shrapnel</a>, Golem&apos;s<a>Immolation</a>,<a>Sticky Napalm</a>, Primal Split&apos;s<a>Immolation</a>,<a>Call Down</a>, Invoker&apos;s<a>Tornado</a>,<a>EMP</a>,<a>Chaos Meteor</a>,<a>Sun Strike</a>,<a>Ice Wall</a>,<a>Deafening Blast</a>,<a>Pulse Nova</a>,<a>Eclipse</a>,<a>Battery Assault</a>,<a>Rocket Flare</a>,<a>Shadow Poison</a>,<a>Dispersion</a>,<a>The Swarm</a>,<a>Kinetic Field</a>,<a>Static Storm</a>,<a>Astral Spirit</a>,<a>Echo Stomp</a>,<a>Overwhelming Odds</a>,<a>Stone Gaze</a>,<a>Earthbind</a>,<a>Poof</a>,<a>Rip Tide</a>, Nyx&apos;s<a>Impale</a>,<a>Fire Spirits</a>,<a>Supernova</a>,<a>Mystic Flare</a>,<a>Dark Pact</a>,<a>Suicide Squad, Attack!</a>,<a>Ravage</a>,<a>Demonic Purge</a>,<a>Fortune&apos;s End</a><ul><li>Note: This does not mean that all these spells fully affect Neutral Ancients. It still depends on the units with Ancient tag being Spell Immune or not. It primarily means that those spells have no specific rule around the Ancient flag itself.</li></ul></li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_27",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Damage Block</a>no longer affects physical spells (previously it affected some physical spells and some not)</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_28",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Cast behavior while turning to cast has been adjusted</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_29",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reworked the Item Silencing and Passive Disabling behaviors</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_30",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Hex no longer applies the Break mechanic<ul><li>Affects<a>Scythe of Vyse</a>,<a>Voodoo</a>, etc.</li></ul></li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_31",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Silence</a>no longer disables Invisibility<ul><li>Previously it disabled some and not others</li></ul></li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_32",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Moved<a>Ring of Health</a>,<a>Void Stone</a>, and<a>Orb of Venom</a>from<a>Secret Shop</a>to the Base</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_33",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Moved<a>Platemail</a>,<a>Talisman of Evasion</a>, and<a>Ultimate Orb</a>from the Base to the Secret Shop</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_34",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added Void Stone and<a>Mantle of Intelligence</a>to<a>Side Shop</a></li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_35",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Runes</a>now have a higher hit box priority over units</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_36",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Armor now shows decimal places in the hover tooltip</li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_37",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed buyback respawn timer penalty being reset if you die holding<a>Aegis</a></li></ul>"
+  },
+  {
+    "id": "6.84_general_General-updates_38",
+    "version": "6.84",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>The following heroes are no longer restricted from buying<a>Basher</a>/<a>Abyssal</a>(but they are still restricted from activating Bash):<a>Spirit Breaker</a>,<a>Faceless Void</a>,<a>Slardar</a>, and<a>Troll</a></li></ul>"
   },
   {
     "id": "6.84_hero_Abaddon",

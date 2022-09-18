@@ -8,11 +8,18 @@
     "imageSrc": "/commons/images/thumb/6/60/Grimstroke_Large.png/128px-Grimstroke_Large.png"
   },
   {
-    "id": "7.19_general_General-updates",
+    "id": "7.19_general_General-updates_0",
     "version": "7.19",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li><a>Daily Bonus Hero</a>changed from 2<a>Mangoes</a>to 1</li><li>Added 2 trees near the cliff area below the Dire primary jungle shrine</li></ul>"
+    "descriptionHtml": "<ul><li><a>Daily Bonus Hero</a>changed from 2<a>Mangoes</a>to 1</li></ul>"
+  },
+  {
+    "id": "7.19_general_General-updates_1",
+    "version": "7.19",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added 2 trees near the cliff area below the Dire primary jungle shrine</li></ul>"
   },
   {
     "id": "7.19_hero_Abaddon",

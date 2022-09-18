@@ -1,10 +1,185 @@
 [
   {
-    "id": "7.24_general_General-updates",
+    "id": "7.24_general_General-updates_0",
     "version": "7.24",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li>Heroes now have a dedicated neutral items slot. A maximum of one neutral item can be equipped on your hero.</li><li>There is now a Neutral Item Stash in the fountain. Neutral items are now stored there instead of on the fountain floor. Right clicking on an available item in the new UI will place it in your stash/courier and can be delivered to you. This UI will also show the state and location of all the other items that have dropped.</li><li>Neutral items can now be teleported to your Neutral Item Stash at home through a right click context menu (from your backpack or your neutral slot)</li><li>Backpack slot count reduced from 4 to 3</li><li>Neutral item drop count per tier increased from 3 to 4 (chance from 9 to 10%)</li><li>Ancients neutral drop rates are 3x higher</li></ul>"
+    "descriptionHtml": "<ul><li>Heroes now have a dedicated neutral items slot. A maximum of one neutral item can be equipped on your hero.</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_1",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>There is now a Neutral Item Stash in the fountain. Neutral items are now stored there instead of on the fountain floor. Right clicking on an available item in the new UI will place it in your stash/courier and can be delivered to you. This UI will also show the state and location of all the other items that have dropped.</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_2",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral items can now be teleported to your Neutral Item Stash at home through a right click context menu (from your backpack or your neutral slot)</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_3",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Backpack slot count reduced from 4 to 3</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_4",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral item drop count per tier increased from 3 to 4 (chance from 9 to 10%)</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_5",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ancients neutral drop rates are 3x higher</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_6",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed Shrines</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_7",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Outposts moved to the primary jungles</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_8",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Outposts vision reduced from 1400 flying to 700 ground vision (same for truesight)</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_9",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Outposts now start as owned by the respective teams, and can be captured at any time (rewards still happen at the 10 minute mark)</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_10",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Adjusted tree layout on the map edges near the previous outpost areas</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_11",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Moved a medium camp in the Dire Primary Jungle to a nearby location</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_12",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Lane bounty runes have been moved to the secondary jungles</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_13",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed all GPM talents</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_14",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added Void Spirit and Snapfire to Captain&apos;s Mode</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_15",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Hero respawn time increased from 6/8/10/14/16 for level 1-5 to 12/15/18/21/24</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_16",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Buyback cost increased from 100 + NW/13 to 200 + NW/12</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_17",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Courier death no longer disables your passive gold income</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_18",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Courier bounty increased from 25+5*Level for each player to 30 + 7 * Level</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_19",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Courier respawn time changed from 50 + 7 * Level to 60 + 7 * Level</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_20",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Courier movement speed increased from 280 to 290</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_21",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Courier can no longer plant wards at level 15</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_22",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Courier can no longer use items at level 25</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_23",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Implemented custom UI for charged-based abilities rather than using buffs</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_24",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Melee attacks now have a bonus 150 range against Observer and Sentry Wards</li></ul>"
+  },
+  {
+    "id": "7.24_general_General-updates_25",
+    "version": "7.24",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 5 items now drop at 60 minutes (item adjustments below)</li></ul>"
   },
   {
     "id": "7.24_item_Ironwood-Tree",

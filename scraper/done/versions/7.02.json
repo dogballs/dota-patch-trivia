@@ -1,10 +1,94 @@
 [
   {
-    "id": "7.02_general_General-updates",
+    "id": "7.02_general_General-updates_0",
     "version": "7.02",
     "category": "general",
     "label": "General updates",
     "descriptionHtml": "<ul><li><a>Shrines</a>are now vulnerable after a T3 tower dies (same as the Shrines inside the base), rather than after all T2 towers die</li></ul>"
+  },
+  {
+    "id": "7.02_general_General-updates_1",
+    "version": "7.02",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added<a>Lycan</a>to<a>Captains Mode</a></li></ul>"
+  },
+  {
+    "id": "7.02_general_General-updates_2",
+    "version": "7.02",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Regen Rune</a>now has the same damage dispel rules as<a>Healing Salve</a></li></ul>"
+  },
+  {
+    "id": "7.02_general_General-updates_3",
+    "version": "7.02",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Satyr Trickster</a><a>Purge</a>slow from 100/80/60/40/20% over 5 seconds to 50/40/30/20/10%</li></ul>"
+  },
+  {
+    "id": "7.02_general_General-updates_4",
+    "version": "7.02",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Towers</a>no longer attack neutral team units</li></ul>"
+  },
+  {
+    "id": "7.02_general_General-updates_5",
+    "version": "7.02",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>The following abilities cause neutrals to temporarily not draw aggro:<a>Meat Hook</a>,<a>Telekinesis</a>, and<a>Toss</a></li></ul>"
+  },
+  {
+    "id": "7.02_general_General-updates_6",
+    "version": "7.02",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added more<a>trees</a>for<a>TP</a>cover around the dire towers</li></ul>"
+  },
+  {
+    "id": "7.02_general_General-updates_7",
+    "version": "7.02",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Swapped the dire secondary jungle ancients and medium camp spots (and improved spawn boxes/stackability)</li></ul>"
+  },
+  {
+    "id": "7.02_general_General-updates_8",
+    "version": "7.02",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>The Dire ward spot to the left of the Ancients no longer gives vision over the rune area in front of Roshan</li></ul>"
+  },
+  {
+    "id": "7.02_general_General-updates_9",
+    "version": "7.02",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Slightly adjusted the dire secondary jungle bounty rune further back</li></ul>"
+  },
+  {
+    "id": "7.02_general_General-updates_10",
+    "version": "7.02",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reduced spawnbox size for both Dire hard camps</li></ul>"
+  },
+  {
+    "id": "7.02_general_General-updates_11",
+    "version": "7.02",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Shifted down the spawnbox for the ancient camp (formerly medium camp) in the Dire secondary jungle (so a high ground ward does not block the camp)</li></ul>"
+  },
+  {
+    "id": "7.02_general_General-updates_12",
+    "version": "7.02",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed a rare case where Dire ancients could be stuck between trees when spawning</li></ul>"
   },
   {
     "id": "7.02_item_Helm-of-the-Dominator",

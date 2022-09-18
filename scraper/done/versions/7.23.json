@@ -1,17 +1,395 @@
 [
   {
-    "id": "7.23_general_General-updates",
+    "id": "7.23_general_General-updates_0",
     "version": "7.23",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li>Each player now has their own courier automatically</li><li>Courier now gains levels when your hero gains levels</li><li>Courier movement speed reduced from 380 to 275</li><li>Courier health reduced from 75 to 70</li><li>Courier now provides 85 GPM while it is alive (this replaces the base 91 GPM that previously existed)</li><li>Courier passively gains +10 movement speed, +10 health and +2 GPM increase per level</li><li>Courier gains flying movement at level 5</li><li>Courier gains Speed Burst active ability at level 10 (6-second duration +50% MS, 120 CD)</li><li>Courier gains ability to use wards at level 15</li><li>Courier gains Shield active ability at level 20 (2s duration, 200 CD)</li><li>Courier gains ability to use items in general at level 25</li><li>Courier vision reduced from 350 to 200</li><li>Courier team bounty is now 25 + 5 * Level, xp is 35 + 20 * Level</li><li>Courier respawn time changed from 120/180 ground/flying to 50 + 7 * Level</li><li>Courier Return Items ability will now cause the courier to return home even if it doesn&apos;t have items</li></ul>"
+    "descriptionHtml": "<ul><li>Each player now has their own courier automatically</li></ul>"
   },
   {
-    "id": "7.23_general_General-updates",
+    "id": "7.23_general_General-updates_1",
     "version": "7.23",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li>XP bonus is 25*Min XP to each player</li><li>Provides 500 AoE truesight</li><li>Only gains XP bonus once per period regardless if you have one or two outposts controlled</li><li>Takes 6 seconds to teleport to it (shares the delayed TP duration mechanic with T1 towers)</li></ul>"
+    "descriptionHtml": "<ul><li>Courier now gains levels when your hero gains levels</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_2",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Courier movement speed reduced from 380 to 275</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_3",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Courier health reduced from 75 to 70</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_4",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Courier now provides 85 GPM while it is alive (this replaces the base 91 GPM that previously existed)</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_5",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Courier passively gains +10 movement speed, +10 health and +2 GPM increase per level</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_6",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Courier gains flying movement at level 5</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_7",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Courier gains Speed Burst active ability at level 10 (6-second duration +50% MS, 120 CD)</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_8",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Courier gains ability to use wards at level 15</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_9",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Courier gains Shield active ability at level 20 (2s duration, 200 CD)</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_10",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Courier gains ability to use items in general at level 25</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_11",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Courier vision reduced from 350 to 200</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_12",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Courier team bounty is now 25 + 5 * Level, xp is 35 + 20 * Level</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_13",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Courier respawn time changed from 120/180 ground/flying to 50 + 7 * Level</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_14",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Courier Return Items ability will now cause the courier to return home even if it doesn&apos;t have items</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_15",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Observer Wards</a>no longer cost gold</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_16",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Heroes now start with 3<a>Town Portal Scrolls</a></li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_17",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Gold earned from killing an Observer Ward will now always be given to the player that bought the true sight</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_18",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Heroes that have recently applied damage or a debuff on an enemy hero that dies are now considered part of the area assist gold even if they are no longer alive or in that area</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_19",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Assist gold</a>distribution multiplier for Net Worth ranking factor in the area is changed from multiplying based on the heroes in the area, to globally.</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_20",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Net Worth</a>Ranking factor for Gold changed from 1.3-&gt;0.7 to 1.6-&gt;0.4</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_21",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Map layout redesigned<span>[?]</span></li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_22",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Heroes can now level up to 30. Once you get to level 30, you unlock the entire talent tree. XP requirement for the levels are 3500/4500/5500/6500/7500. Respawn time does not increase past 25. XP bounties max out at level 25 bounty values.</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_23",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Spell Immunity no longer grants 100% Magic Resistance (this means that all spells that are able to pierce spell immunity now deal damage as well)<ul><li>Note 1: A quick refresher on how this currently works: Spells have two properties: 1) whether it applies to Spell Immune targets, and 2) what the damage type is. These are listed in the ability tooltips.</li><li>Note 2: This change means that if something pierced immunity before, and was magical damage, it will now do damage. If it didn&apos;t pierce spell immunity before, it will still not deal any damage.</li></ul></li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_24",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed Side Shops<ul><li>Bottle has been removed from the Secret Shop</li><li>All Secret Shop items are now exclusively in the Secret Shop (this means Ring of Health and Void Stone are no longer in the base)</li></ul></li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_25",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 2 Towers HP increased from 1900 to 2000</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_26",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 2 Tower Armor increased from 15 to 16</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_27",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 2 Tower Damage increased from 152 to 175</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_28",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 2+ towers night vision increased from 800 to 1100</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_29",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tower Glyph multishot targets increased from 2 to 4</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_30",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Glyph duration increased from 6 to 7</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_31",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Improved input processing to feel snappier, as well as fixing some rare input drop bugs</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_32",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Denied towers now give half of the bounty to the team that denies it and half to the other team (instead of 0 to both teams)</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_33",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Siege damage against heroes increased from 85% to 100%</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_34",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fountain damage increased from 230 to 275</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_35",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fountain now has 20% Accuracy</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_36",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral<a>Cloak Aura</a>no longer stacks</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_37",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral<a>Harpy Stormcrafter</a>: Max mana reduced from 400 to 150</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_38",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral Harpy Stormcrafter: Mana regeneration increased from 1 to 3</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_39",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral<a>Mud Golem</a>: Hurl Boulder damage reduced from 125 to 75</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_40",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral<a>Ghost</a>: Frost Attack move slow from 20 to 25%</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_41",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral Ghost: Frost Attack attack slow from 20 to 25%</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_42",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral<a>Vhoul Assassin</a>: Poison debuff now applies 35% Regen Reduction</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_43",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral<a>Centaur Conqueror</a>: War Stomp cooldown reduced from 20 to 12</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_44",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral<a>Dark Troll Summoner</a>: Ensnare cooldown reduced from 20 to 15</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_45",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral Dark Troll Summoner: Raise Dead cooldown reduced from 25 to 18</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_46",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral<a>Ancient Thunderhide</a>: War Drums Aura no longer provides attack damage bonus</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_47",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral Ancient Thunderhide: War Drums Aura now provides 40% Accuracy</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_48",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral Ancient Thunderhide: War Drums Aura attack speed bonus increased from 15 to 25</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_49",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral<a>Ogre Frostmage</a>: Armor bonus reduced from 8 to 6</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_50",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral Ogre Frostmage: Slow now works against ranged units as well</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_51",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral Ogre Frostmage: Attack slow increased from 20 to 30</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_52",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>XP bonus is 25*Min XP to each player</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_53",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Provides 500 AoE truesight</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_54",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Only gains XP bonus once per period regardless if you have one or two outposts controlled</li></ul>"
+  },
+  {
+    "id": "7.23_general_General-updates_55",
+    "version": "7.23",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Takes 6 seconds to teleport to it (shares the delayed TP duration mechanic with T1 towers)</li></ul>"
   },
   {
     "id": "7.23_neutral-item_Neutral-Drop-Mechanics",
@@ -204,7 +582,7 @@
     "version": "7.23",
     "category": "item",
     "label": "Vladmir's Offering",
-    "descriptionHtml": "<ul><li>Now uses Chainmail instead of Buckler. Provides 6 armor, 4 all stats (no armor aura/armor on active)</li><li>Health regeneration aura reduced from 3.5 to 2.5</li></ul>",
+    "descriptionHtml": "<table><tbody><tr><th>Details</th></tr><tr><th></th><th>Old</th><th>New</th></tr><tr><th>Requires</th><td><ul><li>Ring of Basilius (500)</li><li>Morbid Mask (900)</li><li>Recipe (525)</li><li><b>Total: 1925</b></li></ul></td><td><ul><li>Ring of Basilius (450)</li><li>Morbid Mask (900)</li><li>Buckler (450)</li><li>Recipe (350)</li><li><b>Total: 2150</b></li></ul></td></tr><tr><th>Provides</th><td><ul><li>+15% Lifesteal Aura (Melee)</li><li>+10% Lifesteal Aura (Ranged)</li><li>+15% Attack Damage Aura</li><li>+1.5 Mana Regeneration Aura</li><li>+4 Armor Aura</li></ul></td><td><ul><li>+6 All Stats</li><li>+25% Lifesteal Aura</li><li>+1.5 Mana Regeneration Aura</li><li>+3 Armor Aura</li></ul></td></tr></tbody></table>",
     "imageSrc": "/commons/images/f/f5/Vladmirs_Offering.png"
   },
   {
@@ -212,7 +590,7 @@
     "version": "7.23",
     "category": "item",
     "label": "Helm of the Dominator",
-    "descriptionHtml": "<ul><li>Now uses Chainmail instead of Buckler. Provides 6 armor, 4 all stats (no armor aura/armor on active)</li><li>Health regeneration aura reduced from 3.5 to 2.5</li></ul>",
+    "descriptionHtml": "<table><tbody><tr><th>Details</th></tr><tr><th></th><th>Old</th><th>New</th></tr><tr><th>Requires</th><td><ul><li>Headdress (525)</li><li>Gloves of Haste (500)</li><li>Ring of Health (850)</li><li>Recipe (300)</li><li><b>Total: 2175</b></li></ul></td><td><ul><li>Headdress (450)</li><li>Broadsword (1200)</li><li>Crown (450)</li><li>Recipe (300)</li><li><b>Total: 2400</b></li></ul></td></tr><tr><th>Provides</th><td><ul><li>+2 All Stats</li><li>+20 Attack Speed Aura</li><li>+8.5 Health Regeneration Aura</li></ul></td><td><ul><li>+7 All Stats</li><li>+20% Base Damage Aura</li><li>+5 Health Regeneration Aura</li></ul></td></tr></tbody></table>",
     "imageSrc": "/commons/images/6/61/Helm_of_the_Dominator.png"
   },
   {
@@ -220,7 +598,7 @@
     "version": "7.23",
     "category": "item",
     "label": "Drum of Endurance",
-    "descriptionHtml": "<ul><li>Now uses Chainmail instead of Buckler. Provides 6 armor, 4 all stats (no armor aura/armor on active)</li><li>Health regeneration aura reduced from 3.5 to 2.5</li></ul>",
+    "descriptionHtml": "<table><tbody><tr><th>Details</th></tr><tr><th></th><th>Old</th><th>New</th></tr><tr><th>Requires</th><td><ul><li>Crown (450)</li><li>Wind Lace (250)</li><li>Sage&apos;s Mask (325)</li><li>Recipe (600)</li><li><b>Total: 1625</b></li></ul></td><td><ul><li>Crown (450)</li><li>Wind Lace ( 250)</li><li>Gloves of Haste (400)</li><li>Recipe (800)</li><li><b>Total: 1900</b></li></ul></td></tr><tr><th>Provides</th><td><ul><li>+6 All Stats</li><li>+20 Movement Speed</li><li>+1.25 Mana Regeneration</li></ul></td><td><ul><li>+6 All Stats</li><li>+20 Movement Speed</li><li>+20 Attack Speed Aura</li></ul></td></tr></tbody></table>",
     "imageSrc": "/commons/images/a/a9/Drum_of_Endurance.png"
   },
   {

@@ -1,10 +1,45 @@
 [
   {
-    "id": "7.09_general_General-updates",
+    "id": "7.09_general_General-updates_0",
     "version": "7.09",
     "category": "general",
     "label": "General updates",
     "descriptionHtml": "<ul><li><a>Starting gold</a>reduced from 625 to 600</li></ul>"
+  },
+  {
+    "id": "7.09_general_General-updates_1",
+    "version": "7.09",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Initial<a>bounty rune</a>now gives +40 gold to all heroes instead of 100 to the hero that picks it up (those bounty runes look slightly different)</li></ul>"
+  },
+  {
+    "id": "7.09_general_General-updates_2",
+    "version": "7.09",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Killing a neutral camp stack now gives a bonus 15% gold bounty to the hero that stacked it. No bonus is given if the stack is cleared by an enemy or the hero that stacked it. (New audio is now played once a stack is successful. Stacked neutrals have a buff with the stacker&apos;s hero icon on it.)</li></ul>"
+  },
+  {
+    "id": "7.09_general_General-updates_3",
+    "version": "7.09",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ranged creep attack acquisition range reduced from 800 to 600</li></ul>"
+  },
+  {
+    "id": "7.09_general_General-updates_4",
+    "version": "7.09",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 1 mid lane towers are now a bit closer to the river</li></ul>"
+  },
+  {
+    "id": "7.09_general_General-updates_5",
+    "version": "7.09",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed a tree in the radiant jungle (to the top right of the blue crystals near the ancients)</li></ul>"
   },
   {
     "id": "7.09_item_Animal-Courier",

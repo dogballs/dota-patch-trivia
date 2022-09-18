@@ -6,7 +6,7 @@ import createState from '../lib/create-state';
 import Board from './board';
 import Loading from './loading';
 import Instructions from './instructions';
-import badCards from '../lib/bad-cards';
+import whitelistJSON from '../lib/whitelist.json';
 
 export default function Game() {
   const [state, setState] = useState<GameState | null>(null);
@@ -19,7 +19,7 @@ export default function Game() {
       const res = await axios.get<Item[]>('combined.json');
       const responseItems = res.data;
       const filteredItems = responseItems.filter((item) => {
-        return !badCards.includes(item.id);
+        return (whitelistJSON as string[]).includes(item.id);
       });
       setItems(filteredItems);
     };

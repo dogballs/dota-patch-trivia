@@ -1,10 +1,332 @@
 [
   {
-    "id": "6.82_general_General-updates",
+    "id": "6.82_general_General-updates_0",
     "version": "6.82",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li><a>Fountain</a>area is now at a higher elevation level</li><li>Fountain vision increased from 1400 to 1800</li><li>Fountain attack range increased from 1100 to 1200</li><li>Fountain True Sight increased from 900 to 1200</li></ul>"
+    "descriptionHtml": "<ul><li><a>Fountain</a>area is now at a higher elevation level</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_1",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fountain vision increased from 1400 to 1800</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_2",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fountain attack range increased from 1100 to 1200</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_3",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fountain True Sight increased from 900 to 1200</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_4",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reworked terrain surrounding the<a>Roshan</a>area</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_5",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reworked terrain around the Dire bottom lane</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_6",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reworked terrain below the Top Radiant Tier 1 Tower</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_7",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reworked the area to the left of the bottom Dire Tier 2 Tower</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_8",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Moved Dire bottom Tier 2 Tower back very slightly</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_9",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added an alternate path to the north of the bottom lane Side Shop</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_10",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added an alternate path to the right of the bottom Dire Tier 1 Tower</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_11",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new ward spot near the bottom Dire Tier 2 Tower</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_12",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new ward spot near the top Radiant Tier 2 Tower</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_13",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new ward spot between Roshan and the Dire bottom lane</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_14",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Bottom Lane Dire creeps now arrive slightly closer to the Dire Tier 1 Tower</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_15",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Top Lane Radiant creeps now arrive slightly farther from the Radiant Tier 1 Tower</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_16",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added the<a>Bounty Rune</a><ul><li>Grants 50 XP +5/Min and 50 gold +2/Min</li><li>Can be bottled</li></ul></li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_17",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Two runes now spawn in the river every two minutes<ul><li>One of them will always be a Bounty Rune</li></ul></li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_18",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Runes are replaced every two minutes if they are not picked up</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_19",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Denied</a>creeps now give less experience<ul><li>50% experience, instead of a constant 36 per unit</li><li>Example: Initial creep wave from 144 XP to 113 XP if the creeps are denied</li></ul></li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_20",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>First Blood</a>bonus gold decreased from 200 to 150</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_21",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reworked the bonus area of effect XP<ul><li>This change only affects the extra XP given if within an area after a kill</li><li>It does not affect the natural XP you get for killing a hero of a certain Level</li></ul></li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_22",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reworked bonus area of effect Gold and Streak ending<ul><li>This change only affects the extra Gold given if within an area after a kill</li><li>It does not affect the natural Gold received for killing a hero of a certain Level/Streak</li></ul></li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_23",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Glyph of Fortification</a>cooldown is now refreshed whenever you lose a Tier 1 tower</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_24",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 2 Tower&apos;s armor increased from 20 to 25</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_25",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tower bounty gold for destroying Tier 1/2/3/4 reduced from 264/312/358/405 to 160/200/240/280 (denied is 50%)</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_26",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>In<a>Captains Mode</a>, the 3rd ban phase order is swapped</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_27",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reworked how<a>All Pick</a>works in<a>Ranked Matchmaking</a>:<ul><li>Picking starts after a 35 second strategy period</li><li>Teams alternate picking</li><li>Whenever it is a team&apos;s turn to pick, anyone on that team can pick for themselves</li><li>Teams have up to 30 seconds to pick a hero</li><li>If the timer expires, each player that hasn&apos;t selected a hero will lose 2 gold per second</li><li>The selection will stay on this team until a hero is picked</li><li>Once a selection is made, it immediately switches to the other team to pick</li><li>Initial starting team is random, but known at the start of the strategy period</li><li>If a team has not picked and continued losing gold for more than 30 seconds, a player that hasn’t picked will be assigned a random hero and the turn will resume to the other team</li></ul></li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_28",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Aegis</a>duration decreased from 6 minutes to 5</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_29",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Roshan</a>&apos;s<a>Slam</a>area of effect increased from 250 to 350</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_30",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Roshan&apos;s Slam damage increases by 20 every 4 minutes</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_31",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Centaur Conqueror</a>&apos;s<a>Swiftness Aura</a>has been moved to<a>Hellbear Smasher</a></li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_32",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Hellbear Smasher<a>Attack Time</a>increased from 1.35 to 1.55</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_33",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Hellbear</a>Attack Time increased from 1.35 to 1.5</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_34",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Centaur Conqueror Attack Time improved from 1.65 to 1.5</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_35",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Centaur Courser</a>Attack Time improved from 1.35 to 1.3</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_36",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Dark Troll Summoner</a>&apos;s<a>Ensnare</a>duration increased from 1.5 to 1.75</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_37",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Satyr Banisher</a>HP increased from 240 to 300</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_38",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Satyr Banisher movement speed increased from 300 to 330</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_39",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Satyr Banisher attack range reduced from 600 to 300</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_40",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Satyr Banisher Base Attack Time improved from 1.8 to 1.7</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_41",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Satyr Banisher&apos;s<a>Purge</a>cast range increased from 200 to 350</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_42",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Wildwing Ripper</a>&apos;s<a>Toughness Aura</a>now works on<a>Siege units</a></li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_43",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed some rare edge cases with pathing malfunctioning</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_44",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>The following abilities can now be cast on<a>Spell Immune</a>allies:<a>Ice Armor</a>,<a>Surge</a>,<a>Alacrity</a>,<a>Nature&apos;s Guise</a>,<a>Chakra Magic</a>,<a>Recall</a>, and<a>Mist Coil</a></li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_45",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>The following buffs are now properly dispellable:<a>Chilling Touch</a>,<a>Thunder Strike</a>,<a>Inner Vitality</a>,<a>Alacrity</a>,<a>Chaos Meteor</a>,<a>Shadow Word</a>,<a>Liquid Fire</a>,<a>Shadow Strike</a>,<a>Warcry</a>,<a>Concussive Shot</a>,<a>Overpower</a>,<a>Mana Leak</a>,<a>Curse of the Silent</a>,<a>Press The Attack</a>,<a>Poison Touch</a>,<a>Flame Guard</a>,<a>Whirling Death</a>, Viper&apos;s<a>Poison Attack</a>,<a>Sticky Napalm</a>, DK&apos;s<a>Frost Breath</a>,<a>Whirling Axes</a>,<a>Walrus Punch</a>&apos;s slow</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_46",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Dark Pact</a>/<a>Kraken Shell</a>/<a>Aphotic Shield</a>/<a>Press The Attack</a>/<a>Time Lapse</a>no longer have a special condition for purging the following otherwise unpurgeable spells:<a>Poison Nova</a>,<a>Heaven&apos;s Halberd</a>,<a>Ensnare</a>,<a>Eye of Skadi</a>slow</li></ul>"
   },
   {
     "id": "6.82_hero_Abaddon",
@@ -975,11 +1297,39 @@
     "imageSrc": "/commons/images/1/1c/Town_Portal_Scroll.png"
   },
   {
-    "id": "6.82_general_General-updates",
+    "id": "6.82_general_General-updates_47",
     "version": "6.82",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li>Physical is affected by Armor</li><li>Magical is affected by Magic Resistance</li><li>Pure is affected by neither</li></ul>"
+    "descriptionHtml": "<ul><li>Physical is affected by Armor</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_48",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Magical is affected by Magic Resistance</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_49",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Pure is affected by neither</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_50",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Damage Type: Physical/Magical/Pure</li></ul>"
+  },
+  {
+    "id": "6.82_general_General-updates_51",
+    "version": "6.82",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Pierces Spell Immunity: Yes/No</li></ul>"
   },
   {
     "id": "6.82_hero_Alchemist",

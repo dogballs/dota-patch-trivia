@@ -1,10 +1,241 @@
 [
   {
-    "id": "6.79_general_General-updates",
+    "id": "6.79_general_General-updates_0",
     "version": "6.79",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li><a>Buyback</a>prevents gaining<a>unreliable gold</a>(creeps, neutrals, etc.) until your normal respawn time finishes</li><li>When buying back, 25% of the remaining respawn time will be added to your next death</li></ul>"
+    "descriptionHtml": "<ul><li><a>Buyback</a>prevents gaining<a>unreliable gold</a>(creeps, neutrals, etc.) until your normal respawn time finishes</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_1",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>When buying back, 25% of the remaining respawn time will be added to your next death</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_2",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Lane Creeps</a>now meet a bit closer to the tower in your<a>offlane</a></li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_3",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ranged Heroes now get the same<a>denied experience</a>as melee heroes (instead of less)</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_4",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>XP</a>AoE increased from 1200 to 1300</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_5",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Non-Ancient<a>Neutrals</a>now split XP with all heroes in the AoE instead of just the team that killed them</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_6",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Swapped the medium pullable Neutral Camp with the small camp</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_7",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>A neutral creeps camp will no longer spawn the same set of neutral creeps twice in a row</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_8",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Small reduction to the<a>pull timing</a>duration of the mid Radiant and mid-top Dire camp</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_9",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Satyr Mindstealer</a>XP bounty reduced from 88 to 62</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_10",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Satyr Tormentor</a>XP bounty reduced from 155 to 119</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_11",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Mud Golems</a>XP bounty reduced from 119 to 88</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_12",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Mud Golems armor reduced from 4 to 2</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_13",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Dark Troll Summoner</a>bounty XP reduced from 155 to 119</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_14",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Hellbear Smasher</a>HP reduced from 1100 to 950</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_15",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Hellbear armor reduced from 5 to 3</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_16",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Satyr Trickster</a>&apos;s Purge cast point improved from 0.5 to 0.2</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_17",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed Neutral<a>Envenomed Weapons</a>debuff dispelling regen items</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_18",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Day/Night length decreased from 6 to 4 minutes</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_19",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>The following heroes now have the standard 800 night vision:<a>Drow Ranger</a>,<a>Mirana</a>,<a>Puck</a>,<a>Leshrac</a>,<a>Enchantress</a>,<a>Ancient Apparition</a>,<a>Meepo</a>, and<a>Treant Protector</a></li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_20",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Roshan</a>will respawn at a random time between 8 and 11 minutes after death</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_21",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>When<a>Aegis</a>expires unused, it heals the hero fully over 5 seconds (regen dispels on damage from players or buildings)</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_22",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Starting gold</a>increased from 603 to 625</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_23",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Random gold bonus reduced by 50</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_24",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Gold for ending a spree changed from 75➜600 (3×➜10×) to 125➜1000</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_25",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Your gold income is now 1 per 0.6 seconds, up from 1 per 0.8 seconds</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_26",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Tower</a>last hit bonus gold increased from 100-200 to 150-250</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_27",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Melee Barracks</a>HP regen increased from 2.5 to 5</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_28",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Ranged Barracks</a>HP regen decreased from 2.5 to 0</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_29",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ranged Barracks HP reduced from 1500 to 1200 and armor increased from 5 to 10 (same EHP vs physical damage)</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_30",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Evasion</a>now stacks diminishingly</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_31",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Can no longer orb-attack while attack restricted (such as<a>Ethereal</a>or<a>Frostbite</a>)</li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_32",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>The following abilities no longer automatically ignore backswing time by default:<a>Rupture</a>,<a>Malefice</a>,<a>Venomous Gale</a>,<a>Stifling Dagger</a>,<a>Flamebreak</a>,<a>Wave of Terror</a>,<a>Shadow Word</a>, and<a>Power Cogs</a></li></ul>"
+  },
+  {
+    "id": "6.79_general_General-updates_33",
+    "version": "6.79",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Broodmother</a>and<a>Slark</a>are temporarily disabled from<a>Captains Mode</a>, they will be added back shortly</li></ul>"
   },
   {
     "id": "6.79_hero_Abaddon",

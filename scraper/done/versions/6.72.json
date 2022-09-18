@@ -912,11 +912,298 @@
     "imageSrc": "/commons/images/7/78/Urn_of_Shadows.png"
   },
   {
-    "id": "6.72_general_General-updates",
+    "id": "6.72_general_General-updates_0",
     "version": "6.72",
     "category": "general",
     "label": "General updates",
     "descriptionHtml": "<ul><li>Heroes now get XP if they get a kill outside of the standard XP range</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_1",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Increased the width of the sentinel ramp between Roshan and the Rune spawn</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_2",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral spawn empty check no longer considers corpses in its spawn rules</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_3",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Improved courier deliver movement AI</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_4",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added Buyback cost to Observer Scoreboard</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_5",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added Nerubian Assassin to CM</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_6",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added Shadow Demon to CM</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_7",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Rearranged group selection priority when selecting multiple shops</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_8",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added new -stats (-st) command that replaces individual hero commands to show stats specific to the hero (replaces -gg, -aa, -int, -mines, -souls, -fs, -ha, -mc)</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_9",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Rebalanced all Melee heroes between 100 and 128 range to be 128 range</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_10",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Flying Courier has a new model (Frost Wyrm)</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_11",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Animal Courier has a new model (Grunt,<a>It&apos;s not easy being green!</a>)</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_12",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Satyr Hellcaller Shockwave damage increased from 100 to 125</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_13",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Enemy wards now have a visual effect around them to allow you to more easily distinguish allied wards from enemy wards</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_14",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Shops now have an animation (for the player only) when you select them</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_15",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fortify Buildings glyph ability now prevents magic damage as well</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_16",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added -disablehelp support for Snowball</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_17",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new command -msa to display the speed of all your allies</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_18",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new debug command -respawn</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_19",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Swapped the location of the Intelligence and Agility Taverns</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_20",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>-ER (experimental runes) mode reworked, now enables runes spawn in both locations past 40 minutes</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_21",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Rearranged Observer Scoreboard to make it easier to see the creep stats for a hero</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_22",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Improved the ability display for Split Shot toggle</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_23",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Clockwerk Goblin now has a visual effect with Aghanim&apos;s Scepter</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_24",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Invoker now has a visual effect with Aghanim&apos;s Scepter</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_25",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Thrall&apos;s class renamed from Far Seer to Disruptor</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_26",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tombstone now has a sound effect when cast</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_27",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Rikimaru&apos;s Blink Strike has a new special effect</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_28",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Craggy Exterior now has a visual effect when it stuns someone</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_29",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Omnislash has a new initial cast animation</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_30",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Nature&apos;s Guise has a new icon</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_31",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Refraction now has two status icons to differentiate between attack and defense effects</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_32",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Shadowraze has a new visual effect</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_33",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Scream of Pain has a new visual effect</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_34",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new icon for Fatal Bonds</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_35",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Improved Sonic Wave sound and</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_36",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Lina&apos;s attack old attack projectile is now restored</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_37",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Lina&apos;s fire hands visual effect have been improved</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_38",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new Epicenter visual effect</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_39",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new hero icon for Phoenix</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_40",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new icon for Overgrowth</li></ul>"
+  },
+  {
+    "id": "6.72_general_General-updates_41",
+    "version": "6.72",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added Greek language support</li></ul>"
   },
   {
     "id": "6.72_bug-fix_Bug-fixes",

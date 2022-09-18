@@ -744,11 +744,235 @@
     "imageSrc": "/commons/images/f/f0/Veil_of_Discord.png"
   },
   {
-    "id": "6.73_general_General-updates",
+    "id": "6.73_general_General-updates_0",
     "version": "6.73",
     "category": "general",
     "label": "General updates",
     "descriptionHtml": "<ul><li>Significant changes to couriers<ul><li>Couriers now give 150 to each enemy player, instead of 300 to the killer</li><li>Couriers no longer drop items when they die</li><li>Couriers respawn 3 minutes after death, the items they have are inaccessible during that time</li><li>Flying courier no longer has invulnerability shield</li><li>Basic courier is magic immune (like flying courier, most spells did not work on couriers already)</li></ul></li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_1",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Buyback cooldown increased from 4 minutes to 5</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_2",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Heroes now respawn with full mana</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_3",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Gold over time from 0.875 intervals to 0.8</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_4",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Runes will no longer spawn the same rune type 2 times in a row</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_5",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added Treant Protector, Terrorblade, and Tuskarr to Captains Mode</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_6",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new loading screen<ul><li><a>http://media.playdota.com/misc/6.73/preview/loadsc.jpg</a></li></ul></li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_7",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added various christmas themed effects</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_8",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>New CM Skin<ul><li><a>http://media.playdota.com/misc/6.73/preview/CM_XMAS.jpg</a></li></ul></li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_9",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Pudge Santa Model</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_10",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Christmas World Tree</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_11",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Candy Cane for Tangoes</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_12",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Santa Hats for anyone with a kill streak<ul><li>Your hero gets it when you have 3 or more kills. You lose the hat when your streak ends.</li><li>You can type -nosanta to remove the hat.</li></ul></li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_13",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Santa Hats for couriers</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_14",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Santa Hat for Roshan</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_15",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Present model for item treasure chests</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_16",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added an icon change when Ring of Basilius is in hero only state</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_17",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Moved Manta Style to Protectorate shop (to make room)</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_18",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Moved the Flying Courier item to the consumable shop</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_19",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Hero pool in -CD increased from 24 to 28</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_20",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Satyr Soulstealer manapool from 400 to 600</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_21",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Harpy Storm manapool from 360 to 540</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_22",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Satyr Hellcaller mana pool increased from 300 to 600</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_23",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Forest Healing Troll now has a Mana Aura (+2 MP/sec)</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_24",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Forest Healing Troll&apos;s heal cooldown from 0.75 to 0.5 seconds</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_25",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>-Bounty is now a part of -st</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_26",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed stock cooldown on TP Scrolls, Dust and Sentry Wards</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_27",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new courier (Pack Horse)</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_28",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Updated Shadow Shaman&apos;s Mass Serpent Ward animation</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_29",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ghost Ship now has a small chance to use an alternate model</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_30",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Compressed Ancient Apparition model size</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_31",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Optimized map space usage</li></ul>"
+  },
+  {
+    "id": "6.73_general_General-updates_32",
+    "version": "6.73",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added Romanian language support</li></ul>"
   },
   {
     "id": "6.73_bug-fix_Bug-fixes",

@@ -1,10 +1,52 @@
 [
   {
-    "id": "7.05_general_General-updates",
+    "id": "7.05_general_General-updates_0",
     "version": "7.05",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li>Enabled<a>Treant Protector</a>in<a>Captains Mode</a></li><li><a>Tower</a>base armor reduced by 2</li><li>Towers now gain 1 more armor per nearby enemy hero (3 total per enemy now)</li><li>Tower bonus armor based on nearby enemy heroes AoE increased from 1200 to 1400</li><li><a>Shrines</a>base health regen reduced from 100 to 90</li><li><a>Intelligence</a>based<a>Spell Amplification</a>increased from 1% per 16 Intelligence to 1% per 15</li><li><a>XP</a>required to go from level 20 to 25 reduced from 10895 to 10000 (1600/1900/2200/2500/2695 to 1500/1750/2000/2250/2500)</li></ul>"
+    "descriptionHtml": "<ul><li>Enabled<a>Treant Protector</a>in<a>Captains Mode</a></li></ul>"
+  },
+  {
+    "id": "7.05_general_General-updates_1",
+    "version": "7.05",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Tower</a>base armor reduced by 2</li></ul>"
+  },
+  {
+    "id": "7.05_general_General-updates_2",
+    "version": "7.05",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Towers now gain 1 more armor per nearby enemy hero (3 total per enemy now)</li></ul>"
+  },
+  {
+    "id": "7.05_general_General-updates_3",
+    "version": "7.05",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tower bonus armor based on nearby enemy heroes AoE increased from 1200 to 1400</li></ul>"
+  },
+  {
+    "id": "7.05_general_General-updates_4",
+    "version": "7.05",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Shrines</a>base health regen reduced from 100 to 90</li></ul>"
+  },
+  {
+    "id": "7.05_general_General-updates_5",
+    "version": "7.05",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Intelligence</a>based<a>Spell Amplification</a>increased from 1% per 16 Intelligence to 1% per 15</li></ul>"
+  },
+  {
+    "id": "7.05_general_General-updates_6",
+    "version": "7.05",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>XP</a>required to go from level 20 to 25 reduced from 10895 to 10000 (1600/1900/2200/2500/2695 to 1500/1750/2000/2250/2500)</li></ul>"
   },
   {
     "id": "7.05_item_Hand-of-Midas",

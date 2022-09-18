@@ -1,10 +1,17 @@
 [
   {
-    "id": "7.14_general_General-updates",
+    "id": "7.14_general_General-updates_0",
     "version": "7.14",
     "category": "general",
     "label": "General updates",
     "descriptionHtml": "<ul><li>Enabled<a><img></img></a><a>Techies</a>in<a>Captains Mode</a></li></ul>"
+  },
+  {
+    "id": "7.14_general_General-updates_1",
+    "version": "7.14",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>First creep wave no longer draws aggro on the side lanes until they meet the other wave</li></ul>"
   },
   {
     "id": "7.14_item_Skull-Basher",

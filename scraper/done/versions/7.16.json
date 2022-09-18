@@ -1,13 +1,34 @@
 [
   {
-    "id": "7.16_general_General-updates",
+    "id": "7.16_general_General-updates_0",
     "version": "7.16",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li><a><img></img></a><a><font><b>Bounty</b></font></a>Runes team gold reduced from 40 + 3/min to 40 + 2/min</li><li>Increased Base HP regen to 1.75 for the following<a><img></img></a><a><font><b>Agility</b></font></a>heroes:<ul><li><a><img></img></a>Anti-Mage</li><li><a><img></img></a>Arc Warden</li><li><a><img></img></a>Clinkz</li><li><a><img></img></a>Drow Ranger</li><li><a><img></img></a>Meepo</li><li><a><img></img></a>Pangolier</li><li><a><img></img></a>Phantom Assassin</li><li><a><img></img></a>Templar Assassin</li><li><a><img></img></a>Troll Warlord</li><li><a><img></img></a>Vengeful Spirit</li></ul></li><li>Melee Barracks health increased from 1800 to 2000</li><li>Roshan attack damage upgrade over time increased from 2.5/min to 4/min</li></ul>"
+    "descriptionHtml": "<ul><li><a><img></img></a><a><font><b>Bounty</b></font></a>Runes team gold reduced from 40 + 3/min to 40 + 2/min</li></ul>"
   },
   {
-    "id": "7.16_general_General-updates",
+    "id": "7.16_general_General-updates_1",
+    "version": "7.16",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Increased Base HP regen to 1.75 for the following<a><img></img></a><a><font><b>Agility</b></font></a>heroes:<ul><li><a><img></img></a>Anti-Mage</li><li><a><img></img></a>Arc Warden</li><li><a><img></img></a>Clinkz</li><li><a><img></img></a>Drow Ranger</li><li><a><img></img></a>Meepo</li><li><a><img></img></a>Pangolier</li><li><a><img></img></a>Phantom Assassin</li><li><a><img></img></a>Templar Assassin</li><li><a><img></img></a>Troll Warlord</li><li><a><img></img></a>Vengeful Spirit</li></ul></li></ul>"
+  },
+  {
+    "id": "7.16_general_General-updates_2",
+    "version": "7.16",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Melee Barracks health increased from 1800 to 2000</li></ul>"
+  },
+  {
+    "id": "7.16_general_General-updates_3",
+    "version": "7.16",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Roshan attack damage upgrade over time increased from 2.5/min to 4/min</li></ul>"
+  },
+  {
+    "id": "7.16_general_General-updates_4",
     "version": "7.16",
     "category": "general",
     "label": "General updates",

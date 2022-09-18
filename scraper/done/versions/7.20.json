@@ -1,10 +1,458 @@
 [
   {
-    "id": "7.20_general_General-updates",
+    "id": "7.20_general_General-updates_0",
     "version": "7.20",
     "category": "general",
     "label": "General updates",
     "descriptionHtml": "<ul><li>Map has been reworked</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_1",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Denies no longer give the denier 25% XP</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_2",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Creep denies now give the denier 20% of the gold bounty<ul><li>Melee Creeps: 7-8 gold</li><li>Ranged Creeps: 9-11 gold</li></ul></li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_3",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new dedicated inventory slot to hold Town Portal Scrolls<ul><li>You still must purchase Town Portal Scrolls from shops as usual</li></ul></li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_4",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Boots of Travel: No longer shares cooldown with Town Portal Scrolls<ul><li>Upon teleporting, +10 seconds are now added to your Town Portal Scroll cooldown</li></ul></li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_5",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Stacked Neutral creeps now give the stacker 35% of the bounty instead of 25%</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_6",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Non-Ancient Neutrals now provide 5% more gold bounty</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_7",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed Daily Bonus Hero concept</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_8",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Random once again picks from the entire hero pool, but now ignores your 25 least played heroes<ul><li>Bonuses from randoming remain the same</li></ul></li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_9",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Random can now only be used for the first two hero picks on your team</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_10",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Changed the Armor formula to: (0.052 × Armor) / (0.9 + 0.048 × Armor)</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_11",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Updated various armor values to closely align with the new formula:<ul><li>Tier 1 Towers: 17 to 12</li><li>Tier 2 Towers: 19 to 14</li><li>Tier 3 Towers: 19 to 14</li><li>Tier 4 Towers: 29 to 21</li><li>Melee Barracks: 18 to 13</li><li>Ranged Barracks: 12 to 9</li><li>Ancient: 18 to 13</li><li>Fillers: 14 to 10</li><li>Shrines: 24 to 17</li></ul></li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_12",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Killing Sprees now give an XP bonus ranging from 200 to 1250</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_13",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reworked and simplified XP hero kill bounty system<ul><li>No longer includes a team XP component</li></ul></li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_14",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reworked Mana and HP regen from attributes</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_15",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>They are no longer multipliers of your regeneration values</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_16",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Mana Regen: Intelligence now provides 0.05 mana regeneration</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_17",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Mana Regen: Removed the 0.9 base mana regen value<ul><li>Now covered by Base Intelligence</li></ul></li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_18",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Mana Regen: Rebalanced mana regen values based on the formula change</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_19",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Health Regen: Strength now provides 0.1 Health Regeneration</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_20",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Health Regen: Base regen values reduced by 1.5<ul><li>Now covered by Base Strength</li></ul></li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_21",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Health Regen: Rebalanced health regen values based on the formula change</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_22",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Town Portal Scroll: Can now be canceled and prevented by Root</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_23",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed inconsistencies between different Root sources:</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_24",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Stasis Trap now provides True Sight</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_25",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>The following roots no longer interrupt channeling spells or the current action:<ul><li>Dark Troll Ensnare</li><li>Searing Chains</li><li>Naga Siren Ensnare</li><li>Crystal Maiden Frostbite</li><li>Entangling Claws</li><li>Nature&apos;s Guise</li><li>Overgrowth</li></ul></li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_26",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Cleave damage is now normal physical damage type, causing it to get reduced by the armor of each unit impacted</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_27",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Cleave abilities damage values have been rescaled</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_28",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Increased standard Cleave area. Distance increased from 625 to 650, final width increased from 330 to 360</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_29",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Affects: Great Cleave, Empower, Battle Fury, and Talents</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_30",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Templar Assassin: Psi Blades can now spill off of illusions</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_31",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Changed how illusion incoming damage is processed; it now happens at the final step<ul><li>Thus it won&apos;t splash over extra damage with things like Psi Blades</li></ul></li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_32",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed Splash damage being affected by Spell Lifesteal and Spell Amplification</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_33",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed Splash damage not considering armor type</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_34",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Black Dragon Splash Attack damage type changed from Magical Damage to Physical Damage</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_35",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Black Dragon Splash Attack now does its full damage in the 250 AoE<ul><li>Instead of 100% at 150, 75% at 225, and 50% at 300</li></ul></li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_36",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Similar adjustments to Dragon Knight&apos;s splash damage described below</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_37",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>The following abilities no longer pierce Spell Immunity:<ul><li><a>Curse of Avernus</a></li><li><a>Acid Spray</a></li><li><a>Bloodrage</a></li><li><a>Thirst</a></li><li><a>Elder Dragon Form</a></li><li><a>Lycan Wolf</a><a>Cripple</a></li><li><a>Epicenter</a></li><li><a>Entangling Claws</a></li><li><a>Spiderling</a><a>Poison Sting</a></li><li><a>Anchor Smash</a></li><li><a>Nature&apos;s Guise</a></li><li><a>Wave of Terror</a></li><li><a>Venomancer</a><a>Poison Sting</a></li><li><a>The Swarm</a></li><li><a>Maledict</a>debuff</li><li><a>Ghost</a><a>Frost Attack</a></li><li><a>Wrath of Nature</a></li><li><a>Nether Ward</a>Mana Degen</li><li><a>Life Drain</a>targeting</li><li><a>Primal Roar</a>Secondary Knockback</li><li><a>Requiem of Souls</a></li><li><a>March of the Machines</a>collision</li><li><a>Atrophy Aura</a></li><li><a>Tombstone</a></li><li><a>Flesh Golem</a></li><li><a>Wall of Replica</a>slow</li><li><a>Naga Siren</a><a>Ensnare</a></li><li><a>Dark Troll Summoner</a><a>Ensnare</a></li><li><a>Wild Axes</a></li><li><a>Natural Order</a></li><li><a>Death Pulse</a>projectile</li><li><a>Assassinate</a></li><li><a>Shiva&apos;s Guard</a>Aura</li><li><a>Assault Cuirass</a>Aura</li><li><a>Tornado</a><a>Tempest</a>Aura</li><li><a>Orb of Venom</a></li></ul></li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_38",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Black King Bar: Recipe cost increased from 1375 to 1450</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_39",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Poison Sting can now be dispelled</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_40",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Hex state can now be removed by strong dispels</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_41",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Towers no longer gain extra armor per nearby enemy hero</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_42",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tower health increased to account for some of this:<ul><li>Tier 1 Towers health increased from 1600 to 1800</li><li>Tier 2 Towers health increased from 1600 to 1900</li><li>Tier 3 Towers health increased from 1600 to 2000</li><li>Tier 4 Towers health increased from 1600 to 2100</li></ul></li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_43",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Melee Barracks health increased from 2000 to 2200</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_44",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ranged Barracks health increased from 1200 to 1300</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_45",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ancient health increased from 4250 to 4500</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_46",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Day/Night cycle increased from 4 minutes to 5 minutes</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_47",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Scan no longer ignores units in the Roshan pit</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_48",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Max attack speed increased from 600 to 700</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_49",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Default aura range increased from 900 to 1200<ul><li>Gem of True Sight, Heartstopper Aura, Tower Aura, and Natural Order remain unchanged</li></ul></li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_50",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed movement speed modifiers from spawned creeps<ul><li>Previously different lanes would have faster/slower creeps during the first 7.5 minutes of the game</li></ul></li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_51",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new sound that gets played when all of a team&apos;s barracks are destroyed</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_52",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Opening secondary shops now highlights the items in the full shop UI, rather than switching to a filtered view</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_53",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>AoE of other wards are now shown during ward placement</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_54",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new game state, Leashed<ul><li>Leashed units follow the same rules as rooted units with regards to teleport and mobility based abilities, but can still use normal movement</li><li>The following abilities now apply the Leashed state:<ul><li>Pounce</li><li>Dream Coil</li><li>Soulbind</li></ul></li></ul></li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_55",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Self damage no longer disables things like Clarity, Bottle, Blink, etc.</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_56",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Lifesteal amount is no longer limited by the current HP of the target and uses the full damage you are dealing instead</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_57",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Backpack can no longer be manipulated while taunted</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_58",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reduced the following movement speed talents:<ul><li><a>Abaddon</a>(25➜20)</li><li><a>Axe</a>(40➜30)</li><li><a>Bane</a>(65➜50)</li><li><a>Batrider</a>(50➜40)</li><li><a>Bounty Hunter</a>(25➜20)</li><li><a>Dazzle</a>(50➜40)</li><li><a>Enchantress</a>(25➜20)</li><li><a>Legion Commander</a>(50➜40)</li><li><a>Lich</a>(25➜20)</li><li><a>Naga Siren</a>(25➜20)</li><li><a>Nature&apos;s Prophet</a>(35➜25)</li><li><a>Night Stalker</a>(45➜40)</li><li><a>Nyx Assassin</a>(35➜30)</li><li><a>Ogre Magi</a>(90➜75)</li><li><a>Oracle</a>(65➜50)</li><li><a>Outworld Devourer</a>(35➜30)</li><li><a>Pangolier</a>(25➜20)</li><li><a>Pugna</a>(25➜20)</li><li><a>Sand King</a>(25➜20)</li><li><a>Shadow Demon</a>(35➜30)</li><li><a>Skywrath Mage</a>(25➜20)</li><li><a>Techies</a>(60➜50)</li><li><a>Tidehunter</a>(25➜20)</li><li><a>Tinker</a>(40➜30)</li><li><a>Underlord</a>(30➜25)</li></ul></li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_59",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Intelligence hero strength gain increased by 0.2<ul><li>Except for<a>Bane</a>,<a>Outworld Devourer</a>,<a>Queen of Pain</a>,<a>Ogre Magi</a>, and<a>Zeus</a></li></ul></li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_60",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Killing an Observer or Sentry ward now prints out a notification in chat to your allies</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_61",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Respawn time for level 1/2/3/4 increased from 5/7/9/13 to 6/8/10/14</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_62",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reverted a global turn rate change done in 7.00<ul><li>Max turn rate speed was increased by 15%</li></ul></li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_63",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Attribute growth values that had 2 decimal points have been rounded up</li></ul>"
+  },
+  {
+    "id": "7.20_general_General-updates_64",
+    "version": "7.20",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Shrine Sanctuary ability now additionally restores 2% HP/Mana pool per second<ul><li>As they no longer naturally scale with the intelligence mana regen changes</li></ul></li></ul>"
   },
   {
     "id": "7.20_item_Phase-Boots",

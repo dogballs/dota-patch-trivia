@@ -1,10 +1,45 @@
 [
   {
-    "id": "7.10_general_General-updates",
+    "id": "7.10_general_General-updates_0",
     "version": "7.10",
     "category": "general",
     "label": "General updates",
     "descriptionHtml": "<ul><li>Enabled<a><img></img></a><a>Dark Willow</a>in<a>Captains Mode</a></li></ul>"
+  },
+  {
+    "id": "7.10_general_General-updates_1",
+    "version": "7.10",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Bounty Rune</a>base gold bounty increased from 50 to 60 (affects runes after the first one)</li></ul>"
+  },
+  {
+    "id": "7.10_general_General-updates_2",
+    "version": "7.10",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Bounty Rune no longer gives<a>XP</a><ul><li>Previously gave 0 at the start and increased by 7 per minute</li></ul></li></ul>"
+  },
+  {
+    "id": "7.10_general_General-updates_3",
+    "version": "7.10",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Melee Creep</a>gold bounty reduced by 1 (reduced from 41 to 40)</li></ul>"
+  },
+  {
+    "id": "7.10_general_General-updates_4",
+    "version": "7.10",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Randoming</a>now gives a<a>Faerie Fire</a>instead of a<a>branch</a></li></ul>"
+  },
+  {
+    "id": "7.10_general_General-updates_5",
+    "version": "7.10",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Bonus hero</a>count increased from 10 to 12</li></ul>"
   },
   {
     "id": "7.10_item_Aeon-Disk",

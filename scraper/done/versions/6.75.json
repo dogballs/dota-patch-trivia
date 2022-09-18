@@ -16,11 +16,144 @@
     "imageSrc": "/commons/images/thumb/c/c7/Winter_Wyvern_Large.png/128px-Winter_Wyvern_Large.png"
   },
   {
-    "id": "6.75_general_General-updates",
+    "id": "6.75_general_General-updates_0",
     "version": "6.75",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li>Added a new loading screen</li><li><a>Random Draft</a>Mode hero pool count increased from 20 to 22</li><li>Recipe items no longer sell for 80% of their price (now 50% like regular items)</li><li>Added a 1 second cooldown to placing<a>Observer and Sentry Wards</a>(to help prevent accidental usage when lagging)</li></ul>"
+    "descriptionHtml": "<ul><li>Added a new loading screen</li></ul>"
+  },
+  {
+    "id": "6.75_general_General-updates_1",
+    "version": "6.75",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Random Draft</a>Mode hero pool count increased from 20 to 22</li></ul>"
+  },
+  {
+    "id": "6.75_general_General-updates_2",
+    "version": "6.75",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Recipe items no longer sell for 80% of their price (now 50% like regular items)</li></ul>"
+  },
+  {
+    "id": "6.75_general_General-updates_3",
+    "version": "6.75",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a 1 second cooldown to placing<a>Observer and Sentry Wards</a>(to help prevent accidental usage when lagging)</li></ul>"
+  },
+  {
+    "id": "6.75_general_General-updates_4",
+    "version": "6.75",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Glyph</a>duration increased from 4 to 5 seconds</li></ul>"
+  },
+  {
+    "id": "6.75_general_General-updates_5",
+    "version": "6.75",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Enraged Wildkin</a><a>Tornado</a>vision decreased from 1200/800 to 300</li></ul>"
+  },
+  {
+    "id": "6.75_general_General-updates_6",
+    "version": "6.75",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Aegis</a>reclaim time decreased from 10 to 6 minutes<ul><li>Roshan still respawns every 10 minutes, this change does not affect him</li><li>It only means that Aegis will last 6 minutes in your inventory instead of 10</li></ul></li></ul>"
+  },
+  {
+    "id": "6.75_general_General-updates_7",
+    "version": "6.75",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Timbersaw</a>added to<a>Captains Mode</a></li></ul>"
+  },
+  {
+    "id": "6.75_general_General-updates_8",
+    "version": "6.75",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Skywrath Mage</a>added to Captains Mode</li></ul>"
+  },
+  {
+    "id": "6.75_general_General-updates_9",
+    "version": "6.75",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Captains Mode first ban phase now has 2 bans instead of 3</li></ul>"
+  },
+  {
+    "id": "6.75_general_General-updates_10",
+    "version": "6.75",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Captains Mode second ban phase now has 3 bans instead of 2</li></ul>"
+  },
+  {
+    "id": "6.75_general_General-updates_11",
+    "version": "6.75",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Team AoE bounty for kills with 2 heroes around changed from 9×Level+95 to 12×Level + 125</li></ul>"
+  },
+  {
+    "id": "6.75_general_General-updates_12",
+    "version": "6.75",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Team AoE bounty for kills with 3 heroes around changed from 8×Level+20 to 10×Level+40</li></ul>"
+  },
+  {
+    "id": "6.75_general_General-updates_13",
+    "version": "6.75",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Killer bounty level multiplier increased from 200+5×Level to 200+9×Level</li></ul>"
+  },
+  {
+    "id": "6.75_general_General-updates_14",
+    "version": "6.75",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Total XP required for level 7 decreased from 2700 to 2600</li></ul>"
+  },
+  {
+    "id": "6.75_general_General-updates_15",
+    "version": "6.75",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Total XP required for level 8 decreased from 3500 to 3200<ul><li>It still requires a total of 4400 XP to reach level 9</li></ul></li></ul>"
+  },
+  {
+    "id": "6.75_general_General-updates_16",
+    "version": "6.75",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed various item sell costs</li></ul>"
+  },
+  {
+    "id": "6.75_general_General-updates_17",
+    "version": "6.75",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed a lot of tooltips issues</li></ul>"
+  },
+  {
+    "id": "6.75_general_General-updates_18",
+    "version": "6.75",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Roshan</a><a>turn rate</a>increased to fix some abuses</li></ul>"
+  },
+  {
+    "id": "6.75_general_General-updates_19",
+    "version": "6.75",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed a bug that could cause<a>Brewmaster</a>to not respawn</li></ul>"
   },
   {
     "id": "6.75_hero_Abaddon",

@@ -1,10 +1,24 @@
 [
   {
-    "id": "7.01_general_General-updates",
+    "id": "7.01_general_General-updates_0",
     "version": "7.01",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li>XP Requirement to go from level 6 to 12 increased by 140 (615/630/645/660/675/775 to 640/660/680/700/720/740)</li><li>XP Requirement to go from level 12 to 20 increased by 140 (1175/1200/1225/1250/1275/1375/1400/1425 to 1200/1225/1250/1275/1300/1325/1400/1490)</li><li>XP Requirement to go from level 24 to 25 reduced by 280 (same overall XP required to reach level 25)</li></ul>"
+    "descriptionHtml": "<ul><li>XP Requirement to go from level 6 to 12 increased by 140 (615/630/645/660/675/775 to 640/660/680/700/720/740)</li></ul>"
+  },
+  {
+    "id": "7.01_general_General-updates_1",
+    "version": "7.01",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>XP Requirement to go from level 12 to 20 increased by 140 (1175/1200/1225/1250/1275/1375/1400/1425 to 1200/1225/1250/1275/1300/1325/1400/1490)</li></ul>"
+  },
+  {
+    "id": "7.01_general_General-updates_2",
+    "version": "7.01",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>XP Requirement to go from level 24 to 25 reduced by 280 (same overall XP required to reach level 25)</li></ul>"
   },
   {
     "id": "7.01_hero_Broodmother",

@@ -1,17 +1,164 @@
 [
   {
-    "id": "7.28_general_General-updates",
+    "id": "7.28_general_General-updates_0",
     "version": "7.28",
     "category": "general",
     "label": "General updates",
     "descriptionHtml": "<ul><li>Game now starts at night time and turns to day once creeps spawn</li></ul>"
   },
   {
-    "id": "7.28_general_General-updates",
+    "id": "7.28_general_General-updates_1",
     "version": "7.28",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li>Added a new item:<b>Aghanim’s Shard</b></li><li>Costs 1400 Gold. All heroes have their own custom shard upgrade as part of this update which permanently adds a new ability or improves an existing one. Can be purchased starting at 20 minutes and gets consumed immediately when it&apos;s given to your hero (like Aghanim&apos;s Blessing).</li><li>You can now check what Scepter and Shard upgrades do for the selected hero directly in the Hero UI, next to their abilities, as well as which ones are active. Consumed Scepter buffs no longer shows up as a buff icon mixed in with other buffs. Alt-Clicking on the Scepter and Shard UI will notify your allies whether the selected hero owns that upgrade.</li></ul>"
+    "descriptionHtml": "<ul><li>Neutral creeps no longer increase their bounty over the course of the game</li></ul>"
+  },
+  {
+    "id": "7.28_general_General-updates_2",
+    "version": "7.28",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral stacked gold bonus reduced from 40% to 30%</li></ul>"
+  },
+  {
+    "id": "7.28_general_General-updates_3",
+    "version": "7.28",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Roshan</a>armor growth increased from 0.325 to 0.375</li></ul>"
+  },
+  {
+    "id": "7.28_general_General-updates_4",
+    "version": "7.28",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Radiant Ancient camp is now easier to stack</li></ul>"
+  },
+  {
+    "id": "7.28_general_General-updates_5",
+    "version": "7.28",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added lore to all items</li></ul>"
+  },
+  {
+    "id": "7.28_general_General-updates_6",
+    "version": "7.28",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Rearranged some items in the shop (mostly ordering based on cost changes in recent years, but also in some cases moving from one category to another. Consumables are unchanged.)</li></ul>"
+  },
+  {
+    "id": "7.28_general_General-updates_7",
+    "version": "7.28",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>When combining, items will attempt to be placed into the slot of their component that has the most similar active effect. For example, Magic Wand will combine onto Magic Stick, Bloodthorn will combine onto Orchid Malevolence, etc.</li></ul>"
+  },
+  {
+    "id": "7.28_general_General-updates_8",
+    "version": "7.28",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutral ancients magic resistance reduced from 70% to 50%</li></ul>"
+  },
+  {
+    "id": "7.28_general_General-updates_9",
+    "version": "7.28",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Ancient Thunderhide</a>&apos;s Frenzy ability no longer interrupts movement when cast by a neutral</li></ul>"
+  },
+  {
+    "id": "7.28_general_General-updates_10",
+    "version": "7.28",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ancient Thunderhide&apos;s Slam ability no longer interrupts movement when cast by a neutral</li></ul>"
+  },
+  {
+    "id": "7.28_general_General-updates_11",
+    "version": "7.28",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ancient Thunderhide&apos;s Slam damage increased from 70 to 250</li></ul>"
+  },
+  {
+    "id": "7.28_general_General-updates_12",
+    "version": "7.28",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ancient Thunderhide&apos;s Slam slow increased from 25% to 60%</li></ul>"
+  },
+  {
+    "id": "7.28_general_General-updates_13",
+    "version": "7.28",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ancient Thunderhide&apos;s Slam radius increased from 250 to 350</li></ul>"
+  },
+  {
+    "id": "7.28_general_General-updates_14",
+    "version": "7.28",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Ancient Thunderhide&apos;s Accuracy Aura ability has now been moved to Ancient Rumblehide</li></ul>"
+  },
+  {
+    "id": "7.28_general_General-updates_15",
+    "version": "7.28",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed Thunderhide Accuracy Aura not working properly</li></ul>"
+  },
+  {
+    "id": "7.28_general_General-updates_16",
+    "version": "7.28",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Ancient Granite Golem</a>model size increased</li></ul>"
+  },
+  {
+    "id": "7.28_general_General-updates_17",
+    "version": "7.28",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Black Dragon</a>Fireball cooldown increased from 10 to 15</li></ul>"
+  },
+  {
+    "id": "7.28_general_General-updates_18",
+    "version": "7.28",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Alpha Wolf</a>unit level increased from 4 to 5</li></ul>"
+  },
+  {
+    "id": "7.28_general_General-updates_19",
+    "version": "7.28",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Ghost</a>Base attack time increased from 1 to 1.2</li></ul>"
+  },
+  {
+    "id": "7.28_general_General-updates_20",
+    "version": "7.28",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new item:<b>Aghanim’s Shard</b></li></ul>"
+  },
+  {
+    "id": "7.28_general_General-updates_21",
+    "version": "7.28",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Costs 1400 Gold. All heroes have their own custom shard upgrade as part of this update which permanently adds a new ability or improves an existing one. Can be purchased starting at 20 minutes and gets consumed immediately when it&apos;s given to your hero (like Aghanim&apos;s Blessing).</li></ul>"
+  },
+  {
+    "id": "7.28_general_General-updates_22",
+    "version": "7.28",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>You can now check what Scepter and Shard upgrades do for the selected hero directly in the Hero UI, next to their abilities, as well as which ones are active. Consumed Scepter buffs no longer shows up as a buff icon mixed in with other buffs. Alt-Clicking on the Scepter and Shard UI will notify your allies whether the selected hero owns that upgrade.</li></ul>"
   },
   {
     "id": "7.28_hero_Abaddon",

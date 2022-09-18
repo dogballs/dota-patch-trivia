@@ -448,11 +448,74 @@
     "imageSrc": "/commons/images/f/f0/Veil_of_Discord.png"
   },
   {
-    "id": "6.74_general_General-updates",
+    "id": "6.74_general_General-updates_0",
     "version": "6.74",
     "category": "general",
     "label": "General updates",
     "descriptionHtml": "<ul><li>Added<a>Wisp</a>,<a>Disruptor</a>, and<a>Rubick</a>to<a>Captains Mode</a></li></ul>"
+  },
+  {
+    "id": "6.74_general_General-updates_1",
+    "version": "6.74",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Courier death team bounty can only trigger while no couriers are dead</li></ul>"
+  },
+  {
+    "id": "6.74_general_General-updates_2",
+    "version": "6.74",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Courier death team bounty from 150 to 175</li></ul>"
+  },
+  {
+    "id": "6.74_general_General-updates_3",
+    "version": "6.74",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added a new ability on the courier to go to the secret shop</li></ul>"
+  },
+  {
+    "id": "6.74_general_General-updates_4",
+    "version": "6.74",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Removed Unexplored Fog of War</li></ul>"
+  },
+  {
+    "id": "6.74_general_General-updates_5",
+    "version": "6.74",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Cheese no longer requires 5 mana to use</li></ul>"
+  },
+  {
+    "id": "6.74_general_General-updates_6",
+    "version": "6.74",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Range creeps mana pool increased from 300 to 500</li></ul>"
+  },
+  {
+    "id": "6.74_general_General-updates_7",
+    "version": "6.74",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Harpy&apos;s Chain Lightning cooldown from 6 to 4 seconds</li></ul>"
+  },
+  {
+    "id": "6.74_general_General-updates_8",
+    "version": "6.74",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Satyr Trickster purge mana cost decreased from 150 to 120</li></ul>"
+  },
+  {
+    "id": "6.74_general_General-updates_9",
+    "version": "6.74",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Satyr Hellcaller HP regen aura increased from 3 to 4</li></ul>"
   },
   {
     "id": "6.74_bug-fix_Bug-fixes",

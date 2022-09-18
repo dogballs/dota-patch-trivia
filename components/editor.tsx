@@ -48,6 +48,17 @@ export default function Editor() {
     [whitelist],
   );
 
+  const counts = React.useMemo(() => {
+    return allVersions.map((version) => {
+      return whitelist.reduce((acc, id) => {
+        if (id.startsWith(version)) {
+          return acc + 1;
+        }
+        return acc;
+      }, 0);
+    });
+  }, [allVersions, whitelist]);
+
   const versionItems = React.useMemo(() => {
     if (!selectedVersion) {
       return [];
@@ -68,6 +79,7 @@ export default function Editor() {
         versions={allVersions}
         onSelect={setSelectedVersion}
         selectedVersion={selectedVersion}
+        counts={counts}
       />
       <div>
         {versionItems.map((item, index) => (
@@ -131,10 +143,12 @@ function RemoveOverlay({
 
 function VersionSelector({
   versions,
+  counts,
   onSelect,
   selectedVersion,
 }: {
   versions: string[];
+  counts: number[];
   onSelect: (version: string) => void;
   selectedVersion: string | undefined;
 }) {
@@ -145,9 +159,9 @@ function VersionSelector({
         onChange={(ev) => onSelect(ev.target.value)}
       >
         <option>Select version...</option>
-        {versions.map((version) => (
+        {versions.map((version, index) => (
           <option value={version} key={version}>
-            {version}
+            {version} ({counts[index]})
           </option>
         ))}
       </select>

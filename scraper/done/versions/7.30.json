@@ -1,10 +1,52 @@
 [
   {
-    "id": "7.30_general_General-updates",
+    "id": "7.30_general_General-updates_0",
     "version": "7.30",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li><a>Captain&apos;s Mode</a>second pick phase is changed from<span>Dire</span>/<span>Radiant</span>/<span>Dire</span>/<span>Radiant</span>to<span>Dire</span>/<span>Radiant</span>/<span>Radiant</span>/<span>Dire</span>(assuming Radiant is first pick)</li><li>Multiple<a>Critical Strike</a>procs are now rolled from strongest to weakest and will stop rolling once a proc occurs (this results in the same DPS but is less lilkely to have multiple crits in a row or multiple attacks without a crit.)</li><li>Cooldown Percentage Reduction no longer stacks (Sources of flat cooldown reduction still stack)</li><li>Increased HP Regen of all heroes with 0 HP Regen to 0.25</li><li><a>Water Rune</a>healing reduced from 80HP to 40HP</li><li>Second<a>Roshan</a>no longer drops cheese</li><li><a>Neutral Creeps</a>now drop<b>5</b>neutral items per tier</li></ul>"
+    "descriptionHtml": "<ul><li><a>Captain&apos;s Mode</a>second pick phase is changed from<span>Dire</span>/<span>Radiant</span>/<span>Dire</span>/<span>Radiant</span>to<span>Dire</span>/<span>Radiant</span>/<span>Radiant</span>/<span>Dire</span>(assuming Radiant is first pick)</li></ul>"
+  },
+  {
+    "id": "7.30_general_General-updates_1",
+    "version": "7.30",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Multiple<a>Critical Strike</a>procs are now rolled from strongest to weakest and will stop rolling once a proc occurs (this results in the same DPS but is less lilkely to have multiple crits in a row or multiple attacks without a crit.)</li></ul>"
+  },
+  {
+    "id": "7.30_general_General-updates_2",
+    "version": "7.30",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Cooldown Percentage Reduction no longer stacks (Sources of flat cooldown reduction still stack)</li></ul>"
+  },
+  {
+    "id": "7.30_general_General-updates_3",
+    "version": "7.30",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Increased HP Regen of all heroes with 0 HP Regen to 0.25</li></ul>"
+  },
+  {
+    "id": "7.30_general_General-updates_4",
+    "version": "7.30",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Water Rune</a>healing reduced from 80HP to 40HP</li></ul>"
+  },
+  {
+    "id": "7.30_general_General-updates_5",
+    "version": "7.30",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Second<a>Roshan</a>no longer drops cheese</li></ul>"
+  },
+  {
+    "id": "7.30_general_General-updates_6",
+    "version": "7.30",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Neutral Creeps</a>now drop<b>5</b>neutral items per tier</li></ul>"
   },
   {
     "id": "7.30_item_Aeon-Disk",

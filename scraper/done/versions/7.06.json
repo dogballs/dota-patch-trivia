@@ -1,10 +1,290 @@
 [
   {
-    "id": "7.06_general_General-updates",
+    "id": "7.06_general_General-updates_0",
     "version": "7.06",
     "category": "general",
     "label": "General updates",
-    "descriptionHtml": "<ul><li>Creep denies now grant the denying team 30% of the XP bounty</li><li>Normal deny XP increased from 50% to 70%<ul><li>From either lane or neutral denies</li></ul></li></ul>"
+    "descriptionHtml": "<ul><li>Creep denies now grant the denying team 30% of the XP bounty</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_1",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Normal deny XP increased from 50% to 70%<ul><li>From either lane or neutral denies</li></ul></li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_2",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Shrines</a>now start on cooldown and become available at 5 minutes</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_3",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reduced Shrine count in base from 5 to 3<ul><li>Removed the shrines from the top and bottom lanes behind the barracks</li></ul></li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_4",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Shrines mana regeneration growth per minute reduced from 1 to 0.75</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_5",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Added an extra melee creep in mid lane for the first 15 minutes<ul><li>Until the first upgrade wave at 15 minutes, at which point all lanes have the standard extra melee</li></ul></li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_6",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Creeps meet a bit closer to the offlane tower</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_7",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Creep aggro duration reduced from 2.5 to 2.3</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_8",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Creep aggro cooldown increased from 2.5 to 3</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_9",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Lane creeps vision reduced from 850/800 to 750</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_10",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutrals now spawn every minute instead of every 2 minutes</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_11",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutrals now give 20% less XP and Gold</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_12",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Neutrals XP and Gold now increased by 2% every 7.5 minutes<ul><li>Same as when lane creeps are upgraded</li></ul></li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_13",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li><a>Siege damage</a>type vs structures increased from 150% to 250%</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_14",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Siege creeps HP increased from 550 to 825</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_15",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Siege creeps spawn rate reduced from every 7th wave to every 10th wave (Every 5 minutes)</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_16",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Extra Ranged/Siege creeps now spawn at 40 minutes instead of 45</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_17",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>All hero strength growth increased by 0.3</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_18",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Regeneration coming from strength increased from 0.03 HP per point of Strength to 0.06</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_19",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reduced base HP regen by 0.25</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_20",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Intelligence&apos;s Spell Amplification from 1% per 15 to 1% per 14</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_21",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Mana per point of Intelligence reduced from 12 to 11</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_22",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Base mana increased from 50 to 75</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_23",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reduced melee creeps base XP bounty from 45 to 40</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_24",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Reduced melee creep gold bounty upgrade from 3 gold per cycle to 1 gold per cycle</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_25",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Melee/Ranged Barracks team bounty reduced from 275/225 to 225/150 to each player</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_26",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Roshan team bounty reduced from 200 to 150</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_27",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Shrine team bounty from reduced 150 to 125</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_28",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Death cost from 100 + NW/50 to 50 + NW/40</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_29",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 3 Tower Team Bounty from 240 to 200</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_30",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Tier 4 Tower Team Bounty from 280 to 200</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_31",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Illusion gold/XP bounty from 5 + Level to 2 × Level</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_32",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Illusion building damage reduction from 50% to 60%</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_33",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Buyback cooldown increased from 7 minutes to 8 minutes</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_34",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Roshan now drops cheese from the second death instead of the third</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_35",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Roshan armor bonus per upgrade interval increased from 1.1 to 1.3</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_36",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Powerup Runes now spawn different runes on both sides of the river after 40 minutes</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_37",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Uphill miss chance no longer applies to flying units (e.g. Batrider using Firefly)</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_38",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Fixed various pathing issues with the bottom Dire creeps between Tier 1 and Tier 2</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_39",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Towers bonus armor based on nearby enemy heroes AoE increased from 1400 to 1600</li></ul>"
+  },
+  {
+    "id": "7.06_general_General-updates_40",
+    "version": "7.06",
+    "category": "general",
+    "label": "General updates",
+    "descriptionHtml": "<ul><li>Replaced all 42 Respawn Talents in the game<ul><li>Warlock: Summons a Golem on death (Level 20)</li><li>Pudge: +1s Dismember Duration (Level 20)</li><li>Magnus: +500 Skewer Range (Level 25)</li><li>Lone Druid: +50% Spirit Bear Magic Resistance (Level 20)</li><li>Lina: +40 Movement Speed (Level 15)</li><li>Enigma: +1 Malefice Instance (Level 20)</li><li>Earthshaker: +350 Fissure Range (Level 20)</li><li>Clockwerk: +40 Battery Assault Damage (Level 20)</li><li>Bristleback: +10% Spell Lifesteal (Level 20)</li><li>Earth Spirit: Geomagnetic Grip Targets Allies<ul><li>No longer tied to Scepter</li><li>Enchant Remnant unchanged</li></ul></li><li>Enchantress: +6% Impetus Damage (Level 25)</li><li>Brewmaster: +2s Thunderclap Slow (Level 20)</li><li>Beastmaster: +1 Boar Summoned (Level 15)</li><li>Zeus: +0.5s Lightning Bolt Ministun (Level 20)</li><li>Lycan: +12 Feral HP Regen (Level 15)</li><li>Crystal Maiden: +50 Freezing Field Damage (Level 20)</li><li>Shadow Shaman: +4 Wards Summoned (Level 20)</li><li>Visage: Soul Assumption Double Strike<ul><li>Hits a random 2nd target within cast range</li><li>Prioritizes heroes</li></ul></li><li>Winter Wyvern: +1s Cold Embrace Duration (Level 20)</li><li>Witch Doctor: +2 Cask Bounces (Level 15)</li><li>Legion Commander: +10% Moment Proc Chance (Level 20)</li><li>Keeper of the Light: +300 Chakra Magic Mana (Level 15)</li><li>Dazzle: +25 Poison Touch DPS (Level 20)</li><li>Treant: +40 Leech Seed Damage/Heal (Level 25)</li><li>Sand King: -50 Epicenter Attack Slow (Level 15)</li><li>Venomancer: +14% Poison Sting Slow (Level 25)</li><li>Ancient Apparition: +8% Ice Vortex Slow/Resistance (Level 20)</li><li>Chen: +1000 Creep Health (Level 20)</li><li>Disruptor: +40 Thunder Strike Damage (Level 15)</li><li>Elder Titan: +200 Mana (Level 10)</li><li>Io: Tether Stuns (Level 25)</li><li>Jakiro: Macropyre Pure and Pierces Immunity (Level 25)</li><li>Lion: +75 Cast Range (Level 10)</li><li>Nature&apos;s Prophet: Removed Teleportation Cooldown (Level 25)</li><li>Oracle: +0.75s Fortune&apos;s End Max Duration (Level 10)</li><li>Phoenix: +20% XP Gain (Level 10)</li><li>Pugna: +1s Decrepify Duration (Level 15)</li><li>Shadow Demon: -1.5s Shadow Poison Cooldown (Level 20)</li><li>Spirit Breaker: +30% Greater Bash Damage (Level 20)</li><li>Templar Assassin: -8 Meld Armor Reduction (Level 25)</li><li>Undying: +15 Health Regeneration (Level 10)</li><li>Techies: +250 Attack Damage (Level 25)</li></ul></li></ul>"
   },
   {
     "id": "7.06_item_Aether-Lens",
