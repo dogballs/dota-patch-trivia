@@ -4,6 +4,7 @@ import { useSpring, animated } from 'react-spring';
 import { Draggable } from 'react-beautiful-dnd';
 import { Item, PlayedItem } from '../types/item';
 import { createImageUrl } from '../lib/items';
+import yearsJSON from '../lib/years.json';
 import styles from '../styles/item-card.module.scss';
 
 type PlainProps = {
@@ -112,6 +113,11 @@ export const PlainItemCard = ({ item, flippedId }: PlainProps) => {
           })}
         >
           {<span>{bottomStr}</span>}
+          {'played' in item && (
+            <span className={styles.year}>
+              ({getYearByVersion(item.version)})
+            </span>
+          )}
         </animated.div>
       </animated.div>
       {/*<animated.div
@@ -148,4 +154,16 @@ export const PlainItemCard = ({ item, flippedId }: PlainProps) => {
 
 function showImage(item: Item) {
   return !['general'].includes(item.category);
+}
+
+function getYearByVersion(version: string) {
+  const json = yearsJSON as { [year: string]: string[] };
+
+  for (const year of Object.keys(json)) {
+    const versions = json[year];
+    if (versions.includes(version)) {
+      return year;
+    }
+  }
+  return undefined;
 }
