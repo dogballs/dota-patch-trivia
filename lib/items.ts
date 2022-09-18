@@ -12,13 +12,11 @@ export function getRandomItem(deck: Item[], played: Item[]): Item {
   let i;
   for (i = 0; i < 20; i++) {
     if (tooClose(item, played)) {
-      console.log('retry');
       item = nonPlayed[Math.floor(Math.random() * nonPlayed.length)];
     } else {
       break;
     }
   }
-  console.log('picked in ', i);
 
   return item;
 }
@@ -30,11 +28,8 @@ function tooClose(item: Item, played: Item[]) {
   const hasCloseItems = played.some((p) => {
     const playedVersionNumber = Number(p.version);
     const itemVersionNumber = Number(item.version);
-    console.log({ playedVersionNumber, itemVersionNumber });
     return Math.abs(playedVersionNumber - itemVersionNumber) < distance;
   });
-
-  console.log({ distance, hasCloseItems });
 
   return hasCloseItems;
 }

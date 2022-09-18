@@ -6,10 +6,8 @@ import { Item, PlayedItem } from '../types/item';
 import { createImageUrl } from '../lib/items';
 import styles from '../styles/item-card.module.scss';
 
-type Props = {
-  draggable?: boolean;
+type PlainProps = {
   flippedId?: null | string;
-  index: number;
   item: Item | PlayedItem;
   setFlippedId?: (flippedId: string | null) => void;
 };
@@ -18,9 +16,35 @@ function capitalize(str: string): string {
   return str.charAt(0).toUpperCase() + str.slice(1);
 }
 
-export default function ItemCard(props: Props) {
+export default function ItemCard(
+  props: PlainProps & {
+    draggable?: boolean;
+    index: number;
+  },
+) {
   const { draggable, flippedId, index, item, setFlippedId } = props;
 
+  return (
+    <Draggable draggableId={item.id} index={index} isDragDisabled={!draggable}>
+      {(provided, snapshot) => {
+        return (
+          <div
+            className={classNames({
+              [styles.dragging]: snapshot.isDragging,
+            })}
+            ref={provided.innerRef}
+            {...provided.draggableProps}
+            {...provided.dragHandleProps}
+          >
+            <PlainItemCard item={item} />
+          </div>
+        );
+      }}
+    </Draggable>
+  );
+}
+
+export const PlainItemCard = ({ item, flippedId }: PlainProps) => {
   const flipped = item.id === flippedId;
 
   const cardSpring = useSpring({
@@ -42,62 +66,55 @@ export default function ItemCard(props: Props) {
     .replaceAll('</a>', ' ');
 
   return (
-    <Draggable draggableId={item.id} index={index} isDragDisabled={!draggable}>
-      {(provided, snapshot) => {
-        return (
-          <div
-            className={classNames(styles.itemCard, {
-              [styles.played]: 'played' in item,
-              [styles.flipped]: flipped,
-              [styles.dragging]: snapshot.isDragging,
-            })}
-            ref={provided.innerRef}
-            {...provided.draggableProps}
-            {...provided.dragHandleProps}
-            // onClick={() => {
-            //   if ('played' in item && setFlippedId) {
-            //     if (flipped) {
-            //       setFlippedId(null);
-            //     } else {
-            //       setFlippedId(item.id);
-            //     }
-            //   }
-            // }}
-          >
-            <animated.div
-              className={styles.front}
+    <div
+      className={classNames(styles.itemCard, {
+        [styles.played]: 'played' in item,
+        // [styles.flipped]: flipped,
+      })}
+      // onClick={() => {
+      //   if ('played' in item && setFlippedId) {
+      //     if (flipped) {
+      //       setFlippedId(null);
+      //     } else {
+      //       setFlippedId(item.id);
+      //     }
+      //   }
+      // }}
+    >
+      <animated.div
+        className={styles.front}
+        style={{
+          opacity: cardSpring.opacity.to((o) => 1 - o),
+          transform: cardSpring.transform,
+        }}
+      >
+        <div className={styles.top}>
+          {showImage(item) && (
+            <div
+              className={styles.image}
               style={{
-                opacity: cardSpring.opacity.to((o) => 1 - o),
-                transform: cardSpring.transform,
+                backgroundImage: item.imageSrc
+                  ? `url("${createImageUrl(item.imageSrc)}")`
+                  : undefined,
               }}
-            >
-              <div className={styles.top}>
-                {
-                  <div
-                    className={styles.image}
-                    style={{
-                      backgroundImage: item.imageSrc
-                        ? `url("${createImageUrl(item.imageSrc)}")`
-                        : undefined,
-                    }}
-                  ></div>
-                }
-                <div className={styles.label}>{capitalize(item.label)}</div>
-              </div>
-              <div
-                className={styles.type}
-                dangerouslySetInnerHTML={{ __html: cleanDescription }}
-              />
-              <animated.div
-                className={classNames(styles.bottom, {
-                  [styles.correct]: 'played' in item && item.played.correct,
-                  [styles.incorrect]: 'played' in item && !item.played.correct,
-                })}
-              >
-                {<span>{bottomStr}</span>}
-              </animated.div>
-            </animated.div>
-            {/*<animated.div
+            ></div>
+          )}
+          <div className={styles.label}>{capitalize(item.label)}</div>
+        </div>
+        <div
+          className={styles.type}
+          dangerouslySetInnerHTML={{ __html: cleanDescription }}
+        />
+        <animated.div
+          className={classNames(styles.bottom, {
+            [styles.correct]: 'played' in item && item.played.correct,
+            [styles.incorrect]: 'played' in item && !item.played.correct,
+          })}
+        >
+          {<span>{bottomStr}</span>}
+        </animated.div>
+      </animated.div>
+      {/*<animated.div
               className={styles.back}
               style={{
                 opacity: cardSpring.opacity,
@@ -125,9 +142,10 @@ export default function ItemCard(props: Props) {
                 Wikipedia
               </a>
             </animated.div>*/}
-          </div>
-        );
-      }}
-    </Draggable>
+    </div>
   );
+};
+
+function showImage(item: Item) {
+  return !['general'].includes(item.category);
 }

@@ -1,10 +1,16 @@
-import React from "react";
-import Head from "next/head";
-import dynamic from "next/dynamic";
+import React from 'react';
+import Head from 'next/head';
+import dynamic from 'next/dynamic';
+import { useRouter } from 'next/router';
 
-const Game = dynamic(() => import("../components/game"), { ssr: false });
+const Game = dynamic(() => import('../components/game'), { ssr: false });
+const Editor = dynamic(() => import('../components/editor'), {
+  ssr: false,
+});
 
 export default function Index() {
+  const router = useRouter();
+
   return (
     <>
       <Head>
@@ -16,7 +22,7 @@ export default function Index() {
         />
       </Head>
 
-      <Game />
+      {router.query.editor !== undefined ? <Editor /> : <Game />}
     </>
   );
 }
