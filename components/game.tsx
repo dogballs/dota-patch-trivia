@@ -7,20 +7,29 @@ import Board from './board';
 import Loading from './loading';
 import Instructions from './instructions';
 import whitelistJSON from '../lib/whitelist.json';
+import blacklistJSON from '../lib/blacklist.json';
 
 export default function Game() {
   const [state, setState] = useState<GameState | null>(null);
   const [loaded, setLoaded] = useState(false);
   const [started, setStarted] = useState(false);
   const [items, setItems] = useState<Item[] | null>(null);
+  const [isCurated, setIsCurated] = useState(true);
 
   React.useEffect(() => {
     const fetchGameData = async () => {
       const res = await axios.get<Item[]>('combined.json');
       const responseItems = res.data;
-      const filteredItems = responseItems.filter((item) => {
-        return (whitelistJSON as string[]).includes(item.id);
-      });
+      const filteredItems = responseItems
+        .filter((item) => {
+          if (isCurated) {
+            return (whitelistJSON as string[]).includes(item.id);
+          }
+          return item;
+        })
+        .filter((item) => {
+          return !(blacklistJSON as string[]).includes(item.id);
+        });
       setItems(filteredItems);
     };
 

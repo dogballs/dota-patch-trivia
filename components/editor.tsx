@@ -4,6 +4,7 @@ import axios from 'axios';
 import { PlainItemCard } from './item-card';
 import { Item } from '../types/item';
 import whitelistJSON from '../lib/whitelist.json';
+import blacklistJSON from '../lib/blacklist.json';
 
 export default function Editor() {
   const [allItems, setAllItems] = React.useState<Item[]>([]);
@@ -12,6 +13,7 @@ export default function Editor() {
     string | undefined
   >(undefined);
   const [whitelist, setWhitelist] = React.useState<string[]>(whitelistJSON);
+  const [blacklist, setBlacklist] = React.useState<string[]>(blacklistJSON);
 
   React.useEffect(() => {
     const fetchData = async () => {
@@ -48,6 +50,18 @@ export default function Editor() {
     [whitelist],
   );
 
+  const toggleBlacklist = React.useCallback(
+    (itemId: string) => {
+      const index = blacklist.indexOf(itemId);
+      if (index === -1) {
+        setBlacklist([...blacklist, itemId]);
+      } else {
+        setBlacklist(blacklist.filter((id) => id !== itemId));
+      }
+    },
+    [blacklist],
+  );
+
   const counts = React.useMemo(() => {
     return allVersions.map((version) => {
       return whitelist.reduce((acc, id) => {
@@ -75,6 +89,13 @@ export default function Editor() {
       >
         Log whitelist
       </button>
+      <button
+        onClick={() => {
+          console.log(blacklist.slice().sort());
+        }}
+      >
+        Log blacklist
+      </button>
       <VersionSelector
         versions={allVersions}
         onSelect={setSelectedVersion}
@@ -84,9 +105,13 @@ export default function Editor() {
       <div>
         {versionItems.map((item, index) => (
           <RemoveOverlay
-            active={whitelist.includes(item.id)}
-            onClick={() => {
+            isWhitelisted={whitelist.includes(item.id)}
+            isBlacklisted={blacklist.includes(item.id)}
+            onLeftClick={() => {
               toggleWhitelist(item.id);
+            }}
+            onRightClick={() => {
+              toggleBlacklist(item.id);
             }}
             key={item.id}
           >
@@ -100,12 +125,16 @@ export default function Editor() {
 
 function RemoveOverlay({
   children,
-  active,
-  onClick,
+  isWhitelisted,
+  isBlacklisted,
+  onLeftClick,
+  onRightClick,
 }: {
   children: React.ReactNode;
-  active: boolean;
-  onClick: () => void;
+  isWhitelisted: boolean;
+  isBlacklisted: boolean;
+  onLeftClick: () => void;
+  onRightClick: () => void;
 }) {
   return (
     <span
@@ -114,15 +143,19 @@ function RemoveOverlay({
         position: 'relative',
       }}
       onClick={() => {
-        onClick();
+        onLeftClick();
+      }}
+      onContextMenu={(ev) => {
+        ev.preventDefault();
+        onRightClick();
       }}
     >
       {children}
-      {active && (
+      {(isWhitelisted || isBlacklisted) && (
         <div
           style={{
             position: 'absolute',
-            background: 'green',
+            background: isWhitelisted ? 'green' : 'red',
             opacity: 0.5,
             top: 20,
             bottom: 20,
@@ -134,7 +167,7 @@ function RemoveOverlay({
             justifyContent: 'center',
           }}
         >
-          ✓
+          {isWhitelisted ? '✓' : '❌'}
         </div>
       )}
     </span>
