@@ -62,7 +62,7 @@ export const PlainItemCard = ({ item, flippedId }: PlainProps) => {
   }
 
   const cleanDescription = item.descriptionHtml
-    .replaceAll('<a>', '')
+    .replaceAll('<a>', ' ')
     .replaceAll('</a>', ' ');
 
   return (
