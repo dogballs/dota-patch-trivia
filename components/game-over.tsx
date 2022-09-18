@@ -1,8 +1,8 @@
-import React from "react";
-import { animated, useSpring } from "react-spring";
-import styles from "../styles/game-over.module.scss";
-import Button from "./button";
-import Score from "./score";
+import React from 'react';
+import { animated, useSpring } from 'react-spring';
+import styles from '../styles/game-over.module.scss';
+import Button from './button';
+import Score from './score';
 
 interface Props {
   highscore: number;
@@ -10,17 +10,17 @@ interface Props {
   score: number;
 }
 
-const defaultShareText = "Share";
+const defaultShareText = 'Share';
 
 function getMedal(score: number): string {
   if (score >= 20) {
-    return "🥇 ";
+    return '🥇 ';
   } else if (score >= 10) {
-    return "🥈 ";
+    return '🥈 ';
   } else if (score >= 1) {
-    return "🥉 ";
+    return '🥉 ';
   }
-  return "";
+  return '';
 }
 
 export default function GameOver(props: Props) {
@@ -37,10 +37,10 @@ export default function GameOver(props: Props) {
   const share = React.useCallback(async () => {
     await navigator?.clipboard?.writeText(
       `🏛️ wikitrivia.tomjwatson.com\n\n${getMedal(
-        score
-      )}Streak: ${score}\n${getMedal(highscore)}Best Streak: ${highscore}`
+        score,
+      )}Streak: ${score}\n${getMedal(highscore)}Best Streak: ${highscore}`,
     );
-    setShareText("Copied");
+    setShareText('Copied');
     setTimeout(() => {
       setShareText(defaultShareText);
     }, 2000);
@@ -58,7 +58,7 @@ export default function GameOver(props: Props) {
       </div>
       <div className={styles.buttons}>
         <Button onClick={resetGame} text="Play again" />
-        <Button onClick={share} text={shareText} minimal />
+        {/*<Button onClick={share} text={shareText} minimal />*/}
       </div>
     </animated.div>
   );
